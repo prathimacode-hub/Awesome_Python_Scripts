@@ -34,7 +34,7 @@ Do follow the right [template](TEMPLATE.md) as mentioned to get your pull reques
 [![Stargazers over time](https://starchart.cc/prathimacode-hub/Awesome_Python_Scripts.svg)](https://starchart.cc/prathimacode-hub/Awesome_Python_Scriptss)
 
 ## ❤️ Project Admin
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=180px /></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=140px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 **Prathima Kadari**
@@ -43,5 +43,6 @@ Do follow the right [template](TEMPLATE.md) as mentioned to get your pull reques
 
 ## License
 This project follows MIT [License](LICENSE)
+
 
 Do ✨ the repo if you found it useful! 😇😃😇
