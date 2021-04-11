@@ -44,5 +44,6 @@ Do follow the right [template](TEMPLATE.md) as mentioned to get your pull reques
 ## License
 This project follows MIT [License](LICENSE)
 
+Happy Contribution!
 
 Do ✨ the repo if you found it useful! 😇😃😇
