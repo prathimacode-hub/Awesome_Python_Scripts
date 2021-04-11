@@ -3,6 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/prathimacode-hub/Awesome_Python_Scripts) ![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/Awesome_Python_Scripts?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/prathimacode-hub/Awesome_Python_Scripts?style=social) </p> 
 
 ## 📌 Repository
