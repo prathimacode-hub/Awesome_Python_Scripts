@@ -39,6 +39,7 @@ Following are the steps to guide you:
 
 ## What should I keep in mind while contributing?
 - When you are contributing, make sure that the work is entirely your own and not from some other source.
+- All the scripts must follow [PEP 8 Style Guidelines](https://www.python.org/dev/peps/pep-0008/).
 
 ## Resources
 1. Markdown : Markdown is a lightweight markup language like HTML, with plain text formatting syntax. 
@@ -57,5 +58,5 @@ You can refer to the following articles on basics of Git and Github and also con
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 - [Learn GitHub from Scratch](https://lab.github.com/githubtraining/introduction-to-github)
 
-## Tip from us😇
-It always takes time to understand and learn. So, do not worry at all. We know **you have got this**!💪
+## Tip from me😇
+It always takes time to understand and learn. So, do not worry at all. I know **you have got this**!💪
