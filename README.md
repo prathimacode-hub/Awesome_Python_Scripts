@@ -1,4 +1,6 @@
 # Awesome_Python_Scripts
+
+![Alt text of image](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhoto.png)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -39,7 +41,7 @@ Do follow the right [template](TEMPLATE.md) as mentioned to get your pull reques
 
 **Prathima Kadari**
 
-<a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="30px"></a>
+<a href="https://twitter.com/prathimak88"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
 
 ## License
 This project follows MIT [License](LICENSE)
