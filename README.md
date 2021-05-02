@@ -65,7 +65,12 @@ This project follows MIT [License](LICENSE)
 
 <h2>⭐Give this Project a Star</h2>
 
+[![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimak88/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
+
 If you liked working on this project, please share this project as much as you can and ⭐ this project to help as many people in open source as you can. 
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
+
+<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
+</td>
