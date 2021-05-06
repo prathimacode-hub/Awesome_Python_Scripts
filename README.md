@@ -45,7 +45,7 @@ Do follow the right [template](TEMPLATE.md) as mentioned to get your pull reques
 
 <h2 align=center> 🌟Stargazers Over Time🌟</h2>
 
-[![Stargazers Over Time](https://starchart.cc/prathimacode-hub/Awesome_Python_Scripts.svg)](https://starchart.cc/prathimacode-hub/Awesome_Python_Scriptss)
+[![Stargazers Over Time](https://starchart.cc/prathimacode-hub/Awesome_Python_Scripts.svg)](https://starchart.cc/prathimacode-hub/Awesome_Python_Scripts)
 
 
 <h2> ❤️ Project Admin</h2>
