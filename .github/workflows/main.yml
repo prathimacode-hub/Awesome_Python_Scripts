@@ -1,11 +1,14 @@
 # first time issues
+
 newIssueWelcomeComment: |
   Thanks for opening your first issue! 
 
 # PRs from first time contributors in your repository
+
 newPRWelcomeComment: |
  Thanks for opening this pull request! 🤗
  
 # pull requests merged by a first time user
+
 firstPRMergeComment: |
  Congrats on merging your first pull request! 🙌🎉⚡️
