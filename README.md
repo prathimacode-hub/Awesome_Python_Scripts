@@ -42,12 +42,6 @@ Do follow the right [template](TEMPLATE.md) as mentioned to get your pull reques
 
 > print("Start contributing for Awesome_Python_Scripts")
 
-
-<h2 align=center> 🌟Stargazers Over Time🌟</h2>
-
-[![Stargazers Over Time](https://starchart.cc/prathimacode-hub/Awesome_Python_Scripts.svg)](https://starchart.cc/prathimacode-hub/Awesome_Python_Scripts)
-
-
 <h2> ❤️ Project Admin</h2>
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=150px height=150px /></a>
