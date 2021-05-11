@@ -42,6 +42,25 @@ Do follow the right [template](TEMPLATE.md) as mentioned to get your pull reques
 
 > print("Start contributing for Awesome_Python_Scripts")
 
+
+<h2> ✨ Contributors </h2>
+
+Thanks goes to these amazing people for their contributions 🎉🎉🎉
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+<tr>
+<td align="center"><a href="https://github.com/sonaliBedade"><img src="https://avatars.githubusercontent.com/u/71630760?v=4" width="100px;" alt=""/><br /><sub><b>Sonali Bedade</b></sub></a><br /> </td>
+</tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
 <h2> ❤️ Project Admin</h2>
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=150px height=150px /></a>
