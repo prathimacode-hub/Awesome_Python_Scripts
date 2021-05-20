@@ -1,4 +1,5 @@
 # maplauncher
+this is good people who are startting out with web scraping
 python script utilising pyperclip,sys and webbrowser module script.
 
 This code can read commandline arguments from sys.argv and read clipboard contents
