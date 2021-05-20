@@ -53,6 +53,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 <table>
 <tr>
 <td align="center"><a href="https://github.com/sonaliBedade"><img src="https://avatars.githubusercontent.com/u/71630760?v=4" width="100px;" alt=""/><br /><sub><b>Sonali Bedade</b></sub></a><br /> </td>
+<td align="center"><a href="https://github.com/Umesh-01"><img src="https://avatars.githubusercontent.com/u/83420185?v=4" width="100px;" alt=""/><br /><sub><b>Umesh Singh</b></sub></a><br /> </td>
 </tr>
 </table>
 
