@@ -10,5 +10,5 @@ automatically read it from your clipboard<br>
     
 <h5>extras</h5>
 if you save the bat file script.bat provided (remember to change the location of the python script to where you have savedit)<br>
-to your system in a folder and add that folder to the system variables you would only have to type <br>
+to your system in a folder and add the location of that folder to the system variables you would only have to type <br>
 "launch_map your desired location" to launch the map on browser.
