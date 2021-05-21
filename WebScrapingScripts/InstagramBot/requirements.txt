@@ -1,0 +1,5 @@
+python https://www.python.org/ 
+selenium  https://pypi.org/project/selenium/ 
+geckodriver https://github.com/mozilla/geckodriver/releases 
+
+------ links ------
