@@ -28,4 +28,3 @@
 
 ### Working Output
 ![news2](https://user-images.githubusercontent.com/83420185/119016229-55870d80-b9b7-11eb-9ef7-40cc25d8f90d.png)
-
