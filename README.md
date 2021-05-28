@@ -14,9 +14,25 @@
 A Curated collection of Awesome **Python** Scripts which will make you go wow. This repository will help you in getting those green squares. Hop in and enjoy the journey of open source. 🚀
 
 
-<h2>💛Prerequisites</h2>
+<h2>🌱Prerequisites</h2>
 
 Python IDE : Install it by using this link [python.org](https://www.python.org/downloads/)
+
+
+<h2>🤝Python Scripts Added in this Project</h2>
+
+<h3>BasicPythonScripts</h3>
+
+- [JumpingNumber](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/JumpingNumber)
+
+<h3>WebScrapingScripts</h3>
+
+- [InstagramBot](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/InstagramBot)
+- [NewsScraping](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/NewsScraping)
+
+<h3>AutomationScripts</h3>
+
+- [LaunchMaps](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/LaunchMaps)
 
 
 <h2>💥How to Contribute?</h2>
