@@ -25,14 +25,18 @@ Python IDE : Install it by using this link [python.org](https://www.python.org/d
 
 - [JumpingNumber](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/JumpingNumber)
 
-<h3>WebScrapingScripts</h3>
+<h3>APIScripts</h3>
 
-- [InstagramBot](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/InstagramBot)
-- [NewsScraping](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/NewsScraping)
+- [OpenWeatherMap API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/OpenWeatherMap%20API)
 
 <h3>AutomationScripts</h3>
 
 - [LaunchMaps](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/LaunchMaps)
+
+<h3>WebScrapingScripts</h3>
+
+- [InstagramBot](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/InstagramBot)
+- [NewsScraping](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/NewsScraping)
 
 
 <h2>💥How to Contribute?</h2>
