@@ -39,7 +39,7 @@ Python IDE : Install it by using this link [python.org](https://www.python.org/d
 
 All contributions are welcomed.
 
-Do check it out and follow these [guidelines](CONTRIBUTING_GUIDELINES.md) to make meaningful contributions
+Kindly check it out and follow these [guidelines](CONTRIBUTING_GUIDELINES.md) to make meaningful contributions
 
 Do follow the right [template](TEMPLATE.md) as mentioned to get your pull request accepted
 
