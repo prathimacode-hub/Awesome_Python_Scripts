@@ -1,1 +1,1 @@
-GUI 
+GUI Scripts are a collection of scripts/projects which are designed for human interaction. GUI stands for “Graphical User Interface”. These scripts allows anyone to run it without having to use the command line.
