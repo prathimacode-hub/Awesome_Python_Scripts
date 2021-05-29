@@ -1,5 +1,6 @@
 #!/usr/bin/python env
 
+# for further information about the api visit:
 # https://api.le-systeme-solaire.net/en/
 
 import requests

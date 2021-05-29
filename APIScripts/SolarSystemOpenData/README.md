@@ -7,13 +7,13 @@ Visit [Solar System Open Data Website](https://api.le-systeme-solaire.net/en/) f
 ## Usage
 using **python3**
 ```
-python3 solar_system.py
+python3 Solar_System.py
 ```
 this yeilds the output for planet `Venus`
 ![alt text](img/info.png)
 To format this response to a **JSON** format
 ```
-python3 solar_system.py -f
+python3 Solar_System.py -f
 ```
 output of this commad is for planet `Mercury`
 ![alt text](img/json.png)
