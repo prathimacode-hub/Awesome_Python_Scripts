@@ -14,7 +14,7 @@
 A Curated collection of Awesome **Python** Scripts which will make you go wow. This repository will help you in getting those green squares. Hop in and enjoy the journey of open source. 🚀
 
 
-<h2>🌱Prerequisites</h2>
+<h2>🌱Pre-requisites</h2>
 
 Python IDE : Install it by using this link [python.org](https://www.python.org/downloads/)
 
@@ -43,9 +43,7 @@ Python IDE : Install it by using this link [python.org](https://www.python.org/d
 
 All contributions are welcomed.
 
-Kindly check it out and follow these [guidelines](CONTRIBUTING_GUIDELINES.md) to make meaningful contributions
-
-Do follow the right [template](TEMPLATE.md) as mentioned to get your pull request accepted
+Kindly check it out and follow these [guidelines](CONTRIBUTING_GUIDELINES.md) to make meaningful contributions. Follow the right template included for your PR to get accepted.
 
 
 <h2>👨‍💻 Workflow:</h2>
