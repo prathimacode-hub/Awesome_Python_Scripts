@@ -25,6 +25,15 @@ Python IDE : Install it by using this link [python.org](https://www.python.org/d
 
 - [JumpingNumber](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/JumpingNumber)
 
+<h3>GUIScripts</h3>
+
+- [Shivji Sketch](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts/Shivji%20Sketch%20Using%20Turtle)
+
+<h3>WebScrapingScripts</h3>
+
+- [InstagramBot](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/InstagramBot)
+- [NewsScraping](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/NewsScraping)
+
 <h3>APIScripts</h3>
 
 - [OpenWeatherMap API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/OpenWeatherMap%20API)
@@ -32,11 +41,6 @@ Python IDE : Install it by using this link [python.org](https://www.python.org/d
 <h3>AutomationScripts</h3>
 
 - [LaunchMaps](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/LaunchMaps)
-
-<h3>WebScrapingScripts</h3>
-
-- [InstagramBot](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/InstagramBot)
-- [NewsScraping](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/NewsScraping)
 
 
 <h2>💥How to Contribute?</h2>
@@ -73,6 +77,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 <td align="center"><a href="https://github.com/sonaliBedade"><img src="https://avatars.githubusercontent.com/u/71630760?v=4" width="100px;" alt=""/><br /><sub><b>Sonali Bedade</b></sub></a><br /> </td>
 <td align="center"><a href="https://github.com/Umesh-01"><img src="https://avatars.githubusercontent.com/u/83420185?v=4" width="100px;" alt=""/><br /><sub><b>Umesh Singh</b></sub></a><br /> </td>
 <td align="center"><a href="https://github.com/KevinKurian7"><img src="https://avatars.githubusercontent.com/u/54651915?v=4" width="100px;" alt=""/><br /><sub><b>Kevin Kurian T</b></sub></a><br /> </td>
+<td align="center"><a href="https://github.com/Kushal997-das"><img src="https://avatars.githubusercontent.com/u/61356005?v=4" width="100px;" alt=""/><br /><sub><b>Kushal Das</b></sub></a><br /> </td>
 </tr>
 </table>
 
