@@ -1,8 +1,24 @@
-## Contributing Guidelines
+## Contributing Guidelines🙌
 
 This documentation contains a set of guidelines to help you during the contribution process. 
 I'm happy to welcome all the contributions from anyone willing to add new scripts to this repository. Thank you for helping out and remember,
 **no contribution is too small.**
+
+
+## Template✔
+
+Before starting your contribution, kindly go through this template that needs to be followed for merging your PR successfully.
+
+- Create a folder with a meaningful repository name (If it's a hello world program, repository should look something like "HelloWorld" and file name as Hello_World.py)
+
+- Repository should include a File_Name.py, README.md and other related files (if any)
+
+- If there are any requirements or pre-requisites needed, do state them in requirements.txt file
+
+- The README.md file should be concise and clear about what the project is about and what it does
+
+- It should be documented briefly enough to let readers understand. Screenshot inclusion is must
+
 
 ## Steps to Contribute👩‍💻👨‍💻
 
@@ -31,24 +47,27 @@ Following are the steps to guide you:
     ```
 * Step 7: Create a PR on Github. (Don't just hit the create a pull request button, you must write a PR message to clarify why and what are you contributing)
 
-##Note:
+
+##Note:🔨
 
 > - Do not edit/delete someone else's code in this repository. You can only insert new files/folder in this repository.
 
 > - Give a meaningful name to whatever file or folder you are adding, for e.g., if you have written a Python code on hello world, then hello_world.py is one example of valid name.
 
-## What should I keep in mind while contributing?
+
+## What should I keep in mind while contributing?💡
 - When you are contributing, make sure that the work is entirely your own and not from some other source.
 - All the scripts must follow [PEP 8 Style Guidelines](https://www.python.org/dev/peps/pep-0008/).
 
-## Resources
-1. Markdown : Markdown is a lightweight markup language like HTML, with plain text formatting syntax. 
 
+## Resources📖
+1. Markdown : Markdown is a lightweight markup language like HTML, with plain text formatting syntax. 
   * [Markdown Cheat-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 2. Git : Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
   * [Videos to get started](https://www.youtube.com/watch?v=xAAmje1H9YM&list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW)
   * [Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
 
 ## Need more help?🤔
 You can refer to the following articles on basics of Git and Github and also contact me, in case you are stuck:
@@ -57,6 +76,7 @@ You can refer to the following articles on basics of Git and Github and also con
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 - [Learn GitHub from Scratch](https://lab.github.com/githubtraining/introduction-to-github)
+
 
 ## Tip from me😇
 It always takes time to understand and learn. So, do not worry at all. I know **you have got this**!💪
