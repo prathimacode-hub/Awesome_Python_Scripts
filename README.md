@@ -27,7 +27,7 @@ Python IDE : Install it by using this link [python.org](https://www.python.org/d
 
 <h3>GUIScripts</h3>
 
-- [Shivji Sketch](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts/Shivji%20Sketch%20Using%20Turtle)
+- [ShivjiSketch](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts/Shivji%20Sketch%20Using%20Turtle)
 
 <h3>WebScrapingScripts</h3>
 
