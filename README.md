@@ -79,7 +79,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 <td align="center"><a href="https://github.com/Umesh-01"><img src="https://avatars.githubusercontent.com/u/83420185?v=4" width="100px;" alt=""/><br /><sub><b>Umesh Singh</b></sub></a><br /> </td>
 <td align="center"><a href="https://github.com/KevinKurian7"><img src="https://avatars.githubusercontent.com/u/54651915?v=4" width="100px;" alt=""/><br /><sub><b>Kevin Kurian T</b></sub></a><br /> </td>
 <td align="center"><a href="https://github.com/Kushal997-das"><img src="https://avatars.githubusercontent.com/u/61356005?v=4" width="100px;" alt=""/><br /><sub><b>Kushal Das</b></sub></a><br /> </td>
-<td align="center"><a href="https://github.com/mkhmirza"><img src="https://avatars.githubusercontent.com/u/46874379?v=4" width="100px;" alt=""/><br /><sub><b>Mohommad Kumail Habib Mirza</b></sub></a><br /> </td>
+<td align="center"><a href="https://github.com/mkhmirza"><img src="https://avatars.githubusercontent.com/u/46874379?v=4" width="100px;" alt=""/><br /><sub><b>Mohommad Kumail Mirza</b></sub></a><br /> </td>
 </tr>
 </table>
 
