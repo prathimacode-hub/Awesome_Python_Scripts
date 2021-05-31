@@ -1,0 +1,4 @@
+Requirements:
+
+- requests library
+- datetime module
