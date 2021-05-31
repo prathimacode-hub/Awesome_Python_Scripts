@@ -44,7 +44,7 @@ Python IDE : Install it by using this link [python.org](https://www.python.org/d
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
 * You can only work on issues that have been assigned to you.
-* If you want to contribute the algorithm, it's preferrable that you create an issue before making a PR and link your PR to that issue.
+* If you want to contribute the script, it's preferrable that you create an issue before making a PR and link your PR to that issue.
 * If you have modified/added code work, make sure the code compiles before submitting.
 * Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
 * Do not update the **[README.md](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/README.md).**
@@ -63,6 +63,11 @@ Python IDE : Install it by using this link [python.org](https://www.python.org/d
 - Then in github, in your cloned repository find the option to make a pull request 
 
 > print("Start contributing for Awesome_Python_Scripts")
+
+
+<h2>👍 OpenSource Programs</h2>
+
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
 
 
 <h2> ✨ Hall Of Fame </h2>
