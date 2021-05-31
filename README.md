@@ -1,4 +1,4 @@
-<h2>Awesome_Python_Scripts</h2>
+# Awesome_Python_Scripts
 
 ![Alt text of image](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhoto.png)
 
@@ -15,6 +15,7 @@
 ![](https://badgen.net/github/closed-prs/prathimacode-hub/Awesome_Python_Scripts)
 
 </center>
+
 
 <h2>📌Repository</h2>
 
@@ -39,11 +40,14 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 Python IDE : Install it by using this link [python.org](https://www.python.org/downloads/)
 
 
-<h2>💥How to Contribute?</h2>
+<h2>⚙️ Things to Note</h2>
 
-All contributions are welcomed.
-
-Kindly check it out and follow these [guidelines](CONTRIBUTING_GUIDELINES.md) to make meaningful contributions. Follow the right template included for your PR to get accepted.
+* Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
+* You can only work on issues that have been assigned to you.
+* If you want to contribute the algorithm, it's preferrable that you create an issue before making a PR and link your PR to that issue.
+* If you have modified/added code work, make sure the code compiles before submitting.
+* Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
+* Do not update the **[README.md](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/README.md).**
 
 
 <h2>👨‍💻 Workflow:</h2>
@@ -81,6 +85,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
 <h2> 😎Stargazers over time</h2>
 
