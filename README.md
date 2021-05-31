@@ -4,8 +4,17 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![GitHub contributors](https://img.shields.io/github/contributors-anon/prathimacode-hub/Awesome_Python_Scripts) ![Maintenance](https://img.shields.io/maintenance/yes/2021) </p> 
 
-![GitHub forks](https://img.shields.io/github/forks/prathimacode-hub/Awesome_Python_Scripts?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/prathimacode-hub/Awesome_Python_Scripts?style=social) 
+<center>
 
+![](https://badgen.net/github/stars/prathimacode-hub/Awesome_Python_Scripts)
+![](https://badgen.net/github/forks/prathimacode-hub/Awesome_Python_Scripts)
+![](https://badgen.net/github/open-issues/prathimacode-hub/Awesome_Python_Scripts)
+![](https://badgen.net/github/closed-issues/prathimacode-hub/Awesome_Python_Scripts)
+![](https://badgen.net/github/prs/prathimacode-hub/Awesome_Python_Scripts)
+![](https://badgen.net/github/open-prs/prathimacode-hub/Awesome_Python_Scripts)
+![](https://badgen.net/github/closed-prs/prathimacode-hub/Awesome_Python_Scripts)
+
+</center>
 
 <h2>📌Repository</h2>
 
