@@ -87,11 +87,6 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-<h2> 😎Stargazers over time</h2>
-
-[![Stargazers over time](https://starchart.cc/prathimacode-hub/Awesome_Python_Scripts.svg)](https://starchart.cc/prathimacode-hub/Awesome_Python_Scripts)
-
-
 <h2>📜 Code Of Conduct</h2>
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/CODE_OF_CONDUCT.md).
