@@ -6,4 +6,4 @@ The Earthquakes.py program displays information about earthquakes registered in 
 
 Output is printed to the console, as shown in this example:
 
-![console output](ScreenshotEarthquakes.png “Console output“)
+![screenshot](ScreenshotEarthquakes.png "Title")
