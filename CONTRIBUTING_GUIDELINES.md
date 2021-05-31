@@ -1,23 +1,9 @@
 ## Contributing Guidelines🙌
 
 This documentation contains a set of guidelines to help you during the contribution process. 
+
 I'm happy to welcome all the contributions from anyone willing to add new scripts to this repository. Thank you for helping out and remember,
 **no contribution is too small.**
-
-
-## Template✔
-
-Before starting your contribution, kindly go through this template that needs to be followed for merging your PR successfully.
-
-- Create a folder with a meaningful repository name (If it's a hello world program, repository should look something like "HelloWorld" and file name as Hello_World.py)
-
-- Repository should include a File_Name.py, README.md and other related files (if any)
-
-- If there are any requirements or pre-requisites needed, do state them in requirements.txt file
-
-- The README.md file should be concise and clear about what the project is about and what it does
-
-- It should be documented briefly enough to let readers understand. Screenshot inclusion is must
 
 
 ## Steps to Contribute👩‍💻👨‍💻
@@ -52,12 +38,33 @@ Following are the steps to guide you:
 
 > - Do not edit/delete someone else's code in this repository. You can only insert new files/folder in this repository.
 
-> - Give a meaningful name to whatever file or folder you are adding, for e.g., if you have written a Python code on hello world, then hello_world.py is one example of valid name.
+> - Give a meaningful name to whatever file or folder you are adding, for e.g., if you have written a Python code on Hello World, then Hello_World.py is one example of valid name.
 
 
 ## What should I keep in mind while contributing?💡
-- When you are contributing, make sure that the work is entirely your own and not from some other source.
-- All the scripts must follow [PEP 8 Style Guidelines](https://www.python.org/dev/peps/pep-0008/).
+
+### Coding Style
+
+We want your work to be readable by others; therefore, we encourage you to note the following:
+
+- Follow PEP8 guidelines. Read more about it <a href="https://pep8.org/"> here. </a>
+- Please write in Python 3.7+.  __print()__ is a function in Python 3 so __print "Hello"__ will _not_ work but __print("Hello")__ will.
+- Please focus hard on naming of functions, classes, and variables.  Help your reader by using __descriptive names__ that can help you to remove redundant comments.
+  - Please follow the [Python Naming Conventions](https://pep8.org/#prescriptive-naming-conventions) so variable_names and function_names should be lower_case, CONSTANTS     in UPPERCASE, ClassNames should be CamelCase, etc.
+  - Expand acronyms because __gcf()__ is hard to understand but __greatest_common_factor()__ is not. 
+
+
+### Other points to remember while submitting your work:
+
+- Create a folder with a meaningful repository name (If Digital Clock is submitted for example, the Folder Name should be "DigitalClock" and the File Name as "digital_clock.py")
+- File extension for code should be `.py`. 
+- Strictly use snake_case (underscore_separated) in your file_name, as it will be easy to parse in future using scripts.
+- Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure you have created for your project. If you want to,  please contact before doing so.
+- The README.md file should be concise and clear about what the project is about and what it does.
+- It should be documented briefly enough to let readers understand. Screenshot inclusion is must
+- If you have modified/added code work, make sure the code compiles before submitting.
+- If you have modified/added documentation work, ensure your language is concise and contains no grammar errors.
+- Do not update the [README.md](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/README.md) and [CONTRIBUTING_GUIDELINES.md](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/CONTRIBUTING_GUIDELINES.md).
 
 
 ## Resources📖
@@ -80,3 +87,5 @@ You can refer to the following articles on basics of Git and Github and also con
 
 ## Tip from me😇
 It always takes time to understand and learn. So, do not worry at all. I know **you have got this**!💪
+
+🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
