@@ -1,0 +1,5 @@
+Requirements:
+
+- requests library
+- tkinter module
+- API key from www.dictionaryapi.com
