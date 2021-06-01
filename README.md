@@ -87,6 +87,9 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
     <td align="center"><a href="https://github.com/Kushal997-das"><img src="https://avatars.githubusercontent.com/u/61356005?v=4" width="100px;" alt=""/><br /><sub><b>Kushal Das</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Kushal997-das" title="Code">💻</a> <a href="#ideas-Kushal997-das" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Kushal997-das" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mkhmirza"><img src="https://avatars.githubusercontent.com/u/46874379?v=4" width="100px;" alt=""/><br /><sub><b>Mohommad Mirza</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=mkhmirza" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=mkhmirza" title="Documentation">📖</a></td>
 </tr>
+  <tr>
+     <td align="center"><a href="https://github.com/RandallWert"><img src="https://avatars.githubusercontent.com/u/20331611?v=4" width="100px;" alt=""/><br /><sub><b>Randall Wert</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=RandallWert" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=RandallWert" title="Documentation">📖</a></td>
+</tr>
 </table>
 
 <!-- markdownlint-enable -->
