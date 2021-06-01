@@ -86,6 +86,6 @@ You can refer to the following articles on basics of Git and Github and also con
 
 
 ## Tip from me😇
-It always takes time to understand and learn. So, do not worry at all. I know **you have got this**!💪
+It always takes time to understand and learn. So, do not worry at all. You can do this**!💪
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
