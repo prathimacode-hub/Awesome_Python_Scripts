@@ -8,7 +8,7 @@ def look_up(look_me_up):
     if look_me_up == '':
         return 'Entry is blank!'
     else:
-        my_API_key = '7c21d5d1-a199-4a82-a9f3-1c7a16639ae9'
+        my_API_key = 'insert your API key here'
         endpoint = 'https://www.dictionaryapi.com/api/v3/references/thesaurus/json/' + look_me_up + '?key=' + my_API_key
         response = requests.get(endpoint)
 
