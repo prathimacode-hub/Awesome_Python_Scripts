@@ -7,4 +7,10 @@
 - Get your **API** key from [**News API**](https://newsapi.org/).
 
 ### Source: 
-<p align="center"></p>
+<p align="center"><img src="https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/APIScripts/New%20API/News_API.jpg"></p>
+
+### Output 1:
+<p align="center"><img src="https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/APIScripts/New%20API/Output_1.jpg"></p>
+
+### Output 2:
+<p align="center"><img src="https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/APIScripts/New%20API/Output_2.jpg"></p>
