@@ -35,7 +35,7 @@ if __name__ == "__main__":
                  for country in input_countries]  # If code is not found means Unknown code
         # Choose Category of the news.
         option = input(
-            "Which category are you interested in?\n1.Business\n2.Entertainmen\n3.General\n4.Health\n5.Science\n6.Technology\n\nEnter here: ")
+            "Which category are you interested in?\n1.Business\n2.Entertainment\n3.General\n4.Health\n5.Science\n6.Technology\n\nEnter here: ")
         top_headlines = newsapi.get_top_headlines(
             category=f'{option.lower()}', language='en', country=f'{codes[0].lower()}')  # getting top headlines from all the news channels
 
