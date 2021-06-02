@@ -10,3 +10,5 @@
 Install **PyWebIO** module
 <pre>pip install pywebio</pre>
 
+### Let's see the sample output: 
+<p align="center"><img src="https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/GUIScripts/Age%20Calculator%20WebApp/Age.gif"></p>
