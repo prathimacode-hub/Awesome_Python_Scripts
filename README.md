@@ -45,7 +45,7 @@ Python IDE : Install it by using this link [python.org](https://www.python.org/d
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
 * You can only work on issues that have been assigned to you.
-* If you want to contribute the script, it's preferable that you create an issue before making a PR and link your PR to that issue.
+* If you want to contribute the script, it's preferable that you create a new issue before making a PR and link your PR to that issue.
 * If you have modified/added code, make sure the code compiles before submitting.
 * Strictly use snake_case (underscore_separated) in your file_name and push it in the correct folder.
 * Do not update the **[README.md](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/README.md).**
