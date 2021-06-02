@@ -21,7 +21,7 @@ def Check(input_countries):
 if __name__ == "__main__":
     while 1:
         # Get your API key from New API
-        newsapi = NewsApiClient(api_key='Your API Key')
+        newsapi = NewsApiClient(api_key='0864a52124954666bb3e1fd0f7fbb1e6')
 
         input_country = input("Country: ")  # Taking country name input
         input_countries = [f'{input_country.strip()}']
@@ -53,7 +53,7 @@ if __name__ == "__main__":
         else:
             print(f"No articles found for {input_country}, Try for others...")
         option = input("Do you want to search again[Yes/No]?")
-        if option == 'Yes':
+        if option.lower() == 'yes':
             continue
         else:
             exit()
