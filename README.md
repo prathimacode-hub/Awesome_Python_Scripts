@@ -20,18 +20,18 @@
 
 <h2>📌Repository</h2>
 
-A Curated collection of Awesome **Python** Scripts which will make you go wow. This repository will help you in getting those green squares. Hop in and enjoy the journey of open source. 🚀
+A Curated Collection of Awesome **Python** Scripts that will make you go wow. This repository will help you in getting those green squares. Hop in and enjoy the journey of open source. 🚀
 
-The main aim is to provide an efficient and beginner-friendly projects that would help you in mastering Python and make you familiar. Turn yourself into pro with all the hands-on that got you covered.
+The main aim is to provide an efficient and beginner-friendly project that would help you in mastering Python and make you familiar with it. Turn yourself into a pro with all the hands-on that got you covered.
 
 
 <h2>🙌Join Here</h2>
 
-Anyone related to technology who are looking to contribute to open-source, are all invited to hop in. This place has task for everyone.
+Anyone related to technology who is looking to contribute to open-source is all invited to hop in. This place has a task for everyone.
 
 | BasicPythonScripts | WebScrapingScripts | APIScripts | GUIScripts | AutomationScripts |
 
-If you had worked on or want to initiate a unique project and want to share it with the world, you can do that through here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/Contributing_Guidelines.md)👩‍💻
+If you worked on or want to initiate a unique project and want to share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/Contributing_Guidelines.md)👩‍💻
 
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
@@ -45,9 +45,9 @@ Python IDE : Install it by using this link [python.org](https://www.python.org/d
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
 * You can only work on issues that have been assigned to you.
-* If you want to contribute the script, it's preferrable that you create an issue before making a PR and link your PR to that issue.
-* If you have modified/added code work, make sure the code compiles before submitting.
-* Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
+* If you want to contribute the script, it's preferable that you create an issue before making a PR and link your PR to that issue.
+* If you have modified/added code, make sure the code compiles before submitting.
+* Strictly use snake_case (underscore_separated) in your file_name and push it in the correct folder.
 * Do not update the **[README.md](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/README.md).**
 
 
@@ -61,7 +61,7 @@ Python IDE : Install it by using this link [python.org](https://www.python.org/d
 
 - Add, Commit and Push
 
-- Then in github, in your cloned repository find the option to make a pull request 
+- Then in GitHub, in your cloned repository, find the option to make a pull request. 
 
 > print("Start contributing for Awesome_Python_Scripts")
 
