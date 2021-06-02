@@ -21,7 +21,7 @@ def Check(input_countries):
 if __name__ == "__main__":
     while 1:
         # Get your API key from New API
-        newsapi = NewsApiClient(api_key='0864a52124954666bb3e1fd0f7fbb1e6')
+        newsapi = NewsApiClient(api_key='Your API Key')
 
         input_country = input("Country: ")  # Taking country name input
         input_countries = [f'{input_country.strip()}']
