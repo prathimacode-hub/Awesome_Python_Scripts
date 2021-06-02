@@ -48,7 +48,7 @@ Following are the steps to guide you:
 
 > - Do not edit/delete someone else's code in this repository. You can only insert new files/folder in this repository.
 
-> - Give a meaningful name to whatever file or folder you are adding, for e.g., if you have written a Python code on Hello World, then Hello_World.py is one example of valid name.
+> - Give a meaningful name to whatever file or folder you are adding, for e.g., if you have written a Python code on Hello World, then hello_world.py is one example of valid name.
 
 
 ## 💡What should I keep in mind while contributing?
@@ -88,10 +88,9 @@ We want your work to be readable by others; therefore, we encourage you to note 
 ### 🧲Pull Requests Review Criteria
 
 1. Please fill the **[PR Template](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/pullrequest_template.md)** properly while making a Pull Request.
-2. You must add your code .ipynb file into the respective **folders**.
+2. You must add your code .py file into the respective **folders**.
 3. Your work must be original, written by you not copied from other resources.
 4. You must comment on your code where necessary.
-4. For frontend changes, kindly share screenshots and work samples of your work before sending a PR.
 5. Follow the proper [style guides](https://google.github.io/styleguide/) for your work.
 6. For any queries or discussions, please feel free to drop a message.
 
@@ -100,7 +99,7 @@ We want your work to be readable by others; therefore, we encourage you to note 
 
 We want your work to be readable by others; therefore, we encourage you to note the following:
 
-- Create a folder with a meaningful repository name (If Digital Clock is submitted for example, the Folder Name should be "DigitalClock" and the File Name as "digital_clock.py")
+- Create a folder with a meaningful repository name (If Digital Clock is submitted for example, the Folder Name should be "Digital Clock" and the File Name as "digital_clock.py")
 - File extension for code should be `.py`. 
 - Strictly use snake_case (underscore_separated) in your file_name, as it will be easy to parse in future using scripts.
 - Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure you have created for your project. If you want to,  please contact before doing so.
