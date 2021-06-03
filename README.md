@@ -45,6 +45,7 @@ Anyone related to technology who is looking to contribute to open-source is all 
 
 **PyGamesScripts** - This repository would have all the wide range of games scripts that can programmed and developed using python.
  
+**ImageProcessingScripts** - This repository would indulge with all image processing scripts that would help in beautifying and transforming the images.
 
 
 If you worked on or want to initiate a unique project and share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/Contributing_Guidelines.md)👩‍💻
