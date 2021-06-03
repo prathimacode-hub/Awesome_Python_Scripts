@@ -29,7 +29,23 @@ The main aim is to provide an efficient and beginner-friendly project that would
 
 Anyone related to technology who is looking to contribute to open-source is all invited to hop in. This place has a task for everyone.
 
-| BasicPythonScripts | WebScrapingScripts | APIScripts | GUIScripts | AutomationScripts |
+**| BasicPythonScripts | WebScrapingScripts | APIScripts | GUIScripts | AutomationScripts | PyGamesScripts |**
+
+
+
+**BasicPythonScripts** - This repository would have basic python scripts which are useful to get started with programming before you dive into real time projects.
+
+**WebScrapingScripts** - This repository would have webscraping scripts which is a data scraping technique used for extracting data from websites.
+
+**APIScripts** - This repository would have application programming interfacing (API) scripts which would help in performing operations programmatically and deploy projects as apps.
+
+**GUIScripts** - This repository would have all graphical user interface (GUI) scripts which would create an interface and performs the operations visually unlike command line.
+
+**AutomationScripts** - This repository would contain automation scripts that would automate your tasks efficiently and helps you in saving a lot of time.
+
+**PyGamesScripts** - This repository would have all the wide range of games scripts that can programmed and developed using python.
+ 
+
 
 If you worked on or want to initiate a unique project and want to share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/Contributing_Guidelines.md)👩‍💻
 
