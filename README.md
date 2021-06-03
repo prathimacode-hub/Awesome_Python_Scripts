@@ -107,6 +107,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
   <tr>
      <td align="center"><a href="https://github.com/RandallWert"><img src="https://avatars.githubusercontent.com/u/20331611?v=4" width="100px;" alt=""/><br /><sub><b>Randall Wert</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=RandallWert" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=RandallWert" title="Documentation">📖</a></td>
      <td align="center"><a href="https://github.com/Iamtripathisatyam"><img src="https://avatars.githubusercontent.com/u/69134468?v=4" width="100px;" alt=""/><br /><sub><b>Satyam Tripathi</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Iamtripathisatyam" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Iamtripathisatyam" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/pragyakhanna11"><img src="https://avatars.githubusercontent.com/u/75221153?v=4" width="100px;" alt=""/><br /><sub><b>Pragya Khanna</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=pragyakhanna11" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=pragyakhanna11" title="Documentation">📖</a></td>
 </tr>
 </table>
 
