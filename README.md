@@ -47,7 +47,7 @@ Anyone related to technology who is looking to contribute to open-source is all 
  
 
 
-If you worked on or want to initiate a unique project and want to share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/Contributing_Guidelines.md)👩‍💻
+If you worked on or want to initiate a unique project and share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/Contributing_Guidelines.md)👩‍💻
 
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
