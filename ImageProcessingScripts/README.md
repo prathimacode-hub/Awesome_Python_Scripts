@@ -9,4 +9,4 @@ image processing can be used for more serious applications, for example, to enha
 
 ## Projects Contributed 
 
-- [Project Name](Your project code link in this repository)
+- [Watermark Inserter GUI](https://github.com/rivelez65/Awesome_Python_Scripts/tree/ImageProcessingScripts/ImageProcessingScripts/Watermark%20Inserter%20GUI)
