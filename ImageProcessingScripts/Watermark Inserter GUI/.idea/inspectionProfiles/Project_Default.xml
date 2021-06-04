@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="flask_sqlalchemy.SQLAlchemy.Column" />
+          <option value="flask_sqlalchemy.SQLAlchemy.String" />
+          <option value="flask_sqlalchemy.SQLAlchemy.Integer" />
+          <option value="flask_sqlalchemy.SQLAlchemy.Float" />
+          <option value="flask_sqlalchemy.SQLAlchemy.Boolean" />
+          <option value="flask_sqlalchemy.SQLAlchemy.Text" />
+          <option value="flask_sqlalchemy.SQLAlchemy.ForeignKey" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
