@@ -14,5 +14,5 @@
 - If your computer don't have Python you can download it from google.
 
 ### Screenshot of the game
-! [Game Image 1] (game_img1.png)
-! [Game Image 2] (game_img2.png)
+![Game Image 1](game_img1.png)
+![Game Image 2](game_img2.png)
