@@ -37,10 +37,19 @@ def changeColor():
     global  word_color
     global  word
     global word_lbl
+    global word_color_list
+    global user_score
     word = random.choice(colors)
     word_color = random.choice(colors)
+    word_color_list.append(word_color)
     word_lbl.config(text=word)
     word_lbl.config(fg=word_color)
+    if user_score >= 1:
+        if word_color_list[user_score-1] != word_color:
+            word_lbl.config(bg=word_color_list[user_score-1])
+        else:
+            word_lbl.config(bg="Grey")
+
 
 # increment score if input is correct
 def check(event):
@@ -84,11 +93,13 @@ timer_value = 30
 colors = ""
 word = ""
 word_color = ""
+word_color_list = []
 boolean = ""
 # Setup window
 root = tk.Tk()
 root.title("Color Game - Mudit Choudhary")
 root.geometry("800x510")
+
 
 # Heading Label
 tk.Label(root, text="Remember type the color of the word, not the word text!!",
