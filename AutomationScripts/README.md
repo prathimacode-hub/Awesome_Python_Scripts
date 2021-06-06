@@ -5,3 +5,4 @@ Automation Scripts is a collection of scripts/projects which helps us in automat
 <h2>Projects Contributed</h2>
 
 - [LaunchMaps](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/LaunchMaps)
+- [Battery Notification](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/Battery%20Notification)
