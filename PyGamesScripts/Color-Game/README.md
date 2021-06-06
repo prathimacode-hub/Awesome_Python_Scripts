@@ -11,3 +11,4 @@
 ## SCRENSHOT OF GAME
 ![Game Image](img1.png)
 (Note: The word will not change to a new one in this case, the correct answer is "white")
+
