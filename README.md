@@ -55,7 +55,9 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 
 <h2>🌱Pre-requisites</h2>
 
-Python IDE : Install it by using this link [python.org](https://www.python.org/downloads/)
+- Python IDE : Install it by using this link [python.org](https://www.python.org/downloads/)
+- If you are new to python programming and want to have a fair knowledge before you start working on it, you can learn it in a simplified way through this [repository](https://github.com/prathimacode-hub/Learn-Python-For-Beginners).
+- To make you familiarize with how programming works in python with proper structuring and algorithms, here I present a [project](https://github.com/prathimacode-hub/PyAlgo-Tree) created specifically for contributors who wants to explore and practice their concepts.
 
 
 <h2>⚙️ Things to Note</h2>
