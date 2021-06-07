@@ -59,6 +59,35 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 - If you are new to python programming and want to have a fair knowledge before you start working on it, you can learn it in a simplified way through this [repository](https://github.com/prathimacode-hub/Learn-Python-For-Beginners).
 - To make you familiarize with how programming works in python with proper structuring and algorithms, here I present a [project](https://github.com/prathimacode-hub/PyAlgo-Tree) created specifically for contributors who wants to explore and practice their concepts.
 
+<h2>🛠Templates to Follow</h2>
+
+- [Feature request](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/issue_template/feature_request.md)
+- [Bug Report](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/issue_template/bug_report.md)
+- [Pull Request](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/pullrequest_template.md)
+- [README](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/readme_template.md)
+
+**Note** : One should follow these templates while creating a new issue or pull request. Else, 'LGM-SOC' label won't be assigned neither your contributions would count.
+This is to ensure that we know you as a 'LGM-SOC' participant.
+
+
+<h2>📝Project Structure</h2>
+
+Your projects should contain this flow to maintain similarity across all other projects. Make sure to note these things, before you create a PR.
+
+Create a folder of your project title. (Example : If you want to add a game of tic tac toe, then project name should be "Tic Tac Toe" and file name as "tic_tac_toe.py")
+
+This project repository you had created would have :
+
+**file_name.py** - This python file is the project you have worked upon.
+
+**README.md** - This file is must included to get good understanding of the project (Elaborate it briefly about how it works using [README](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/readme_template.md) template).
+
+**requirements.txt** - In this file, you should add all the libraries you had included in your project 
+
+**Images** - This folder would have all images added, be it screenshots or step by step process images.
+
+**Related files** - The other additional and related files would be added up in "Related" folder.
+
 
 <h2>⚙️ Things to Note</h2>
 
@@ -130,6 +159,16 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Awes
 <h2>📝 License</h2>  
 
 This project follows the [MIT License](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/LICENSE).
+
+
+<h2>✔Mentors(LGM-SOC)</h2>
+
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width="100px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+<td align="center"><a href="https://github.com/sagnikmitra"><img src="https://avatars.githubusercontent.com/u/47714127?v=4" width="100px;" alt=""/><br /><sub><b>Sagnik Mitra</b></sub></a></td>
+  </tr>
+</table>
 
 
 <h2>🙂 Project Admin</h2>
