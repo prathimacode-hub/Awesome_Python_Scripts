@@ -29,8 +29,7 @@ The main aim is to provide an efficient and beginner-friendly project that would
 
 Anyone related to technology who is looking to contribute to open-source is all invited to hop in. This place has a task for everyone.
 
-**| BasicPythonScripts | WebScrapingScripts | APIScripts | GUIScripts | AutomationScripts | PyGamesScripts |**
-
+**| BasicPythonScripts | WebScrapingScripts | APIScripts | GUIScripts | AutomationScripts | PyGamesScripts | ImageProcessingScripts |**
 
 
 **BasicPythonScripts** - This repository would have basic python scripts which are useful to get started with programming before you dive into real time projects.
