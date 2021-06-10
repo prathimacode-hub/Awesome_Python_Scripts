@@ -22,4 +22,3 @@ Let's [**see**](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob
 
 For any queries please contact?
 - [**LinkedIn**](https://www.linkedin.com/in/git-satyam/)
-- [**Email**](thingstesting2020@gmail.com)
