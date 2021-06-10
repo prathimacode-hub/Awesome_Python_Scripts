@@ -18,8 +18,10 @@
   
   <div>
   <h2> SAMPLE DEMO SANPSHOTS OF THE TEXT TRANSLATOR</h2>
-  <img src="images/demo0.PNG", width=400, height=400/></tr>
-  <img src="images/demo01.PNG",width=400, height=400/></tr>
+  <img src="images/demo0.PNG", width=400, height=400/>
+  <img src="images/demo2.png",width=400, height=400/>
+  <img src="images/demo1.PNG",width=400, height=400/>
+  
   
   </div>
   
