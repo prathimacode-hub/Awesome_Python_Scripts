@@ -29,8 +29,7 @@ The main aim is to provide an efficient and beginner-friendly project that would
 
 Anyone related to technology who is looking to contribute to open-source is all invited to hop in. This place has a task for everyone.
 
-**| BasicPythonScripts | WebScrapingScripts | APIScripts | GUIScripts | AutomationScripts | PyGamesScripts |**
-
+**| BasicPythonScripts | WebScrapingScripts | APIScripts | GUIScripts | AutomationScripts | PyGamesScripts | ImageProcessingScripts |**
 
 
 **BasicPythonScripts** - This repository would have basic python scripts which are useful to get started with programming before you dive into real time projects.
@@ -47,6 +46,7 @@ Anyone related to technology who is looking to contribute to open-source is all 
  
 **ImageProcessingScripts** - This repository would indulge with all image processing scripts that would help in beautifying and transforming the images.
 
+When raising an issue, do make sure to mention the kind of script, project title, short description of the project and how would you expect it to work. As a good practice, always link the the issue number with pull request. (#issue number : Give this details when you raise a PR).
 
 If you worked on or want to initiate a unique project and share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/Contributing_Guidelines.md)👩‍💻
 
