@@ -11,7 +11,7 @@
   
   <div>
   <h2>Below is the step wise workflow:</h2>
-  <ul type="1">
+  <ul>
     <li> Enter any text that needs to be translated</li>
     <li>Choose any language that you want your text to be translated by clicking on <b>Choose Language of your choice</b></li>
     <li>Once you click on the <b>Choose Language of your choice</b> button, a set of language option menu will display where you can choose your desire language in which you wish your text to be translated</li>
