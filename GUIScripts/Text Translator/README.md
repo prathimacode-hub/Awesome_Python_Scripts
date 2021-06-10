@@ -10,10 +10,22 @@
   </p>
   
   <div>
+  <h2>Below is the step wise workflow:</h2>
+  <ul type="1">
+    <li> Enter any text that needs to be translated</li>
+    <li>Choose any language that you want your text to be translated by clicking on <b>Choose Language of your choice</b></li>
+    <li>Once you click on the <b>Choose Language of your choice</b> button, a set of language option menu will display where you can choose your desire language in which you wish your text to be translated</li>
+    <li>After choosing the language, click on <b>TRANSLATE button</b> to see the desired translated text in below display box</li>
+    <li> Along with translation, it also detects the current text language which will get displayed as <b>Detected Language Is:</b></li>
+  </ul>
+  
+  </div>
+  
+  <div>
   <h2> SAMPLE DEMO SANPSHOTS OF THE TEXT TRANSLATOR</h2>
-  <img src="images/demo0.PNG", width=400, height=400/>
-  <img src="images/demo2.png",width=400, height=400/>
-  <img src="images/demo1.PNG",width=400, height=400/>
+  <img src="Images/demo0.PNG", width=400, height=400/>
+  <img src="Images/demo2.png",width=400, height=400/>
+  <img src="Images/demo1.PNG",width=400, height=400/>
   
   
   </div>
