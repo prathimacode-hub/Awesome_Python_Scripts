@@ -7,7 +7,7 @@ import pywhatkit as kit
 os.chdir(r"C:\Users\Dell\Downloads")
 # Set the Path of Tesseract
 pytesseract.pytesseract.tesseract_cmd = r"C:\Users\Dell\AppData\Local\Tesseract-OCR\tesseract.exe"
-img = Image.open("GFG.png")  # Load the Image
+img = Image.open("Text.png")  # Load the Image
 text = pytesseract.image_to_string(img)  # Convert Image to Text
 # Convert Text to Hand Written Text
 kit.text_to_handwriting(text, rgb=[0, 0, 250])
