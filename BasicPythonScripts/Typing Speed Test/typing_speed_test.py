@@ -1,5 +1,5 @@
 from time import time
-#Definig function error which will calculate the accuracy
+#definig function errors which will calculate the accuracy
 global correct
 def Errors(prompt):
 
