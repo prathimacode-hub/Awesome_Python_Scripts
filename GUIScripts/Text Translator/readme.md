@@ -5,13 +5,6 @@
   Googletrans is a free and unlimited python library that implemented Google Translate API. 
   This uses the Google Translate Ajax API to make calls to such methods as detect and translate.</p>
   
- <h2>Pre-requisites</h2>
- <ul>
-  <li>python3</li>
-  <li>tkinter</li>
-  <li>googletrans</li>
-  </ul>
-  
   <p><b>Install googletrans a new 'official' alpha version library using</b>
   <pre>pip install googletrans==3.1.0a0</pre>
   </p>
