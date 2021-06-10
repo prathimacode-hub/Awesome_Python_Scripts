@@ -21,10 +21,10 @@ Image library of Python Imaging Library(PIL) module - is used to extract pixels 
 
 ## Output :
 Encoding Screenshot:
-![Encoding Image](encoding_ss.png)
+![Encoding Image](Images/encoding_ss.png)
 
 Decoding Screenshot:
-![Decoding Image](decoding_ss.png)
+![Decoding Image](Images/decoding_ss.png)
 
 
 ## Author : Shaik Imranuddin 
