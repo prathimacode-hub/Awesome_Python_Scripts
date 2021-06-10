@@ -6,6 +6,8 @@ For finding the error we will split each word and then check if any word is miss
 
 **List out the libraries imported**. 
  -> Time
+ 
+ 
 **Setup instructions**:
 We just have to run the program on our python IDE and then press enter and then we have to type the given sentence .
 Explain how to setup and run your package/script in user's system
@@ -18,8 +20,8 @@ For time ,we take the difference of the starting time and ending time.
 
 And at last ,we print all the functions showing the amount of error , average typing speed and time taken.
 
-Output
-Display images/gifs/videos of output/result of your script so that users can visualize it
+**Output**
+Scrrenshots are added
 ![Result_1](https://user-images.githubusercontent.com/71593494/121500732-3569cd80-c9fc-11eb-9bc1-f628cf628c5a.png)
 ![Result_2](https://user-images.githubusercontent.com/71593494/121500746-37339100-c9fc-11eb-8628-f5aeb6a808c4.png)
 
