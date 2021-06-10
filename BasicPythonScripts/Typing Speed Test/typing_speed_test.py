@@ -1,11 +1,11 @@
 from time import time
-
+#Definig function error which will calculate the accuracy
 global correct
 def Errors(prompt):
 
     words = prompt.split()
     errors = 0
-
+   #splitting thw words to get error 
     for i in range(len(correct)):
         if i in (0, len(correct)-1):
             if correct[i] == words[i]:
@@ -22,7 +22,7 @@ def Errors(prompt):
                 errors += 1
     return errors
 
-
+#Speed function to calculate number of words written per unit time(minute)
 def Speed(iprompt, starttime, endtime):
     global time
     global correct
@@ -33,7 +33,7 @@ def Speed(iprompt, starttime, endtime):
 
     return speed
 
-
+#Time function to calculate amount of time taken by user
 def timeElapsed(startime, endtime):
     time = endtime - starttime
 
@@ -45,7 +45,7 @@ if __name__ == '__main__':
 
     input("press ENTER when you are ready!")
 
-
+   #Gathering all the data
     starttime = time()
     iprompt = input()
     endtime = time()
