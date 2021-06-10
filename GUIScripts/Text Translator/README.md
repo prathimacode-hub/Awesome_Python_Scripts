@@ -20,14 +20,11 @@
   </ul>
   
   </div>
-  
   <div>
   <h2> SAMPLE DEMO SANPSHOTS OF THE TEXT TRANSLATOR</h2>
   <img src="Images/demo0.PNG", width=400, height=400/>
   <img src="Images/demo2.png",width=400, height=400/>
   <img src="Images/demo1.PNG",width=400, height=400/>
-  
-  
   </div>
   
  
