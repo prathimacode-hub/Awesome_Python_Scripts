@@ -19,3 +19,7 @@ Let's [**see**](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob
 
 ## Sample Output: 
 <p align="center"><img src="https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/ImageProcessingScripts/Text%20to%20HandWritten/Converted_Image.png"></p>
+
+Any Query?
+- [**LinkedIn**](https://www.linkedin.com/in/git-satyam/)
+- [**Email**](thingstesting2020@gmail.com)
