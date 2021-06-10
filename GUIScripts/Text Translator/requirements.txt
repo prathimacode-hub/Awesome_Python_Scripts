@@ -1,1 +1,7 @@
 
+ Pre-requisites
+ 
+ python3
+ tkinter
+ googletrans
+ 
