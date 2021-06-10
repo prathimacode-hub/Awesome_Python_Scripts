@@ -15,5 +15,5 @@
 - Visit and Install [**Tesseract**](https://github.com/UB-Mannheim/tesseract/wiki); scroll down to find the latest installers for **32-bit** and **64-bit** systems; download them as needed.
 - Load the image you want to convert.
 
-Sample Output: 
+## Sample Output: 
 <p align="center"><img src="https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/ImageProcessingScripts/Text%20to%20HandWritten/Converted_Image.png"></p>
