@@ -1,5 +1,5 @@
 ## Guess The Number
-Guess The Number Game is a python program i.e, developed in python programming language using random module.
+Guess The Number Game is a python program i.e, developed in python programming language using random module and some user inputs.
 
 ### About the game
 - It's a basic python program which stores the random number and iterate it over loop till the number matches the user input.
