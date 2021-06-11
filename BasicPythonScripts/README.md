@@ -5,3 +5,5 @@
 <h3>Projects Contributed</h3>
 
 - [JumpingNumber](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/JumpingNumber)
+- [Typing Speed test](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Typing%20Speed%20Test)
+- [Alarm Clock](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Alarm%20Clock)
