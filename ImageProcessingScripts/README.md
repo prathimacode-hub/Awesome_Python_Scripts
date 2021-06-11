@@ -10,4 +10,3 @@ image processing can be used for more serious applications, for example, to enha
 ## Projects Contributed 
 
 - [Watermark Inserter GUI](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Watermark%20Inserter%20GUI)
-- [Text Image to Handwritten Text Image](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Text%20to%20HandWritten)
