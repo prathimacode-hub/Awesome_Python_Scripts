@@ -1,0 +1,10 @@
+
+ Pre-requisites
+ 
+ python3
+ tkinter
+ googletrans
+ 
+ Install googletrans a new 'official' alpha version library using
+  pip install googletrans==3.1.0a0
+ 
