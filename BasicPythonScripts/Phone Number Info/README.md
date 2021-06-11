@@ -20,8 +20,7 @@ pip install phonenumbers
 5. Run the code and try entering different numbers.
 
 ### Output
-<img align="center" alt="output"  src="Images/phn1.PNG"/>
-<img align="center" alt="output"  src="Images/phn2.PNG" />
+<img align="center" alt="output"  src="Images/phn1.PNG"/> <img align="center" alt="output"  src="Images/phn2.PNG" />
 
 ### Author👨‍
 <table>
