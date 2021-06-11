@@ -13,7 +13,7 @@ This is a class in difflib which compare the sequence of characters or elements 
 - Pass required arguments in SequenceMatcher
 - Print the O/P in form of %
 ## Sample Output:
-<p align="center"><img src="https://github.com/Aditya8821/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Plagiarism%20Checker/Demo%20Output.png"></p>
+<p align="center"><img src="https://github.com/Aditya8821/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Plagiarism%20Checker/Images/Demo%20Output.png"></p>
 
 For any queries please contact?
 - [**LinkedIn**](https://www.linkedin.com/in/aditya-trivedi-032090164/)
