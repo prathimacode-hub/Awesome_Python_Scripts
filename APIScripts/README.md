@@ -9,3 +9,4 @@ API Scripts is a collection of scripts/projects using any API for performing any
 - [Earthquake API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/Earthquake%20API)
 - [Thesaurus API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/Thesaurus%20API)
 - [News API](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/tree/main/APIScripts/New%20API)
+- [Twitter API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/Twitter%20API)
