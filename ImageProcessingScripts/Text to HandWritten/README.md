@@ -18,7 +18,7 @@ Let's [**see**](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob
 - Load the image you want to convert.
 
 ## Sample Output: 
-<p align="center"><img src="https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/ImageProcessingScripts/Text%20to%20HandWritten/Converted_Image.png"></p>
+<p align="center"><img src="https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/ImageProcessingScripts/Text%20to%20HandWritten/Images/Converted_Image.png"></p>
 
 For any queries please contact?
 - [**LinkedIn**](https://www.linkedin.com/in/git-satyam/)
