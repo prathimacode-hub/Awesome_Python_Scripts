@@ -9,7 +9,9 @@ To familiarize yourself with what a Spirograph is as well as to see the mathemat
 
 For Turtle documentation, visit [DOCS](https://docs.python.org/2/library/turtle.html).
 
-For Turtle Colors, visit
+For RGB calculator, visit [w3schools](https://www.w3schools.com/colors/colors_rgb.asp).
+
+For Turtle Colors, visit the following resources
 
 [resource 1](https://cs111.wellesley.edu/labs/lab01/colors)
 
