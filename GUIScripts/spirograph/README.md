@@ -5,7 +5,8 @@ A spirograph is a very interesting geometrical figure which is often symmetrical
 
 About This program draws Spirograph curves using Python and the Turtle library.
 
-To familiarize yourself with what a Spirograph is as well as to see the mathematical derivation of Spirograph curve equations, visit [wikipedia] (https://en.wikipedia.org/wiki/Spirograph)
+To familiarize yourself with what a Spirograph is as well as to see the mathematical derivation of Spirograph curve equations, visit 
+[wikipedia](https://en.wikipedia.org/wiki/Spirograph)
 
 For Turtle documentation, visit [DOCS](https://docs.python.org/2/library/turtle.html).
 
