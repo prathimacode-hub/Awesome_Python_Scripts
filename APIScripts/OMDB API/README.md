@@ -10,11 +10,8 @@ The API supports
 
 The API supports both JSON and XML data formats. 
  
-<br>
-
 ### Source  
 ### http://www.omdbapi.com/  
-<br>
 
 ### Example API Request: 
 ### http://www.omdbapi.com/?apikey=[yourkey]&
