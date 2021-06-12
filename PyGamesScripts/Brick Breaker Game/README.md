@@ -6,7 +6,7 @@ Using the paddle to move along the screen, the player hits the ball that can tou
 Player have to destroy all the bricks to win the game.
 
 #### Setup instructions
-1.Install Python 3.x (recommended) from here.
+1.Install  3.x (recommended) from here.
 
 2.Install Pygame 2.x(recommended) from here.
 
@@ -19,3 +19,9 @@ Player have to destroy all the bricks to win the game.
 brickBreakerGame.py
 
 Have fun!!
+
+## Output
+<img align="center" alt="output"  src="img.png" />
+
+## 
+<a href="https://github.com/Jagannath8">Jagannath Pal</a>
