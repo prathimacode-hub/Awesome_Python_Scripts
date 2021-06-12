@@ -31,7 +31,7 @@ joke = get_joke(language="es",category="neutral")
 print(joke)
 ```
 
-#### Options available for Languages
+#### Options available for Language
 
 |Value|Language Name|
 |---|---|
@@ -43,7 +43,7 @@ print(joke)
 |eu|Basque|
     
 #### Options available for Category
-|Values|Category|
+|Value|Category Detail|
 |---|---|
 |neutral|Neutral geeky jokes|
 |twister|Tongue-twister|
@@ -61,15 +61,6 @@ print(joke)
 
 #### In PyCharm
 
+![img](https://user-images.githubusercontent.com/83420185/121781392-1d43ab00-cbc2-11eb-9892-dd65736247f9.png)
 
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/83420185/121781413-38161f80-cbc2-11eb-85a8-24a6399f5a50.png)
