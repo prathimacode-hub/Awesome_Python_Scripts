@@ -8,10 +8,14 @@
 - This project will read **QR** codes and show the information contained within them.
 - It will first accept an image as input, then use **pzbar** to convert it to text, and then show the result.
 
-## Modules need to install:
+## Procedure to follow: 
 - pip install **pyzbar**
 - pip install **pywebio**
 - pip install **Pillow**
+- Change to the directory where the image will be scanned.
+- Take the user's input and verify whether or not the input file name exists.
+- Open the image and use **decode** to decode it.
+- Finally, use **UTF-8** to decode the text and show it on the output screen.
 
 Sample Output: 
 
