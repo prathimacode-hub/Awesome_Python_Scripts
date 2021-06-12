@@ -8,6 +8,10 @@ About This program draws Spirograph curves using Python and the Turtle library.
 To familiarize yourself with what a Spirograph is as well as to see the mathematical derivation of Spirograph curve equations, visit 
 [wikipedia](https://en.wikipedia.org/wiki/Spirograph)
 
+# How to use this?
+just import the libraries from requirements.txt and run it. You can customize it accordingly.
+
+# other resources
 For Turtle documentation, visit [DOCS](https://docs.python.org/2/library/turtle.html).
 
 For RGB calculator, visit [w3schools](https://www.w3schools.com/colors/colors_rgb.asp).
@@ -18,5 +22,6 @@ For Turtle Colors, visit the following resources
 
 [resource 2](https://trinket.io/docs/colors)
 
-output video : [click here to download](https://github.com/shreyamalogi/Awesome_Python_Scripts/blob/main/GUIScripts/spirograph/spirograph.mp4)
+# output video : 
+[click here to download](https://github.com/shreyamalogi/Awesome_Python_Scripts/blob/main/GUIScripts/spirograph/spirograph.mp4)
 
