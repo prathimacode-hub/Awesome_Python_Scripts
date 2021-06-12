@@ -21,7 +21,7 @@ brickBreakerGame.py
 Have fun!!
 
 ## Output
-<img align="center" alt="output"  src="img.png" />
+<img align="center" alt="output"  src="Images/img.png" />
 
 ## 
 <a href="https://github.com/Jagannath8">Jagannath Pal</a>
