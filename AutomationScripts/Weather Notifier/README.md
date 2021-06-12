@@ -28,3 +28,6 @@ cd AutomationScripts
 ```
 python weather.py
 ```
+4. Output Screenshot.
+
+<img src="https://github.com/Komal-99/Awesome_Python_Scripts/blob/weather/AutomationScripts/Weather%20Notifier/Images/Screenshot.jpg">
