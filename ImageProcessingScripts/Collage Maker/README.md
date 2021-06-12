@@ -1,14 +1,5 @@
 ## Description: 
 This is a Python Script which take two images from user and make a collage of it. In this script we are using **Pillow** and **Numpy**.
-- **Pillow**: 
-  - The Python Imaging Library adds image processing capabilities to your Python interpreter.
-  - This library provides extensive file format support, an efficient internal representation, and fairly powerful image processing capabilities.
-  - The core image library is designed for fast access to data stored in a few basic pixel formats. It should provide a solid foundation for a general image processing tool.
-- **Numpy**:
-  - NumPy is a Python library used for working with arrays.
-  - It also has functions for working in domain of linear algebra, fourier transform, and matrices.
-  - NumPy was created in 2005 by Travis Oliphant. It is an open source project and you can use it freely.
-
 ## Procedure to be followed:
 - pip install **Pillow**
 - Then we have to give the path of two images which has to be collaped.
