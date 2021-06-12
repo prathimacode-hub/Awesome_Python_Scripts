@@ -1,21 +1,26 @@
 # Welcome to Awesome_Python_Scripts👋
-  
-![Alt text of image](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Awesome_Python_Scripts.png)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![GitHub contributors](https://img.shields.io/github/contributors-anon/prathimacode-hub/Awesome_Python_Scripts) ![Maintenance](https://img.shields.io/maintenance/yes/2021) </p> 
+<p align="center">
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Awesome_Python_Scripts.png"></a>
+</p>
+<p align="center">
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a> 
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green"></a> 
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"></a>
+<a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/prathimacode-hub/Awesome_Python_Scripts"></a>
+<a href="https://github.com/prathimacode-hub"><img src="https://img.shields.io/maintenance/yes/2021"></a>
+</p> 
 
-
-<center>
-
-![](https://badgen.net/github/stars/prathimacode-hub/Awesome_Python_Scripts)
-![](https://badgen.net/github/forks/prathimacode-hub/Awesome_Python_Scripts)
-![](https://badgen.net/github/open-issues/prathimacode-hub/Awesome_Python_Scripts)
-![](https://badgen.net/github/closed-issues/prathimacode-hub/Awesome_Python_Scripts)
-![](https://badgen.net/github/prs/prathimacode-hub/Awesome_Python_Scripts)
-![](https://badgen.net/github/open-prs/prathimacode-hub/Awesome_Python_Scripts)
-![](https://badgen.net/github/closed-prs/prathimacode-hub/Awesome_Python_Scripts)
-
-</center>
+<p align="center">
+<a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/stargazers"><img src="https://badgen.net/github/stars/prathimacode-hub/Awesome_Python_Scripts"></a>
+<a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/network/members"><img src="https://badgen.net/github/forks/prathimacode-hub/Awesome_Python_Scripts"></a>
+<a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues"><img src="https://badgen.net/github/open-issues/prathimacode-hub/Awesome_Python_Scripts"></a>
+<a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/issues?q=is%3Aissue+is%3Aclosed"><img src="https://badgen.net/github/closed-issues/prathimacode-hub/Awesome_Python_Scripts"></a>
+<a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/pulls"><img src="https://badgen.net/github/prs/prathimacode-hub/Awesome_Python_Scripts"></a>
+<a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/pulls"><img src="https://badgen.net/github/open-prs/prathimacode-hub/Awesome_Python_Scripts"></a>
+<a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/pulls?q=is%3Apr+is%3Aclosed"><img src="https://badgen.net/github/closed-prs/prathimacode-hub/Awesome_Python_Scripts"></a>
+</p>
 
 
 <h2>📌Repository</h2>
@@ -154,6 +159,10 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 </tr>
   <tr>
      <td align="center"><a href="https://github.com/jigar-sable"><img src="https://avatars.githubusercontent.com/u/64949957?v=4" width="80px;" alt=""/><br /><sub><b>Jigar Sable</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=jigar-sable" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=jigar-sable" title="Documentation">📖</a></td>
+     <td align="center"><a href="https://github.com/Aditya8821"><img src="https://avatars.githubusercontent.com/u/62375127?v=4" width="80px;" alt=""/><br /><sub><b>Aditya Trivedi</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Aditya882" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Aditya882" title="Documentation">📖</a></td>
+     <td align="center"><a href="https://github.com/https://github.com/Bhuvanaa28"><img src="https://avatars.githubusercontent.com/u/76595007?v=4" width="80px;" alt=""/><br /><sub><b>Bhuvanaa</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Bhuvanaa28" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Bhuvanaa28" title="Documentation">📖</a></td>
+     <td align="center"><a href="https://github.com/Harshitha-246"><img src="https://avatars.githubusercontent.com/u/76912557?v=4" width="80px;" alt=""/><br /><sub><b>Hashitha.K</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Harshitha-246" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Harshitha-246" title="Documentation">📖</a></td>
+     <td align="center"><a href="https://github.com/hr1shu"><img src="https://avatars.githubusercontent.com/u/57145318?v=4" width="80px;" alt=""/><br /><sub><b>Rishav Kumar</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=hr1shu" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=hr1shu" title="Documentation">📖</a></td>
 </tr>
 </table>
 
@@ -176,8 +185,8 @@ This project follows the [MIT License](https://github.com/prathimacode-hub/Aweso
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="100px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
-<td align="center"><a href="https://github.com/sagnikmitra"><img src="https://avatars.githubusercontent.com/u/47714127?v=4" width="100px;" alt=""/><br /><sub><b>Sagnik Mitra</b></sub></a></td>
+<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+<td align="center"><a href="https://github.com/Debashish-hub"><img src="https://avatars.githubusercontent.com/u/56837936?v=4" width="80px;" alt=""/><br /><sub><b>Debashish Kumar Sahoo</b></sub></a></td>   
   </tr>
 </table>
 
