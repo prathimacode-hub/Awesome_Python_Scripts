@@ -176,8 +176,8 @@ This project follows the [MIT License](https://github.com/prathimacode-hub/Aweso
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="100px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
-<td align="center"><a href="https://github.com/sagnikmitra"><img src="https://avatars.githubusercontent.com/u/47714127?v=4" width="100px;" alt=""/><br /><sub><b>Sagnik Mitra</b></sub></a></td>
+<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+<td align="center"><a href="https://github.com/Debashish-hub"><img src="https://avatars.githubusercontent.com/u/56837936?v=4" width="80px;" alt=""/><br /><sub><b>Debashish Kumar Sahoo</b></sub></a></td>   
   </tr>
 </table>
 
