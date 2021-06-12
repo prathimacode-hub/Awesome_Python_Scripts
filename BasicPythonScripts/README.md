@@ -9,3 +9,4 @@
 - [Alarm Clock](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Alarm%20Clock)
 - [Caesar Encryption](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Caesar%20Encryption)
 - [What's Your Story](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/What's%20Your%20Story)
+- [Phone Number Info](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Phone%20Number%20Info)
