@@ -7,7 +7,7 @@ This is a Python Script which take two images from user and make a collage of it
 - Finally, the Output Image will be saved at the given location provided by the user.
 
 ## Sample Output: 
-![Final](https://user-images.githubusercontent.com/62374061/121709701-72b28600-caf6-11eb-94b2-6da1c72f81dd.jpg)
+![Final](https://github.com/AmitGupta700/Awesome_Python_Scripts/blob/main/ImageProcessingScripts/Collage%20Maker/Images/Python.jpg)
 
 ## For any query please contact:
 <a href="https://www.linkedin.com/in/amit-gupta-681206191/">LinkedIn</a>
