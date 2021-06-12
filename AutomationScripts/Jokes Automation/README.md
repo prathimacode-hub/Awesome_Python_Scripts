@@ -53,14 +53,19 @@ print(joke)
 
 ##### In CLI
 
-![image](https://user-images.githubusercontent.com/83420185/121780953-3b101080-cbc0-11eb-8c8c-b109f4a6f014.png)
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/images/img0.png">
 
-![image](https://user-images.githubusercontent.com/83420185/121781088-d73a1780-cbc0-11eb-96d9-97f7990dccb3.png)
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/images/img1.png">
 
-![image](https://user-images.githubusercontent.com/83420185/121781022-8d513180-cbc0-11eb-9b4b-0a40bb481f4b.png)
-
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/images/img2.png">
+     
 #### In PyCharm
 
-![img](https://user-images.githubusercontent.com/83420185/121781392-1d43ab00-cbc2-11eb-9892-dd65736247f9.png)
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/images/img3.png">
 
-![image](https://user-images.githubusercontent.com/83420185/121781413-38161f80-cbc2-11eb-85a8-24a6399f5a50.png)
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/images/img4.png">
+
+#### Contributor
+
+<a href="https://github.com/Umesh-01">Umesh Singh</a>
+
