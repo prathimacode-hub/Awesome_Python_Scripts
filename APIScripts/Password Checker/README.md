@@ -25,7 +25,7 @@ It's an actual tool that I use day to day for security reasons, not just any sil
 ------------
 
 ## Output:
-![Sample Output]()
+![Sample Output](/Images/Output.png)
 
 
 ------------
