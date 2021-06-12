@@ -19,7 +19,8 @@ It's an actual tool that I use day to day for security reasons, not just any sil
 ------------
 
 ## Output:
-![Sample Output](img src="Images/Output.png")
+![Output](https://user-images.githubusercontent.com/57145318/121774069-e5c30780-cb9d-11eb-8926-312ab05dfe27.png)
+
 
 
 ------------
