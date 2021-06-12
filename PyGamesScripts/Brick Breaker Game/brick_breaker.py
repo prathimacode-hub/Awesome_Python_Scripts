@@ -47,29 +47,33 @@ class wall():
 
     def create_wall(self):
         self.blocks = []
+        #define an empty list for an individual block
         block_individual = []
         for row in range(rows):
             block_row = []
+            #iterate through each column in that row
             for col in range(cols):
                 block_x = col * self.width
                 block_y = row * self.height
                 rect = pygame.Rect(block_x, block_y, self.width, self.height)
+                #assign block strength based on row
                 if row < 2:
                     strength = 3
                 elif row < 4:
                     strength = 2
                 elif row < 6:
                     strength = 1
-
+                #create a list at this point to store the rect and colour data
                 block_individual = [rect, strength]
                 block_row.append(block_individual)
-
+            #append the row to the full list of blocks
             self.blocks.append(block_row)
 
 
     def draw_wall(self):
         for row in self.blocks:
             for block in row:
+                #assign a colour based on block strength
                 if block[1] == 3:
                     block_col = block_blue
                 elif block[1] == 2:
@@ -88,6 +92,7 @@ class paddle():
         self.reset()
         
     def move(self):
+        #reset movement direction
         self.direction = 0
         key = pygame.key.get_pressed()
         if key[pygame.K_LEFT] and self.rect.left > 0:
@@ -105,6 +110,7 @@ class paddle():
 
 
     def reset(self):
+        #define paddle variables
         self.height = 20
         self.width = int(screen_width / cols)
         self.x = int((screen_width / 2) - (self.width / 2))
