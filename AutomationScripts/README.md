@@ -6,3 +6,4 @@ Automation Scripts is a collection of scripts/projects which helps us in automat
 
 - [LaunchMaps](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/LaunchMaps)
 - [Battery Notification](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/Battery%20Notification)
+- [Facebook Messenger Automation](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/Facebook%20Messenger%20Automation)
