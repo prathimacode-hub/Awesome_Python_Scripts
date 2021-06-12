@@ -16,8 +16,30 @@
   <li>gamma- scalar added to each sum.
     and two optional arguments which are not required for this demonstration.</li></ul>
   </p>
+   </div>
   
   </div>
+  <h2>How it works?</h2>
+  <ul>
+  <li>Input any two images that you want to pefrom Blending operation.</li>
+  <li>Reading the input images.</li>
+  <li>Resizing the images becuase Images have to be of the same size to be added so resize one image to the size of the other before adding.</li>
+  <li>Perform Blending operation on the images using addWeighted() function of OpenCv.</li>
+  <li>Display the final Blended image</li>
   
+  </div>
   <div>
+  <h2>Let's Look at the Sample Output</h2>
+  <img src="Images/original_img3.PNG",weight=300, height=300>
+  
+  <p><b>Blended Image</b></p>
+    <img src="Images/demo3.PNG",weight=300, height=300>
+  <p>
+    <img src="Images/original_img.PNG",weight=300, height=300></p>
+  <p><b>Blended Image</b></p>
+    <img src="Images/demo1.PNG",weight=350, height=350>
+
+
+
   </div>
+ 
