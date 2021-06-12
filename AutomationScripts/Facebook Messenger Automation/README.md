@@ -6,7 +6,7 @@ Short description of package/script: Here we will send the message in messenger 
 
 List out the libraries imported: pyautogui ,time
 Setup instructions: First we need to open messenger in browser and then we have to open chat with targeted person to whom we need to send message and then run the program.
-Explain how to setup and run your package/script in user's system
+Here in the script we had written the message that is to be send and here we can also specify the number of times the message to be sent .
 
 
 
