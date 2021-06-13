@@ -4,18 +4,16 @@
 ![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
 
 ## Description: 
-- Let's [**look**](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/GUIScripts/QR%20Code%20Scanner/qr_code_scan.py) at a Python script that will put your all the files in the respected folder.
-- This project will read **QR** codes and show the information contained within them.
-- It will first accept an image as input, then use **pzbar** to convert it to text, and then show the result.
+- Let's [**look**](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/GUIScripts/QR%20Code%20Scanner/qr_code_scan.py) at a Python script that will place all of your files in the appropriate folder.
+- This script will first list all of the files and place them in folders based on their extensions, such as "**.pdf**" which will be placed in the **PDFs folder**, and so on for all of the files.
+- Finally, all of the files will be placed in their proper directories.
 
 ## Procedure to follow: 
-    pip install pyzbar
-    pip install pywebio
-    pip install Pillow
-- Change to the directory where the image will be scanned.
-- Take the user's input and verify whether or not the input file name exists and if it exists then move to the next step.
-- Open the image with the help of **Image** function and use **decode** to decode it.
-- Finally, use **UTF-8** to decode the text and show it on the output screen using **put_text** function.
+- Import oS module
+- Using the **chdir** function, change the location where the files will be imported.
+- List all of the files using the **listdir** function, and then delete any files that don't have an extension like any folder.
+- Run a loop for all of the files, putting them in the appropriate folders based on their extensions.
+- Finally, each file will be placed in its own folder.
 
 ## Sample Output: 
 
