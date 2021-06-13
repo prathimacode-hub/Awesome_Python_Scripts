@@ -1,27 +1,33 @@
-# Package/Script Name
-## mannu mannu
+A calculator App
 ## Short description of package/script
-
-- If package, list of functionalities/scripts it can perform
-- If standalone script, short description of script explaining what it achieves.
-- List out the libraries imported.
+- it is a basic python script calculator app.
+- imported `tkinter` in python.
 
 ## Setup instructions
-
-Explain how to setup and run your package/script in user's system
+Firstly, download the python script in your local computer and run it, it will work successfully.
 
 ## Detailed explanation of script, if needed
+As you can see, nowadays calculating big-big numbers is very tough or it may takes time to solve. I have created a basic python script `Calculator app` where you can calculate the numbers.
+In my Script, I have imported tkinter which is really very easy in python.
+I have created function for adding values, clear when we don't won't to calculate some number and also for expression one, i.e `"hello"`. Adding a silver line to it, I have created 9 buttons for numbers from 0-9 and also for `+`, `-`, `/` and `*`.
 
-If code is not explainable using comments, use this sections to explain your script
 
 ## Output
+### opening view
+![cal 1](https://user-images.githubusercontent.com/77045147/121802540-7eb75880-cc5a-11eb-98b1-59f10db2258c.png)
 
-Display images/gifs/videos of output/result of your script so that users can visualize it
+### multiplying 9*3
+![image](https://user-images.githubusercontent.com/77045147/121802557-98f13680-cc5a-11eb-9ade-281803b1a6f1.png)
+
+9*3 = 27
+
+### output -
+![image](https://user-images.githubusercontent.com/77045147/121802593-ca6a0200-cc5a-11eb-8b37-fabdf1a19400.png)
+
 
 ## Author(s)
 
-Name(s) of author(s)
+Manognya Dasika
 
 ## Disclaimers, if any
-
-Use this section to mention if any particular disclaimer is required
+`na`
