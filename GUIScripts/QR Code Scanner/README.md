@@ -14,7 +14,7 @@
     pip install Pillow
 - Change to the directory where the image will be scanned.
 - Take the user's input and verify whether or not the input file name exists and if it exists then move to the next step.
-- Open the image with the help of **Image** functiom and use **decode** to decode it.
+- Open the image with the help of **Image** function and use **decode** to decode it.
 - Finally, use **UTF-8** to decode the text and show it on the output screen using **put_text** function.
 
 ## Sample Output: 
