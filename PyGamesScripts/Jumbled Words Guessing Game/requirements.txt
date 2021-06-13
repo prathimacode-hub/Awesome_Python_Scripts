@@ -1,0 +1,6 @@
+import tkinter
+from tkinter.constants import END
+from tkinter.font import names
+import random
+from tkinter import Label, messagebox
+from typing import Text
