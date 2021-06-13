@@ -14,8 +14,6 @@ def ipinfo():
     client = IpregistryClient(api_key_ipregistry)  
     ipInfo = client.lookup() 
     x=ipInfo.location
-    #print(x)
-    #print(x['city']+","+x['region']['name']+","+x['country']['name'])
     latitude=x['latitude']
     longitude = x['longitude']
     location=x['city']+","+x['region']['name']+","+x['country']['name']
@@ -56,11 +54,9 @@ class Ui_MainWindow(object):
             latitude, longitude, current_location = ipinfo()
             one_call = mgr.one_call(lat=latitude,lon=longitude)
             forecast_display_func('today')
-            #print("function button_called()")
         def do_action():
             global one_call,current_location
             if(not (user_input_loc:=self.lineEdit.text())==""):
-                #print(user_input_loc)
                 reg = owm.city_id_registry()
                 list_of_loc = reg.locations_for(user_input_loc)
                 try:
@@ -74,7 +70,6 @@ class Ui_MainWindow(object):
             else:
                 one_call = mgr.one_call(lat=latitude, lon=longitude)
         def forecast_display_func(text1):
-            #print(one_call)
             
             current_humidity,current_precipitation_percentage,current_status,current_temp,current_temp_feel,current_wind_speed= current_weather1(one_call)
             flag=True
@@ -151,7 +146,6 @@ class Ui_MainWindow(object):
         self.label_2.setObjectName("label_2")
         self.gridLayout.addWidget(self.label_2, 3, 0, 1, 1)
         self.textBrowser_2 = QtWidgets.QTextBrowser(self.centralwidget)
-        #self.textBrowser_2.setEnabled(True)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
