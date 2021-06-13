@@ -7,3 +7,4 @@
 - [InstagramBot](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/InstagramBot)
 - [NewsScraping](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/NewsScraping)
 - [Current Stock Price](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/Current%20Stock%20Price)
+- [Real-Time Bitcoin Rate](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/Real-Time%20Bitcoin%20Rate)
