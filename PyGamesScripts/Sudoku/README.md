@@ -32,3 +32,7 @@ Have fun!!
 ------------
 ## Output:
 ![Sudoku img](https://github.com/pragyakhanna11/Awesome_Python_Scripts/blob/main/PyGamesScripts/Sudoku/Images/sudoku.jpeg)
+------------
+
+## Author:
+Pragya Khanna
