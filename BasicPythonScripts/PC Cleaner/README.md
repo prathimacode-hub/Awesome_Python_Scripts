@@ -9,7 +9,7 @@
 - Finally, all of the files will be placed in their proper directories.
 
 ## Procedure to follow: 
-- Import oS module
+- Import **OS** module
 - Using the **chdir** function, change the location where the files will be imported.
 - List all of the files using the **listdir** function, and then delete any files that don't have an extension like any folder.
 - Run a loop for all of the files, putting them in the appropriate folders based on their extensions.
