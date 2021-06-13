@@ -1,0 +1,3 @@
+Python= https://www.python.org/
+BeautifulSoup= https://pypi.org/project/beautifulsoup4/
+requests= https://pypi.org/project/requests/
