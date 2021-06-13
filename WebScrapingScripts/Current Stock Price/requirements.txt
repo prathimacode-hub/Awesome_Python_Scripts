@@ -1,0 +1,7 @@
+Libraries Used:
+bs4 (BeautifulSoup)
+requests (Requests)
+
+Install those modules using
+  pip install bs4
+  pip install requests
