@@ -11,8 +11,9 @@ Explain how to setup and run your package/script in user's system: We just need 
 
 
 Output:
-https://user-images.githubusercontent.com/71593494/121782557-af01e700-cbc7-11eb-88a0-691a228a5907.png
-https://user-images.githubusercontent.com/71593494/121782559-b1644100-cbc7-11eb-9f57-8dbbafc2641a.png
+![output_1(grammar)](https://user-images.githubusercontent.com/71593494/121798054-b8c83080-cc41-11eb-804b-ef18a1a11613.png)
+![output_2(grammar)](https://user-images.githubusercontent.com/71593494/121798058-bb2a8a80-cc41-11eb-8054-954ed46a1e18.png)
+
 
 
 Author:
