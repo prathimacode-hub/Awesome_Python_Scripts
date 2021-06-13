@@ -1,3 +1,0 @@
-pip install Pillow
-pip install pyzbar
-pip install pywebio
