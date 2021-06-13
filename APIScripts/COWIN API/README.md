@@ -13,8 +13,6 @@ The API can be used
 - to get available vaccination sessions for 7 days from a specific date in a given pincode.
 - to get available vaccination sessions for 7 days from a specific date in a given district.
     
-<br>
-
 ### Source  
 ### https://apisetu.gov.in/public/api/cowin 
 <br>  
