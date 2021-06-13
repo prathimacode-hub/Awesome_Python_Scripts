@@ -168,7 +168,9 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
   <tr>   
      <td align="center"><a href="https://github.com/Jagannath8"><img src="https://avatars.githubusercontent.com/u/64650848?v=4" width="80px;" alt=""/><br /><sub><b>Jagannath Pal</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Jagannath8" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Jagannath8" title="Documentation">📖</a></td>
      <td align="center"><a href="https://github.com/Manasa2811"><img src="https://avatars.githubusercontent.com/u/57994923?v=4" width="80px;" alt=""/><br /><sub><b>Manasa Rayachoti</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Manasa2811" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Manasa2811" title="Documentation">📖</a></td> 
-</tr>
+     <td align="center"><a href="https://github.com/LasyaGanesuni"><img src="https://avatars.githubusercontent.com/u/66461307?v=4" width="80px;" alt=""/><br /><sub><b>Lasya Ganesuni</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=LasyaGanesuni" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=LasyaGanesuni" title="Documentation">📖</a></td> 
+     <td align="center"><a href="https://github.com/Komal-99"><img src="https://avatars.githubusercontent.com/u/74819092?v=4" width="80px;" alt=""/><br /><sub><b>Komal Gupta</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Komal-99" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Komal-99" title="Documentation">📖</a></td>     
+   </tr>
 </table>
 
 <!-- markdownlint-enable -->
