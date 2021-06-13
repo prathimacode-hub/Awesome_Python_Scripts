@@ -19,5 +19,5 @@
 
 Sample Output: 
 
-![hey](https://user-images.githubusercontent.com/69134468/121784148-eecccc80-cbcf-11eb-9241-e404fb7e3451.gif)
+![hey](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/GUIScripts/QR%20Code%20Scanner/Images/Final.gif)
 
