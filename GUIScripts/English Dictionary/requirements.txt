@@ -1,0 +1,3 @@
+Tkinter -- for creating GUI
+json -- for loading the JSON data
+difflib.get_close_matches -- for getting the closest match of a misspelled word.
