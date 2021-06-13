@@ -22,6 +22,8 @@ Jumbled words guessing game is a game developed in python programming Language u
 3. Run the code and start playing.
 4. Have fun!!
 
+## Real time use and purpose
+ * It is used to play jumbled words game which sharpens your mind and is also a source of distraction 
 
 ## Output
 ![GitHub Logo](Images/guessing.png)
