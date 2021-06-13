@@ -1,5 +1,5 @@
 # Package/Script Name
-## mannu munda
+## mannu mannu
 ## Short description of package/script
 
 - If package, list of functionalities/scripts it can perform
