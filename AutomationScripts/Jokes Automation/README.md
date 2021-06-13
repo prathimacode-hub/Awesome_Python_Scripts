@@ -53,17 +53,19 @@ print(joke)
 
 ##### In CLI
 
-<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/images/img0.png">
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/Images/img0.png">
 
-<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/images/img1.png">
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/Images/img1.png">
 
-<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/images/img2.png">
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/Images/img2.png">
      
 #### In PyCharm
 
-<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/images/img3.png">
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/Images/img3.png">
 
-<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/images/img4.png">
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-3/AutomationScripts/Jokes%20Automation/Images/img4.png">
+
+
 
 #### Contributor
 
