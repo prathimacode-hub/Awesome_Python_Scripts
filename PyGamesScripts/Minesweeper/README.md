@@ -22,7 +22,8 @@
 
 
 ### Output
-![GameOver](https://user-images.githubusercontent.com/65807708/121895288-acc19900-cd3d-11eb-9752-7fab9a90503d.png)
+![GameOver](Images/GameOver.png)
+![Input](Images/Input.png)
 
 
 ### Author👨‍
