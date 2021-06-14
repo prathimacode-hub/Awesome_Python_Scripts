@@ -1,0 +1,4 @@
+Imported Libraries:
+- pygame
+- BeautifulSoup
+- requests
