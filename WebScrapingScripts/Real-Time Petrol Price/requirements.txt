@@ -1,0 +1,4 @@
+Python: https://www.python.org/
+Pandas: https://pandas.pydata.org/
+Requests: https://pypi.org/project/requests/
+BeautifulSoup: https://pypi.org/project/beautifulsoup4/

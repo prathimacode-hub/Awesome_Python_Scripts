@@ -1,0 +1,2 @@
+PyPDF2 -- for PDF operations
+pyttsx3 -- for text to speech conversion

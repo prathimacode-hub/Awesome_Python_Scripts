@@ -9,4 +9,8 @@ image processing can be used for more serious applications, for example, to enha
 
 ## Projects Contributed 
 
-- [Watermark Inserter GUI](https://github.com/rivelez65/Awesome_Python_Scripts/tree/ImageProcessingScripts/ImageProcessingScripts/Watermark%20Inserter%20GUI)
+- [Watermark Inserter GUI](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Watermark%20Inserter%20GUI)
+- [Image Steganography](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Image%20Steganography)
+- [Text To Handwritten Text](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Text%20to%20HandWritten)
+- [Image Blending](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Image%20Blending)
+- [Collage Maker](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Collage%20Maker)
