@@ -10,6 +10,7 @@ screen = pygame.display.set_mode((500,500))
 pygame.display.set_caption("Move the Box")
 clock=pygame.time.Clock()
 
+#we are adding the sprites now
 class Player(pygame.sprite.Sprite):
     def __init__(self):
         pygame.sprite.Sprite.__init__(self)
