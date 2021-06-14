@@ -98,19 +98,19 @@ class App:
                     return False
         return True
 
+    # Driver function to check all cells
     def checkAllCells(self):
         self.checkRows()
         self.checkCols()
         self.checkSmallGrid()
 
+    # To check that there are only numbers from 1-9 only once in the specific square
     def checkSmallGrid(self):
         for x in range(3):
             for y in range(3):
                 possibles = [1,2,3,4,5,6,7,8,9]
-                # print("re-setting possibles")
                 for i in range(3):
                     for j in range(3):
-                        # print(x*3+i, y*3+j)
                         xidx = x*3+i
                         yidx = y*3+j
                         if self.grid[yidx][xidx] in possibles:
@@ -126,6 +126,7 @@ class App:
                                         if self.grid[yidx2][xidx2] == self.grid[yidx][xidx] and [xidx2, yidx2] not in self.lockedCells:
                                             self.incorrectCells.append([xidx2, yidx2])
 
+    # To check that there are only numbers from 1-9 only once in the specific row
     def checkRows(self):
         for yidx, row in enumerate(self.grid):
             possibles = [1,2,3,4,5,6,7,8,9]
@@ -141,6 +142,7 @@ class App:
                                 self.incorrectCells.append([k, yidx])
 
 
+    # To check that there are only numbers from 1-9 only once in the specific column
     def checkCols(self):
         for xidx in range(9):
             possibles = [1,2,3,4,5,6,7,8,9]
@@ -156,6 +158,8 @@ class App:
                                 self.incorrectCells.append([xidx, k])
 
 ##### HELPER FUNCTIONS #####
+
+    # To get sudoku board details from 'nine.websudoku.com'
     def getPuzzle(self, difficulty):
         html_doc = requests.get("https://nine.websudoku.com/?level={}".format(difficulty)).content
         soup = BeautifulSoup(html_doc)
@@ -179,15 +183,18 @@ class App:
         self.grid = board
         self.load()
 
+    # When checked, if cells are incorrect, colour them red
     def shadeIncorrectCells(self, window, incorrect):
         for cell in incorrect:
             pygame.draw.rect(window, INCORRECTCELLCOLOUR, (cell[0]*cellSize+gridPos[0], cell[1]*cellSize+gridPos[1], cellSize, cellSize))
 
-
+    # To shade cells available beforehand to avoid confusion
     def shadeLockedCells(self, window, locked):
         for cell in locked:
             pygame.draw.rect(window, LOCKEDCELLCOLOUR, (cell[0]*cellSize+gridPos[0], cell[1]*cellSize+gridPos[1], cellSize, cellSize))
 
+    # To add number to the selected cell
+    # only between 1-9, 0 won't be printed
     def drawNumbers(self, window):
         for yidx, row in enumerate(self.grid):
             for xidx, num in enumerate(row):
@@ -195,15 +202,18 @@ class App:
                     pos = [(xidx*cellSize)+gridPos[0], (yidx*cellSize)+gridPos[1]]
                     self.textToScreen(window, str(num), pos)
 
+    # To change the shade of the selected cell
     def drawSelection(self, window, pos):
         pygame.draw.rect(window, LIGHTBLUE, ((pos[0]*cellSize)+gridPos[0], (pos[1]*cellSize)+gridPos[1], cellSize, cellSize))
 
+    # To make the sudoku grid of 9x9
     def drawGrid(self, window):
         pygame.draw.rect(window, BLACK, (gridPos[0], gridPos[1], WIDTH-150, HEIGHT-150), 2)
         for x in range(9):
             pygame.draw.line(window, BLACK, (gridPos[0]+(x*cellSize), gridPos[1]), (gridPos[0]+(x*cellSize), gridPos[1]+450), 2 if x % 3 == 0 else 1)
             pygame.draw.line(window, BLACK, (gridPos[0], gridPos[1]+(x*cellSize)), (gridPos[0]+450, gridPos[1]++(x*cellSize)), 2 if x % 3 == 0 else 1)
 
+    # To select different cells on board
     def mouseOnGrid(self):
         if self.mousePos[0] < gridPos[0] or self.mousePos[1] < gridPos[1]:
             return False
@@ -211,6 +221,7 @@ class App:
             return False
         return ((self.mousePos[0]-gridPos[0])//cellSize, (self.mousePos[1]-gridPos[1])//cellSize)
 
+    # To add level and check buttons
     def loadButtons(self):
         self.playingButtons.append(Button(  20, 40, WIDTH//7, 40,
                                             function=self.checkAllCells,
@@ -237,6 +248,7 @@ class App:
                                             params="4",
                                             text="Evil"))
 
+    # Helper function to add text to screen 
     def textToScreen(self, window, text, pos):
         font = self.font.render(text, False, BLACK)
         fontWidth = font.get_width()
@@ -258,6 +270,7 @@ class App:
                 if num != 0:
                     self.lockedCells.append([xidx, yidx])
 
+    # To avoid typing alphabets on board
     def isInt(self, string):
         try:
             int(string)
