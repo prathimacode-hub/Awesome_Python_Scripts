@@ -1,3 +1,4 @@
+Python 3.x (recommended)
 Imported Libraries:
 - pygame
 - BeautifulSoup
