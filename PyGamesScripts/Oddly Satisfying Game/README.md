@@ -11,5 +11,7 @@ PyGame is used to create
 - Use Python IDLE and run the code.
 
 ## Output
+- [animation_image](https://github.com/AK-Subodh/Awesome_Python_Scripts/blob/main/PyGamesScripts/Oddly%20Satisfying%20Game/Images/animation_img.PNG])
+- [main_menu-image](https://github.com/AK-Subodh/Awesome_Python_Scripts/blob/main/PyGamesScripts/Oddly%20Satisfying%20Game/Images/main_menu_img.PNG)
 
 Anshika Subodh Singh
