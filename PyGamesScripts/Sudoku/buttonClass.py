@@ -33,6 +33,7 @@ class Button:
         else:
             self.function()
 
+    # The main driver function
     def drawText(self, text):
         font = pygame.font.SysFont("arial", 20, bold=1)
         text = font.render(text, False, (0,0,0))
