@@ -10,6 +10,12 @@
 It provides you with a sudoku puzzle and you can choose the level. Once done you can also check the puzzle. Puzzle will turn red if incorrect.
 
 ------------
+
+## About Sudoku: 
+- Sudoku is one of the most popular puzzle games of all time. The goal of Sudoku is to fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9. As a logic puzzle, Sudoku is also an excellent brain game. 
+
+------------
+
 ## Code Description:
 - This program consists of 4 files:
   - main.py
@@ -35,4 +41,4 @@ Have fun!!
 ------------
 
 ## Author:
-Pragya Khanna
+[Pragya Khanna](https://github.com/pragyakhanna11)
