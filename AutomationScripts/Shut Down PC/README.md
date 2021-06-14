@@ -1,6 +1,8 @@
 ## Description:
+- With the help of terminal and some modules in Python through which one can shut down a PC by just using voice commands
 - Firstly, you have to input your voice command whether you want to shutdown your computer or not.
 - If "yes", it will shut down your computer; otherwise, it will not. 
+- We have used three modules of Python here, pyaudio is working in the background and is necessary to be installed.
 
 ## Procedure: 
 ```python
@@ -21,3 +23,6 @@ import speech_recognition as sr
 
 ## Sample Output:
 ![LGM](https://github.com/AmitGupta700/Awesome_Python_Scripts/blob/main/AutomationScripts/Shut%20Down%20PC/Images/output.png)
+
+## For any query please contact:
+<a href="https://www.linkedin.com/in/amit-gupta-681206191/">LinkedIn</a>
