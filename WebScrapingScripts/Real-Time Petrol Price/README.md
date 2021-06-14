@@ -11,7 +11,7 @@ BeautifulSoup is a python library for pulling data out of HTML and XML files
 requests module allows you to send HTTP requests and returns a response object with all the response
 
 ## **Real-Time Use & Purpose:**
-Nowdays we are seeing that fuel is becoming necessity in our busy lifestyle. So to always keep eye on the petrol price in some of the major cities of INDIA here's script which displays the real time petrol price and day before price also. It's accuracy is 100%.
+Nowdays we are seeing that fuel is becoming necessity in our busy lifestyle. So to always keep an eye on the petrol price in some of the major cities of INDIA here's script which displays the real time petrol price and day before price also. It's accuracy is 100%.
 
 ## Procedure to follow: 
 - pip install pandas
