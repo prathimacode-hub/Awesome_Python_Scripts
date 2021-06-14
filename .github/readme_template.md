@@ -1,27 +1,20 @@
-# Package/Script Name
+# Title: Snake_game
 
 ## Short description of package/script
 
-- If package, list of functionalities/scripts it can perform
-- If standalone script, short description of script explaining what it achieves.
-- List out the libraries imported.
+- We can play the snake game and we also can check our score.
 
 ## Setup instructions
 
-Explain how to setup and run your package/script in user's system
+We just need to run our project and click on w button from keyboard as it will move upward , to move ther snake downward we have to click  S key and to make it move left A key and for right D key and there you go.
 
-## Detailed explanation of script, if needed
+## Libraries Imported
 
-If code is not explainable using comments, use this sections to explain your script
+Libraries used in this project is Random, Turtle, Time.
 
-## Output
 
-Display images/gifs/videos of output/result of your script so that users can visualize it
 
 ## Author(s)
 
-Name(s) of author(s)
+Muskan Tayal
 
-## Disclaimers, if any
-
-Use this section to mention if any particular disclaimer is required

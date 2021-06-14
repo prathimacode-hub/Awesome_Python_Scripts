@@ -1,11 +1,20 @@
-# PyGames Scripts
+# Title: Snake_game
 
-## Description
+## Short description of package/script
 
-This repository would have all the wide range of games scripts that can programmed and developed using python.
+- We can play the snake game and we also can check our score.
+
+## Setup instructions
+
+We just need to run our project and click on w button from keyboard as it will move upward , to move ther snake downward we have to click  S key and to make it move left A key and for right D key and there you go.
+
+## Libraries Imported
+
+Libraries used in this project is Random, Turtle, Time.
 
 
-## Projects Contributed
 
-- [Ping Pong Game](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/PyGamesScripts/Ping-Pong)
-- [Color Game](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/PyGamesScripts/Color-Game)
+## Author(s) 
+
+Muskan Tayal
+
