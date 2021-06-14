@@ -1,6 +1,6 @@
 # COWIN API
 
-CoWIN is a cloud-based IT solution for planning, implementation, monitoring, and evaluation of Covid-19 vaccination in India.
+COWIN is a cloud-based IT solution for planning, implementation, monitoring, and evaluation of Covid-19 vaccination in India.
 
 <br>
 
