@@ -17,7 +17,7 @@
 1. Install Python 3.x (recommended) from <a href="https://www.python.org/downloads/">here</a>
 2. Download this repository as zip and extract.
 3. Use Python IDLE or PyCharm to run the program.
-4. Run the code and start guessing numbers.<br>
+4. Run the code and start taking input as Row and Column.<br>
 5. Have fun!!
 
 
