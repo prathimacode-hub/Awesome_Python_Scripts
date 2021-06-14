@@ -23,4 +23,4 @@
 
 ## Sample Output: 
 
-![hey](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Distance%20Finder/output.jpg)
+![hey](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Distance%20Finder/Images/output.jpg)
