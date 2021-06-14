@@ -38,6 +38,16 @@ The API can be used
 
 <br> 
 
+# Workflow of the Program
+
+1. Choose the option to obtain details of vaccination sessions
+2. Entering wrong option prompts the user to enter the right option
+3. Enter the date in proper format 
+4. Enter PINCODE or District ID according to the option entered
+5. Obtain the Output
+
+<br> 
+
 # Output
 
 <img src="Images/img3.gif">

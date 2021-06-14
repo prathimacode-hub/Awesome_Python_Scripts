@@ -1,6 +1,7 @@
 import requests
 from termcolor import colored
 
+# Function used for printing output in the terminal in different colors
 def color(s,c='g'):
     if(c=='g'):
         return colored(s,"green")
@@ -65,9 +66,9 @@ try:
 except Exception as e:
     print(e)
                 
-if(opt == 1 or opt == 2):
+if(opt == 1 or opt == 2): 
     sessions = data['sessions']
-    if(len(sessions)==0):
+    if(len(sessions)==0): # When no vaccination session details are obtained
         print(color("\nNO VACCINE SLOTS AVAILABLE !\n",'r'))
     else:    
         for i in sessions:
@@ -79,7 +80,7 @@ if(opt == 1 or opt == 2):
             session_details+= color("PINCODE: ") + str(i['pincode']) + "\n"
             session_details+= color("DATE: ") + i['date'] + "\n"
                 
-            if(i['available_capacity_dose1']>0 or i['available_capacity_dose2']>0):
+            if(i['available_capacity_dose1']>0 or i['available_capacity_dose2']>0): #The available capacity of vaccine dose 1 and dose 2 are checked
                 session_details+= color("TIMINGS: ") + i['from'] + " to " + i['to'] + "\n"
                 session_details+= color("VACCINE: ") + i['vaccine'] + "\n"
                 session_details+= color("MINIMUM AGE LIMIT: ") + str(i['min_age_limit']) + "\n"
@@ -102,17 +103,17 @@ if(opt == 1 or opt == 2):
                 
                 slots = i['slots'] 
                 session_details+= color("\nTIMING SLOTS: ")             
-                print(session_details)
+                print(session_details) #The vaccination session details are displayed to the user
                 for j in slots:
                     print(j)
 
-            else:
-                print(session_details)
+            else: #The condition when the available capacity of vaccine dose 1 and dose 2 are 0
+                print(session_details) #The vaccination session details are displayed to the user
                 print(color("NO VACCINE AVAILABLE !!!\n",'r'))
 
 elif(opt == 3 or opt == 4):
     centers = data['centers']    
-    if(len(centers)==0):
+    if(len(centers)==0): # When no vaccination session details are obtained
         print(color("\nNO VACCINE SLOTS AVAILABLE !\n",'r'))
     else:    
         for i in centers:
@@ -124,11 +125,11 @@ elif(opt == 3 or opt == 4):
             center_details+= color("ADDRESS: ") + i['address'] + "\n"
             center_details+= color("LOCATION: ") + i['block_name'] + " " + i['district_name'] + " " + i['state_name'] + "\n"
             center_details+= color("PINCODE: ") +i['pincode'] + "\n"
-            print(center_details)
+            print(center_details) #The vaccination center details are displayed to the user
             flag=0 #flag variable to check if vaccine is available
             for j in sessions:
                 session_details = "\n"            
-                if(j['available_capacity_dose1']>0 or j['available_capacity_dose2']>0):
+                if(j['available_capacity_dose1']>0 or j['available_capacity_dose2']>0): #The available capacity of vaccine dose 1 and dose 2 are checked
                     flag = 1
                     if(flag==1): session_details+= color("AVAILABLE SESSIONS",'g') + "\n\n"
                     session_details+= color("DATE: ") + j['date'] + "\n"
@@ -157,7 +158,7 @@ elif(opt == 3 or opt == 4):
                     
                     slots = j['slots'] 
                     session_details+= color("\nTIMING SLOTS: ")
-                    print(session_details)
+                    print(session_details)  #The vaccination session details are displayed to the user
                     for k in slots:
                         print(k)
 
