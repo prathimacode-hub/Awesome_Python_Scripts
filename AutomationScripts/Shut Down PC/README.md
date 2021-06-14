@@ -20,3 +20,4 @@ import speech_recognition as sr
   - Method to self shut down system.
 
 ## Sample Output:
+![LGM](https://github.com/AmitGupta700/Awesome_Python_Scripts/blob/main/AutomationScripts/Shut%20Down%20PC/Images/output.png)
