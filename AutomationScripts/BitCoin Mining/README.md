@@ -46,6 +46,8 @@ The script has no drawbacks, but due to the increase in miners, the difficulty l
 
 
 ## OUTPUT :
+![Sample](https://user-images.githubusercontent.com/65017645/121875123-b9d28e00-cd25-11eb-83cf-08980046c540.png)
+
 
 
 
