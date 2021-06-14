@@ -25,10 +25,10 @@
 ****
 
 <p align="center">
-  <img width = 700 src="images/1.jpg" /><br>
-  <img width = 700 src="images/2.jpg" /><br>
-  <img width = 700 src="images/3.jpg" /><br>
-  <img width = 700 src="images/4.jpg" /><br>
+  <img width = 700 src="Images/1.jpg" /><br>
+  <img width = 700 src="Images/2.jpg" /><br>
+  <img width = 700 src="Images/3.jpg" /><br>
+  <img width = 700 src="Images/4.jpg" /><br>
 </p>
 
 ****
