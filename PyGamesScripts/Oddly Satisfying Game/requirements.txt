@@ -1,0 +1,3 @@
+Important librarires used:
+- PyGame
+- Random
