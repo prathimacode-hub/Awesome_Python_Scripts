@@ -1,0 +1,7 @@
+Prerequisites
+
+Python3
+Tkinter - pip install tkinter
+MYSQL Database
+Next you have to install mysql.connector, for that go to command promt and use this command
+pip3 install mysql-connector
