@@ -1,4 +1,5 @@
 import tkinter
+#importing tkinter
 
 root = tkinter.Tk()
 
@@ -8,7 +9,7 @@ root.title("Calculator")
 
 expression = ""
 
-# Create functions
+# Creating functions
 def add(value):
     global expression
     expression += value
@@ -30,9 +31,14 @@ def calculate():
             expression = ""
     label_result.config(text=result)
             
-# Create GUI
+# Creating GUI
+
+#adding the name hello in the row 1 and column 0 line.
+
 label_result = tkinter.Label(root, text="hello")
 label_result.grid(row=1, column=0, columnspan=6)
+
+#created the layout for the calculator app
 
 but_1 = tkinter.Button(root, text="1", command=lambda: add("1"),bg='blue', fg='white')
 
@@ -86,5 +92,6 @@ but_add.grid(row=7, column=3)
 
 but_equals = tkinter.Button(root, text="=", width=16, command=lambda: calculate())
 but_equals.grid(row=9, column=0, columnspan=4)
+#completed creating GUI design for python.
 
 root.mainloop()
