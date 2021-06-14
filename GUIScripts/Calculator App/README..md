@@ -14,6 +14,7 @@ I have created function for adding values, clear when we don't won't to calculat
 
 ## Output
 ### opening view
+you can see the outputs in the link : https://github.com/manognyaa/Awesome_Python_Scripts/tree/main/GUIScripts/Calculator%20App/Images
 ![cal 1](https://user-images.githubusercontent.com/77045147/121802540-7eb75880-cc5a-11eb-98b1-59f10db2258c.png)
 
 ### multiplying 9*3
