@@ -1,0 +1,3 @@
+python= https://www.python.org/
+yagmail= https://pypi.org/project/yagmail/
+SMTP= https://www.javatpoint.com/simple-mail-transfer-protocol
