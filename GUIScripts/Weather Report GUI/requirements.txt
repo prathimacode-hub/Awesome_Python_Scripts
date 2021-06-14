@@ -1,0 +1,4 @@
+#requirements 
+pyqt5==5.15.4
+pyowm==3.2.0
+ipregistry==3.0.0
