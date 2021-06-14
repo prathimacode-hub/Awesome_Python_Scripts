@@ -22,12 +22,8 @@
 
 
 ### Output
-<img align="center" alt="output"  src="Images/GameOver.PNG" />
+![GameOver](https://user-images.githubusercontent.com/65807708/121895288-acc19900-cd3d-11eb-9752-7fab9a90503d.png)
+
 
 ### Author👨‍
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/codeaholic-shub"><img src="https://avatars.githubusercontent.com/u/64949957?v=4" height="120px" width="120px"/><br/>
-      <sub><b>Shubhankar Poddar👨‍💻</b></sub></a></td>
-  </tr>
-</table>
+[Shubhankar Poddar](https://github.com/codeaholic-shub)
