@@ -42,6 +42,6 @@ python weather_report.py
 
 # SAMPLE OUTPUT
 
-![output1](https://user-images.githubusercontent.com/59509590/121817155-3ec59500-cc9d-11eb-925d-9021c1685910.PNG)
-![output2](https://user-images.githubusercontent.com/59509590/121817168-50a73800-cc9d-11eb-949d-bdd0f9eeb666.PNG)
+<img src='Images\output1.png'>
+<img src='Images\output2.png'>
 

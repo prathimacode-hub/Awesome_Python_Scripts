@@ -11,6 +11,7 @@ mgr = owm.weather_manager()
 api_key_ipregistry="Your_API_key_for ipregistry" #get your API key from https://ipregistry.co/
 
 def ipinfo():
+    #to get the IP address of the user
     client = IpregistryClient(api_key_ipregistry)  
     ipInfo = client.lookup() 
     x=ipInfo.location
@@ -26,6 +27,7 @@ one_call = mgr.one_call(lat=latitude, lon=longitude)
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         def current_weather1(one_call):
+            #function to return current weather details
             current_humidity=str(one_call.current.humidity)
             current_precipitation_percentage=one_call.current.precipitation_probability
             if(type(current_precipitation_percentage)==int or type(current_precipitation_percentage)==float):
@@ -37,6 +39,7 @@ class Ui_MainWindow(object):
             return(current_humidity,str(current_precipitation_percentage),current_status,current_temp,current_temp_feel,current_wind_speed)
 
         def forecastfunc(day,one_call):
+            #function to return future forecasted weather details of user chosen date
             forecast_humidity = str(one_call.forecast_daily[day].humidity)
             forecast_precipitation_percentage = str(one_call.forecast_daily[day].precipitation_probability)
             forecast_status = str(one_call.forecast_daily[day].status)
@@ -47,6 +50,7 @@ class Ui_MainWindow(object):
             forecast_windspeed = str(one_call.forecast_daily[day].wnd['speed'])
             return(forecast_humidity,forecast_precipitation_percentage,forecast_status,forecast_temp_max,forecast_temp_min,forecast_feelslike)
         def button_Called():
+            #function to present current weather feathers at user's location
             global one_call,current_location
             self.lineEdit.setText('')
             self.lineEdit.setPlaceholderText("default your location is considered")
@@ -70,6 +74,7 @@ class Ui_MainWindow(object):
             else:
                 one_call = mgr.one_call(lat=latitude, lon=longitude)
         def forecast_display_func(text1):
+            #function to display the weather report 
             
             current_humidity,current_precipitation_percentage,current_status,current_temp,current_temp_feel,current_wind_speed= current_weather1(one_call)
             flag=True
@@ -88,11 +93,12 @@ class Ui_MainWindow(object):
                 self.textBrowser_2.clear()
                 self.textBrowser_2.append('<div style="font: 12pt "Comic Sans MS"";><p>forecast humidity: '+forecast_humidity+'%'+'</p><p>forecast precipitation percentage: '+forecast_precipitation_percentage+'%'+'</p><p>forecast status: '+forecast_status+'</p><p>forecast maximum temperature: '+forecast_temp_max+'°C'+'</p><p>forecast minimum temperature: '+forecast_temp_min+'°C'+'</p><p>forecast average feel temperature: '+forecast_feelslike+'°C'+'</p><p>at location: '+current_location+'</p>')
         
+        #code for GUI tempelate
 
         MainWindow.setObjectName("MainWindow")
         MainWindow.resize(915, 685)
         icon = QtGui.QIcon()
-        icon.addPixmap(QtGui.QPixmap("weather icon.png"), QtGui.QIcon.Normal, QtGui.QIcon.On)
+        icon.addPixmap(QtGui.QPixmap("Images\weather icon.png"), QtGui.QIcon.Normal, QtGui.QIcon.On)
         MainWindow.setWindowIcon(icon)
         MainWindow.setStyleSheet("")
         self.centralwidget = QtWidgets.QWidget(MainWindow)
@@ -126,7 +132,7 @@ class Ui_MainWindow(object):
         self.pushButton_3.setSizePolicy(sizePolicy)
         self.pushButton_3.setMinimumSize(QtCore.QSize(712, 120))
         self.pushButton_3.setMaximumSize(QtCore.QSize(16777215, 120))
-        self.pushButton_3.setStyleSheet("border-radius: 20px;background-image: url(clear sky.jpg);font: 20pt \"MS Shell Dlg 2\";text-align:center;")
+        self.pushButton_3.setStyleSheet("border-radius: 20px;background-image: url(Images\clear sky.jpg);font: 20pt \"MS Shell Dlg 2\";text-align:center;")
         self.pushButton_3.setIcon(icon)
         self.pushButton_3.setIconSize(QtCore.QSize(100, 100))
         self.pushButton_3.setAutoRepeatDelay(1)
