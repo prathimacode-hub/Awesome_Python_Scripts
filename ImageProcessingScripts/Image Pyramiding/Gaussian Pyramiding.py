@@ -1,45 +1,45 @@
-''' image pyramids are of two type that are:
-1.Gaussian pyramid
-2.Laplacian pyramid
-below is the implemntation of gaussian pyramid using pyrDown()
-fuction upto 5 levels'''
-############## Gaussian Pyramis #######################
-'''import cv2
-import numpy as np
-image = cv2.imread("ElonMusk.jpg")
-layers = image.copy()
-gaussian_p = [layers]
-for i in range(5):
-    layers = cv2.pyrDown(layers) 
-    gaussian_p.append(layers)
-    cv2.imshow(str(i), layers)
-cv2.imshow("original image", image)
-cv2.waitKey(0)
-cv2.destroyAllWindows()'''
 
-################### Laplacian Pyramid ###################
-import cv2
-import numpy as np
-image = cv2.imread("ElonMusk.jpg")
-image = cv2.resize(image,(256,256))
-layers = image.copy()
-gaussian_p = [layers]
-
-for i in range(5):
-    layers = cv2.pyrDown(layers) 
-    gaussian_p.append(layers)
-    #cv2.imshow(str(i), layers)
-
-layers = gaussian_p[4]
-cv2.imshow("this is upper level gaussian pyramid",layers)
-lp = [layers]
-
-for i in range(4, 0 ,-1):
-    size = (gaussian_p[i-1].shape[1],gaussian_p[i-1].shape[0])
-    gaussian_extend = cv2.pyrUp(gaussian_p[i], dstsize=size)
-    laplacian = cv2.subtract(gaussian_p[i-1], gaussian_extend)
-    cv2.imshow(str(i), laplacian)
-
-cv2.imshow("original image", image)
-cv2.waitKey(0)
-cv2.destroyAllWindows()
+import cv2 as cv
+import numpy as np,sys
+# images used are present in images folder
+A = cv.imread('apple.jpg')
+B = cv.imread('orange.jpg')
+# generate Gaussian pyramid for A
+G = A.copy()
+gpA = [G]
+for i in range(6):
+    G = cv.pyrDown(G)
+    gpA.append(G)
+# generate Gaussian pyramid for B
+G = B.copy()
+gpB = [G]
+for i in range(6):
+    G = cv.pyrDown(G)
+    gpB.append(G)
+# generate Laplacian Pyramid for A
+lpA = [gpA[5]]
+for i in range(5,0,-1):
+    GE = cv.pyrUp(gpA[i])
+    L = cv.subtract(gpA[i-1],GE)
+    lpA.append(L)
+# generate Laplacian Pyramid for B
+lpB = [gpB[5]]
+for i in range(5,0,-1):
+    GE = cv.pyrUp(gpB[i])
+    L = cv.subtract(gpB[i-1],GE)
+    lpB.append(L)
+# Now add left and right halves of images in each level
+LS = []
+for la,lb in zip(lpA,lpB):
+    rows,cols,dpt = la.shape
+    ls = np.hstack((la[:,0:cols/2], lb[:,cols/2:]))
+    LS.append(ls)
+# now reconstruct
+ls_ = LS[0]
+for i in range(1,6):
+    ls_ = cv.pyrUp(ls_)
+    ls_ = cv.add(ls_, LS[i])
+# image with direct connecting each half
+real = np.hstack((A[:,:cols/2],B[:,cols/2:]))
+cv.imwrite('Pyramid_blending2.jpg',ls_)
+cv.imwrite('Direct_blending.jpg',real)
