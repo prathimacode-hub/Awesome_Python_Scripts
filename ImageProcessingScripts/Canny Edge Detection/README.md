@@ -23,8 +23,18 @@
   <li>Displaying the Output image after applying canny edge detection algorithm.</l
   </p>
   
-  <h2>Let's Take a Look at the Sample output:<h2>
+  <h2>Let's Take a Look at the Sample output:</h2>
+    <div>
     <b>Original Image</b>
     <p><img src="Images\flower.jpg" width=300 heigth=300/></p>
     <b>Canny Edge Detected Image</b>
-    <p><img src"Images\demo1.PNG" width=300 height=300/></p>
+    <p><img src="Images\demo1.PNG" width=300 height=300/></p>
+    </div>
+    
+  <div>
+    <b>Original Image</b>
+    <p><img src="Images\flower1.jpg" width=300 heigth=300/></p>
+    <b>Canny Edge Detected Image</b>
+    <p><img src="Images\demo2.PNG" width=300 height=300/></p>
+   </div>
+      
