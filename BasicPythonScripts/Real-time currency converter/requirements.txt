@@ -1,0 +1,6 @@
+We need to install a module to get real time currency conversion data that is
+
+[forex-python](https://pypi.org/project/forex-python/)
+
+you can install it by using the following command in ur command line
+pip install forex-python
