@@ -16,6 +16,8 @@ link : https://github.com/manognyaa/Awesome_Python_Scripts/blob/main/PyGamesScri
 ## Output
 I have shared the gif and images of how the game works, please do have a look.
 
+![game _you or me](https://user-images.githubusercontent.com/77045147/121993691-91986d00-cdc1-11eb-84c4-c8fb933bf8d4.gif)
+
 link : https://github.com/manognyaa/Awesome_Python_Scripts/tree/main/PyGamesScripts/YOU_or_ME/Images
 
 ## Author(s)
