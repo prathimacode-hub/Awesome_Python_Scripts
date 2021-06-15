@@ -20,10 +20,14 @@ pip install forex-python
 
 # Usage
 ### After compiling
+![image](https://user-images.githubusercontent.com/81758092/122045989-f8d31300-cdfb-11eb-915a-57f2dcbbf17d.png)
 
 ### Entering the required options
+![image](https://user-images.githubusercontent.com/81758092/122046104-1ef8b300-cdfc-11eb-8cbc-9936bf22253b.png)
+
 
 ### If a wrong option is entered
+![image](https://user-images.githubusercontent.com/81758092/122046023-05f00200-cdfc-11eb-8eb0-b56f99cc5800.png)
 
 
 # Author
