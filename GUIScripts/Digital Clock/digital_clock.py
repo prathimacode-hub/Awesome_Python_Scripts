@@ -24,7 +24,3 @@ fnt=font.Font(family='Helvetica',size=120, weight="bold")
 txt=StringVar()
 lbl=ttk.Label(root,textvariable=txt, font=fnt ,foreground="white" , background="black")
 lbl.place(relx=0.5, rely=0.5 , anchor=CENTER)
-root.mainLoop()
-
-
-
