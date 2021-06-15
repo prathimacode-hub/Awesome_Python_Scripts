@@ -25,4 +25,6 @@
   
   <h2>Let's Take a Look at the Sample output:<h2>
     <b>Original Image</b>
-    <img src="Images/flower.JPG"/>
+    <p><img src="Images\flower.jpg" width=300 heigth=300/></p>
+    <b>Canny Edge Detected Image</b>
+    <p><img src"Images\demo.PNG" width=300 height=300/></p>
