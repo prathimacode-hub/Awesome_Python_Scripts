@@ -7,6 +7,7 @@ This is a data management system for the employee or staff of the Banks. Manager
 
 ## How to run?
 > pip install python
+>
 > pip install tkinter
 
 ## Let's see some snaphots!
