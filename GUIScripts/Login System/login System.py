@@ -2,7 +2,7 @@ from tkinter import *
 import tkinter.messagebox as tsmg
 
 root=Tk()
-
+#Taking input from user
 def check():
     a=uname.get()
     b=pwd.get()
@@ -21,7 +21,7 @@ def check():
     uname.set("")
     pwd.set("")
     cpwd.set("")
-
+# This function save the data in login.txt file entered by the user
 def save():
     a=uname.get()
     b=pwd.get()
@@ -58,6 +58,7 @@ uname=StringVar()
 pwd=StringVar()
 cpwd=StringVar()
 
+#Heading title of the front page
 root.geometry("700x500")
 root.title("Welcome To My Page")
 
