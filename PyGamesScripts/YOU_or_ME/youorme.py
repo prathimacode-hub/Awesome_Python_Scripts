@@ -1,8 +1,10 @@
+#let's import the stuffs which will  help in game
 import numpy as np
 import pygame
 import sys
 import math
 
+#now, let's initialize the colors of the game
 BLUE=(0,255,255)
 BLACK=(0,0,0)
 RED=(255,0,0)
@@ -10,7 +12,7 @@ YELLOW=(255,255,0)
 
 ROW_COUNT=6
 COLUMN_COUNT=7
-
+#creating a board
 def create_board():
     board=np.zeros((ROW_COUNT,COLUMN_COUNT))
     return board
@@ -41,14 +43,14 @@ def winning_move(board,piece):
             if board[r][c]==piece and board[r+1][c]==piece and board[r+2][c] and board[r+3][c]==piece:
                 return True
 
-    #CHECK POSITIVE SLOPE DIAGONALS
+    #Checking Positive Slope DIAGONALS
     for c in range(COLUMN_COUNT-3):
         for r in range(ROW_COUNT-3):
             if board[r][c]==piece and board[r+1][c+1]==piece and board[r+2][c+2] and board[r+3][c+3]==piece:
                 return True
 
 
-    #CHECK NEGATIVE DIAGONALS
+    #Checking Negative  Slope DIAGONALS
     for c in range(COLUMN_COUNT-3):
         for r in range(3,ROW_COUNT):
             if board[r][c]==piece and board[r-1][c+1]==piece and board[r-2][c+2] and board[r-3][c+3]==piece:
@@ -67,7 +69,7 @@ def draw_board(board):
 
             elif board[r][c]==2:
                 pygame.draw.circle(screen,YELLOW,(int(c*SQUARESIZE+SQUARESIZE/2),height-int(r*SQUARESIZE+SQUARESIZE/2)),RADIUS)
-
+#updating the pygame
     pygame.display.update()
 
 
@@ -79,6 +81,7 @@ turn=0
 pygame.init()
 SQUARESIZE=100
 
+#adjusting the width and height
 width=COLUMN_COUNT*SQUARESIZE
 height=(ROW_COUNT+1)*SQUARESIZE
 
@@ -92,6 +95,7 @@ pygame.display.update()
 
 myfont=pygame.font.SysFont("monosoace",75)
 
+#let's create a loop, where the loop will exists until it is false
 while not game_over:
     for event in pygame.event.get():
         if event.type==pygame.QUIT:
@@ -124,7 +128,7 @@ while not game_over:
                         label=myfont.render("Player 1 wins!!",1,RED)
                         screen.blit(label,(40,10))
                         game_over=True
-
+#if-else ladder
 
             else:
                 posx=event.pos[0]
@@ -149,6 +153,6 @@ while not game_over:
 
             turn+=1
             turn=turn%2
-
+# when the loop is false, then return  
             if game_over:
                 pygame.time.wait(3000)
