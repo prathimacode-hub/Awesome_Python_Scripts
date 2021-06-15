@@ -31,4 +31,4 @@ cd AutomationScripts
 python Covid-19_cases_notifier.py
 ```
 4. Output Screenshot.
-https://github.com/Komal-99/Awesome_Python_Scripts/blob/covid_cases_bot/AutomationScripts/Covid_cases_bot/Images/screenshot.jpg
+<img src="https://github.com/Komal-99/Awesome_Python_Scripts/blob/covid_cases_bot/AutomationScripts/Covid_cases_bot/Images/screenshot.jpg">
