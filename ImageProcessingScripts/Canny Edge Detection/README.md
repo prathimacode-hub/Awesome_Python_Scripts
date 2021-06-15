@@ -1,0 +1,28 @@
+<h1>Canny Edge Detection</h1>
+<h2>Introduction</h2>
+<p>The Canny edge detector is an edge detection operator that uses a multi-stage algorithm to detect a wide range of edges in images. 
+  The Canny edge detector is arguably the most well known and the most used edge detector in all of computer vision and image processing.
+  OpenCV provides method to seamlessly implement Canny edge detection over any images using <b>canny() method.</b>
+  <p>
+  The Canny edge detection algorithm is composed of 5 steps:</p>
+  <ul>
+  <li>Noise reduction</li>
+  <li>Gradient calculation</li>
+  <li>Non-maximum suppression</li>
+  <li>Double threshold</li>
+<li>Edge Tracking by Hysteresis.</li>
+    </ul>
+  </p>
+  
+  <h2>How does it work</h2>
+  <p>
+  <li>Input any images that you want to apply canny edge opeartion.</li>
+  <li>Reading the input images</li>
+  <li>Displaying original images</li>
+  <li>Applying canny() method of OpenCV to detect edges of the input images</li>
+  <li>Displaying the Output image after applying canny edge detection algorithm.</l
+  </p>
+  
+  <h2>Let's Take a Look at the Sample output:<h2>
+    <b>Original Image</b>
+    <img src="Images/flower.JPG"/>
