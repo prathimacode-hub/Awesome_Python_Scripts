@@ -22,7 +22,7 @@ sys			~  provides various functions and variables that are used to manipulate 		
 
 
 ## Output :
-Output Screenshot:
+Output Screenshot:  
 ![Output Image](Images/output_ss.png)
 
 Short URL website Screenshot:
