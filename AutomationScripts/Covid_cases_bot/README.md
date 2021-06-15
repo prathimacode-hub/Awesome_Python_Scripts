@@ -28,6 +28,7 @@ cd AutomationScripts
 3. Launch the script for compilation of program 
 
 ```
-python covid_cases.py
+python covid-19_cases_notifier.py
 ```
 4. Output Screenshot.
+https://github.com/Komal-99/Awesome_Python_Scripts/blob/covid_cases_bot/AutomationScripts/Covid_cases_bot/Images/screenshot.jpg
