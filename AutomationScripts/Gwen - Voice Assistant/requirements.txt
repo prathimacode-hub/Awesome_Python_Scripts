@@ -1,0 +1,5 @@
+Packages required for this script are :
+ i)   requests
+ii)   pyttsx3 // this library will help to convert text to speech
+iii)  speech_recognition // this library will help to recognize the speech pattern
+iv )  pyaudio 
