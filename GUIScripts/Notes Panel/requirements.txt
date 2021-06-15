@@ -1,0 +1,8 @@
+The librabries I have imported are :
+---
+import tkinter
+from tkinter import Toplevel, Frame, X, TOP, Label, RIGHT, LEFT, BOTH, Tk
+import tkinter.scrolledtext as tkst
+from tkinter import messagebox
+from tkinter import font
+---
