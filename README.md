@@ -181,6 +181,8 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 Anshika Subodhkumar</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=AK-Subodh" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=AK-Subodh" title="Documentation">📖</a></td> 
      <td align="center"><a href="https://github.com/Bhuvanharsha16"><img src="https://avatars.githubusercontent.com/u/81758092?v=4" width="80px;" alt=""/><br /><sub><b>
 Kodali Bhuvan SriHarsha</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Bhuvanharsha16" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=Bhuvanharsha16" title="Documentation">📖</a></td>   
+     <td align="center"><a href="https://github.com/shreyamalogi"><img src="https://avatars.githubusercontent.com/u/64030739?v=4" width="80px;" alt=""/><br /><sub><b>
+Shreya Christiana</b></sub></a><br /><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=shreyamalogi" title="Code">💻</a> <a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/commits?author=shreyamalogi" title="Documentation">📖</a></td>   
    </tr>
 </table>
 
