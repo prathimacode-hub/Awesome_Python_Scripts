@@ -9,3 +9,4 @@ GUI Scripts are a collection of scripts/projects which are designed for human in
 - [Text Trranslator](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Alarm%20Clock)
 - [My Routine Database System](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts/My%20Routine%20Database%20System)
 - [QR Code Scanner](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts/QR%20Code%20Scanner)
+- [Bank Management System](https://github.com/thegautamkumarjaiswal/Awesome_Python_Scripts/tree/main/GUIScripts/Bank_ManagmentSystem)
