@@ -14,3 +14,5 @@ Automation Scripts is a collection of scripts/projects which helps us in automat
 - [QRCode Generator](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/Qrcode%20Generator)
 - [Random Email Generator](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/Random%20Email%20Generator)
 - [ShutDown PC Using Voice](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/Shut%20Down%20PC)
+- [Covid-19 Cases Notifier](https://github.com/Komal-99/Awesome_Python_Scripts/tree/covid_cases_bot/AutomationScripts/Covid_cases_bot)
+
