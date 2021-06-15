@@ -27,4 +27,4 @@
     <b>Original Image</b>
     <p><img src="Images\flower.jpg" width=300 heigth=300/></p>
     <b>Canny Edge Detected Image</b>
-    <p><img src"Images\demo.PNG" width=300 height=300/></p>
+    <p><img src"Images\demo1.PNG" width=300 height=300/></p>
