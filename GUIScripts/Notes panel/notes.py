@@ -1,4 +1,4 @@
-# sticky notes application
+# starting with importing the packages
 import tkinter
 from tkinter import Toplevel, Frame, X, TOP, Label, RIGHT, LEFT, BOTH, Tk
 import tkinter.scrolledtext as tkst
@@ -7,7 +7,7 @@ from tkinter import font
 
 no_of_windows = 1
 
-
+#let's start
 class StickyNotes(Toplevel):
     
     def __init__(self, master, **kwargs):
@@ -15,7 +15,7 @@ class StickyNotes(Toplevel):
         self.yclick = 0
         
 
-        # master (root) window
+        # master of (root) window
         self.overrideredirect(True)
         global no_of_windows
         self.geometry('450x450+' + str(1000+no_of_windows*(-30)
@@ -25,7 +25,7 @@ class StickyNotes(Toplevel):
         self.attributes('-topmost', 'true')
         self.resizable(True, True)
 
-        # titlebar
+        # creating the  titlebar
         self.titlebar = Frame(self, bg='#0859C6', relief='flat', bd=2)
         self.titlebar.bind('<Button-1>', self.get_pos)
         self.titlebar.bind('<B1-Motion>', self.move_window)
