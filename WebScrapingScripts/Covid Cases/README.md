@@ -49,16 +49,16 @@ print(data)
 
 #### In CLI
 
-<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-4/WebScrapingScripts/COVID19_Cases/Images/corona3.png">
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-4/WebScrapingScripts/Covid%20Cases/Images/corona3.png">
 
 
-<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-4/WebScrapingScripts/COVID19_Cases/Images/corona4.png">
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-4/WebScrapingScripts/Covid%20Cases/Images/corona4.png">
 
 #### In PyCharm
 
-<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-4/WebScrapingScripts/COVID19_Cases/Images/corona1.png">
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-4/WebScrapingScripts/Covid%20Cases/Images/corona1.png">
 
-<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-4/WebScrapingScripts/COVID19_Cases/Images/corona2.png">
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-4/WebScrapingScripts/Covid%20Cases/Images/corona2.png">
 
 ## Contributor
 <a href="https://github.com/Umesh-01">Umesh Singh</a>
