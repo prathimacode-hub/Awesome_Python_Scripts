@@ -1,4 +1,4 @@
-# COVID-19 Cases
+# COVID Cases
 
 For COVID-19 Cases we are using the concept of web scraping, where we are fetching the data from a website called Worldometers. In this project we can fetch the data of Coronavirus (COVID-19) cases for any country in the World. 
 
