@@ -14,3 +14,4 @@ GUI Scripts are a collection of scripts/projects which are designed for human in
 - [Calendar GUI](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts/GUI%20Calendar)
 - [The Spirograph](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts/The%20Spirograph)
 - [Weather Report GUI](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts/Weather%20Report%20GUI0)
+
