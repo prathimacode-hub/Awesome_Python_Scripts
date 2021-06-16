@@ -2,10 +2,12 @@
 **Black_jack_Game**
 ## Short description of package/script
 
-####Used Module:
-- Random
+<p>This is simple version of the black jack game  you have given a list of two when your cards total is greater than 21 it will call black jack and you will loose,if your card's total is less than 17 you have to pick a card mandatory.At the end you will stop picking your card the game will end it will show what the are cards does the computer have.After that who has the greater number in total cards they will win</p> </br>
 
+<p> This project is made to use the concept of list and functions properly></p>
 
+# Setup
+Copy the project to your local enviroment and that's all this code can be run on any python IDE.
 ## Detailed explanation of script, if needed
 
  #### _**OUR GAME RULES**_
@@ -22,7 +24,7 @@
 
 
 ## Output
-![wow](black_jack.png)
+![wow](image/black_jack.png)
 
 ## Author(s)
 ##### _Archisman Saha_
