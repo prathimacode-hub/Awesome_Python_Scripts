@@ -10,7 +10,7 @@ end = 30
 
 def displayBoard():
     img = Image.open(
-        "Text_based Snakes and Ladders game/images/snakes-and-ladders.jpg")
+        "Snakes and Ladders Game/Images/snakes-and-ladders.jpg")
     # To view the image, we need to call the show() function in Image module
     img.show()
 

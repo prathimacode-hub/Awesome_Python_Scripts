@@ -52,7 +52,7 @@ Yeah, we developed the game successfully!
 
 ### Screenshot of the game (Output)
 
-![Game Image 1](images/output.png)
+![Game Output Image](Images/output.png)
 
 ### Author
 
