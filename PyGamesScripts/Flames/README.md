@@ -10,7 +10,9 @@ Once, you install the code in your local computer, run it. It will work successf
 
 ## Detailed explanation of script, if needed
 
-I have added the comments wherever needed please do have a look over there .
+I have first set the focus of the field of player 1 and created a background for the game. Added grid method is used for placing the widgets at respective positions. I have created a submit button and clear button. and created a while loop to get the result. 
+
+For more information, I have added the comments wherever needed please do have a look over there .
 link : https://github.com/manognyaa/Awesome_Python_Scripts/blob/main/PyGamesScripts/Flames/Flames.py
 ## Output
 I have shared the gif and images of how the game works, please do have a look.
