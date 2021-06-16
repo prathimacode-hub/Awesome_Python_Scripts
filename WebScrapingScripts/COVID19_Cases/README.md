@@ -1,4 +1,4 @@
-# COVID-19 Cases 
+# COVID-19 Cases
 
 For COVID-19 Cases we are using the concept of web scraping, where we are fetching the data from a website called Worldometers. In this project we can fetch the data of Coronavirus (COVID-19) cases for any country in the World. 
 
@@ -14,7 +14,55 @@ Requests allows you to send HTTP/1.1 requests extremely easily. There’s no nee
 
 ## Install
 
+Install with `pip` command in any terminal
+
+```python
+pip install beautifulsoup4
+
+pip install requests
+```
 
 ## Working
 
+Import the `beautifulsoup4` and `requests` libraries in the Python file that you are going to use to get the Covid-19 cases information. These libraries provide functions to easily get the information from any web page to your console/application.
 
+For example-
+
+```python
+import bs4
+
+import requests
+
+url = "https://something.com/something"
+
+res = requests.get(url)
+
+data = bs4.BeautifulSoup(res.text, 'lxml')
+
+print(data)
+```
+OR
+```python
+from bs4 import BeautifulSoup
+
+import requests
+
+url = "https://something.com/something"
+
+res = requests.get(url)
+
+data = BeautifulSoup(res.text, 'lxml')
+
+print(data)
+```
+
+## Screenshots
+
+#### In CLI
+
+
+#### In PyCharm
+
+
+## Contributor
+<a href="https://github.com/Umesh-01">Umesh Singh</a>
