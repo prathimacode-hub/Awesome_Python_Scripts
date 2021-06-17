@@ -3,7 +3,7 @@
 #  The Indian Flag
 A spirograph is a very interesting geometrical figure which is often symmetrical to both the axes.Here, I’ve used a range of colors to draw circles, you can use your combination as per your color choice.
 
-![](https://github.com/shreyamalogi/Awesome_Python_Scripts/blob/main/GUIScripts/The%20Spirograph/Images/spirograph.png)
+![](https://github.com/shreyamalogi/Awesome_Python_Scripts/blob/main/GUIScripts/The%20Indian%20Flag/Images/indian%20flag.png)
 
 What is Turtle?
 Turtle is a pre-installed Python library. It enables users to create pictures and shapes by providing them with a virtual canvas. The onscreen pen that you use for drawing is called as turtle.
@@ -13,11 +13,11 @@ The turtle has three attributes: a location, an orientation (or direction), and 
 Moving the Turtle Head
 The turtle can move in four directions:
 
-Forward
-Backward
-Left
-Right
-If you wish to know more about it, you can refer to Turtle Documentation. Use this link to navigate to the documentation.
+Forward,
+Backward,
+Left,
+Right.
+
 
 # PREREQUISITES
 * Have Python 3.x setup in the system
