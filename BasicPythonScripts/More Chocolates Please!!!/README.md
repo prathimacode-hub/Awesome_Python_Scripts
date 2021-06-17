@@ -5,7 +5,7 @@ Title: **More Chocolates Please
 **Setup instructions** :
 You can use Jupyter Notebook or Google Colab to run the program.
 
-**Detailed explanation of script**
+**Detailed explanation of script** : 
 
 Sample input:
 
