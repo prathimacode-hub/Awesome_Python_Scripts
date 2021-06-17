@@ -1,7 +1,7 @@
 ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 ![](https://forthebadge.com/images/badges/built-by-developers.svg)</br>
 #  The Indian Flag
-A spirograph is a very interesting geometrical figure which is often symmetrical to both the axes.Here, I’ve used a range of colors to draw circles, you can use your combination as per your color choice.
+The National flag of India is a horizontal tricolor of deep saffron (kesari) at the top, white in the middle and dark green at the bottom in equal proportion. The ratio of width of the flag to its length is two to three. In the centre of the white band is a navy blue wheel which represents the chakra.
 
 ![](https://github.com/shreyamalogi/Awesome_Python_Scripts/blob/main/GUIScripts/The%20Indian%20Flag/Images/indian%20flag.png)
 
