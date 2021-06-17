@@ -1,0 +1,2 @@
+Python= https://www.python.org/
+OpenCv2= https://pypi.org/project/opencv-python/
