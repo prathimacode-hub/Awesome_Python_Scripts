@@ -8,3 +8,4 @@
 - [NewsScraping](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/NewsScraping)
 - [Current Stock Price](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/Current%20Stock%20Price)
 - [Real-Time Bitcoin Rate](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/Real-Time%20Bitcoin%20Rate)
+- [Real-Time Petrol Price](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts/Real-Time%20Petrol%20Price)
