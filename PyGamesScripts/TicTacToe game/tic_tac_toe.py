@@ -1,3 +1,4 @@
+# importing all necessary libraries
 from tkinter import *
 import tkinter.messagebox
 tk = Tk()
@@ -48,6 +49,7 @@ def btnClick(buttons):
     else:
         tkinter.messagebox.showinfo("Tic-Tac-Toe", "Button already Clicked!")
 
+#Checks for victory or Draw
 def checkForWin():
     if (b1['text'] == 'X' and b2['text'] == 'X' and b3['text'] == 'X' or
         b4['text'] == 'X' and b5['text'] == 'X' and b6['text'] == 'X' or
@@ -76,7 +78,7 @@ def checkForWin():
         disableButton()
         tkinter.messagebox.showinfo("Tic-Tac-Toe", player)
 
-
+#main function
 buttons = StringVar()
 
 label = Label( tk, text="Player 1:", font='Helvetica', bg='yellow', fg='black', height=1, width=8)
