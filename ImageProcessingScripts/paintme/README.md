@@ -1,43 +1,26 @@
-## Related Issue 
-I hope many of you people have painted a drawing in paper. Even I was one of them. So, I thought why not we paint in air ? Or is it possible?
-yes, it is possible, I have created a paint app where you can paint in air. 
+# Package/Script Name
+paintme
+## Short description of package/script
 
-- [x] LGM-SOC'21 Participant 
-- [ ] Contributor
+- I have imported cv2
+and imported numpy as np
 
-Closes: #316
+## Setup instructions
+firstly, install python. `pip install python`. and then install the librabies `cv2` and `numpy`.
+Once, you download the code, then it will run successfully mam.
 
-## Type of change
+## Detailed explanation of script, if needed
 
-What sort of change have you made:
-<!--
-Example how to mark a checkbox:-
-- [x] My code follows the code style of this project.
--->
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [x] New feature (non-breaking change which adds functionality)
-- [x] Code style update (formatting, local variables)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+I have firstly imported numpy and cv2. added the required elements. I have added the colorcodes and colorvalues on the screen. and after that I have set the screen to find the colors. added the while loop to show the result. The myPoints helps to set the coordinates of each of the color. 
 
-## How Has This Been Tested?
-I have tested in my loacl computer.
+link : https://github.com/manognyaa/Awesome_Python_Scripts/blob/main/ImageProcessingScripts/paintme/paintme.py
+## Output
 
-## Checklist:
-<!--
-Example how to mark a checkbox:-
-- [x] My code follows the code style of this project.
--->
-- [x] My code follows the guidelines of this project.
-- [x] I have performed a self-review of my own code.
-- [x] I have commented my code, particularly whereever it was hard to understand.
-- [ ] I have made corresponding changes to the documentation.
-- [x] My changes generate no new warnings.
-- [ ] I have added tests that prove my fix is effective or that my feature works.
-- [ ] Any dependent changes have been merged and published in downstream modules.
+I have aded how the output looks like. please refer this link : https://github.com/manognyaa/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/paintme/Images
 
-## Screenshots
+## Author(s)
+Manognya Dasika
 
- Original           | Updated
- :--------------------: |:--------------------:
-![Uploading screen-capture (7).gif…]()| Updated Screenshot |
+## Disclaimers, if any
+
+`NA`
