@@ -5,7 +5,7 @@ A spirograph is a very interesting geometrical figure which is often symmetrical
 
 ![](https://github.com/shreyamalogi/Awesome_Python_Scripts/blob/main/GUIScripts/The%20Indian%20Flag/Images/indian%20flag.png)
 
-What is Turtle?
+# WHAT IS TURTLE?
 Turtle is a pre-installed Python library. It enables users to create pictures and shapes by providing them with a virtual canvas. The onscreen pen that you use for drawing is called as turtle.
 
 The turtle has three attributes: a location, an orientation (or direction), and a pen.
@@ -28,7 +28,7 @@ just run the program and you are done.
 
 Watch the output Video to get an understanding.
 
-[click here to download](https://github.com/shreyamalogi/Awesome_Python_Scripts/blob/main/GUIScripts/spirograph/spirograph.mp4)
+[click here to download](https://github.com/shreyamalogi/Awesome_Python_Scripts/blob/main/GUIScripts/The%20Indian%20Flag/the%20indian%20flag.mp4)
 
 
 # other resources
