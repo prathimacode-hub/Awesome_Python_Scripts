@@ -29,14 +29,14 @@
 ****
 
 <p align="center">
-  <img src="Images/1.png" /><br>
-  <img src="Images/2.png" /><br>
-  <img src="Images/3.png" /><br>
-  <img src="Images/4.png" /><br>
-  <img src="Images/5.png" /><br>
-  <img src="Images/6.png" /><br>
-  <img src="Images/7.png" /><br>
-  <img src="Images/8.png" /><br>
+  <img src="Images/1.jpg" /><br>
+  <img src="Images/2.jpg" /><br>
+  <img src="Images/3.jpg" /><br>
+  <img src="Images/4.jpg" /><br>
+  <img src="Images/5.jpg" /><br>
+  <img src="Images/6.jpg" /><br>
+  <img src="Images/7.jpg" /><br>
+  <img src="Images/8.jpg" /><br>
 </p>
 
 ****
