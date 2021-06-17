@@ -1,4 +1,4 @@
-//project by shreya malogi
+#project by shreya malogi
 
 import turtle
 
