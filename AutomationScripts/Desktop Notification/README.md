@@ -14,4 +14,4 @@ Here the message and title and duration after which notification is to be send i
 ![output(desktop)](https://user-images.githubusercontent.com/71593494/122388764-d40ea500-cf8d-11eb-9043-8a630d3a211b.png)
 
 ## Author:
-** Neel Shah
+ Neel Shah
