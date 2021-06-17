@@ -1,0 +1,3 @@
+essential librabies to be imported are
+- import cv2
+- import numpy as np
