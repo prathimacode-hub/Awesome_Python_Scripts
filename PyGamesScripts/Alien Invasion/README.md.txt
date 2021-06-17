@@ -18,5 +18,8 @@ methods.
 **Compilation steps**
 In order to get the game running, run the alien_invasion.py file.
 
+**Screenshot**
+![Alien Invaders](https://user-images.githubusercontent.com/86004475/122414031-82671a00-cf8f-11eb-9526-4edd42b50d19.jpg)
+
 **Author**
 Yarden Galon
