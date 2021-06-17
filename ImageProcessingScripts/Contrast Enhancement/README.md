@@ -1,18 +1,28 @@
-# Contrast enhancement image
+# Contrast enhancement
 
-Using the histogram equalization, we can enhance the contrast in low contrast images. This algorithm uses the cummulative distribution function to map the intensities of a low distribuited histogram into a one more spreaded. Have a look to this [explanation](https://en.wikipedia.org/wiki/Histogram_equalization)
+- Using the [histogram equalization](https://en.wikipedia.org/wiki/Histogram_equalization), we can enhance the contrast in low contrast images. This algorithm uses the cummulative distribution function to map the intensities of a low distribuited histogram into a more spreaded one.
 
-![output example](example.png)
+- Implementation of the histogram equalization algorithm for image contrast enhancement.
+- It requires the libraries:
+  - numpy
+  - matplotlib
 
-## Requirements
+## Setup instructions
 
-This program only uses the libraries
+Install the libraries numpy and matplotlib using the following:
 
-- Numpy
-- Matplotlib
+> `pip3 install matplotlib`
 
-## Running the code
+> `pip3 install numpy`
 
-inside of the `Contrast enhancement` folder run:
+Inside of the `Contrast enhancement` folder run:
 
 > `python3 contrast_enhancement.py`
+
+## Output
+
+![output example](images/example.png)
+
+## Author(s)
+
+**Bryan Medina**
