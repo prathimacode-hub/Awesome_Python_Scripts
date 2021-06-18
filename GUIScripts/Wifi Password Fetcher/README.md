@@ -15,8 +15,6 @@ Here we just need to run the script and then press initialize process and then  
 ## Output:
 ![GUI](https://user-images.githubusercontent.com/71593494/122568292-3ab3c180-d067-11eb-973d-908a1ca3cf91.png)
 
-https://user-images.githubusercontent.com/71593494/122568292-3ab3c180-d067-11eb-973d-908a1ca3cf91.png
-
 
 ## Author:
 Neel Shah
