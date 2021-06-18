@@ -13,8 +13,8 @@ pyperclip
 Here we just need to run the script and then press initialize process and then  press show password and for copying press copy to clipboard button.
 
 ## Output
-![output_1(wifi)](https://user-images.githubusercontent.com/71593494/122560548-59fa2100-d05e-11eb-82f9-328c6746b5fd.png)
-![output_2(wifi)](https://user-images.githubusercontent.com/71593494/122560553-5b2b4e00-d05e-11eb-96e7-75994e8598c5.png)
+GUIScripts/Wifi Password Fetcher/Images/output_1(wifi).png
+GUIScripts/Wifi Password Fetcher/Images/output_2(wifi).png
 
 
 ## Author:
