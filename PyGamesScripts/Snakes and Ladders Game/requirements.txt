@@ -1,0 +1,16 @@
+### Install Python3
+Install Python 3.x (recommended) from <a href="https://www.python.org/downloads/">here</a>
+
+### Installing Pillow using pip (to use PIL command)
+To install pillow using pip, just run the below command in your command prompt −
+
+python -m pip install pip
+python -m pip install pillow
+
+or run the following command:
+
+pip install Pillow
+
+### Random module comes by default with python libraries
+If you get any errors for random module, you can install it using the following command:
+pip install random2
