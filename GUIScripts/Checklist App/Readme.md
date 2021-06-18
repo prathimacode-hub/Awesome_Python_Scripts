@@ -1,7 +1,11 @@
 # Checklist App
 ## Description 
-* This apps used to maintain a todo list.
+* This app is used to maintain a todo list.
 * You can add,delete and save the jobs that you want to do.
+* If you want to do a task you can click on add item  button.
+* If you want to delete an item select the item and click on remove item button.
+* If you want to clear all items then click on clear list button.
+* If you want to save your previous tasks you can click on save button.
 
 ## How to run it 
 * Make Sure you have python in your machine.
