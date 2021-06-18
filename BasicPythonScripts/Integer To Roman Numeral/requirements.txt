@@ -1,0 +1,1 @@
+<b> As it is the simple python script doesn't need any library to be imported. </b>
