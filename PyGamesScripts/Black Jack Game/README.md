@@ -1,5 +1,5 @@
 # Package/Script Name
-**Black_jack_Game**
+####**blackjack_game**
 ## Short description of package/script
 
 <p>This is simple version of the black jack game  you have given a list of two when your cards total is greater than 21 it will call black jack and you will loose,if your card's total is less than 17 you have to pick a card mandatory.At the end you will stop picking your card the game will end it will show what the are cards does the computer have.After that who has the greater number in total cards they will win</p> </br>
