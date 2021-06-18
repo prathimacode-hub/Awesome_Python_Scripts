@@ -24,7 +24,11 @@ Copy the project to your local enviroment and that's all this code can be run on
 
 
 ## Output
+<<<<<<< HEAD
 ![wow](image/screenshot.png)
+=======
+![black-jack screenshot](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/454a24fe369dacdaf32353230621b134f616bd98/PyGamesScripts/Black%20Jack%20Game/image/black_jack.PNG)
+>>>>>>> 8f29531213e3c77697c7a4682c106f874f82266c
 
 ## Author(s)
 ##### _Archisman Saha_
