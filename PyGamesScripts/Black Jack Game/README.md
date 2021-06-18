@@ -24,7 +24,7 @@ Copy the project to your local enviroment and that's all this code can be run on
 
 
 ## Output
-![wow](image/black_jack.png)
+![wow](image/screenshot.png)
 
 ## Author(s)
 ##### _Archisman Saha_
