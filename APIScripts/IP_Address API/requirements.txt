@@ -1,6 +1,6 @@
 
 Need the following modules:
 
--requests
+- requests
 
--simple_colors
+- simple_colors
