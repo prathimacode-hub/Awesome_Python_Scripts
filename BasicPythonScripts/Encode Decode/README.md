@@ -22,8 +22,7 @@ a key.
 
 ## Output 
 
-overview
-![OVERVIEW](https://user-images.githubusercontent.com/77045147/122641580-e6224c00-d123-11eb-8886-567bfd452f65.png)
+overview![image](https://user-images.githubusercontent.com/77045147/122641779-ee2ebb80-d124-11eb-9a20-8eb20e2de676.png)
 you can refer this link for more images : https://github.com/manognyaa/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Encode%20Decode/Images
 ## Author(s)
 Manognya Dasika
