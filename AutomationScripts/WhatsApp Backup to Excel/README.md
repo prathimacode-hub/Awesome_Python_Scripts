@@ -21,5 +21,5 @@
 
 ## Sample Output: 
 
-![hey](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/AutomationScripts/WhatsApp_Backup_to_Excel/Images/Output.jpg)
+![hey](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/AutomationScripts/WhatsApp%20Backup%20to%20Excel/Images/Output.jpg)
 
