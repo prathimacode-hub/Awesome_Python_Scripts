@@ -1,8 +1,11 @@
+# imporing the libraries for this project. Check the requirements.txt file
 import praw
 import config
 import time
 import os
 
+# login details fetched by the bot
+# takes all the details of the config.py
 def bot_login():
 	print "Logging in..."
 	r = praw.Reddit(username = config.username,
@@ -14,6 +17,7 @@ def bot_login():
 
 	return r
 
+# searching previous 1000 comments and checking whether they are eligible to comment out
 def run_bot(r, comments_replied_to):
 	print "Searching last 1,000 comments"
 
@@ -22,9 +26,9 @@ def run_bot(r, comments_replied_to):
 			print "String with \"sample user comment\" found in comment " + comment.id
 			comment.reply("Hey, I like your comment!")
 			print "Replied to comment " + comment.id
-
+			# If the client server matches then it will comment and the comment id will be shown
 			comments_replied_to.append(comment.id)
-
+			# The replied comment will be stored in the comments_replied_to.txt file automatically
 			with open ("comments_replied_to.txt", "a") as f:
 				f.write(comment.id + "\n")
 
@@ -35,7 +39,10 @@ def run_bot(r, comments_replied_to):
 	print "Sleeping for 10 seconds..."
 	#Sleep for 10 seconds...		
 	time.sleep(10)
+# Search operation completed and as well as the comment are done
 
+
+# function created for saving the comments
 def get_saved_comments():
 	if not os.path.isfile("comments_replied_to.txt"):
 		comments_replied_to = []
@@ -51,5 +58,6 @@ r = bot_login()
 comments_replied_to = get_saved_comments()
 print comments_replied_to
 
+# creating the infinte loop for the project
 while True:
 	run_bot(r, comments_replied_to)
