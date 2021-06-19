@@ -8,9 +8,9 @@ List out the libraries imported: turtle ,random
 Here as we run the script the scrren will show enter space to start game then game starts as caterpillar goes on eating its speed increases and it ends when it goes outside frame.
 
 ## Output
-![Images](output(caterpillar_starting))
-![Images](output(caterpillar_going))
-![Images](output(caterpillar_ending))
+![Images](Images/output(caterpillar_starting))
+![Images](Images/output(caterpillar_going))
+![Images](Images/output(caterpillar_ending))
 
 ## Author
 Neel Shah
