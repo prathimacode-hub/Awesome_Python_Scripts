@@ -13,7 +13,7 @@ pyperclip
 Here we just need to run the script and then press initialize process and then  press show password and for copying press copy to clipboard button.
 
 ## Output:
-![GUI](https://user-images.githubusercontent.com/71593494/122568292-3ab3c180-d067-11eb-973d-908a1ca3cf91.png)
+![GUI](Images/output_1(wifi)(https://user-images.githubusercontent.com/71593494/122568292-3ab3c180-d067-11eb-973d-908a1ca3cf91.png)
 
 
 ## Author:
