@@ -10,7 +10,7 @@
 
 ### Output :
 - ### This is how the splash screen will look like,
-![splash](https://user-images.githubusercontent.com/57003737/122577794-d138b080-d070-11eb-9b44-6efe986e05cb.gif)
+<img width = 700 src="Images/splash.gif" />
 
 - ### Below is the links to video how the splash screen will look like before applications opens,
 https://user-images.githubusercontent.com/57003737/122636612-ce3ccf00-d107-11eb-921c-fa5a3f32b51c.mp4
