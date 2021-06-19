@@ -1,0 +1,1 @@
+**_ARMSTRONG NUMBER_**
