@@ -4,6 +4,31 @@ from tkinter import *
 import tkinter as tk
 from PIL import Image, ImageTk
 import tkinter.messagebox as mbox # for displaying the dialog box
+import pyglet
+
+#Create splash screen
+animation=pyglet.image.load_animation('Images/splash.gif')
+animSprite=pyglet.sprite.Sprite(animation)
+w=animSprite.width
+h=animSprite.height
+
+win=pyglet.window.Window(width=w,height=h,style='borderless')
+win.set_location(200,100)
+
+r,g,b,alpha=0.5,0.5,0.8,0.5
+pyglet.gl.glClearColor(r,g,b,alpha)
+@win.event
+
+def on_draw():
+    win.clear()
+    animSprite.draw()
+
+def close(event):
+    win.close()
+
+pyglet.clock.schedule_once(close,5.0)
+
+pyglet.app.run()
 
 # Main Window & Configuration
 window = tk.Tk() # created a tkinter gui window frame
