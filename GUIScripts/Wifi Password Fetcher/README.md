@@ -14,6 +14,7 @@ Here we just need to run the script and then press initialize process and then  
 
 ## Output:
 ![Image](Images/output_1(wifi).png)
+![Image](Images/output_2(wifi).png)
 
 
 ## Author:
