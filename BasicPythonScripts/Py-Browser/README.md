@@ -26,7 +26,7 @@ To setup this codebase in your system, you need to go through the following step
 This project will be used to develop your own web browser just like other browsers. Having your own browser, is just very much useful because you can add and remove your extensions by your own and no third party activities will taken place.
 
 ## Output
-<img src = "">
+<img src = "https://github.com/abhisheks008/Awesome_Python_Scripts/blob/patch-2/BasicPythonScripts/Py-Browser/Images/web.png">
 
 ## Author
 Code contributed by, Abhishek Sharma, 2021, @abhisheks008 #LGMSOC21
