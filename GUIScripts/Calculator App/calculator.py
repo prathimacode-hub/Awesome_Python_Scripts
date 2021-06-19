@@ -4,7 +4,7 @@ from tkinter import *
 #Added splash screen
 import pyglet
 
-animation=pyglet.image.load_animation('Splash Screen_Calculator App.gif')
+animation=pyglet.image.load_animation('Media/Splash Screen_Calculator App.gif')
 animSprite=pyglet.sprite.Sprite(animation)
 w=animSprite.width
 h=animSprite.height
@@ -33,7 +33,7 @@ root.configure(bg='lightblue')
 
 root.title("Calculator")
 #Added Logo in Title Bar
-l=PhotoImage(file='Logo_CalculatorApp.gif')
+l=PhotoImage(file='Media/Logo_CalculatorApp.gif')
 root.iconphoto(False,l)
 
 expression = ""
