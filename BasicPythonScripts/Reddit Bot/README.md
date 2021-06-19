@@ -32,7 +32,7 @@ This Reddit Comment Bot is a python-based auto-responder.
 This is how the whole thing is working, or we can that this is the block diagram of this project.
 
 ## Output
-<img src = "https://i.imgur.com/BaCQY07.png">
+<img src = "https://github.com/abhisheks008/Awesome_Python_Scripts/blob/patch-1/BasicPythonScripts/Reddit%20Bot/Images/bot.png">
 
 ## Author
 Code contributed by, Abhishek Sharma, 2021, @abhisheks008 #LGMSOC21
