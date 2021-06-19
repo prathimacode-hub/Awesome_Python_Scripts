@@ -1,4 +1,9 @@
 # Checklist App
+# Aim 
+To create a to do list app in python.
+
+# Purpose 
+Everyone can record  the tasks they wanna do or have done.
 ## Description 
 * This app is used to maintain a todo list.
 * You can add,delete and save the jobs that you want to do.
