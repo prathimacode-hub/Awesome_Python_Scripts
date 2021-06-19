@@ -2,12 +2,7 @@
 ## Introduction: 
 This is a script that aims to implement a website blocking utility for Windows-based systems. It makes use of the computer's hosts files and runs it as a background process, preventing access to the sites entered by the user in list format.
 ## Third-party libraries required:
-The project requires Python's datetime library only
-## Importing the Libraries:
-Open Command Prompt on your computer and type the following:
-On the script's console, type: <br>
-`import time` <br>
-`from datetime import datetime as dt`
+The project does not require any third party libraries
 
 ## Running the Script:
 After opening the script in your Python IDE, execute the code so that you get the UI output window. Open your browser and try to visit the websites you blocked. When the script runs successfully, you will see `This site can't be reached` error or similar 404 error's on the browser.
@@ -20,10 +15,10 @@ After opening the script in your Python IDE, execute the code so that you get th
 
 ## Output:
 #### The output UI will appear as shown below:
-![Output 1](https://raw.githubusercontent.com/Rutuj-Runwal/Img/master/assets/UI1.png?token=AOFO32AFMK2ZEB3T4IKLGW3AZ6G6Q)
+![Output 1](./Images/UI1.png)
 #### You can add new site as shown below then click on "Add Website" button.You can add as many as you want:
-![Output 2](https://raw.githubusercontent.com/Rutuj-Runwal/Img/master/assets/UI2.png?token=AOFO32GHV3ZGY7QR27FDTA3AZ6HIE)
-#### If you entered anything that's not a proper website.An error willshow up to guide you:
-![Output 3](https://raw.githubusercontent.com/Rutuj-Runwal/Img/master/assets/UI3.png?token=AOFO32A2EMFCJ2WLIA7WCGTAZ6HNC)
+![Output 2](./Images/UI2.png)
+#### If you entered anything that's not a proper website. An error will show up to guide you:
+![Output 3](./Images/UI3.png)
 
-#### Once you are done with adding websites, you canclick on Block-Sites button to begin blocking
+#### Once you are done with adding websites, you can click on Block-Sites button to begin blocking
