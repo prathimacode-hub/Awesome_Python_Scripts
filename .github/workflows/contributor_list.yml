@@ -1,12 +1,16 @@
-name: Contributor List
-on:
-  push:
-    branches:
-      - master
+name: Contributing to the Contributors
+on: [push]
 jobs:
-  contributor_list:
-    name: Contributor List
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@master
-      - uses: docker://cjdenio/contributor_list:latest
+	build:
+		name: Action
+		runs-on: ubuntu-latest
+		steps:
+			- uses: actions/checkout@v2
+			- uses: Maanuj-Vora/List-Contributors@0.1.6
+			with:
+				REPO_NAME: '${{github.repository}}'
+				ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
+				CONTRIBUTOR: '### Contributors'
+				FILEPATH: '/README.md'
+				COLUMN_PER_ROW: '4'
+				IMG_WIDTH: '50'
