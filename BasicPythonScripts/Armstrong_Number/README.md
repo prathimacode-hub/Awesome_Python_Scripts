@@ -13,3 +13,4 @@ For example: 153 = 1^3 + 5^3 + 3^3 = 3 + 125 + 27 = 153
   Here, the user enter a random number and the program will tell that the entered number is armstrong or not. 
   
 ## _Screenshot_:      
+![armstrong_code](https://user-images.githubusercontent.com/83975944/122682448-33e39680-d1ae-11eb-969f-ba2b13b31e1d.png)
