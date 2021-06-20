@@ -23,4 +23,4 @@ import datetime
 - The format for displaying the time can also be changed according to our wish.
 
 ## Sample Output:
-![LGM](![image](https://user-images.githubusercontent.com/53329034/122674245-e1c46480-d1f1-11eb-9914-1fc8c790ae69.png))
+![LGM](![image](https://user-images.githubusercontent.com/53329034/122674245-e1c46480-d1f1-11eb-9914-1fc8c790ae69.png)
