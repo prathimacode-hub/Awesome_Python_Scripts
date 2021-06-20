@@ -160,11 +160,8 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-
-<a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=prathimacode-hub/Awesome_Python_Scripts" />
-</a>
-
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
