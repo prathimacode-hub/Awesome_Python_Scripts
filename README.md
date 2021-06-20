@@ -161,10 +161,14 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <!-- readme: contributors -start -->
+<a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=prathimacode-hub/Awesome_Python_Scripts" />
+</a>
 <!-- readme: contributors -end -->
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
 
 <h2>📜 Code Of Conduct</h2>
