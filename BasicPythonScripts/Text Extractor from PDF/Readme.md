@@ -14,6 +14,16 @@
   * The extracted text is added to the emptry string initialized
 * After parsing is done, the string in which the extracted text is stored is written in a new file named **extracted_text.txt** using basic File Handling in Python
 
+## PDF FILE WITH TEXT
+![Image1](Screenshot%20(243).png)
+
+
+
+## OUTPUT OF EXTRACTED TEXT SHOWN IN NEW TEXT FILE **extracted_text.txt**
+![Image2](Screenshot%20(242).png)
+
+
+
 ----------------------------------------------------------------------------------
 ## PyPDF2: 
 A Pure-Python library built as a PDF toolkit.
