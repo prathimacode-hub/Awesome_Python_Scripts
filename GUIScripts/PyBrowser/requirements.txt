@@ -1,0 +1,5 @@
+pip install tkinter
+pip install numpy
+pip install re
+pip install webbrowser
+pip install tempfile
