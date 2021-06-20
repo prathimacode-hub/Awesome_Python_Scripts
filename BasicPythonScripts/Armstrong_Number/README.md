@@ -12,10 +12,12 @@ For example: 153 = 1^3 + 5^3 + 3^3 = 3 + 125 + 27 = 153
 ## _Description_:
   Here, the user enter a random number and the program will tell that the entered number is armstrong or not. 
   
+## _How to execute ?_:
+1.) Run this program and enter the number you want to check.
+2.) The outpuy will show you the desired result.
+
 ## _Screenshot_:      
 ![armstrong_code](https://user-images.githubusercontent.com/83975944/122682448-33e39680-d1ae-11eb-969f-ba2b13b31e1d.png)
 
-**OUTPUT 1:**
-![output1](https://user-images.githubusercontent.com/83975944/122682598-46aa9b00-d1af-11eb-8af5-22d3e2d2e62d.png)
 
 
