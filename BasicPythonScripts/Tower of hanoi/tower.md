@@ -1,6 +1,5 @@
-#TOWER OF HANOI.
+# TOWER OF HANOI.
 
 
 
 ![](IMAGES/tower.png)
- - 
