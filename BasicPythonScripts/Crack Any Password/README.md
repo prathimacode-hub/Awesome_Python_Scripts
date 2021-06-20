@@ -3,6 +3,7 @@
 - To create a python script which is crack any password, we will need to import a **random** module.
 - It work on the concept of **brute force**,
 - So, the process is something like that we will ask the user to enter some characters i.e. password, and then we will try to guess the password using brute force attack.
+- **AIM**: It mainly focus on the password entered by the user and guess the password using brute force.
 
 ## Procedure: 
 ```python
