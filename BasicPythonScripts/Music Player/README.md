@@ -1,6 +1,14 @@
 
 # Music Player
 
+## Aim:
+
+-To create a music player using python GUI and pygame, which enables the user to view the list of songs in the directory,The user can choose the song and play,stop,pause and resume using the buttons available. User can switch from one song to another song by clicking and choosing appropriate buttons.
+
+## Purpose:
+
+- To listen to different songs at ease switch between different songs in same diretory. Pause and resume the songs whenever needed.
+
 ## Description:
 
 - This project is to build a music player using tkinter and pygame
@@ -31,6 +39,13 @@ import pygame
 - Buttons are created for all the functions and displayed in the window
 - The format for displaying the colors and fonts can also be changed according to our wish.
 
+## Compilation Steps:
+
+- Install pygame module using pip install pygame in windows powershell (admin)
+- Create a directory with list of songs you wish
+- Import the neccessary modules and run the program
+- Choose the Music directory and listen to the songs
+
 ## Sample Output:
-![LGM](https://user-images.githubusercontent.com/53329034/122674245-e1c46480-d1f1-11eb-9914-1fc8c790ae69.png)
+![Image](https://user-images.githubusercontent.com/53329034/122674245-e1c46480-d1f1-11eb-9914-1fc8c790ae69.png)
 
