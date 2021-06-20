@@ -1,16 +1,14 @@
-name: Contributing to the Contributors
-on: [push]
+on: [push, pull_request]
+
 jobs:
-	build:
-		name: Action
-		runs-on: ubuntu-latest
-		steps:
-			- uses: actions/checkout@v2
-			- uses: Maanuj-Vora/List-Contributors@0.1.6
-			with:
-				REPO_NAME: '${{github.repository}}'
-				ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
-				CONTRIBUTOR: '### Contributors'
-				FILEPATH: '/README.md'
-				COLUMN_PER_ROW: '4'
-				IMG_WIDTH: '50'
+    contrib-readme-job:
+        runs-on: ubuntu-latest
+        name: A job to automate contrib in readme
+        steps:
+            - name: Contribute List
+              uses: akhilmhdh/contributors-readme-action@v2.1.2
+	      with:
+	           columns_per_row: 12
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}	
+		
