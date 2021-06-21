@@ -20,7 +20,7 @@ Tic Tac Toe Game
 
 ### Screenshot of the game:-
 
-![Game1](Game1.png) ![Game2](Game2.png)
+![Game1](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/PyGamesScripts/TicTacToe%20Game/Images/Game1.png) ![Game2](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/PyGamesScripts/TicTacToe%20Game/Images/Game2.png)
 
 ### Name of the author:-
 -   Prakhar Agarwal

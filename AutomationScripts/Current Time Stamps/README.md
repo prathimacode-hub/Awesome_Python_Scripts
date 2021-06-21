@@ -1,6 +1,6 @@
 ## Description:
 - My project works on displaying Current Time Stamps
-- To create GUI Calendar Using Python, we will need to import two Python modules one for creating GUI and another to get year data.
+- To create Current time stamps using python, we will need to import two Python modules one for creating GUI and another to get year data.
 - **Pendulum**, Pendulum is one of the libraries in python which provides easily manages complex date manipulations better than native DateTime instances. It also manages timezones.
 - And for the speaking purpose, we will use **pyttsx3**.
 
