@@ -1,5 +1,5 @@
 ## Description: 
-[**Here**](https://github.com/Aditya8821/Awesome_Python_Scripts/blob/main/GUIScripts/Address%20Book/address_book.py) is Python Script which checks the Plagiarism between 2 files.
+[**Here**](https://github.com/Aditya8821/Awesome_Python_Scripts/blob/main/GUIScripts/Address%20Book/address_book.py) is Python Script which creates an interface for an address book using Tkinter.
 
 - **Tkinter:**
 Tkinter is a standard library in Python which is used for GUI application. Tkinter has various controls which are used to build a GUI-based application.
