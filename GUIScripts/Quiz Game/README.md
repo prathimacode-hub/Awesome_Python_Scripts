@@ -2,6 +2,7 @@
 - ### A Quiz Game created in python with tkinter gui.
 - ### In this script, the user gets 10 question one by one and he/she needs to select the correct option for the given question, ans can see the score at the last.
 - ### The quiz question are base on the basic GeneraL Knowledge.
+- ### The questions are taken by reading the data.json file.
 
 ****
 
