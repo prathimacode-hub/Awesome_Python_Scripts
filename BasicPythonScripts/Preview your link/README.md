@@ -21,7 +21,7 @@ if the above is false and if not in db get via request. that's it, you are done.
 you can refer the code below for informaion : https://github.com/manognyaa/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Preview%20your%20link/linkPreview.py
 
 ## Output
-
+images link : https://github.com/manognyaa/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Preview%20your%20link/Images
 ![Untitled](https://user-images.githubusercontent.com/77045147/122897163-5ec51a80-d367-11eb-8b8d-f0a966a9531f.png)
 
 ## Author(s)
