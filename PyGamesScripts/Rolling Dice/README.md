@@ -8,5 +8,5 @@ Rolling dice  Game is a python program i.e, developed in python programming lang
 - Just run the program and enter any number from 1 to 6.
 - According to the condition the user will get a message of winning or loosisng the game..
 
-![Screenshot_1](https://user-images.githubusercontent.com/84957152/122930579-baa09b00-d389-11eb-8440-c668f5d77733.jpg)
-![Screenshot_2](https://user-images.githubusercontent.com/84957152/122930600-bf654f00-d389-11eb-99fe-603e55f21774.jpg)
+![screenshot](Images/Screenshot_1.jpg)
+![screenshot](Images/Screenshot_2.jpg)
