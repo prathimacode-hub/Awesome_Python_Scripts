@@ -13,10 +13,12 @@ For using it we just need to insert the data in the given text field and then at
 
 ## Output
 Input Images:
+
 ![image](Images/input_1(library).png)
 ![image](Images/input_2(library).png)            
 
 Output Images:
+
 ![image](Images/output(library).png)
 
 
