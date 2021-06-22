@@ -1,0 +1,4 @@
+libraries used : tkinter
+		 from PIL import Image, ImageTk
+		 messagebox
+		 json
