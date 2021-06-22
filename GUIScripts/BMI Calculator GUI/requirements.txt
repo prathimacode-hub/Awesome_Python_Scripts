@@ -1,3 +1,4 @@
+Tkinter Module for GUI Programming
 Libraries Used:
-Tkinter Module
-Pyglet (for splash screen)
+import messagebox (for pop-ups)
+import Pyglet (for splash screen)
