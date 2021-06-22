@@ -22,7 +22,9 @@ you can refer the code below for informaion : https://github.com/manognyaa/Aweso
 
 ## Output
 images link : https://github.com/manognyaa/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Preview%20your%20link/Images
-![Untitled](https://user-images.githubusercontent.com/77045147/122897163-5ec51a80-d367-11eb-8b8d-f0a966a9531f.png)
+
+![preview](https://user-images.githubusercontent.com/77045147/122943881-04db4980-d395-11eb-98bf-7fec587926d2.png)
+
 
 ## Author(s)
 Manognya Dasika
