@@ -3,6 +3,7 @@ from tkinter import messagebox
 import tkinter.messagebox as mbox
 import pyglet
 
+#Added Splash Screen
 animation=pyglet.image.load_animation('Media/BMI_Splash Screen.gif')
 animSprite=pyglet.sprite.Sprite(animation)
 w=animSprite.width
@@ -26,6 +27,7 @@ pyglet.clock.schedule_once(close,4.0)
 
 pyglet.app.run()
 
+#Reset button functioning
 def reset_entry():
     age_tf.delete(0,'end')
     height_tf.delete(0,'end')
@@ -38,6 +40,7 @@ def calculate_bmi():
     bmi=round(bmi,1)
     bmi_index(bmi)
 
+#BMI calculation
 def bmi_index(bmi):
     if bmi<18.5:
         messagebox.showinfo('BMI Ratio',f'BMI={bmi} is Underweight')
@@ -102,6 +105,7 @@ weight_tf.grid(row=4, column=2, pady=10)
 frame3 = Frame(frame)
 frame3.grid(row=5, columnspan=3, pady=20)
 
+#For HoverButton
 def on_entercal(c):
     cal_btn.config(background="light blue",foreground="black")
 
@@ -114,6 +118,7 @@ cal_btn.pack(side=LEFT,padx=7)
 cal_btn.bind('<Enter>',on_entercal)
 cal_btn.bind('<Leave>',on_leavecal)
 
+#For HoverButton
 def on_enterreset(r):
     reset_btn.config(background="light blue",foreground="black")
 
@@ -129,11 +134,13 @@ reset_btn.bind('<Leave>',on_leavereset)
 def end():
     root.destroy()
 
+#Pop-Up for exit Screen
 def exit_win():
     ans=mbox.askyesno("Exit","Are you sure?")
     if(ans):
         root.destroy()
 
+#For HoverButton
 def on_enterexit(e):
     exit_btn.config(background="light blue",foreground="black")
 
