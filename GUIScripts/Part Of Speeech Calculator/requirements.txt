@@ -1,0 +1,6 @@
+libraries used : tkinter
+		 messagebox
+		 from random import shuffle
+		 nltk
+		 from nltk.corpus import stopwords
+		 from nltk.tokenize import word_tokenize, sent_tokenize
