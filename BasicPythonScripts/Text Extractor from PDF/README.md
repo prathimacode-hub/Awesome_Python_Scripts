@@ -18,12 +18,12 @@ To build a Python Script using the PyPDF2 Module which can extract text from a P
 * After parsing is done, the string in which the extracted text is stored is written in a new file named **extracted_text.txt** using basic File Handling in Python
 
 ## PDF FILE WITH TEXT
-![Image1](https://github.com/Sakalya100/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Text%20Extractor%20from%20PDF/Images/Screenshot%20(243).png)
+![Image1](https://github.com/Sakalya100/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Text%20Extractor%20from%20PDF/Images/PDF%20File.png)
 
 
 
 ## OUTPUT OF EXTRACTED TEXT SHOWN IN NEW TEXT FILE **extracted_text.txt**
-![Image2](https://github.com/Sakalya100/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Text%20Extractor%20from%20PDF/Images/Screenshot%20(242).png)
+![Image2](https://github.com/Sakalya100/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Text%20Extractor%20from%20PDF/Images/Output.png)
 
 
 
