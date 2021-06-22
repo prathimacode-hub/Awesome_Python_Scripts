@@ -1,10 +1,12 @@
 # first install poetpy library using pip install poetpy then import it
-# using random to select a random poem
+# import poetpy library
 import poetpy
 import random
+# import random, using random to select a random poem
 
 try:
     print('Poem of which author you want to listen?')
+   
     # taking the author name as input
     auth = input()
     
