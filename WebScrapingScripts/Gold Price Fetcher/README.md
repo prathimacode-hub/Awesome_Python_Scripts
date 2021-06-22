@@ -12,8 +12,8 @@ price of gold ,so we can have a better idea for buying the gold.
 For using this script we just need to run this sciprt and for making your own script we just need the website url of gold prices.
 
 ## Output
-![Image](output(gold).png)
-![Image](website(gold).png)
+![Image](Images/output(gold).png)
+![Image](Images/website(gold).png)
 
 ## Author:
 NEEL SHAH
