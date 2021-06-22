@@ -1,0 +1,5 @@
+libraries used : tkinter
+		 from PIL import Image, ImageTk
+		 messagebox
+		 from random import shuffle
+		 pandas

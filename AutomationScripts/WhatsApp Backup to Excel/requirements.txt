@@ -1,0 +1,3 @@
+pip install pandas
+pip install openpyxl
+pip install pushbullet.py == 0.9.1
