@@ -1,5 +1,5 @@
 # Package/Script Name
-Preview yoyr link
+Preview your link
 ## Short description of package/script
 
 -  I have imported requests, json, os, time
