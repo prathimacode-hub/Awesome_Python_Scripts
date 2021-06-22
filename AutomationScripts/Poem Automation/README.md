@@ -31,8 +31,12 @@ print(poems)
 
 #### In CLI
 
-<img src="">
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-5/AutomationScripts/Poem%20Automation/Images/poem_img2.png">
+
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-5/AutomationScripts/Poem%20Automation/Images/poem_img3.png">
 
 #### In PyCharm
 
-<img src="">
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-5/AutomationScripts/Poem%20Automation/Images/poem_img0.png">
+
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-5/AutomationScripts/Poem%20Automation/Images/poem_img1.png">
