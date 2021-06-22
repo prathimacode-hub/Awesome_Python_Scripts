@@ -1,0 +1,1 @@
+Imported the socket header file which coontains the library functions such as bind,connect,listen,send,decode,encode etc which let's us use the ports of the computer
