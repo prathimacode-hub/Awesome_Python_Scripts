@@ -22,7 +22,7 @@ def on_draw():
 
 def close(event):
 	win.close()
-
+#Splash screen timer
 pyglet.clock.schedule_once(close,4.0)
 
 pyglet.app.run()
@@ -33,6 +33,7 @@ def reset_entry():
     height_tf.delete(0,'end')
     weight_tf.delete(0,'end')
 
+#BMI calculation
 def calculate_bmi():
     kg=int(weight_tf.get())
     m=int(height_tf.get())/100
@@ -40,7 +41,6 @@ def calculate_bmi():
     bmi=round(bmi,1)
     bmi_index(bmi)
 
-#BMI calculation
 def bmi_index(bmi):
     if bmi<18.5:
         messagebox.showinfo('BMI Ratio',f'BMI={bmi} is Underweight')
@@ -54,12 +54,17 @@ def bmi_index(bmi):
         messagebox.showerror('BMI Ratio', 'Something went wrong!')
 
 root=Tk()
+#Title for main window
 root.title('BMI Calculator')
 root.geometry('700x500')
+#Background colour of the main screen
 root.config(bg='cyan')
+#Dimensions of the screen
 root.maxsize(700,500)
 root.minsize(700,500)
+#Disabled the maximsize/minimise button. 
 root.resizable(0,0)
+#Font styles for complete program
 font1=("Times",14,"bold")
 font2=("Times",14)
 
@@ -69,6 +74,7 @@ root.iconphoto(False,l)
 
 var=IntVar()
 
+#Designing of the screen by adding buttons entry,boxes,creating a frame.
 frame=Frame(root,padx=100,pady=100)
 frame.pack(expand=True)
 
@@ -105,7 +111,7 @@ weight_tf.grid(row=4, column=2, pady=10)
 frame3 = Frame(frame)
 frame3.grid(row=5, columnspan=3, pady=20)
 
-#For HoverButton
+#For HoverButton so that as the cursor comes over the button the button changes it's colour to light blue.
 def on_entercal(c):
     cal_btn.config(background="light blue",foreground="black")
 
@@ -118,7 +124,7 @@ cal_btn.pack(side=LEFT,padx=7)
 cal_btn.bind('<Enter>',on_entercal)
 cal_btn.bind('<Leave>',on_leavecal)
 
-#For HoverButton
+#For HoverButton so that as the cursor comes over the button the button changes it's colour to light blue.
 def on_enterreset(r):
     reset_btn.config(background="light blue",foreground="black")
 
@@ -140,7 +146,7 @@ def exit_win():
     if(ans):
         root.destroy()
 
-#For HoverButton
+#For HoverButton so that as the cursor comes over the button the button changes it's colour to light blue.
 def on_enterexit(e):
     exit_btn.config(background="light blue",foreground="black")
 
