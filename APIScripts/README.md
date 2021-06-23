@@ -13,3 +13,5 @@ API Scripts is a collection of scripts/projects using any API for performing any
 - [OMDB API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/OMDB%20API)
 - [Password Checker API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/Password%20Checker)
 - [COWIN API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/COWIN%20API)
+- [IP Address API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/IP_Address%20API)
+- [URL Shortener API](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts/URLShortener%20API)
