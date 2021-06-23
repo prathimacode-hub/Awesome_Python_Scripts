@@ -1,6 +1,6 @@
 # ✔ GET LOCATION OF ANY COUNTRY
 - ### A "Get location of any country" is an application created in python with tkinter gui.
-- ### In this application, user can find the location of any country or country code.
+- ### In this application, user can find the location of any country, either by using country name or country code.
 - ### The location will be shown in terms of Latitude and Longitude.
 - ### for the data, used the world_location.csv data, and read using pandas library.
 
