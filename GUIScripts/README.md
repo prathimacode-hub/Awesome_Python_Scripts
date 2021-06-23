@@ -37,6 +37,7 @@ GUI Scripts are a collection of scripts/projects which are designed for human in
 - [Wifi Password Fetcher](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts/Wifi%20Password%20Fetcher)
 - [zodiac Sign Finder](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts/Zodiac%20Sign%20Finder)
 - [Egg Catcher Game](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts/Egg%20Catcher%20Game)
+- [Search Implementation](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts/Search%20Implementation)
 
 
 
