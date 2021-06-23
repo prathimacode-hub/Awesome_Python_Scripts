@@ -12,7 +12,8 @@ We need to get the zip file in the same folder as of script and then just need t
 ## Output
 Extracted file in same folder->
 
-![image](Images/output(zip).png)
+![image](Images/output(unzip).png)
+
 Sample zip file ->
 
 ![image](Images/sample_zip.png)
