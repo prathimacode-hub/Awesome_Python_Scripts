@@ -1,0 +1,78 @@
+{
+  "questions": [
+    "Q1.) What star sign would someone born on August 24th be?",
+    "Q2.) How many sides does a heptadecagon have?",
+    "Q3.) How many time zones are there in Russia?",
+    "Q4.) What is the national flower of Japan?",
+	"Q5.) Until 1923, what was the Turkish city of Istanbul called?",
+	"Q6.) What is the smallest country in the world?",
+	"Q7.) Name the best-selling book series of the 21st century?",
+	"Q8.) How many keys does a classic piano have?",
+	"Q9.) Where was the first modern Olympic Games held?",
+	"Q10.) When was Netflix founded?"
+  ],
+  "answers": [
+    "c",
+    "a",
+	"c",
+    "b",
+	"d",
+	"c",
+	"a",
+	"d",
+	"b",
+	"b"
+  ],
+  "options": [
+    ["a.) Aries",
+      "b.) Pisces",
+      "c.) Virgo",
+      "d.) Scorpio"
+    ],
+    ["a.) Seventeen",
+      "b.) Seventy",
+      "c.) Seventy One",
+      "d.) Seven"
+    ],
+    ["a.) 51",
+      "b.) 12",
+      "c.) 11",
+      "d.) 14"
+    ],
+    ["a.) Raflesia",
+      "b.) Cherry Blossom",
+      "c.) Rose",
+      "d.) Butterfly Pea"
+    ],
+	["a.) Baghdad",
+      "b.) Bospborus",
+      "c.) Jerusalem",
+      "d.) Constantinople"
+    ],
+	["a.) Greenland",
+      "b.) Sweden",
+      "c.) The Vatican",
+      "d.) The Vietnam"
+    ],
+	["a.) Harry Potter",
+      "b.) Da Vinci Code",
+      "c.) The Lord of the Rings",
+      "d.) The Song of Achilles"
+    ],
+	["a.) 81",
+      "b.) 84",
+      "c.) 89",
+      "d.) 88"
+    ],
+	["a.) 1857",
+      "b.) 1896",
+      "c.) 1902",
+      "d.) 1894"
+    ],
+	["a.) 1999",
+      "b.) 1997",
+      "c.) 2002",
+      "d.) 1994"
+    ]
+  ]
+}
