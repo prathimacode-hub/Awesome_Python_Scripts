@@ -32,3 +32,4 @@ This repository would have all the wide range of games scripts that can programm
 - [Snake Game](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/PyGamesScripts/Snake%20Game)
 - [Snakes And Ladders Game](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/PyGamesScripts/Snakes%20and%20Ladders%20Game)
 - [TicTacToe Game](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/PyGamesScripts/TicTacToe%20Game)
+- [Rolling Dice Game](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/PyGamesScripts/Rolling%20Dice)
