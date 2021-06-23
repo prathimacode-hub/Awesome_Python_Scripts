@@ -1,0 +1,5 @@
+Imported libraries for Alien Invasion:
+sys
+pygame
+pygame.sprite
+and all other .py files in folder.

@@ -1,0 +1,10 @@
+### Install Python3
+Install Python 3.x (recommended) from <a href="https://www.python.org/downloads/">here</a>
+
+### Install pywhatkit
+Run the following command in the terminal:
+pip install pywhatkit
+
+### Sign in to your Web-WhatsApp account in your browser
+
+Then you can execute the code which is present in whatsapp.py !!
