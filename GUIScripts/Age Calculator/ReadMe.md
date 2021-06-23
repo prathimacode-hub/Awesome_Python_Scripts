@@ -28,4 +28,4 @@ At last, it shows the user’s age.
 ## Author
 Alisha Anand
 
-aim, purpose, description, workflow, compilation steps, output screenshots and your name at the end of the file.
+
