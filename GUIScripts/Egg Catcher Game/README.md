@@ -42,11 +42,11 @@ from tkinter import Tk , Canvas , messagebox , font
 - Import the neccessary modules and run the program.
 
 ## Sample Output:
-![Image](https://github.com/coding-geek21/Awesome_Python_Scripts/blob/main/GUIScripts/Egg%20catcher%20game/Images/egg_catcher_game.jpg)
+![Image](https://github.com/coding-geek21/Awesome_Python_Scripts/blob/main/GUIScripts/Egg%20Catcher%20Game/Images/game_over.jpg)
 
 
-![Image](https://github.com/coding-geek21/Awesome_Python_Scripts/blob/main/GUIScripts/Egg%20catcher%20game/Images/game_over.jpg)
+![Image](https://github.com/coding-geek21/Awesome_Python_Scripts/blob/main/GUIScripts/Egg%20Catcher%20Game/Images/egg_catcher_game.jpg)
 
 ## Author:
 
-@coding-geek21
+[@coding-geek21](https://github.com/coding-geek21)
