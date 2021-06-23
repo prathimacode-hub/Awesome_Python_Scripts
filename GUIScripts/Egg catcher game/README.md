@@ -1,4 +1,4 @@
-# Egg Catcher game
+# Egg Catcher Game
 
 ## Aim:
 
@@ -46,3 +46,7 @@ from tkinter import Tk , Canvas , messagebox , font
 
 
 ![Image](https://github.com/coding-geek21/Awesome_Python_Scripts/blob/main/GUIScripts/Egg%20catcher%20game/Images/game_over.jpg)
+
+## Author:
+
+@coding-geek21
