@@ -36,9 +36,9 @@ A. Steps to create the socket program on word transfer from client to server wit
 
 ## Output
 
-<img src="https://github.com/kumarjeetray/Awesome_Python_Scripts/blob/main/BasicPythonScripts/File%20Transfer/Images/file_transfer_client_ss.jpg"/>
-<img src="https://github.com/kumarjeetray/Awesome_Python_Scripts/blob/main/BasicPythonScripts/File%20Transfer/Images/file_transfer_server_ss_1.jpg"/>
-<img src="https://github.com/kumarjeetray/Awesome_Python_Scripts/blob/main/BasicPythonScripts/File%20Transfer/Images/file_transfer_server_ss_2.jpg"/>
+![Image](Images/file_transfer_client_ss.jpg)
+![Image](Images/file_transfer_server_ss_1.jpg)
+![Image](Images/file_transfer_server_ss_2.jpg)
 ## Author(s)
 
 Kumarjeet Ray
