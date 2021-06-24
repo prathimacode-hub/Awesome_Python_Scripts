@@ -290,5 +290,5 @@ Points : 10 <br>
 Name : Kumarjeet Ray <br>
 Github : https://github.com/kumarjeetray <br>
 Number of PR's : 2 <br>
-Projects Done : File Transfer (Level 2) | World Transfer (Level 2) | <br>
+Projects Done : File Transfer (Level 2) | Word Transfer (Level 2) | <br>
 Points : 30 <br>
