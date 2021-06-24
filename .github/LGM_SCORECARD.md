@@ -35,9 +35,9 @@ Points : 45 <br>
 
 Name : Sherin Shibu <br>
 Github : https://github.com/sherin527 <br>
-Number of PR's : 3 <br>
-Projects Done : Text Translator (Level 2) | Image Blending (Level 1) | Canny Edge Detection (Level 1) | <br>
-Points : 35 <br>
+Number of PR's : 4 <br>
+Projects Done : Text Translator (Level 2) | Image Blending (Level 1) | Canny Edge Detection (Level 1) | Image Stitching (Level 2) <br>
+Points : 50 <br>
 
 Name : Satyam Tripathi <br>
 Github : https://github.com/Iamtripathisatyam <br>
@@ -109,13 +109,13 @@ Points : 130 <br>
 
 Name : Rishav Kumar <br>
 Github : https://github.com/hr1shu <br>
-Number of PR's : 1 <br>
+Number of PR's : 2 <br>
 Projects Done : Password Checker (Level 2) | Pip Upgrade (Level 1) | <br>
 Points : 25 <br>
 
 Name : Umesh Singh <br>
 Github : https://github.com/Umesh-01 <br>
-Number of PR's : 1 <br>
+Number of PR's : 4 <br>
 Projects Done : Badges Link (Level 0) | Jokes Automation (Level 1) | Covid Cases Scraper (Level 2) | Poems Automation (Level 1) | <br>
 Points : 40 <br>
 
@@ -245,4 +245,50 @@ Number of PR's : 1 <br>
 Projects Done : Checklist App (Level 2) | <br>
 Points : 15 <br>
 
+Name : Sakalya <br>
+Github : https://github.com/Sakalya100 <br>
+Number of PR's : 1 <br>
+Projects Done : Text Extractor from PDF (Level 2) | <br>
+Points : 15 <br>
 
+Name : Ashutosh Kumar Saw <br>
+Github : https://github.com/Ashu-1309 <br>
+Number of PR's : 1 <br>
+Projects Done : Temperature Converter (Level 2) | <br>
+Points : 15 <br>
+
+Name : Abhishek Sharma <br>
+Github : https://github.com/abhisheks008 <br>
+Number of PR's : 2 <br>
+Projects Done : Py-Browser (Level 3) | Reddit Bot (Level 2) | <br>
+Points : 45 <br>
+
+Name : Khushi Sharma <br>
+Github : https://github.com/Khushi-sharma07 <br>
+Number of PR's : 2 <br>
+Projects Done : Splash screen & logo (Level 3) | BMI calculator (Level 3) | <br>
+Points : 60 <br>
+
+Name : Ishita kapoor <br>
+Github : https://github.com/ishitakapoor26 <br>
+Number of PR's : 1 <br>
+Projects Done : Levels & Points (Level 0) | <br>
+Points : 5 <br>
+
+Name : Debashish Kundu <br>
+Github : https://github.com/its-me-debk007 <br>
+Number of PR's : 1 <br>
+Projects Done : Extracting Information (Level 2) | <br>
+Points : 15 <br>
+
+Name : Bindal dhara <br>
+Github : https://github.com/bindaldhara <br>
+Number of PR's : 1 <br>
+Projects Done : Rolling Dice Game (Level 1) | <br>
+Points : 10 <br>
+
+Name : Kumarjeet Ray <br>
+Github : https://github.com/kumarjeetray <br>
+Number of PR's : 2 <br>
+Projects Done : File Transfer (Level 2) | World Transfer (Level 2) | <br>
+Points : 30 <br>
