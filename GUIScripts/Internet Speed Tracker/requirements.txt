@@ -1,0 +1,3 @@
+Install speedtest-cli package
+import tkinter (gui programmming)
+import speedtest (to check the speed)
