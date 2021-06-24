@@ -14,12 +14,15 @@ The only thing user has to do is run the program and click on the button "Get Sp
 
 ## Screenshots:
 Logo of the application
+
 ![SpeedTest Logo](https://user-images.githubusercontent.com/77405013/123254337-2a3e9380-d50c-11eb-87b1-ea20437d9a60.gif)
 
 First Screen
+
 ![First Screen](https://user-images.githubusercontent.com/77405013/123254291-1a26b400-d50c-11eb-8d5e-a78e6ec3508d.png)
 
 Output Screen
+
 ![Output Screen](https://user-images.githubusercontent.com/77405013/123254445-4b06e900-d50c-11eb-9673-746bf40cfda0.png)
 
 ## Functioning of the program
