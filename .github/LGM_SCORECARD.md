@@ -17,9 +17,9 @@ Points : 60 <br>
 Name : Neel Shah <br>
 Github : https://github.com/neelshah2409 <br>
 Number of PR's : 23 <br>
-Projects Done : Typing Speed Test (Level 2) | Caesar Encryption (Level 1) | ATM Machine System (Level 2) | Facebook Messenger Automation (Level 2) | Grammar Correction 
-(Level 1) | Matchmaker Game (Level 2) | QRCode Generator (Level 1) | Tracking Phone Number (Level 1) | All Information about Country (Level 2) | Movie Information Detailer (Level 2) | Voting System (Level 2) | Video to Audio (Level 1) | Adventure Based Game (Level 1) | Desktop Notification (Level 1) | WIFI Password Fetcher (Level 2) | Caterpillar Game (Level 2) | Mobile Recharge Plan Detailer (Level 1) | Email Sender in Bulk (Level 1) | Age Predictor Chatbot (Level 1) | Library Management GUI (Level 1) | Gold Price Fetcher (Level 1) | Zip Files Extractor (Level 1) | Word Cloud (Level 1) | <br>
-Points : 275 <br>
+Projects Done : Typing Speed Test (Level 1) | Caesar Encryption (Level 1) | ATM Machine System (Level 1) | Facebook Messenger Automation (Level 1) | Grammar Correction 
+(Level 1) | Matchmaker Game (Level 2) | QRCode Generator (Level 1) | Tracking Phone Number (Level 1) | All Information about Country (Level 1) | Movie Information Detailer (Level 1) | Voting System (Level 1) | Video to Audio (Level 1) | Adventure Based Game (Level 1) | Desktop Notification (Level 1) | WIFI Password Fetcher (Level 2) | Caterpillar Game (Level 2) | Mobile Recharge Plan Detailer (Level 1) | Email Sender in Bulk (Level 1) | Age Predictor Chatbot (Level 1) | Library Management GUI (Level 1) | Gold Price Fetcher (Level 1) | Zip Files Extractor (Level 1) | Word Cloud (Level 1) | <br>
+Points : 245 <br>
 
 Name : Pratima Kushwaha <br>
 Github : https://github.com/pratimakush10 <br>
