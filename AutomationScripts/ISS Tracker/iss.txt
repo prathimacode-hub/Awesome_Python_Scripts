@@ -1,0 +1,14 @@
+There are currently 10 astronauts on the ISS: 
+
+Mark Vande Hei - on board
+Oleg Novitskiy - on board
+Pyotr Dubrov - on board
+Thomas Pesquet - on board
+Megan McArthur - on board
+Shane Kimbrough - on board
+Akihiko Hoshide - on board
+Nie Haisheng - on board
+Liu Boming - on board
+Tang Hongbo - on board
+
+Your current lat / long is: [26.8393, 80.9231]
