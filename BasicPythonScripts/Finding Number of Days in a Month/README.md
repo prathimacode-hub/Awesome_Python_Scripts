@@ -34,7 +34,8 @@
 
 
 ## Display images/gifs/videos of output/result of your script so that users can visualize it
-https://github.com/Ashu-1309/Awesome_Python_Scripts/blob/days_finder/BasicPythonScripts/Finding%20Number%20of%20Days%20in%20a%20Month/Images/Number_of_days.png
+BasicPythonScripts/Finding Number of Days in a Month/Images/Day Finder.png
+
 
 
 ## Author(s)
