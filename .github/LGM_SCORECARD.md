@@ -39,7 +39,7 @@ Number of PR's : 3 <br>
 Projects Done : Text Translator (Level 2) | Image Blending (Level 1) | Canny Edge Detection (Level 1) | <br>
 Points : 35 <br>
 
-Name : SATYAM TRIPATHI <br>
+Name : Satyam Tripathi <br>
 Github : https://github.com/Iamtripathisatyam <br>
 Number of PR's : 7 <br>
 Projects Done : Link Issue (Level 0) | Text Image to Handwritten Text Image (Level 1) | QRCode Scanner Web Application (Level 1) | PC Cleaner (Level 2) | Distance Finder 
