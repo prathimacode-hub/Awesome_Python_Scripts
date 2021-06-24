@@ -1,0 +1,8 @@
+##requirement 
+
+ import datetime 
+
+
+ use strptime method to create a datetime object 
+
+%B is used to give Full Month Name.
