@@ -1,28 +1,32 @@
 <h3>Wikipedia Summary</h3>
 <hr>
-<h4>Package needed</h4>
+<h4>Built with</h4>
 <hr>
+<b>1.Python Tkinter</b>
+<b>2.Library needed</b>
 --  wikipedia - Wikipedia is a Python library that makes it easy to access and parse data from Wikipedia.<br>
 -- tkinter - Python provides the standard library Tkinter for creating the graphical user interface for desktop based applications.<br>
 -- tkinter – ScrolledText -  There are various types of widgets available in Tkinter,ScrolledText widget is a text widget with a scroll bar.<br>
                             The tkinter.scrolledtext module provides the text widget along with a scroll bar.<br>
-<h4>Setup instructions</h4>
-<hr>
--- To install Wikipedia, simply run: <b>pip install wikipedia</b><br>
 <br>
--- tkinter : To install Tkinter, we need Python pre-installed.<br> 
-             Tkinter actually comes along when we install Python. While installing Python, we need to check the td/tk and IDLE checkbox.<br>
-             This will install the tkinter and we need not install it separately.<br>
+<h4>Aim</h4>
+The aim of this python script is to get the summary of desired topic from wikipedia.
 <br>
--- tkinter-ScrolledText : just write {from tkinter import scrolledtext}<br>
-<h4>Explanation of script</h4>
+<h4>Workflow of script</h4>
 <hr>
-Firstly, import all the package listed above. Then function name search will be there in which we get the data from wikipedia using module.Then we create main<br> window for tkinter.Buttons were added,When we run the script tkinter interface will appear we write the topic in space given.Click on search then wait for a while<br> 
-then summary will appear.<b>Don't forget to connect to internet</b><br>
+Step 1: Firstly, imported all the package listed above. 
+Step 2: Then function name {search} will be there in which we get the data from wikipedia module.
+Step 3: Then we create main window for tkinter,Buttons were added.
+Step 4: When we run the script tkinter interface will appear we write the topic in space given.Click on search then wait for a while<br> 
+then summary will appear.
+<b>Don't forgot to connect your internet with the system.</b>
 <br>
 <h4>Output</h4>
 <hr>
-![output](https://user-images.githubusercontent.com/81240664/123242401-9ff03280-d4ff-11eb-9623-ccb431279cac.gif)
-<br>
+<b>output screenshot</b>
+GUIScripts/Wikipedia Summary/Images/output screenshot 1.png
+GUIScripts/Wikipedia Summary/Images/output screenshot 2.png
+<b>output gif</b>
+GUIScripts/Wikipedia Summary/Images/output.gif
 <h4>Author</h4>
 Pratima Kushwaha 
