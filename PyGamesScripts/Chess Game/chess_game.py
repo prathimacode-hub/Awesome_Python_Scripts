@@ -2,8 +2,21 @@ import itertools
 WHITE = "white"
 BLACK = "black"
 
+"""
+CONVENTIONS: Positions are row-column based, both are numbers from the bottom left. This corresponds to the alpha-number system in traditional chess while being computationally useful. They are specified as tuples
+
+Game class contains the following members and methods:
+> Two arrays of pieces for each player.
+> 8x8 piece array with references to these pieces.
+> A parse function, which turns the input from the user into a list of two tuples denoting start and end points.
+> A checkmateExists function which checks if either players are in checkmate.
+> A checkExists function which checks if either players are in check.
+> A main loop, which takes input, runs it through the parser, asks the piece if the move is valid, and moves the piece if it is. If the move conflicts with another piece, that piece is removed. ischeck(mate) is run, and if there is a checkmate, the game prints a message as to who wins.
+"""
+
 
 class Game:
+    # I've decided since the number of pieces is capped but the type of pieces is not (pawn transformations), I've already coded much of the modularity to support just using a dictionary of pieces.
     def __init__(self):
         self.playersturn = BLACK
         self.message = "This is where prompts will go"
@@ -64,7 +77,7 @@ class Game:
                 self.message = "There is no piece in that space"
 
     def isCheck(self):
-        # ascertain where the kings are, check all pieces of opposing color against those kings, then if either get hit, check if its checkmate
+        # As certain where the kings are, check all pieces of opposing color against those kings, then if either get hit, check if its checkmate
         king = King
         kingDict = {}
         pieceDict = {BLACK: [], WHITE: []}
@@ -80,7 +93,7 @@ class Game:
             self.message = "Black player is in check"
 
     def canSeeKing(self, kingpos, piecelist):
-        # checks if any pieces in piece list (which is an array of (piece,position) tuples) can see the king in kingpos
+        # Checks if any pieces in piece list (which is an array of (piece,position) tuples) can see the king in kingpos.
         for piece, position in piecelist:
             if piece.isValid(position, kingpos, piece.Color, self.gameboard):
                 return True
@@ -210,7 +223,7 @@ class Pawn(Piece):
     def __init__(self, color, name, direction):
         self.name = name
         self.Color = color
-        # of course, the smallest piece is the hardest to code. direction should be either 1 or -1, should be -1 if the pawn is traveling "backwards"
+        # Direction should be either 1 or -1, should be -1 if the pawn is traveling "backwards"
         self.direction = direction
 
     def availableMoves(self, x, y, gameboard, Color=None):
@@ -230,4 +243,5 @@ class Pawn(Piece):
 uniDict = {WHITE: {Pawn: "♙", Rook: "♖", Knight: "♘", Bishop: "♗", King: "♔", Queen: "♕"},
            BLACK: {Pawn: "♟", Rook: "♜", Knight: "♞", Bishop: "♝", King: "♚", Queen: "♛"}}
 
-Game()
+if __name__ == "__main__":
+    Game()
