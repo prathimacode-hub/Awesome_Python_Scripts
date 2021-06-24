@@ -25,7 +25,7 @@
     <img src="Images/matchedpoints.PNG">
   <p>Matching Points</p>
     <img src="Images/matching.PNG">
-  <p>Stiched Image</p>
+  <p>Stitched Image</p>
     <img src="Images/result.PNG">
   </div>
   <div>
@@ -35,7 +35,7 @@
     <img src="Images/matchedpoints2.PNG" height="400" width="400">
     <p>Matching Points</p>
     <img src="Images/matching2.PNG" height="500" width="800">
-     <p>Stiched Image</p>
+     <p>Stitched Image</p>
     <img src="Images/result2.PNG" height="500" width="800">
   </div>
 
