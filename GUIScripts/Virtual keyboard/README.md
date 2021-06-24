@@ -44,5 +44,7 @@
 ****
 
 # Below is the link to video showing how script works :
-https://user-images.githubusercontent.com/57003737/123204915-9ef6db00-d4d6-11eb-8e67-0c7901e9d1a0.mp4
+<video width="320" height="240" controls>
+  <source src="Videos/sample_video.mp4" type="video/mp4">
+</video>
 
