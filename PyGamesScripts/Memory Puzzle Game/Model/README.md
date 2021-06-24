@@ -24,11 +24,3 @@ This is a match game made using python's gaming module pygame.
 
 #### Data/Dataset
 - Images imported from google
-
-[Memory_Puzzle_game_1](https://user-images.githubusercontent.com/64975064/122041940-2b2e4180-cdf7-11eb-90e8-5bfb7e35ef91.jpg)
-!
-[Memory_Puzzle_game_2](https://user-images.githubusercontent.com/64975064/122041948-2ec1c880-cdf7-11eb-8390-ff5e751e441d.jpg)
-!
-[Memory_Puzzle_game_3](https://user-images.githubusercontent.com/64975064/122041950-2f5a5f00-cdf7-11eb-9d02-218576c06200.jpg)
-!
-[Memory_Puzzle_game_4](https://user-images.githubusercontent.com/64975064/122041953-2ff2f580-cdf7-11eb-9033-afc1d6e1b8a6.jpg)
