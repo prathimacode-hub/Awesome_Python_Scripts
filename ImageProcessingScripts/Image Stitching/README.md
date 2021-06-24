@@ -17,5 +17,29 @@
   <li>Next step is to computing homography matrix by applying RANSAC algorithm. Then, we will use this matrix to calculate the warping transformation based on matched features.</li>
   <li>Once the wrapping function is done, our images are ready to stitch and you will get a seamless panaromic image of the two input images after stitching</li>
   </div>
+  <h2>Sample Images <h2>
   <div>
+  <p>Demo 1</p>
+  <img src="Images/hill1.jpg">           <img src="Images/hill2.jpg">
+  <p> Detecting Points</p>
+    <img src="Images/matchedpoints.PNG">
+  <p>Matching Points</p>
+    <img src="Images/matching.PNG">
+  <p>Stiched Image</p>
+    <img src="Images/result.PNG">
+  </div>
+  <div>
+    <p>.Demo 2</p>
+    <img src="Images/s1.jpg">           <img src="Images/s2.jpg">
+    <p> Detecting Points</p>
+    <img src="Images/matchedpoints2.PNG" height="400" width="400">
+    <p>Matching Points</p>
+    <img src="Images/matching2.PNG" height="500" width="800">
+     <p>Stiched Image</p>
+    <img src="Images/result2.PNG" height="500" width="800">
+  </div>
+
+
+
+
   
