@@ -245,17 +245,17 @@ Number of PR's : 1 <br>
 Projects Done : Checklist App (Level 2) | <br>
 Points : 15 <br>
 
-Name : Sakalya <br>
+Name : Sakalya Mitra <br>
 Github : https://github.com/Sakalya100 <br>
 Number of PR's : 1 <br>
-Projects Done : Text Extractor from PDF (Level 2) | <br>
-Points : 15 <br>
+Projects Done : Text Extractor from PDF (Level 1) | <br>
+Points : 10 <br>
 
 Name : Ashutosh Kumar Saw <br>
 Github : https://github.com/Ashu-1309 <br>
 Number of PR's : 1 <br>
-Projects Done : Temperature Converter (Level 2) | <br>
-Points : 15 <br>
+Projects Done : Temperature Converter (Level 1) | <br>
+Points : 10 <br>
 
 Name : Abhishek Sharma <br>
 Github : https://github.com/abhisheks008 <br>
@@ -266,8 +266,8 @@ Points : 45 <br>
 Name : Khushi Sharma <br>
 Github : https://github.com/Khushi-sharma07 <br>
 Number of PR's : 2 <br>
-Projects Done : Splash screen & logo (Level 3) | BMI calculator (Level 3) | <br>
-Points : 60 <br>
+Projects Done : Splash Screen & Logo in Calculator App (Level 2) | BMI calculator (Level 3) | <br>
+Points : 45 <br>
 
 Name : Ishita kapoor <br>
 Github : https://github.com/ishitakapoor26 <br>
@@ -278,10 +278,10 @@ Points : 5 <br>
 Name : Debashish Kundu <br>
 Github : https://github.com/its-me-debk007 <br>
 Number of PR's : 1 <br>
-Projects Done : Extracting Information (Level 2) | <br>
+Projects Done : Extracting Information from IP Address (Level 2) | <br>
 Points : 15 <br>
 
-Name : Bindal dhara <br>
+Name : Bindaldhara <br>
 Github : https://github.com/bindaldhara <br>
 Number of PR's : 1 <br>
 Projects Done : Rolling Dice Game (Level 1) | <br>
