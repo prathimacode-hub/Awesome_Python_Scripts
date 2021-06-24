@@ -43,8 +43,5 @@
 
 ****
 
-# Below is the link to video showing how script works :
-<video width="320" height="240" controls>
-  <source src="Videos/sample_video.mp4" type="video/mp4">
-</video>
-
+# Below is the sample video gif showing how script works :
+<img width = 800 src="Videos/sample_video.gif" /><br>
