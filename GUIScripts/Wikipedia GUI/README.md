@@ -1,4 +1,4 @@
-# Wikipedia GUI 
+# Wikipedia GUI 📖
 ## Introduction
 <ul>
   <li>A mini version of Wikipedia created in Python Tkinter</li>
