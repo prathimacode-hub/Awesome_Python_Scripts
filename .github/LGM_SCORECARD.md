@@ -147,7 +147,7 @@ Name : Pankaj Biradar <br>
 Github : https://github.com/pankaj892 <br>
 Number of PR's : 1 <br>
 Projects Done : Random Email Generator (Level 2) | <br>
-Points : 10 <br>
+Points : 15 <br>
 
 Name : Vaikunth <br>
 Github : https://github.com/vaikunth-coder27 <br>
@@ -195,7 +195,7 @@ Name : Kodali Bhuvan SriHarsha <br>
 Github : https://github.com/Bhuvanharsha16 <br>
 Number of PR's : 1 <br>
 Projects Done : Real-Time Currency Converter (Level 1) | <br>
-Points : 15 <br>
+Points : 10 <br>
 
 Name : Jayapritha N <br>
 Github : https://github.com/coding-geek21 <br>
