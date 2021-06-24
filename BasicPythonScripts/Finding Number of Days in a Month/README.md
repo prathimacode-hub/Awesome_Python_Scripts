@@ -38,6 +38,6 @@ BasicPythonScripts/Finding Number of Days in a Month/Images/Number_of_days.png
 
 
 ## Author(s)
-ASHUTOSH KUMAR SAW
-LGMSOC 
+ASHUTOSH KUMAR SAW <br>
+LGMSOC <br>
 CONTRIBUTOR
