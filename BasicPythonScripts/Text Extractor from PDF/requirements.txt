@@ -1,0 +1,6 @@
+Modules Required for this :
+1) PyPDF2
+
+Other Knowledge Required
+File Handling
+1) Opening a text file in write mode to write a string into it
