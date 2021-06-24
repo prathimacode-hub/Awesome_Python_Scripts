@@ -1,6 +1,9 @@
 ## Description: 
 [**Here**](https://github.com/Aditya8821/Awesome_Python_Scripts/blob/main/AutomationScripts/ISS%20Tracker/iss_tracker.py) is Python Script which tracks the current location of ISS(International Space Station)
 and then map location.
+This displays the current location of ISS along with onboarded crew names. It works by use of API, it takes the current location of ISS in form of latitude and longitude and then locates that value onto the map. It takes the value from the website at very 5 sec and then updates the value of lati. and long. and thus also moves the ISS icon on the map. The movement visible is very little but you can notice that movement in the gif below.
+This is possible by using some of the modules of python like JSON, Urllib.requests, Webbrowser, Geocoder etc. Numerous functions are used to create thsi script.
+Some of the modules are listed below.
 
 - **JSON:**
 This JSOn module is used to decode a JSON document from a string that may have extraneous data at the end.
