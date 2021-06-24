@@ -1,0 +1,2 @@
+- You have to include the socket library in the begining of the file
+- You have to run the client file in one IDE and the server in another PC or VM's IDE
