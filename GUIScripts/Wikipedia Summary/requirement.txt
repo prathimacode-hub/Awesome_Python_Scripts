@@ -1,0 +1,12 @@
+<h3>Package needed</h3>
+<hr>
+1. wikipedia
+--pip install wikipedia
+<br>
+2.Install Tkinter
+Tkinter can be installed using pip. The following command is run in the command prompt to install Tkinter.<br>
+<br>
+--pip install tk<br>
+This command will start downloading and installing packages related to the Tkinter library. Once done, the message of successful installation will be displayed.<br>
+<br>
+3.tkinter-ScrolledText : just write {from tkinter import scrolledtext}
