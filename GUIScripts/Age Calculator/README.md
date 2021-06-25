@@ -23,8 +23,7 @@ At last, it shows the user’s age.
 
 * install python in your system
 * import tkinter module
-* run command *python age_calculator.py
-* the application will run
+* run command - python age_calculator.py in your terminal
 
 
 ## Output
