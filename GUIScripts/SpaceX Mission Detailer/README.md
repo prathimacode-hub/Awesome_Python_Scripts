@@ -1,7 +1,7 @@
 # ✔ SPACEX MISSION DETAILER
 - ### A "SpaceX Mission Detailer" is an application created in python with tkinter gui.
 - ### In this application, user can find the details about any how many SpaceX Mission took place between March 2006 to February 2017.
-- ### The details for each mission will be in terms of Flight Number, Launch Date, Launch Time, Launch Site, Vehicle Type, Payload Type, Payload Mass, Payload Orbit, Customer Name, Custumer Type, Customer Country, Mission Outcome, Failure Reasons if failed, Landing Type and landing Outcome.
+- ### The details for each mission will be in terms of Flight Number, Launch Date, Launch Time, Launch Site, Vehicle Type, Payload Type, Payload Mass, Payload Orbit, Customer Name, Customer Type, Customer Country, Mission Outcome, Failure Reasons if failed, Landing Type and landing Outcome.
 - ### for the data, used the spaceX_data.csv data, and read using pandas library.
 
 ****
