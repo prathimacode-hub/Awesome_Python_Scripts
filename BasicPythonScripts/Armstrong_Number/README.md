@@ -1,6 +1,6 @@
 
 # ARMSTRONG NUMBER
-Its a program where we play with armstrong numbers
+It is a program where we play with armstrong numbers
 
 ## _Title_:
   To check whether the number is an armstrong number or not.
@@ -12,13 +12,27 @@ For example: 153 = 1^3 + 5^3 + 3^3 = 3 + 125 + 27 = 153
 ## _Description_:
   Here, the user enter a random number and the program will tell that the entered number is armstrong or not. 
   
-## _How to execute ?_:
-1.) Run this program and enter the number you want to check.
+## _Compilation Steps_:
+1.) Run this program in a proper IDE e.g. Pycharm, VScode ,Jupyter notebook etc or any Online compiler like Repelit.
 
-2.) The output will show you the desired result.
+2.) Enter the number you want to check.
+
+3.) The output will show you the desired result.
 
 ## _Screenshot_:      
-![armstrong_code](https://user-images.githubusercontent.com/83975944/122682448-33e39680-d1ae-11eb-969f-ba2b13b31e1d.png)
+### _Code_:
+![armstrong_code](https://user-images.githubusercontent.com/83975944/123385121-0ac65b80-d54a-11eb-9548-dc4e44b103a1.png)
+
+### Output :
+![output1](https://user-images.githubusercontent.com/83975944/123385275-377a7300-d54a-11eb-98aa-f9b165514191.png)
+
+![output2](https://user-images.githubusercontent.com/83975944/123385291-3ba69080-d54a-11eb-8954-273395e4cbf6.png)
 
 
+## _For any query contact_:
 
+linkedIn : www.linkedin.com/in/PRai
+
+_** Author**_
+ 
+ Priyanshi Rai
