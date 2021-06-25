@@ -3,6 +3,9 @@
 ## Aim:
  The motive of this project to create a mosaic image using python script.
  
+## Purpose:
+ Photomosaic is a art. It can be done by some photoshops. Here the purpose it it can be done without any such photoshops app and built by pyhton script.
+ 
 
 ## Short description of package/script
 
@@ -14,6 +17,14 @@
   - Numpy
   - imghdr
   - Os, Random, Time
+
+## Work-Flow
+ 1. To load the main image folder and sub-folder images for photomosaic.
+ 2. To analyze the width, height of the images.
+ 3. To make a list fo row and column of images
+ 4. To get the name of image and file names from folder
+ 5. Setting up the grid and assign the index for the image to be placed.
+ 6. Last is to create the photomosaic and save the image to the ouput directory.
 
 ## Setup instructions
 
@@ -29,8 +40,13 @@ STEP 3: Run it using below command
 
     pyhton mosaic_generator.py  --target-image Sample-data/MainImage.jpg --input-folder Sample-data/set1/ --grid-size 128 128
 
+## Image Links:
 
-#Sample Test Case:
+- [Main Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo-Free.jpg&psig=AOvVaw1gpqQ9HXypoJGda7UgztQD&ust=1624716638605000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPDytaj7svECFQAAAAAdAAAAABAD)
+- [Collage Image](https://www.kaggle.com/kvpratama/pokemon-images-dataset)
+
+
+## Sample Test Case:
 
 ### Before Editing :
 
