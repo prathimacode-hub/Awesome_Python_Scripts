@@ -1,9 +1,9 @@
 # Age Calculator GUI
 
-# Aim
+## Aim
 To implement age calculator application using python
 
-# Purpose
+## Purpose
 To calculate age by taking birth date and current date as input and giving age as output
 
 ## Short description:
@@ -12,17 +12,26 @@ I have implemented this application using various python modules with GUI python
 
 List out the libraries imported: tkinter, datetime
 
-# Workflow
+## Workflow
 Python offers a very good GUI library i.e. tkinter which is very easy to learn and use.
 Here, I have implemented a GUI application to calculate age using a button.
 In application, user is asked to enter date of birth and current date.
 Then using that information from the entry widgets and it calculates the user’s age.
 At last, it shows the user’s age.
 
+## Compilation steps
+
+* install python in your system
+* import tkinter module
+* run command *python age_calculator.py
+* the application will run
+
 
 ## Output
-![sample](https://user-images.githubusercontent.com/55910525/123129596-b0ee6480-d469-11eb-8b3b-9f4f9baa719c.png)
-![output](https://user-images.githubusercontent.com/55910525/123129692-c2d00780-d469-11eb-9a2c-4dfdbf06319e.png)
+![GUI](Images/sample.png)
+![GUI](Images/output.png)
+
+
 
 
 ## Author
