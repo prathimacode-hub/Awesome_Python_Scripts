@@ -18,14 +18,14 @@ Name : Neel Shah <br>
 Github : https://github.com/neelshah2409 <br>
 Number of PR's : 23 <br>
 Projects Done : Typing Speed Test (Level 1) | Caesar Encryption (Level 1) | ATM Machine System (Level 1) | Facebook Messenger Automation (Level 1) | Grammar Correction 
-(Level 1) | Matchmaker Game (Level 2) | QRCode Generator (Level 1) | Tracking Phone Number (Level 1) | All Information about Country (Level 1) | Movie Information Detailer (Level 1) | Voting System (Level 1) | Video to Audio (Level 1) | Adventure Based Game (Level 1) | Desktop Notification (Level 1) | WIFI Password Fetcher (Level 2) | Caterpillar Game (Level 2) | Mobile Recharge Plan Detailer (Level 1) | Email Sender in Bulk (Level 1) | Age Predictor Chatbot (Level 1) | Library Management GUI (Level 1) | Gold Price Fetcher (Level 1) | Zip Files Extractor (Level 1) | Word Cloud (Level 1) | <br>
-Points : 245 <br>
+(Level 1) | Matchmaker Game (Level 2) | QRCode Generator (Level 1) | Tracking Phone Number (Level 1) | All Information about Country (Level 1) | Movie Information Detailer (Level 1) | Voting System (Level 1) | Video to Audio (Level 1) | Adventure Based Game (Level 1) | Desktop Notification (Level 1) | WIFI Password Fetcher (Level 2) | Caterpillar Game (Level 2) | Mobile Recharge Plan Detailer (Level 1) | Email Sender in Bulk (Level 1) | Age Predictor Chatbot (Level 1) | Library Management GUI (Level 1) | Gold Price Fetcher (Level 1) | Zip Files Extractor (Level 1) | Word Cloud (Level 1) | Stock Visualizer (Level 1) | <br>
+Points : 255 <br>
 
 Name : Pratima Kushwaha <br>
 Github : https://github.com/pratimakush10 <br>
 Number of PR's : 2 <br>
-Projects Done : Alarm Clock Program (Level 1) | Integer to Roman Numerals (Level 1) | <br>
-Points : 20 <br>
+Projects Done : Alarm Clock Program (Level 1) | Integer to Roman Numerals (Level 1) | Wikipedia Summary (Level 1) | <br>
+Points : 30 <br>
 
 Name : Sambit Kumar Tripathy <br>
 Github : https://github.com/sambit221 <br>
@@ -164,14 +164,14 @@ Points : 30 <br>
 Name : Akash Ramanand Rajak <br>
 Github : https://github.com/akash435 <br>
 Number of PR's : 15 <br>
-Projects Done : Bubble Catcher Game (Level 2) | English Dictionary - Enhanced (Level 4) | Image To Icon Converter (Level 2) |  Zodiac Sign Finder (Level 3) | Splash Screen in Zodiac Sign Finder - Enhancement (Level 1) | Missing Alphabet Game (Level 3) | Result Predictor in TicTacTao Game - Enhancement (Level 2) | Time Zone Converter (Level 3) | Spelling Corrector (Level 2) | Quiz Game (Level 2) | Part of Speech Calculator (Level 2) | Get Location Of Any Country (Level 2) | Search Implementation (Level 3) | Indian Food Information (Level 2) | Virtual Keyboard (Level 2) | <br>
-Points : 310 <br>
+Projects Done : Bubble Catcher Game (Level 2) | English Dictionary - Enhanced (Level 4) | Image To Icon Converter (Level 2) |  Zodiac Sign Finder (Level 3) | Splash Screen in Zodiac Sign Finder - Enhancement (Level 1) | Missing Alphabet Game (Level 3) | Result Predictor in TicTacTao Game - Enhancement (Level 2) | Time Zone Converter (Level 3) | Spelling Corrector (Level 2) | Quiz Game (Level 2) | Part of Speech Calculator (Level 2) | Get Location Of Any Country (Level 2) | Search Implementation (Level 3) | Indian Food Information (Level 2) | Virtual Keyboard (Level 2) | Direct Flight Route Finder (Level 2) | World Bank GDP Ranking (Level 2) | <br>
+Points : 340 <br>
 
 Name : Anshika Subodhkumar <br>
 Github : https://github.com/AK-Subodh <br>
 Number of PR's : 1 <br>
-Projects Done : Oddly Satisfying Game (Level 2) | <br>
-Points : 15 <br>
+Projects Done : Oddly Satisfying Game (Level 2) | Editable Menu Card (Level 3) | <br>
+Points : 45 <br>
 
 Name : Nishi <br>
 Github : https://github.com/queenish001 <br>
@@ -254,8 +254,8 @@ Points : 10 <br>
 Name : Ashutosh Kumar Saw <br>
 Github : https://github.com/Ashu-1309 <br>
 Number of PR's : 1 <br>
-Projects Done : Temperature Converter (Level 1) | <br>
-Points : 10 <br>
+Projects Done : Temperature Converter (Level 1) | Day's Finder in a Month (Level 1) | <br>
+Points : 20 <br>
 
 Name : Abhishek Sharma <br>
 Github : https://github.com/abhisheks008 <br>
@@ -266,7 +266,7 @@ Points : 45 <br>
 Name : Khushi Sharma <br>
 Github : https://github.com/Khushi-sharma07 <br>
 Number of PR's : 2 <br>
-Projects Done : Splash Screen & Logo in Calculator App (Level 2) | BMI calculator (Level 3) | <br>
+Projects Done : Splash Screen & Logo in Calculator App (Level 2) | BMI calculator (Level 3) | Internet Speed Tracker (Level 1) | <br>
 Points : 45 <br>
 
 Name : Ishita kapoor <br>
@@ -292,3 +292,15 @@ Github : https://github.com/kumarjeetray <br>
 Number of PR's : 2 <br>
 Projects Done : File Transfer (Level 2) | Word Transfer (Level 2) | <br>
 Points : 30 <br>
+
+Name : Sahil Singh <br>
+Github : https://github.com/sahilsingh2402 <br>
+Number of PR's : 1 <br>
+Projects Done : Chess Game (Level 3) | <br>
+Points : 30 <br>
+
+Name : Pooja S Deshpande <br>
+Github : https://github.com/cybot-des <br>
+Number of PR's : 1 <br>
+Projects Done : Wikipedia GUI (Level 2) | <br>
+Points : 15 <br>
