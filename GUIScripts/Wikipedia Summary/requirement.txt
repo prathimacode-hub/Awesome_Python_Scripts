@@ -1,0 +1,15 @@
+<h3>Library Imported</h3>
+<hr>
+<b>1.wikipedia
+   2.tkinter
+   3.tkinter-ScrolledText
+<h4>Setup instructions</h4>
+<hr>
+-->To install: 
+--1.wikipedia, simply run: <b>pip install wikipedia</b><br>
+<br>
+-- 2.tkinter : To install Tkinter, we need Python pre-installed.<br> 
+             Tkinter actually comes along when we install Python. While installing Python, we need to check the td/tk and IDLE checkbox.<br>
+             This will install the tkinter and we need not install it separately.<br>
+<br>
+-- 3.tkinter-ScrolledText : just write {from tkinter import scrolledtext}<br>
