@@ -9,7 +9,7 @@ List Of Libraries Imported:
 It is a basic Python Script so there is no need to import any sort of Python libraries, the only thing the user has to do is give the input properly.
 
 # Output:
-
+![Acronym Of The Word](Images/Output.png)
 
 # Author
 Khushi Sharma
