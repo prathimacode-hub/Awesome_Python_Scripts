@@ -1,0 +1,8 @@
+Libraries to be downloaded:
+Wikipedia-API
+
+download by --> pip install Wikipedia-API
+
+Modules used:
+1) Tkinter
+2) Wikipedia-API
