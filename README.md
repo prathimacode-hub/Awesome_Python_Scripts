@@ -153,7 +153,7 @@ The project repository you had created would have :
   </tr>
 </table>
 
-You can check out your points scored here : **[LGMSOC_SCORECARD](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/LGM_SCORECARD.md)**
+You can check out your points scored here : **[LGMSOC_SCORECARD](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/LGM_SCORECARD.md)** <br>
 **Point to Note** : It will be updated once in 4 days. 
 
 <h2> ✨ Hall Of Fame </h2>
