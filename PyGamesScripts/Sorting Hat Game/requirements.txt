@@ -3,7 +3,7 @@ Tkinter, random
 <h5>tkinter Module</h5>
 <p>
 TKINTER is the standard GUI library used to provide fast and easy way to create GUI applications.<br>
->> Tkinter provides some widgets few of them are listed below<br>
+>> Tkinter provides some widgets, few of them are listed below<br>
  >LABEL- It creates a single line caption for the window.<br>
  >BUTTON- It is used to display buttons on the window.<br>
  >widgets.PACK() Method- It adds the widgets onto main window.<br>
