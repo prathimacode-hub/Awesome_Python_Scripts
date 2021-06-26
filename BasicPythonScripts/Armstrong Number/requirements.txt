@@ -1,0 +1,5 @@
+This is a very simple amd beginner friendly project.
+
+All you need is the python (3.X) install in your device and than you can run the program in any IDE 
+
+u can use : VScode , jupyter notebook , pycharm etc to run the program or any online ide
