@@ -18,13 +18,13 @@ For example: 153 = 1^3 + 5^3 + 3^3 = 3 + 125 + 27 = 153
 
 2.) Now, it will check the conditions passing through loops.
 
-    a.) storing the value in a temporary variable called local.
+    a.)Storing the value in a temporary variable called local.
 
-    b.)cheching the square of each digit in the number and storing it in sum variable.
+    b.)Checking the square of each digit in the number and storing it in sum variable.
     
-    c.) Using if else to check whether the value stored in variable sum is equal to number or not.
+    c.)Using if else to check whether the value stored in variable sum is equal to number or not.
     
-3.) Printing the results according to the loop it entered    
+3.) Printing the results according to the loop it entered.    
   
 
 ## _Compilation Steps_:
