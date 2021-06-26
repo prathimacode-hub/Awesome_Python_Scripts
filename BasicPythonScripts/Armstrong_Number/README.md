@@ -36,12 +36,13 @@ For example: 153 = 1^3 + 5^3 + 3^3 = 3 + 125 + 27 = 153
 
 ## _Screenshot_:      
 ### _Code_:
-![armstrong_code](https://user-images.githubusercontent.com/83975944/123385121-0ac65b80-d54a-11eb-9548-dc4e44b103a1.png)
+
+![alt text](https://github.com/Priyanshi-Rai/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Armstrong_Number/Images/armstrong_code.png)
 
 ### Output :
-![output1](https://user-images.githubusercontent.com/83975944/123385275-377a7300-d54a-11eb-98aa-f9b165514191.png)
+![alt text](https://github.com/Priyanshi-Rai/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Armstrong_Number/Images/output1.png)
 
-![output2](https://user-images.githubusercontent.com/83975944/123385291-3ba69080-d54a-11eb-8954-273395e4cbf6.png)
+![alt text](https://github.com/Priyanshi-Rai/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Armstrong_Number/Images/output2.png)
 
 
 ## _For any query contact_:
