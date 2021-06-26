@@ -39,6 +39,10 @@ STEP 2: Setup the command prompt directory where your moasaic_generator.py saved
 STEP 3: Run it using below command
 
     pyhton mosaic_generator.py  --target-image Sample-data/MainImage.jpg --input-folder Sample-data/set1/ --grid-size 128 128
+    
+## Image Directory Link:
+
+[Click Here](https://github.com/rammya29/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Collage%20Mosaic%20Generator/Images) - It will redirect to the image directory
 
 ## Image Links:
 
