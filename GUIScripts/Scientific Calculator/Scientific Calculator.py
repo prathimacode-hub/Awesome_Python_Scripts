@@ -1,3 +1,5 @@
+#Scientific Calculator
+# Import tkinker and other libraries
 from tkinter import *
 import math
 import parser
