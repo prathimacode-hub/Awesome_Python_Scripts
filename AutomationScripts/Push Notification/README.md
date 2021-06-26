@@ -18,5 +18,5 @@ import time
 - Get your Access Token and use the PushBullet method to create an instance.
 - Use the push_note function to send data and text inside the function.
 
-![](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/AutomationScripts/Push%20Notification/Images/output.gif)
-![](https://github.com/Iamtripathisatyam/Awesome_Python_Scripts/blob/main/AutomationScripts/Push%20Notification/Images/output.png)
+![](Images/output.gif)
+![](Images/output.png)
