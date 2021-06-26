@@ -18,5 +18,6 @@ import os
 - We will now use the sheet names as file names.
 - At last, we'll shut our workbook.
 - Finally: when you exit the excel sheet, you will notice that all of the sheets have been changed to new excel files.
-![](Images/output_1.jpg)
+
 ![](Images/output_2.jpg)
+![](Images/output_1.jpg)
