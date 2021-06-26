@@ -1,8 +1,8 @@
 # ✔ HIGHLIGHT SELECTED PART OF TEXT
 - ### A "Highlight Selected Part of Text" is an application created in python with tkinter gui.
-- ### In this application user first need to enter some pargraph in the text area given.
+- ### In this application user first need to enter some paragraph in the text area given.
 - ### Then user can select any part of text and click on highlight button to highlight them.
-- ### And to un highlight the highlighted text, this can also be done using unhighlight button.
+- ### And to un highlight the highlighted text, this can also be done using un highlight button.
 
 ****
 
