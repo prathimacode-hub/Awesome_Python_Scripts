@@ -16,10 +16,10 @@ Points : 60 <br>
 
 Name : Neel Shah <br>
 Github : https://github.com/neelshah2409 <br>
-Number of PR's : 23 <br>
+Number of PR's : 25 <br>
 Projects Done : Typing Speed Test (Level 1) | Caesar Encryption (Level 1) | ATM Machine System (Level 1) | Facebook Messenger Automation (Level 1) | Grammar Correction 
-(Level 1) | Matchmaker Game (Level 2) | QRCode Generator (Level 1) | Tracking Phone Number (Level 1) | All Information about Country (Level 1) | Movie Information Detailer (Level 1) | Voting System (Level 1) | Video to Audio (Level 1) | Adventure Based Game (Level 1) | Desktop Notification (Level 1) | WIFI Password Fetcher (Level 2) | Caterpillar Game (Level 2) | Mobile Recharge Plan Detailer (Level 1) | Email Sender in Bulk (Level 1) | Age Predictor Chatbot (Level 1) | Library Management GUI (Level 1) | Gold Price Fetcher (Level 1) | Zip Files Extractor (Level 1) | Word Cloud (Level 1) | Stock Visualizer (Level 1) | Air Quality Detector (Level 1) | <br>
-Points : 265 <br>
+(Level 1) | Matchmaker Game (Level 2) | QRCode Generator (Level 1) | Tracking Phone Number (Level 1) | All Information about Country (Level 1) | Movie Information Detailer (Level 1) | Voting System (Level 1) | Video to Audio (Level 1) | Adventure Based Game (Level 1) | Desktop Notification (Level 1) | WIFI Password Fetcher (Level 2) | Caterpillar Game (Level 2) | Mobile Recharge Plan Detailer (Level 1) | Email Sender in Bulk (Level 1) | Age Predictor Chatbot (Level 1) | Library Management GUI (Level 1) | Gold Price Fetcher (Level 1) | Zip Files Extractor (Level 1) | Word Cloud (Level 1) | Stock Visualizer (Level 1) | Air Quality Detector (Level 1) | Fidget Spinner (Level 1) | Instagram Bot (Level 1) | <br>
+Points : 285 <br>
 
 Name : Pratima Kushwaha <br>
 Github : https://github.com/pratimakush10 <br>
@@ -163,9 +163,9 @@ Points : 30 <br>
 
 Name : Akash Ramanand Rajak <br>
 Github : https://github.com/akash435 <br>
-Number of PR's : 15 <br>
-Projects Done : Bubble Catcher Game (Level 2) | English Dictionary - Enhanced (Level 4) | Image To Icon Converter (Level 2) |  Zodiac Sign Finder (Level 3) | Splash Screen in Zodiac Sign Finder - Enhancement (Level 1) | Missing Alphabet Game (Level 3) | Result Predictor in TicTacTao Game - Enhancement (Level 2) | Time Zone Converter (Level 3) | Spelling Corrector (Level 2) | Quiz Game (Level 2) | Part of Speech Calculator (Level 2) | Get Location Of Any Country (Level 2) | Search Implementation (Level 3) | Indian Food Information (Level 2) | Virtual Keyboard (Level 2) | Direct Flight Route Finder (Level 2) | World Bank GDP Ranking (Level 2) | SpaceX Mission Detailer (Level 2) | <br>
-Points : 355 <br>
+Number of PR's : 20 <br>
+Projects Done : Bubble Catcher Game (Level 2) | English Dictionary - Enhanced (Level 4) | Image To Icon Converter (Level 2) |  Zodiac Sign Finder (Level 3) | Splash Screen in Zodiac Sign Finder - Enhancement (Level 1) | Missing Alphabet Game (Level 3) | Result Predictor in TicTacTao Game - Enhancement (Level 2) | Time Zone Converter (Level 3) | Spelling Corrector (Level 2) | Quiz Game (Level 2) | Part of Speech Calculator (Level 2) | Get Location Of Any Country (Level 2) | Search Implementation (Level 3) | Indian Food Information (Level 2) | Virtual Keyboard (Level 2) | Direct Flight Route Finder (Level 2) | World Bank GDP Ranking (Level 2) | SpaceX Mission Detailer (Level 2) | Periodic Table Elements (Level 2) | University NIRF Ranking (Level 2) | <br>
+Points : 385 <br>
 
 Name : Anshika Subodhkumar <br>
 Github : https://github.com/AK-Subodh <br>
