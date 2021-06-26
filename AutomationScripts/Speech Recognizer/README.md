@@ -45,3 +45,10 @@ import pyttsx3
 ```
 
 ## Screenshots
+
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-6/AutomationScripts/Speech%20Recognizer/Images/speech_recognition4.png">
+
+<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-6/AutomationScripts/Speech%20Recognizer/Images/speech_recognition2.png">
+
+## Contributor
+<a href="https://github.com/Umesh-01">Umesh Singh</a>
