@@ -17,9 +17,9 @@
 
 ## Output
 
-<img src="https://github.com/kumarjeetray/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Word%20Transfer/Images/word_transfer_client_ss_1.jpg"/>
-<img src="https://github.com/kumarjeetray/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Word%20Transfer/Images/word_transfer_client_ss_2.jpg"/>
-<img src="https://github.com/kumarjeetray/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Word%20Transfer/Images/word_transfer_server_ss.jpg"/>
+<img src="https://github.com/kumarjeetray/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Stone_paper_pencil_rubber_scissor/Images/Stone_paper_pencil_rubber_scissor_player_1.jpg"/>
+<img src="https://github.com/kumarjeetray/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Stone_paper_pencil_rubber_scissor/Images/Stone_paper_pencil_rubber_scissor_player_2.jpg"/>
+
 ## Author(s)
 
 Kumarjeet Ray
