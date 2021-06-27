@@ -43,8 +43,8 @@ Name : Satyam Tripathi <br>
 Github : https://github.com/Iamtripathisatyam <br>
 Number of PR's : 7 <br>
 Projects Done : Link Issue (Level 0) | Text Image to Handwritten Text Image (Level 1) | QRCode Scanner Web Application (Level 1) | PC Cleaner (Level 2) | Distance Finder 
-(Level 1) | Image to ASCII Converter (Level 1) | Backup WhatApp Chats to Excel Sheet (Level 1) | <br>
-Points : 70 <br>
+(Level 1) | Image to ASCII Converter (Level 1) | Backup WhatApp Chats to Excel Sheet (Level 1) | Send Push Notification to your Phone (Level 1) | Split Each Excel Sheet into Separate Excel Files (Level 1) | <br>
+Points : 80 <br>
 
 Name : Shreya Christiana <br>
 Github : https://github.com/shreyamalogi <br>
@@ -116,8 +116,8 @@ Points : 25 <br>
 Name : Umesh Singh <br>
 Github : https://github.com/Umesh-01 <br>
 Number of PR's : 4 <br>
-Projects Done : Badges Link (Level 0) | Jokes Automation (Level 1) | Covid Cases Scraper (Level 2) | Poems Automation (Level 1) | <br>
-Points : 40 <br>
+Projects Done : Badges Link (Level 0) | Jokes Automation (Level 1) | Covid Cases Scraper (Level 2) | Poems Automation (Level 1) | Speech Recognizer (Level 1) | <br>
+Points : 50 <br>
 
 Name : Jagannath Pal <br>
 Github : https://github.com/Jagannath8 <br>
@@ -164,8 +164,8 @@ Points : 30 <br>
 Name : Akash Ramanand Rajak <br>
 Github : https://github.com/akash435 <br>
 Number of PR's : 20 <br>
-Projects Done : Bubble Catcher Game (Level 2) | English Dictionary - Enhanced (Level 4) | Image To Icon Converter (Level 2) |  Zodiac Sign Finder (Level 3) | Splash Screen in Zodiac Sign Finder - Enhancement (Level 1) | Missing Alphabet Game (Level 3) | Result Predictor in TicTacTao Game - Enhancement (Level 2) | Time Zone Converter (Level 3) | Spelling Corrector (Level 2) | Quiz Game (Level 2) | Part of Speech Calculator (Level 2) | Get Location Of Any Country (Level 2) | Search Implementation (Level 3) | Indian Food Information (Level 2) | Virtual Keyboard (Level 2) | Direct Flight Route Finder (Level 2) | World Bank GDP Ranking (Level 2) | SpaceX Mission Detailer (Level 2) | Periodic Table Elements (Level 2) | University NIRF Ranking (Level 2) | <br>
-Points : 385 <br>
+Projects Done : Bubble Catcher Game (Level 2) | English Dictionary - Enhanced (Level 4) | Image To Icon Converter (Level 2) |  Zodiac Sign Finder (Level 3) | Splash Screen in Zodiac Sign Finder - Enhancement (Level 1) | Missing Alphabet Game (Level 3) | Result Predictor in TicTacTao Game - Enhancement (Level 2) | Time Zone Converter (Level 3) | Spelling Corrector (Level 2) | Quiz Game (Level 2) | Part of Speech Calculator (Level 2) | Get Location Of Any Country (Level 2) | Search Implementation (Level 3) | Indian Food Information (Level 2) | Virtual Keyboard (Level 2) | Direct Flight Route Finder (Level 2) | World Bank GDP Ranking (Level 2) | SpaceX Mission Detailer (Level 2) | Periodic Table Elements (Level 2) | University NIRF Ranking (Level 2) | Pin Codes of Indian City (Level 2) | Highlight Selected Part of Text (Level 1) | All Indian Trains (Level 2) | <br>
+Points : 400 <br>
 
 Name : Anshika Subodhkumar <br>
 Github : https://github.com/AK-Subodh <br>
@@ -254,8 +254,8 @@ Points : 10 <br>
 Name : Ashutosh Kumar Saw <br>
 Github : https://github.com/Ashu-1309 <br>
 Number of PR's : 1 <br>
-Projects Done : Temperature Converter (Level 1) | Day's Finder in a Month (Level 1) | <br>
-Points : 20 <br>
+Projects Done : Temperature Converter (Level 1) | Day's Finder in a Month (Level 1) | Grade Calculator (Level 1) | <br>
+Points : 30 <br>
 
 Name : Abhishek Sharma <br>
 Github : https://github.com/abhisheks008 <br>
@@ -266,8 +266,8 @@ Points : 45 <br>
 Name : Khushi Sharma <br>
 Github : https://github.com/Khushi-sharma07 <br>
 Number of PR's : 2 <br>
-Projects Done : Splash Screen & Logo in Calculator App (Level 2) | BMI calculator (Level 3) | Internet Speed Tracker (Level 1) | <br>
-Points : 45 <br>
+Projects Done : Splash Screen & Logo in Calculator App (Level 2) | BMI calculator (Level 3) | Internet Speed Tracker (Level 1) | Acronym of the Word (Level 1) | <br>
+Points : 55 <br>
 
 Name : Ishita kapoor <br>
 Github : https://github.com/ishitakapoor26 <br>
@@ -290,8 +290,8 @@ Points : 10 <br>
 Name : Kumarjeet Ray <br>
 Github : https://github.com/kumarjeetray <br>
 Number of PR's : 2 <br>
-Projects Done : File Transfer (Level 2) | Word Transfer (Level 2) | <br>
-Points : 30 <br>
+Projects Done : File Transfer (Level 2) | Word Transfer (Level 2) | Stone Paper Pencil Rubber and Scissor (Level 2) | <br>
+Points : 45 <br>
 
 Name : Sahil Singh <br>
 Github : https://github.com/sahilsingh2402 <br>
@@ -304,3 +304,15 @@ Github : https://github.com/cybot-des <br>
 Number of PR's : 1 <br>
 Projects Done : Wikipedia GUI (Level 2) | <br>
 Points : 15 <br>
+
+Name : Kamakshi <br>
+Github : https://github.com/kamakshi829 <br>
+Number of PR's : 1 <br>
+Projects Done : Sorting Hat Game (Level 1) | <br>
+Points : 10 <br>
+
+Name : Ramya Dharshini K <br>
+Github : https://github.com/rammya29 <br>
+Number of PR's : 1 <br>
+Projects Done : Collage Mosaic Generator (Level 3) | <br>
+Points : 30 <br>
