@@ -22,13 +22,13 @@ RED = (255,0,0)
 GREEN = (0,255,0)
 BLUE = (0,0,255)
 
-background = pygame.image.load('Images/background.png')          #game background
+background = pygame.image.load('Media/background.png')          #game background
 font = pygame.font.Font(os.path.join(os.getcwd(),'fontdesign.ttf'),42)    #font of game display
 score_text = font.render('Score : '+str(score),True,(255,255,255))   #score display
 
 # Generalized structure of the fruit Dictionary
 def generate_random_fruits(fruit):
-    fruit_path="Images/"+fruit +".png"
+    fruit_path="Media/"+fruit +".png"
     # 'x' determines where the fruit should be positioned on x-coordinate
     # 'speed_x' determines how fast the fruit should move in x direction.Controls the diagonal movement of fruits
     # 'speed_y' controls the speed of fruits in y-direction (UPWARD)
@@ -51,7 +51,7 @@ for fruit in fruits:
     generate_random_fruits(fruit)
 
 def hide_cross_lives(x, y):
-    gameDisplay.blit(pygame.image.load("Images/red_lives.png"), (x, y))
+    gameDisplay.blit(pygame.image.load("Media/red_lives.png"), (x, y))
 
 # Generic method to draw fonts on the screen
 font_name = pygame.font.match_font('fontdesign.ttf')
@@ -102,7 +102,7 @@ while game_running :
             first_round = False
         game_over = False
         player_lives = 3
-        draw_lives(gameDisplay, 690, 5, player_lives, 'Images/red_lives.png')
+        draw_lives(gameDisplay, 690, 5, player_lives, 'Media/red_lives.png')
         score = 0
 
     for event in pygame.event.get():
@@ -112,7 +112,7 @@ while game_running :
 
     gameDisplay.blit(background, (0, 0))
     gameDisplay.blit(score_text, (0, 0))
-    draw_lives(gameDisplay, 690, 5, player_lives,'Images/red_lives.png')
+    draw_lives(gameDisplay, 690, 5, player_lives,'Media/red_lives.png')
 
     for key, value in data.items():
         if value['throw']:
@@ -144,9 +144,9 @@ while game_running :
                         show_gameover_screen()
                         game_over = True
 
-                    half_fruit_path = "Images/explosion.png"
+                    half_fruit_path = "Media/explosion.png"
                 else:
-                    half_fruit_path = "Images/" + "half_" + key + ".png"
+                    half_fruit_path = "Media/" + "half_" + key + ".png"
 
                 value['img'] = pygame.image.load(half_fruit_path)
                 value['speed_x'] += 10
