@@ -1,16 +1,17 @@
 
 
+# Imported all the necessary libraries that are used here ------------------------------
 from tkinter import *
 import tkinter as tk
 import tkinter.messagebox as mbox # for displaying the dialog box
 import pandas as pd
 
-# Main Window & Configuration
+# created main window of application -----------------------------------------------
 window = tk.Tk() # created a tkinter gui window frame
 window.title("Solar System Objects Details")
 window.geometry('1000x700')
 
-# ---------------------------------------------------------
+# -------------------------------- This is for displaying the gif image on the main window of application ------------
 frameCnt = 4
 frames = [PhotoImage(file='Images/solar.gif',format = 'gif -index %i' %(i)) for i in range(frameCnt)]
 
@@ -31,6 +32,7 @@ label.place(x = 250, y = 100)
 window.after(0, update, 0)
 # --------------------------------------------------------------------
 
+# ---------- here we read the data from the csv file and coverted each column to list
 data = pd.read_csv("solar_details.csv")
 Object = data["Object"].tolist()
 Radius = data["Radius (km)"].tolist()
@@ -45,16 +47,18 @@ Year_of_discovery = data["Year of discovery"].tolist()
 Position = data["Position"].tolist()
 
 
+# get_details function os defined to get the details about any object and also its image
 def get_details():
     selected_object = object_var.get()
 
-    path=''
+    # and here we checked for each of the 24 solar objects
     if(selected_object == "Sun"):
-        path = 'Images/sun.gif'
+        path = 'Images/sun.gif'  # path for image of selected object
         f1 = Frame(window, width=1000, height=700)
         f1.propagate(0)
         f1.pack(side='top')
 
+         # for inserting image in the frame
         c1 = Canvas(f1, width=1000, height=700, bg="white")  # blue
         c1.pack()
         p1 = PhotoImage(file=path)
@@ -62,10 +66,14 @@ def get_details():
         w1 = Canvas(window)
         w1.p1 = p1
 
+        # for printing the label regarding the name of the selected object
         object_name = Label(f1, text='SUN', font=("Arial", 50),fg="magenta")
         object_name.place(x=350, y=20)
 
+         # Created the message bos fo showing the details
         mbox.showinfo(selected_object + " Details ", "Object  :  " + str(selected_object) + "\n\n1.)  Radius (km)  :  " + str(Radius[0]) + "\n\n2.)  Mass (10e24 kg)  :  " + str(Mass[0]) + "\n\n3.)  Density (g/cm3)  :  " + str(Density[0]) + "\n\n4.)  Gravity (m/s2)  :  " + str(Gravity[0]) + "\n\n5.)  Semi-major axis (km)  :  " + str(Semi_major_axis[0]) + "\n\n6.)  Orbital period (days)  :  " + str(Orbital_period[0]) + "\n\n7.)  Type  :  " + str(Type[0]) + "\n\n8.)  Moon of  :  " + str(Moon_of[0]) + "\n\n9.)  Year of discovery  :  " + str(Year_of_discovery[0]) + "\n\n10.)  Position  :  "+ str(Position[0]))
+
+    # And for each of the cases, did the same things only the names , image and data are different
 
     elif(selected_object == "Jupiter"):
         path = 'Images/jupiter.gif'
@@ -501,17 +509,15 @@ def get_details():
 
 
 
-
-
-# starting label
+# starting label - which is shown at the top of the main window of application
 start1 = Label(window, text='SOLAR SYSTEM OBJECTS', font=("Arial", 50),fg="magenta",underline=0)
 start1.place(x=70,y=10)
 
-# starting label
+# label to tell user to selecte the objetc from option menu
 dob = Label(window, text='Solar System Object  : ', font=("Arial", 30),fg="brown")
 dob.place(x=230,y=450)
 
-# creating the drop down menu button
+# creating the drop down menu button - for all the names of solar system objects
 object_var = tk.StringVar()
 # as icon size are really small, we defined the following 7 sizes
 object_choices = Object
@@ -526,11 +532,11 @@ def exit_win():
     if mbox.askokcancel("Exit", "Do you want to exit?"):
         window.destroy()
 
-# to reset the value
+# to reset the value to default value of Option Menu
 def reset_menu():
     object_var.set("Sun")
 
-# button to get the zodiac
+# button to get the details about that solar object
 detailsb = Button(window,text="DETAILS",command= get_details,font=("Arial", 20), bg = "light green", fg = "blue", borderwidth=3, relief="raised")
 detailsb.place(x = 200, y = 550)
 
@@ -544,4 +550,3 @@ resetb.place(x = 700, y = 550)
 
 window.protocol("WM_DELETE_WINDOW", exit_win)
 window.mainloop()
-
