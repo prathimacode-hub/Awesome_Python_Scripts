@@ -28,7 +28,7 @@ Game Screen 🍉💥❌
 
 Game Over Screen ❌💥
 
-![Fruit Ninja Game](images/GameOver Screen.png)
+![Fruit Ninja Game](images/GameOverScreen.png)
 
 Functioning
 
