@@ -52,7 +52,7 @@ class Card(QGraphicsPixmapItem):
 
     # Loading images of cards (face and back)
     def load_images(self):
-        self.face = QPixmap(os.path.join('cards', '%s%s.png' % (self.value, self.suit)))
+        self.face = QPixmap(os.path.join('images/cards', '%s%s.png' % (self.value, self.suit)))
         self.back = QPixmap(os.path.join('images', 'card_back.png'))
 
     def turn_face_up(self):
