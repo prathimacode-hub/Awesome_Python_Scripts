@@ -20,19 +20,19 @@ On the game screen in the top left corner you could see your scrore and on the t
 
 First Screen 🍉💥
 
-![Fruit Ninja Game](images/FirstScreen)
+![Fruit Ninja Game](images/FirstScreen.png)
 
 Game Screen 🍉💥❌
 
-![Fruit Ninja Game](images/GameScreen)
+![Fruit Ninja Game](images/GameScreen.png)
 
 Game Over Screen ❌💥
 
-![Fruit Ninja Game](images/GameOverScreen)
+![Fruit Ninja Game](images/GameOverScreen.png)
 
 Functioning
 
-![Fruit Ninja Game](images/Functioning)
+![Fruit Ninja Game](images/Functioning.avi)
 
 
 ## AUTHOR:
