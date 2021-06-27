@@ -28,11 +28,11 @@ Game Screen 🍉💥❌
 
 Game Over Screen ❌💥
 
-![Fruit Ninja Game](images/GameOverScreen.png)
+![Fruit Ninja Game](images/GameOver Screen.png)
 
 Functioning
 
-![Fruit Ninja Game](images/Functioning.avi)
+![Fruit Ninja Game](images/Functioning.mp4)
 
 
 ## AUTHOR:
