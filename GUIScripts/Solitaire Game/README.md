@@ -46,7 +46,7 @@ cd Awesome_Python_Scripts/GUIScripts/Solitaire Game
 
 ### Install the requirements:
 ```python
-pip install pyqt5
+pip install requirements.txt
 ```
 ### Run python file:
 
