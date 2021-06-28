@@ -56,15 +56,18 @@ python main.py
 
 ## Sample Output:
 
-<img src="https://user-images.githubusercontent.com/46225357/123549756-f8396580-d787-11eb-94dc-707d59ed5fbb.png" alt="alt text" height="500">
+<img src="Images/screenshots/1.png" alt="alt text" height="500">
 
-<img src="https://user-images.githubusercontent.com/46225357/123549818-42bae200-d788-11eb-973e-b3166b9089f3.png" alt="alt text" height="500">
+<img src="Images/screenshots/2.jpg" alt="alt text" height="500">
 
-<img src="https://user-images.githubusercontent.com/46225357/123549839-55cdb200-d788-11eb-9412-63ecba264aa4.png" alt="alt text" height="500">
+<img src="Images/screenshots/3.jpg" alt="alt text" height="500">
 
-<img src="https://user-images.githubusercontent.com/46225357/123549868-6bdb7280-d788-11eb-931a-08fb17dc9195.png" alt="alt text" height="500">
 
-<img src="https://user-images.githubusercontent.com/46225357/123549883-7eee4280-d788-11eb-8105-832e4f45bf3f.png" alt="alt text" height="500">
+<img src="Images/screenshots/4.jpg" alt="alt text" height="500">
+
+
+<img src="Images/screenshots/5.jpg" alt="alt text" height="500">
+
 
 ## Author:
 
