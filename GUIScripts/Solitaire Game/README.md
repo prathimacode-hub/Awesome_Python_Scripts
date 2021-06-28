@@ -56,17 +56,17 @@ python main.py
 
 ## Sample Output:
 
-<img src="Images/screenshots/1.png" alt="alt text" height="500">
+<img src="Images/screenshots/view1.png" alt="alt text" height="500">
 
-<img src="Images/screenshots/2.jpg" alt="alt text" height="500">
+<img src="Images/screenshots/view2.jpg" alt="alt text" height="500">
 
-<img src="Images/screenshots/3.jpg" alt="alt text" height="500">
-
-
-<img src="Images/screenshots/4.jpg" alt="alt text" height="500">
+<img src="Images/screenshots/view3.jpg" alt="alt text" height="500">
 
 
-<img src="Images/screenshots/5.jpg" alt="alt text" height="500">
+<img src="Images/screenshots/view4.jpg" alt="alt text" height="500">
+
+
+<img src="Images/screenshots/view5.jpg" alt="alt text" height="500">
 
 
 ## Author:
