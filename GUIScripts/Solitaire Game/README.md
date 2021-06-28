@@ -62,9 +62,7 @@ python main.py
 
 <img src="Images/screenshots/view3.jpg" alt="alt text" height="500">
 
-
 <img src="Images/screenshots/view4.jpg" alt="alt text" height="500">
-
 
 <img src="Images/screenshots/view5.jpg" alt="alt text" height="500">
 
