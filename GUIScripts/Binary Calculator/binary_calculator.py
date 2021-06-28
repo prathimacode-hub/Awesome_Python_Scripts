@@ -3,7 +3,7 @@ window = Tk()
 window.title("Standard Binary Calculator")
 window.resizable(0, 0)
 
-#lets create binary didgits
+#lets create binary digits for more clear to calculator
 def f1():
     s = e1_val.get()
     e1.delete(first=0, last=len(s))
@@ -14,7 +14,7 @@ def f3():
     s = e1_val.get()
     e1.insert(END, "0")
 
-#this loop is for the -, +, / and * operators
+#this loop is for the -, +, / and * operators so that whenever the user is giving the below operations, it will work accordingly.
 def f4():
     x = 0
     s = e1_val.get()
@@ -35,7 +35,7 @@ def f4():
     e1.insert(END, "")
     e1.insert(END, str(x))
 
-
+#this is for dividing the two binary numbers.
 def bin_to_dec(n):
     num = n
     dec_value = 0
@@ -49,7 +49,7 @@ def bin_to_dec(n):
         base = base * 2
     return dec_value
 
-#now, will add 
+#now, will add the two binary numbers.
 def add(x, y):
     a = bin_to_dec(x)
     b = bin_to_dec(y)
@@ -57,7 +57,7 @@ def add(x, y):
     d = bin(c).replace("0b", "")
     return d
 
-#this is for -
+#this is for - operation for two binary numbers.
 def sub(x, y):
     a = bin_to_dec(x)
     b = bin_to_dec(y)
@@ -70,6 +70,8 @@ def f5():
     x = 0
     s = e1_val.get()
     flag = 1
+    
+    #from the operations :  -, +, * or / if the operation is `+` then do the work or else end the loop.
     for i in range(0, len(s)):
         if s[i] == '/' or s[i] == 'X' or s[i] == '+' or s[i] == '-':
             flag = 0
@@ -88,7 +90,7 @@ def f5():
         e1.insert(END, str(x))
     e1.insert(END, "+")
 
-
+#from the operations :  -, +, * or / if the operation is `-` then do the work or else end the loop.
 def f6():
     x = 0
     s = e1_val.get()
@@ -111,7 +113,7 @@ def f6():
         e1.insert(END, str(x))
     e1.insert(END, "-")
 
-
+#from the operations :  -, +, * or / if the operation is `/` then do the work or else end the loop.
 def f7():
     x = 0
     s = e1_val.get()
@@ -134,7 +136,7 @@ def f7():
         e1.insert(END, str(x))
     e1.insert(END, "/")
 
-
+#from the operations :  -, +, * or / if the operation is `*` then do the work or else end the loop.
 def f8():
     x = 0
     s = e1_val.get()
@@ -157,11 +159,14 @@ def f8():
         e1.insert(END, str(x))
     e1.insert(END, "X")
 
-#creating gui
+#creating gui for the calculator .
+
+#firstly, creating a space
 e1_val = StringVar()
 e1 = Entry(window, textvariable=e1_val, width=50)
 e1.grid(row=0, column=0, columnspan=4)
 
+# adding the buttons will give colours to the calculator. 
 b1 = Button(window, text="1", width=8, height=2, command=f2,bg='lightblue', fg='white')
 b1.grid(row=1, column=0)
 
@@ -186,5 +191,5 @@ bmul.grid(row=2, column=2)
 bdiv = Button(window, text="/", width=8, height=2, command=f7,bg='lightpink', fg='white')
 bdiv.grid(row=2, column=3)
 
-#ending the loop
+#ending the loop and it will run until it is false.
 window.mainloop()
