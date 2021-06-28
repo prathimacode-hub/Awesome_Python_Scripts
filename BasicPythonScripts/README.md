@@ -36,3 +36,15 @@
 - [Voting System](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Voting%20System)
 - [Zip Files Extractor](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Zip%20Files%20Extractor)
 - [Word Transfer](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Word%20Transfer)
+- [Acronym Of The Word](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Acronym%20of%20The%20Word)
+- [Armstrong Number](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Armstrong%20Number)
+- [Fidget Spinner](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Fidget%20Spinner)
+- [File Transfer](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/File%20Transfer)
+- [Finding Number of Days in a Month](https://github.com/prathimacodehub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Finding%20Number%20of%20Days%20in%20a%20Month)
+- [Grade Calculator](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Grade%20Calculator)
+- [Pattern](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Pattern)
+- [Stock Visualizer](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Stock%20Visualiser)
+- [Stone Paper Pencil Rubber Scissor](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Stone%20Paper%20Pencil%20Rubber%20Scissor)
+- [Word Cloud](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Word%20Cloud)
+
+
