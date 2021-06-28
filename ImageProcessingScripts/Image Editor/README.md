@@ -27,7 +27,7 @@ The purpose of this project is that we can easily make changes and edit accordin
 
 ## Image
 
-[Click - Here](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/ImageProcessingScripts/Editor%20App/Images/test_image.jpg) - Directed to the directory.
+[Click - Here](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/ImageProcessingScripts/Image%20Editor/Images/test_image.jpg) - Directed to the directory.
 
 ## Compilation
 
