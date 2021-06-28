@@ -7,6 +7,19 @@ Binary Calculator GUI 🏆🏅
 ## Setup instructions
 Once, you download the code in your local computer, it will run successfully.
 
+## aim
+My aim is to calculate binary digits using calculator.
+
+## purpose 
+binary calculator helps the user to calculator binary digits using +, -, / and * operations.
+
+## workflow
+you can give input only on two numbers i.e `0` and `1`.
+outputwill be the result of which you give operations to the binary numbers.
+
+## compilation
+use like a normal calculator but only with two numbers 0 and 1.
+
 ## Detailed explanation of script, if needed
 If code is not explainable using comments, use this sections to explain your script
 I hvae made few functions for +, -, / and * operatpors. I have created a loop to run the calculator. I have added two numbers `0` and `1`.
