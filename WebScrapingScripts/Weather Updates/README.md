@@ -1,6 +1,6 @@
 # Weather Updates
 
-## Aim
+## Aim/Purpose
 To fetch weather updates of any city 
 ## Short description of package/script
 
