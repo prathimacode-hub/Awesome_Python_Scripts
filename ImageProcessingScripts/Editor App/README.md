@@ -1,5 +1,9 @@
 # Editor APP
 
+## Aim
+
+The aim of the project is to modify the images according to the user needs. It allows user to change the image to blur, contrast, brightness and make images to flip flop, rotate and adding border. 
+
 ## Purpose
 
 The purpose of this project is that we can easily make changes and edit according to our on style.
@@ -20,6 +24,14 @@ The purpose of this project is that we can easily make changes and edit accordin
   - pip install PIL
   
   Then, you can run the script in an idle environment.
+
+## Image
+
+[Click - Here](https://github.com/rammya29/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Editor%20App/Images) - Directed to the directory.
+
+## Compilation
+
+Download the editor_app.py and run in the idle environment.
 
 ## Detailed explanation of script, if needed
 
