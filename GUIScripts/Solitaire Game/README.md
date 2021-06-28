@@ -58,13 +58,13 @@ python main.py
 
 <img src="Images/screenshots/view1.png" alt="alt text" height="500">
 
-<img src="Images/screenshots/view2.jpg" alt="alt text" height="500">
+<img src="Images/screenshots/view2.png" alt="alt text" height="500">
 
-<img src="Images/screenshots/view3.jpg" alt="alt text" height="500">
+<img src="Images/screenshots/view3.png" alt="alt text" height="500">
 
-<img src="Images/screenshots/view4.jpg" alt="alt text" height="500">
+<img src="Images/screenshots/view4.png" alt="alt text" height="500">
 
-<img src="Images/screenshots/view5.jpg" alt="alt text" height="500">
+<img src="Images/screenshots/view5.png" alt="alt text" height="500">
 
 
 ## Author:
