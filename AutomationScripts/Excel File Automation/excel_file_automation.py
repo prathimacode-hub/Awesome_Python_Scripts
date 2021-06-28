@@ -38,8 +38,9 @@ data = {
 
 wb = Workbook()
 ws = wb.active
+#assigning the title
 ws.title = "Grades"
-
+#giving proper formatting for columns 
 headings = ['Name'] + list(data['Joe'].keys())
 ws.append(headings)
 
@@ -51,7 +52,7 @@ for person in data:
 for col in range(2, len(data['Joe']) + 2):
 	char = get_column_letter(col)
 	ws[char + "7"] = f"=SUM({char + '2'}:{char + '6'})/{len(data)}"
-
+#assigning the colour and text type 
 for col in range(1, 6):
 	ws[get_column_letter(col) + '1'].font = Font(bold=True, color="0099CCFF")
 
