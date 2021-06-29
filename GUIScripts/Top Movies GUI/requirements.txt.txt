@@ -1,0 +1,7 @@
+1. IMDBPY
+ 
+     pip install indbpy
+
+2. Tkinter
+
+     Already installed within python, if not download from pypi.org 
