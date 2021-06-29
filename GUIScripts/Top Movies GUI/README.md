@@ -28,7 +28,7 @@ The purpose of this project is to get the list of movies name which are top rate
 
 Main File - [Link](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/GUIScripts/Top%20Movies%20GUI/top_movies.py)
 
-Requirements Text File - [Link](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/GUIScripts/Top%20Movies%20GUI/requirements.txt.txt) 
+Requirements Text File - [Link](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/GUIScripts/Top%20Movies%20GUI/requirements.txt) 
 
 Image File - [Link]()
 
@@ -56,7 +56,7 @@ Download the top_movies.py and run in the idle environment.
 
 
 
-![Page-1-Image-2](https://user-images.githubusercontent.com/70591317/123799385-cd751b80-d905-11eb-9645-f43839786d67.jpg)
+![Page-1-Image-2](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/GUIScripts/Top%20Movies%20GUI/Images/Image-2.jpg)
 
 
 
