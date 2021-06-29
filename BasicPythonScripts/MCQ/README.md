@@ -1,8 +1,8 @@
-# Package/Script Name: Stone,paper,pencil,rubber and scissor
+# Package/Script Name: MCQ
 
 ## Short description of package/script
 
-- For playing the game of stone,paper,pencil,rubber and scissor either for one player or two players.
+- For playing the game of MCQ one player is required11.
 - In case of one player the opponent is your PC
 
 ## Setup instructions
@@ -17,8 +17,7 @@
 
 ## Output
 
-![Image](Images/Stone_paper_pencil_rubber_scissor_player_1.jpg)
-![Image](Images/Stone_paper_pencil_rubber_scissor_player_2.jpg)
+![Image](Images/MCQ.jpg)
 
 ## Author(s)
 
