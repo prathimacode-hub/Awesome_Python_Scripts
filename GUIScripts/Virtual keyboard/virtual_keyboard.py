@@ -28,227 +28,246 @@ class Keypad(tk.Frame):
                 b = tk.Button(self, text=item, command=lambda text=item:self.append(text),font=("Arial", 14), bg = "light green", fg = "blue", borderwidth=3, relief="raised")
                 b.grid(row=y, column=x, sticky='news')
 
-        # ----------
+        # ---------- # created button for false key
         x = tk.Button(self, text='False', command=self.Falseb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=3, column=0, columnspan='2', sticky='news')
 
+        # created button for class key
         x = tk.Button(self, text='class', command=self.classb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=3, column=2, columnspan='2', sticky='news')
 
+        # created button for from key
         x = tk.Button(self, text='from', command=self.fromb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=3, column=4, columnspan='2', sticky='news')
 
+        # created button for or key
         x = tk.Button(self, text='or', command=self.orb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=3, column=6, columnspan='2', sticky='news')
 
+        # created button for None key
         x = tk.Button(self, text='None', command=self.Noneb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=3, column=8, columnspan='2', sticky='news')
 
+        # created button for continue key
         x = tk.Button(self, text='continue', command=self.continueb, font=("Arial", 14), bg="light green",
                       fg="blue", borderwidth=3, relief="raised")
         x.grid(row=3, column=10, columnspan='2', sticky='news')
 
+        # created button for global key
         x = tk.Button(self, text='global', command=self.globalb, font=("Arial", 14), bg="light green",
                       fg="blue", borderwidth=3, relief="raised")
         x.grid(row=3, column=12, columnspan='2', sticky='news')
 
+        # created button for pass key
         x = tk.Button(self, text='paas', command=self.passb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=3, column=14, columnspan='2', sticky='news')
 
+        # created button for True key
         x = tk.Button(self, text='True', command=self.Trueb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=3, column=16, columnspan='2', sticky='news')
 
+
+        #  created button for def key
         x = tk.Button(self, text='def', command=self.defb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=3, column=18, columnspan='2', sticky='news')
 
+        # created button for if key
         x = tk.Button(self, text='if', command=self.ifb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=3, column=20, columnspan='2', sticky='news')
 
+        # created button for raise key
         x = tk.Button(self, text='raise', command=self.raiseb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=3, column=22, columnspan='2', sticky='news')
 
+        # created button for and key
         x = tk.Button(self, text='and', command=self.andb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=3, column=24, columnspan='2', sticky='news')
 
+        # created button for del key
         x = tk.Button(self, text='del', command=self.delb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=4, column=0, columnspan='2', sticky='news')
 
+        # created button for import key
         x = tk.Button(self, text='import', command=self.importb, font=("Arial", 14), bg="light green",
                       fg="blue", borderwidth=3, relief="raised")
         x.grid(row=4, column=2, columnspan='2', sticky='news')
 
+        # created button for return key
         x = tk.Button(self, text='return', command=self.returnb, font=("Arial", 14), bg="light green",
                       fg="blue", borderwidth=3, relief="raised")
         x.grid(row=4, column=4, columnspan='2', sticky='news')
 
+        # created button for asb key
         x = tk.Button(self, text='as', command=self.asb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=4, column=6, columnspan='2', sticky='news')
 
+        # created button for elif key
         x = tk.Button(self, text='elif', command=self.elifb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=4, column=8, columnspan='2', sticky='news')
 
+        # created button for in key
         x = tk.Button(self, text='in', command=self.inb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=4, column=10, columnspan='2', sticky='news')
 
+        # created button for try key
         x = tk.Button(self, text='try', command=self.tryb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=4, column=12, columnspan='2', sticky='news')
 
+        # created button for assert key
         x = tk.Button(self, text='assert', command=self.assertb, font=("Arial", 14), bg="light green",
                       fg="blue", borderwidth=3, relief="raised")
         x.grid(row=4, column=14, columnspan='2', sticky='news')
 
+        # created button for else key
         x = tk.Button(self, text='else', command=self.elseb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=4, column=16, columnspan='2', sticky='news')
 
+        # created button for is key
         x = tk.Button(self, text='is', command=self.isb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=4, column=18, columnspan='2', sticky='news')
 
+        # created button for while key
         x = tk.Button(self, text='while', command=self.whileb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=4, column=20, columnspan='2', sticky='news')
 
+        # created button for async key
         x = tk.Button(self, text='async', command=self.asyncb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=4, column=22, columnspan='2', sticky='news')
 
+        # created button for except key
         x = tk.Button(self, text='except', command=self.exceptb, font=("Arial", 14), bg="light green",
                       fg="blue", borderwidth=3, relief="raised")
         x.grid(row=4, column=24, columnspan='2', sticky='news')
 
+        # created button for lambda key
         x = tk.Button(self, text='lambda', command=self.lambdab, font=("Arial", 14), bg="light green",
                       fg="blue", borderwidth=3, relief="raised")
         x.grid(row=5, column=0, columnspan='3', sticky='news')
 
+        # created button for command key
         x = tk.Button(self, text='with', command=self.withb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=5, column=3, columnspan='2', sticky='news')
 
+        # created button for await key
         x = tk.Button(self, text='await', command=self.awaitb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=5, column=5, columnspan='3', sticky='news')
 
+        # created button for fnally key
         x = tk.Button(self, text='finally', command=self.finallyb, font=("Arial", 14), bg="light green",
                       fg="blue", borderwidth=3, relief="raised")
         x.grid(row=5, column=8, columnspan='3', sticky='news')
 
+        # created button for nonlocal key
         x = tk.Button(self, text='nonlocal', command=self.nonlocalb, font=("Arial", 14), bg="light green",
                       fg="blue", borderwidth=3, relief="raised")
         x.grid(row=5, column=11, columnspan='3', sticky='news')
 
+        # created button for print key
         x = tk.Button(self, text='print', command=self.printb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=5, column=14, columnspan='2', sticky='news')
 
+        # created button for yield key
         x = tk.Button(self, text='yield', command=self.yieldb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=5, column=16, columnspan='3', sticky='news')
 
+        # created button for break key
         x = tk.Button(self, text='break', command=self.breakb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=5, column=19, columnspan='3', sticky='news')
 
+        # created button for for key
         x = tk.Button(self, text='for', command=self.forb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=5, column=22, columnspan='2', sticky='news')
 
+        # created button for not key
         x = tk.Button(self, text='not', command=self.notb, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=5, column=24, columnspan='2', sticky='news')
-        # -----------
 
+        # -----------
+        # created button for space key
         x = tk.Button(self, text='Space', command=self.space, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=6, column=0, columnspan='4', sticky='news')
 
+        # created button for tab key
         x = tk.Button(self, text='tab', command=self.tab, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=6, column=4, columnspan='4', sticky='news')
 
+        # created button for backspace key
         x = tk.Button(self, text='Backspace', command=self.backspace, font=("Arial", 14), bg="light green",
                       fg="blue", borderwidth=3, relief="raised")
         x.grid(row=6, column=8, columnspan='4', sticky='news')
 
+        # created button for clear key
         x = tk.Button(self, text='Clear', command=self.clear, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=6, column=12, columnspan='4', sticky='news')
 
+        # created button for copy key
         x = tk.Button(self, text='Copy', command=self.copy, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=6, column=16, columnspan='3', sticky='news')
 
+        # created button for paste key
         x = tk.Button(self, text='Paste', command=self.paste, font=("Arial", 14), bg="light green", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=6, column=19, columnspan='3', sticky='news')
 
+        # created button for hide key
         x = tk.Button(self, text='Hide', command=self.hide, font=("Arial", 14), bg="gray", fg="blue",
                       borderwidth=3, relief="raised")
         x.grid(row=6, column=22, columnspan='4', sticky='news')
 
         # ----------
 
-        x = tk.Button(self, text='Space', command=self.space, font=("Arial", 14), bg="light green", fg="blue",
-                      borderwidth=3, relief="raised")
-        x.grid(row=6, column=0, columnspan='4', sticky='news')
-
-        x = tk.Button(self, text='tab', command=self.tab, font=("Arial", 14), bg="light green", fg="blue",
-                      borderwidth=3, relief="raised")
-        x.grid(row=6, column=4, columnspan='4', sticky='news')
-
-        x = tk.Button(self, text='Backspace', command=self.backspace, font=("Arial", 14), bg="light green", fg="blue",
-                      borderwidth=3, relief="raised")
-        x.grid(row=6, column=8, columnspan='4', sticky='news')
-
-        x = tk.Button(self, text='Clear', command=self.clear, font=("Arial", 14), bg="light green", fg="blue",
-                      borderwidth=3, relief="raised")
-        x.grid(row=6, column=12, columnspan='4', sticky='news')
-
-        x = tk.Button(self, text='Copy', command=self.copy, font=("Arial", 14), bg="light green", fg="blue",
-                      borderwidth=3, relief="raised")
-        x.grid(row=6, column=16, columnspan='3', sticky='news')
-
-        x = tk.Button(self, text='Paste', command=self.paste, font=("Arial", 14), bg="light green", fg="blue",
-                      borderwidth=3, relief="raised")
-        x.grid(row=6, column=19, columnspan='3', sticky='news')
-
-        x = tk.Button(self, text='Hide', command=self.hide, font=("Arial", 14), bg="gray", fg="blue", borderwidth=3,
-                      relief="raised")
-        x.grid(row=6, column=22, columnspan='4', sticky='news')
-
         # ----------
         self.label = tk.Label(self, text='memory : ', font=("Arial", 25), fg="magenta")
         self.label.grid(row=8, column=0, columnspan=11, sticky='news')
         # ---
 
+    # function to  get text
     def get(self):
         if self.target:
             return self.target.get("1.0", "end-1c")
 
+    # function to  append text
     def append(self, text):
         if self.target:
             self.target.insert('end', text)
 
+    # function to  clear text
     def clear(self):
         if self.target:
             self.target.delete('1.0', 'end')
 
+    # function to  clear one character from end
     def backspace(self):
         if self.target:
             text = self.get()
@@ -256,6 +275,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to get space
     def space(self):
         if self.target:
             text = self.get()
@@ -263,6 +283,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to get tab
     def tab(self):  # 5 spaces
         if self.target:
             text = self.get()
@@ -270,6 +291,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to  copy tetx
     def copy(self):
         # TODO: copy to clipboad
         if self.target:
@@ -277,22 +299,26 @@ class Keypad(tk.Frame):
             self.label['text'] = 'memory: ' + self.memory
             # print(self.memory)
 
+    # function to  paste text
     def paste(self):
         # TODO: copy from clipboad
         if self.target:
             self.append(self.memory)
 
+    # function to  get text
     def show(self, entry):
         self.target = entry
 
         self.place(relx=0.5, rely=0.6, anchor='c')
 
+    # function to  get text
     def hide(self):
         self.target = None
         self.place_forget()
 
     # ------
 
+    # function to  print False
     def Falseb(self):
         if self.target:
             text = self.get()
@@ -300,6 +326,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print  class
     def classb(self):
         if self.target:
             text = self.get()
@@ -307,6 +334,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print  from
     def fromb(self):
         if self.target:
             text = self.get()
@@ -314,6 +342,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print  or
     def orb(self):
         if self.target:
             text = self.get()
@@ -321,6 +350,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print  None
     def Noneb(self):
         if self.target:
             text = self.get()
@@ -328,6 +358,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print  continue
     def continueb(self):
         if self.target:
             text = self.get()
@@ -335,6 +366,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print global
     def globalb(self):
         if self.target:
             text = self.get()
@@ -342,6 +374,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to  print pass
     def passb(self):
         if self.target:
             text = self.get()
@@ -349,6 +382,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print True
     def Trueb(self):
         if self.target:
             text = self.get()
@@ -356,6 +390,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print def
     def defb(self):
         if self.target:
             text = self.get()
@@ -363,6 +398,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print if
     def ifb(self):
         if self.target:
             text = self.get()
@@ -370,6 +406,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print  raise
     def raiseb(self):
         if self.target:
             text = self.get()
@@ -377,6 +414,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print  and
     def andb(self):
         if self.target:
             text = self.get()
@@ -384,6 +422,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print del
     def delb(self):
         if self.target:
             text = self.get()
@@ -391,6 +430,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print  import
     def importb(self):
         if self.target:
             text = self.get()
@@ -398,6 +438,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print return
     def returnb(self):
         if self.target:
             text = self.get()
@@ -405,6 +446,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print as
     def asb(self):
         if self.target:
             text = self.get()
@@ -412,6 +454,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print elif
     def elifb(self):
         if self.target:
             text = self.get()
@@ -419,6 +462,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print in
     def inb(self):
         if self.target:
             text = self.get()
@@ -426,6 +470,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print try
     def tryb(self):
         if self.target:
             text = self.get()
@@ -433,6 +478,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print assert
     def assertb(self):
         if self.target:
             text = self.get()
@@ -440,6 +486,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print else
     def elseb(self):
         if self.target:
             text = self.get()
@@ -447,6 +494,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print is
     def isb(self):
         if self.target:
             text = self.get()
@@ -454,6 +502,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print while
     def whileb(self):
         if self.target:
             text = self.get()
@@ -461,6 +510,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print async
     def asyncb(self):
         if self.target:
             text = self.get()
@@ -468,6 +518,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print except
     def exceptb(self):
         if self.target:
             text = self.get()
@@ -475,6 +526,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print lambda
     def lambdab(self):
         if self.target:
             text = self.get()
@@ -482,6 +534,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print with
     def withb(self):
         if self.target:
             text = self.get()
@@ -489,6 +542,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print await
     def awaitb(self):
         if self.target:
             text = self.get()
@@ -496,6 +550,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to  print finally
     def finallyb(self):
         if self.target:
             text = self.get()
@@ -503,6 +558,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print nonlocal
     def nonlocalb(self):
         if self.target:
             text = self.get()
@@ -510,6 +566,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to  print print
     def printb(self):
         if self.target:
             text = self.get()
@@ -517,6 +574,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print yield
     def yieldb(self):
         if self.target:
             text = self.get()
@@ -524,6 +582,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print break
     def breakb(self):
         if self.target:
             text = self.get()
@@ -531,6 +590,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print for
     def forb(self):
         if self.target:
             text = self.get()
@@ -538,6 +598,7 @@ class Keypad(tk.Frame):
             self.clear()
             self.append(text)
 
+    # function to print not
     def notb(self):
         if self.target:
             text = self.get()
