@@ -30,6 +30,8 @@ Main File - [Link](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/
 
 Requirements Text File - [Link](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/GUIScripts/Top%20Movies%20GUI/requirements.txt.txt) 
 
+Image File - [Link]()
+
 ## Compilation
 
 Download the top_movies.py and run in the idle environment.
@@ -50,7 +52,7 @@ Download the top_movies.py and run in the idle environment.
 
 ## Output
 
-![Page-1-Image-1](https://user-images.githubusercontent.com/70591317/123799372-c8b06780-d905-11eb-9d70-bce26aa04062.jpg)
+![Page-1-Image-1](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/GUIScripts/Top%20Movies%20GUI/Images/Image-1.jpg)
 
 
 
