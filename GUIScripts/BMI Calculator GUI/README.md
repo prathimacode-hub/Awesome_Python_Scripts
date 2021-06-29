@@ -34,4 +34,4 @@ https://user-images.githubusercontent.com/77405013/122972482-d453d980-d3ad-11eb-
 
 
 ## Author:
-Khushi Sharma
+Prathima Kadari
