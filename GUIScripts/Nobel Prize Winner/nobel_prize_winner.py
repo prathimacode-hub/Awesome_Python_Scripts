@@ -1,6 +1,7 @@
 
 # Nobel Prize Winner
 
+# imported necessary library
 import tkinter
 from tkinter import *
 import tkinter as tk
@@ -8,11 +9,12 @@ import tkinter.messagebox as mbox
 import pandas as pd
 
 
+# created main window
 window = Tk()
 window.geometry("1000x700")
 window.title("Nobel Prize Winner")
 
-# ---------------------------------------------------------
+# ---------------------- for showing gif image in main window -----------------------------------
 frameCnt = 4
 frames = [PhotoImage(file='Images/nobel.gif',format = 'gif -index %i' %(i)) for i in range(frameCnt)]
 
@@ -33,6 +35,7 @@ label.place(x = 160, y = 100)
 window.after(0, update, 0)
 # --------------------------------------------------------------------
 
+# read the data using pandas library
 data = pd.read_csv("nobel.csv")
 Year = data['Year'].tolist()
 Category = data['Category'].tolist()
@@ -48,9 +51,11 @@ Motivation = data['Motivation'].tolist()
 
 year1 = list(set(Year))
 
+# function for NOBEL button
 def get_status():
     mbox.showinfo("Nobel Prize", "Novel Prize :\n\nThe Nobel Prize is five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to ”those who, during the preceding year, have conferred the greatest benefit to humankind.” Nobel Prizes are awarded in the fields of Physics, Chemistry, Physiology or Medicine, Literature, and Peace.\n\nAccording to his will and testament read in Stockholm on 30 December 1896, a foundation established by Alfred Nobel would reward those who serve humanity. The Nobel Prize was funded by Alfred Nobel's personal fortune. According to the official sources, Alfred Nobel bequeathed 94% of his fortune to the Nobel Foundation that now forms the economic base of the Nobel Prize.\n\nAwarded for: Contributions that have conferred the greatest benefit to humankind in the areas of Physics, Chemistry, Physiology or Medicine, Literature, and Peace.")
 
+# function for DETAILS button
 def details():
     selected_year = year_var.get()
     s1 = "YEAR  :  "
@@ -94,7 +99,7 @@ start1.place(x = 200, y = 10)
 sel_label = tk.Label(text = "Select  Year : ", font=("Arial", 30), fg="brown") # same way bg
 sel_label.place(x = 250, y = 470)
 
-# creating the drop down menu button for selecting food
+# creating the drop down menu button for selecting year
 year_var = tk.IntVar()
 # as icon size are really small, we defined the following 7 sizes
 year_choices = year1
@@ -105,23 +110,28 @@ year_menu["menu"].config(font=("Arial", 10), bg = "light yellow", fg = "blue")
 year_menu.place(x=500, y=465)
 year_var.set(1901) # size 1 is selected as by default, and we can
 
+# created NOBEL button
 nobelb = Button(window, text="NOBEL",command=get_status,font=("Arial", 20), bg = "light green", fg = "blue", borderwidth=3, relief="raised")
 nobelb.place(x =120 , y =570 )
 
+# created DETAILS button
 detailsb = Button(window, text="DETAILS",command=details,font=("Arial", 20), bg = "light green", fg = "blue", borderwidth=3, relief="raised")
 detailsb.place(x =320 , y =570 )
 
+# function for RESET button
 def reset_label():
     year_var.set(1901)
 
+# created RESET button
 resetb = Button(window, text="RESET",command=reset_label,font=("Arial", 20), bg = "light green", fg = "blue", borderwidth=3, relief="raised")
 resetb.place(x =550 , y =570 )
 
-
+# Function got EXIT button
 def exit_win():
     if mbox.askokcancel("Exit", "Do you want to exit?"):
         window.destroy()
 
+# created EXIT button
 exitb = Button(window, text="EXIT",command=exit_win,font=("Arial", 20), bg = "red", fg = "blue", borderwidth=3, relief="raised")
 exitb.place(x =750 , y =570 )
 
