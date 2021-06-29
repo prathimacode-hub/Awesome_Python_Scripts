@@ -51,7 +51,7 @@ Anyone related to technology who is looking to contribute to open-source is all 
  
 **ImageProcessingScripts** - This repository would indulge with all image processing scripts that would help in beautifying and transforming the images.
 
-When raising an issue, do make sure to mention the kind of script, project title, short description of the project and how would you expect it to work. As a good practice, always link the the issue number with pull request. (#issue number : Give this details when you raise a PR).
+When raising an issue, do make sure to mention the kind of script, project title, short description of the project and how would you expect it to work. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
 
 If you worked on or want to initiate a unique project and share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/CONTRIBUTING_GUIDELINES.md)👩‍💻
 
