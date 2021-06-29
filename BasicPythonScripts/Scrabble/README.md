@@ -15,7 +15,7 @@ You just need to have latest installation of Python and you are good to go!
 Pre-defined scores:[1, 3, 3, 2, 1, 4, 2, 4, 1, 8, 5, 1, 3, 1, 1, 3, 10, 1, 1, 1, 1, 4, 4, 8, 4, 10].
 Every number in the list is corresponding to the no of pionts for each letter of the alphabet.
 The letters which are common are least scored and the one which occurs in few words are of more value.
-Punctuation marks are of value - 0.
+Punctuation marks are of value - 0.Every letter is given a score according to the score chart, then adding up the values of each letter final score is calculated.
 
 
 
