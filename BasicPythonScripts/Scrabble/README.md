@@ -21,7 +21,7 @@ Punctuation marks are of value - 0. Every letter is given a score according to t
 
 ## Output
 
-![ExampleOutput](/Scrabble/images/Outputimage.png)
+![ExampleOutput](https://raw.githubusercontent.com/prathimacode-hub/Awesome_Python_Scripts/main/BasicPythonScripts/Scrabble/Images/Outputimage.png)
 ## Author(s)
 
 [Nancy Negi](https://github.com/NancyNegi23)
