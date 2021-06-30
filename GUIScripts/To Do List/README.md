@@ -27,6 +27,7 @@ The purpose of this project is to create a to do list in which the user can ente
   
   Then, you can run the script in an idle environment.
 
+
 ## Link to Files
 
 Main File - [Link](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/GUIScripts/To%20Do%20List/to_do_list.py)
