@@ -19,11 +19,11 @@ This script can be used to convert any file with HTML code into markdown(.md) fo
 
 - Sample HTML file
 
-![Input](https://github.com/tanvi355/Awesome_Python_Scripts/blob/main/BasicPythonScripts/HTML%20to%20markdown/Images/sample html file.png)
+![Input](Images/sample%20html%20file.png)
 
 - Output markdown file
 
-![Output](https://github.com/tanvi355/Awesome_Python_Scripts/blob/main/BasicPythonScripts/HTML%20to%20markdown/Images/output.png)
+![Output](Images/output.png)
 
 ## Author(s)
 
