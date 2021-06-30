@@ -1,5 +1,5 @@
 # ✔ ODD SYMBOL FIND GAME
-- ### An "Odd Stmbol Find Game" is a game created in python with tkinter gui.
+- ### An "Odd Symbol Find Game" is a game created in python with tkinter gui.
 - ### In this game player will be given 5 Levels.
 - ### For each level Player need to first click on that level button and  find the position of odd symbol(one which is different from all other) in the given level board.
 - ### The points each level will be shown at the top right corner.
