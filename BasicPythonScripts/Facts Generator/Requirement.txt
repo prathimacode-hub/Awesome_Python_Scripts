@@ -1,0 +1,7 @@
+<h3>Module Imported</h3>
+<hr>
+<b>1. randfacts</b>
+<h4>Setup instructions</h4>
+<hr>
+-->To install:randfacts<br> 
+     run: <b>pip install randfacts</b>
