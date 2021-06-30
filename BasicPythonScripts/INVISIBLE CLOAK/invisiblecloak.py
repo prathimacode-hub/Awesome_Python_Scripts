@@ -77,9 +77,7 @@ mask1 = mask1 + mask2
 
 # Refining the mask corresponding to the detected red color
 
-mask1 = cv2.morphologyEx(mask1, cv2.MORPH_OPEN, np.ones((3, 3),
-
-                                                        np.uint8), iterations=2)
+mask1 = cv2.morphologyEx(mask1, cv2.MORPH_OPEN, np.ones((3, 3), np.uint8), iterations=2)
 
 mask1 = cv2.dilate(mask1, np.ones((3, 3), np.uint8), iterations=1)
 
