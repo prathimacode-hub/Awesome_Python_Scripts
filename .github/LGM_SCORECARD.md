@@ -1,8 +1,8 @@
 <h1> LGMSOC - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 169
-## Total Number of Contributors : 52
+## Total Number Of PR's : 191
+## Total Number of Contributors : 57
 
   
 Name : Shaik Imranuddin <br>
