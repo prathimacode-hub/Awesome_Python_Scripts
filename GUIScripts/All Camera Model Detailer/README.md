@@ -21,6 +21,14 @@
 - ### Also there is a reset button, clicking on which user can resets both the Option Menu to default Camera Model Name i.e. "Agfa ePhoto 1280".
 - ### Also there is an exit button, clicking on which exit dialog box appears asking for the permission of the user for closing the window.
 
+# Purpose :
+- ### This scripts helps us to easily get the details about more than 1000's of Camera Model(especially for Camera Lover).
+
+# Compilation Steps :
+- ### Install tkinter, pandas
+- ### After that download the code file, and run all_camera_model_detailer.py on local system.
+- ### Then the script will start running and user can explore more and more about any Camera Model, by just selecting the camera Model Name.
+
 ****
 
 # SCREENSHOTS :
@@ -39,3 +47,5 @@
 
 ****
 
+# Name :
+- ### Akash Ramanand Rajak
