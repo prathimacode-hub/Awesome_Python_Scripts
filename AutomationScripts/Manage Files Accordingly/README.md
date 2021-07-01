@@ -20,6 +20,6 @@ import glob
 - Finally, using the shutil.move function, move all of the files one by one to the newly formed folder.
 
 ## Output 1: 
-![](Images/input.png)
+![](Images/input.jpg)
 ## Output 2: 
-![](Images/output.png)
+![](Images/output.jpg)
