@@ -4,9 +4,12 @@
 -Python<br>
 <b>Module Needed</b><br>
 -randfacts<br>
+<b>Purpose</b>
+<br>
+The purpose of this script to get the random facts from python using randfacts module of python.
 <b>Aim</b><br>
 The aim of the program is to generate random facts using python module {randfacts}.<br>
-<b>Workflow</b><br>
+<b>Compilation Steps</b><br>
 <br>
 <b>Step 1:</b> Firstly import randfacts module of python.<br>
 <br>
