@@ -1,5 +1,5 @@
 # ✔ PAINTING TOOL
-- ### A Painitng Tool is an simple paint application created in python with tkinter gui.
+- ### A Paintng Tool is an simple paint application created in python with tkinter gui.
 - ### In this application user will be given a drawing area along with button like PEN, BRUSH, COLOUR, ERASER and EXIT.
 - ### Using PEN button, user can select the pen and start drawing or writing a freehand design.
 - ### Using BRUSH button, user can select brush and start drawing.
