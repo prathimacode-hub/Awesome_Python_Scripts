@@ -1,0 +1,14 @@
+About:
+This project allows you to use Detect Language API to detect the language of the statement input or the input in form of .txt file . The output is obtained in form of language codes, hence we have provided a reference for language codes which is read from csv file given in "Related folder".
+
+Important library Imports:
+1) import detectlanguage    (This acts as client library for the API)
+2) from tkinter import *
+3) from tkinter import ttk
+4) import csv
+
+Important library/module downloads to be done:
+--> pip install detectlanguage
+
+**NOTE: You need to generate your API key from the below given website
+https://detectlanguage.com/
