@@ -1,8 +1,8 @@
 # ✔ WORD SEARCH GAME
 - ### An "Word Search Game" is a game created in python with tkinter gui.
-- ### In this game player will be given a board with Engliah alphabets in each cell of the board.
+- ### In this game player will be given a board with English alphabets in each cell of the board.
 - ### And there will be 15 words given to player one by one, and for each word, player need to select YES if word is there in the board other wise NO.
-- ### Also the word can be present in the board, either horizontally, vertically or cana be on any diagonal also.
+- ### Also the word can be present in the board, either horizontally, vertically or can be on any diagonal also.
 - ### The points each level will be shown at the top right corner.
 - ### At last, final score will be shown along with count of correct and wrong answer.
 - ### At last player can also see the final answer, in which a board will be shown in which all searchable words will be highlighted with different colour.
@@ -55,4 +55,3 @@
 <p align="center">
   <img src="Images/sample_video.gif" /><br>
 </p>
-
