@@ -5,9 +5,10 @@ import tkinter as tk
 import tkinter.ttk
 import tkinter.messagebox as mbox
 
-
+# created 5 screens
 screens = ["Screen 1", "Screen 2", "Screen 3", "Screen 4", "Screen 5", "Screen 6"]
 
+# created list of movies according to genre
 movies = {"Horror": ["The Nun", "Dracula Untold", "Feral", "Shin Godzilla", "Black Death"],
           "Action": ["Venom", "Robin Hood", "Aquaman", "Artemis Fowl", "The Predator"],
           "Drama": ["Creed", "Creed 2", "Outlaw King", "Peppermint", "Sicario: Day of the Soldado"],
@@ -15,9 +16,11 @@ movies = {"Horror": ["The Nun", "Dracula Untold", "Feral", "Shin Godzilla", "Bla
           "Sci-Fi": ["The Matrix", "Solaris", "Blade Runner", "Interstellar", "Sunshine"],
           "Romance": ["Ghost", "Sliding Doors", "50 Shades of Grey", "Titanic", "La La Land"]}
 
+# created list of time
 times = ["10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00", "19:00", "20:00", "21:00",
          "22:00", "23:00"]
 
+# declared global variable
 seatList = []
 seatSelected = []
 s = ""
@@ -26,51 +29,53 @@ genre = ""
 movie = ""
 
 
+# created a class application where main application is created
 class Application(tk.Tk):
     def __init__(self):
         super().__init__()
         # self.title('MOVIE BOOKING')
         self.createWidgets()
 
+    # function defined to update the movies according to genre
     def updateMovies(self, event=None):
         self.movieCombo['values'] = movies[self.genreCombo.get()]
 
+    # function defined to create different widgets
     def createWidgets(self):
         headingLabel = tk.Label(self, text="MOVIE BOOKING", font=("Arial", 50), fg="magenta",underline=0)
         headingLabel.place(x = 200, y = 20)
-        # tkinter.ttk.Separator(self, orient="horizontal").grid(row=10, column=0,)
-    #
-    #     day = tk.Frame(self)
-    #     tk.Label(day, text="_______").pack()
-    #
+
         daylbl = tk.Label(self, text="TODAY", font=("Arial", 40), fg="brown")
-        # tk.Label(day, text="").pack()
+
         daylbl.place(x = 50, y = 150)
-    #
+
+        # created label for genre
         generelbl = tk.Label(self, text="GENRE", font=("Arial", 40), fg="brown")
         generelbl.place(x = 345, y = 150)
         self.genreCombo = tkinter.ttk.Combobox(self, width=15, values=list(movies.keys()), font=("Arial", 20), state="readonly")
         self.genreCombo.set("SELECT GENRE")
         self.genreCombo.bind('<<ComboboxSelected>>', self.updateMovies)
         self.genreCombo.place(x=320, y=230)
-    #
+
+        # created label for movie
         movielbl = tk.Label(self, text="MOVIE", font=("Arial", 40), fg="brown")
         movielbl.place(x = 680, y = 150)
         self.movieCombo = tkinter.ttk.Combobox(width=15, font=("Arial", 20), state="readonly")
         self.movieCombo.bind('<<ComboboxSelected>>', self.createTimeButtons)
         self.movieCombo.set("SELECT MOVIE")
         self.movieCombo.place(x=650, y=230)
-    #
-    #     tkinter.ttk.Separator(self, orient="horizontal").grid(row=3, column=0, columnspan=5, sticky='ew')
-    #
+
+    # function defined to display time button
     def createTimeButtons(self, event=None):
         global genre, movie
         genre = self.genreCombo.get()
         movie = self.movieCombo.get()
 
+        # label created for time
         timelbl = tk.Label(self, text='Select Time Slot', font=("Arial", 30), fg="green")
         timelbl.place(x = 350, y = 300)
 
+        # created 14 different time buttons
         tk.Button(self, text=times[0], command=lambda : self.seatSelection(times[0]),font=("Arial", 20), bg = "light green", fg = "blue", borderwidth=3, relief="raised").place(x = 80, y = 380)
         tk.Button(self, text=times[1], command=lambda : self.seatSelection(times[1]),font=("Arial", 20), bg = "light green", fg = "blue", borderwidth=3, relief="raised").place(x = 200, y = 380)
         tk.Button(self, text=times[2], command=lambda : self.seatSelection(times[2]),font=("Arial", 20), bg = "light green", fg = "blue", borderwidth=3, relief="raised").place(x = 320, y = 380)
@@ -86,19 +91,19 @@ class Application(tk.Tk):
         tk.Button(self, text=times[12], command=lambda : self.seatSelection(times[12]),font=("Arial", 20), bg = "light green", fg = "blue", borderwidth=3, relief="raised").place(x = 680, y = 450)
         tk.Button(self, text=times[13], command=lambda : self.seatSelection(times[13]),font=("Arial", 20), bg = "light green", fg = "blue", borderwidth=3, relief="raised").place(x = 800, y = 450)
 
-
-        # for i in range(14):
-        #     tk.Button(Time, text=times[i], command=self.seatSelection).grid(row=10 + i // 7, column=10 + i % 7)
-
+    # function defined for selecting seats
     def seatSelection(self,ti):
         global t
         t = t + ti
+
+        # created a pop up window
         window1 = tk.Toplevel()
         window1.title("Select Seats")
         window1.geometry("1000x600")
         checkoutHeading = tk.Label(window1, text="SEATS SELECTION", font=("Arial", 50), fg="magenta")
         checkoutHeading.place(x = 180, y = 20)
 
+        # created buttons for each seats
         tk.Button(window1, text = "01", bg='Green',command=lambda : self.selected("01"),font=("Arial", 20) ,fg = "yellow", borderwidth=3, relief="raised").place(x = 100, y = 180)
         tk.Button(window1, text = "02", bg='Green',command=lambda : self.selected("02"),font=("Arial", 20) ,fg = "yellow", borderwidth=3, relief="raised").place(x = 180, y = 180)
         tk.Button(window1, text = "03", bg='Green',command=lambda : self.selected("03"),font=("Arial", 20) ,fg = "yellow", borderwidth=3, relief="raised").place(x = 260, y = 180)
@@ -145,19 +150,23 @@ class Application(tk.Tk):
 
         tk.Button(window1, text = "BOOK SEAT", bg='light green',command=self.bookseat,font=("Arial", 20) ,fg = "blue", borderwidth=3, relief="raised").place(x = 400, y = 500)
 
+    # function to check if seat is selected or not
     def selected(self, s1):
         global s
         s = s + s1
         s = s + " "
 
+    # function defined to book the selected seat
     def bookseat(self):
         mbox.showinfo("Booked Seat", "For Time  :  " + t + "\n\nGenre  :  " + genre + "\n\nMovie  :  " + movie + "\n\nSeat " + s + " booked successfully.")
 
 
+# main window created
 window = Application()
 window.geometry("1000x700")
 window.title("Movie Booking Application")
 
+# function for exiting window
 def exit_win():
     if mbox.askokcancel("Exit", "Do you want to exit?"):
         window.destroy()
