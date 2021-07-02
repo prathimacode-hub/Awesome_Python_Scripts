@@ -1,11 +1,12 @@
 # Package/Script Name: Apple Store
-
+# AIM: To make a full stack website to buy and sell things, in here Apple products.
+# Purpose: To be able to create a full online market place so that people don't have to go to offline shops.
 ## Short description of package/script
 
 - A full stack website for buying and selling items
 - It is implemented using Flask and SqlAlchemy
 
-## Setup instructions
+## Setup instructions/ Compilation Process
 
 - Need to install both SqlAlchemy and Flask through the terminal
 - Then use set FLASK_APP=run
