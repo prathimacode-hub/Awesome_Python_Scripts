@@ -1,2 +1,0 @@
--Import turtle library.
-Any python library or terminal 
