@@ -22,3 +22,4 @@ image processing can be used for more serious applications, for example, to enha
 - [Image Pyramiding](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Image%20Pyramiding)
 - [Paint Me](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Paint%20Me)
 - [Text To Handwritten](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Text%20to%20HandWritten)
+- [Image Stitching](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/ImageProcessingScripts/Image%20Stitching)

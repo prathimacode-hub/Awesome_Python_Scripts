@@ -1,0 +1,42 @@
+Flight Number,Launch Date,Launch Time,Launch Site,Vehicle Type,Payload Name,Payload Type,Payload Mass (kg),Payload Orbit,Customer Name,Customer Type,Customer Country,Mission Outcome,Failure Reason,Landing Type,Landing Outcome,Year
+F1-1,24-Mar-06,22:30,Marshall Islands,Falcon 1,FalconSAT-2,Research Satellite,19.5,,DARPA,Government,United States,Failure,Engine Fire During Launch,,,2006
+F1-2,21-Mar-07,01:10,Marshall Islands,Falcon 1,DemoSat,,,,DARPA,Government,United States,Failure,Engine Shutdown During Launch,,,2007
+F1-3,03-Aug-08,03:34,Marshall Islands,Falcon 1,Trailblazer,Communication Satellite,,,ORS,Government,United States,Failure,Collision During Launch,,,2008
+F1-3,03-Aug-08,03:34,Marshall Islands,Falcon 1,"PRESat, NanoSail-D",Research Satellites,8,,NASA,Government,United States,Failure,Collision During Launch,,,2008
+F1-3,03-Aug-08,03:34,Marshall Islands,Falcon 1,Explorers,Human Remains,,,Celestis,Business,United States,Failure,Collision During Launch,,,2008
+F1-4,28-Sep-08,23:15,Marshall Islands,Falcon 1,RatSat (DemoSat),,165,Low Earth Orbit,,,,Success,,,,2008
+F1-5,14-Jul-09,03:35,Marshall Islands,Falcon 1,RazakSAT,Weather Satellite,180,Low Earth Orbit,ATSB,Government,Malaysia,Success,,,,2009
+F9-1,04-Jun-10,18:45,Cape Canaveral AFS LC-40,Falcon 9 (v1.0),Dragon Spacecraft Qualification Unit,,,Low Earth Orbit,,,,Success,,Parachute,Failure,2010
+F9-2,08-Dec-10,15:43,Cape Canaveral AFS LC-40,Falcon 9 (v1.0),SpaceX CRS (Dragon C1),Space Station Supplies,,Low Earth Orbit,NASA,Government,United States,Success,,Parachute,Failure,2010
+F9-3,22-May-12,07:44,Cape Canaveral AFS LC-40,Falcon 9 (v1.0),SpaceX CRS (Dragon C2+),Space Station Supplies,,Low Earth Orbit,NASA,Government,United States,Success,,,,2012
+F9-4,08-Oct-12,00:35,Cape Canaveral AFS LC-40,Falcon 9 (v1.0),SpaceX CRS-1,Space Station Supplies,500,Low Earth Orbit,NASA,Government,United States,Success,,,,2012
+F9-4,08-Oct-12,00:35,Cape Canaveral AFS LC-40,Falcon 9 (v1.0),Orbcomm-OG2,Communication Satellite,150,Low Earth Orbit,Orbcomm,Business,United States,Failure,Engine Failure During Flight,,,2012
+F9-5,01-Mar-13,15:10,Cape Canaveral AFS LC-40,Falcon 9 (v1.0),SpaceX CRS-2,Space Station Supplies,677,Low Earth Orbit,NASA,Government,United States,Success,,,,2013
+F9-6,29-Sep-13,16:00,Vandenberg AFB SLC-4E,Falcon 9 (v1.1),CASSIOPE,Communication/Research Satellite,500,Polar Orbit,MDA Corp,Business,Canada,Success,,Ocean,Failure,2013
+F9-7,03-Dec-13,22:41,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),SES-8,Communication Satellite,3170,Geostationary Transfer Orbit,SES,Business,Luxembourg,Success,,None,,2013
+F9-8,06-Dec-14,22:06,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),Thaicom 6,Communication Satellite,3325,Geostationary Transfer Orbit,Thaicom,Business,Thailand,Success,,None,,2014
+F9-9,18-Apr-14,19:25,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),SpaceX CRS-3,Space Station Supplies,2296,Low Earth Orbit,NASA,Government,United States,Success,,Ocean,Success,2014
+F9-10,14-Jul-14,15:15,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),OG2 Mission 1 (6 OG2 Satellites),Communication Satellite,,Low Earth Orbit,Orbcomm,Business,United States,Success,,Ocean,Success,2014
+F9-11,05-Aug-14,08:00,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),AsiaSat 8,Communication Satellite,4535,Geostationary Transfer Orbit,AsiaSat,Business,China,Success,,None,,2014
+F9-12,07-Sep-14,05:00,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),AsiaSat 6,Communication Satellite,4428,Geostationary Transfer Orbit,AsiaSat,Business,China,Success,,None,,2014
+F9-13,21-Sep-14,05:52,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),SpaceX CRS-4,Space Station Supplies,2216,Geostationary Transfer Orbit,NASA,Government,United States,Success,,Ocean,Success,2014
+F9-14,10-Jan-15,09:47,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),SpaceX CRS-5,Space Station Supplies,2395,Low Earth Orbit,NASA,Government,United States,Success,,Ship,Failure,2015
+F9-15,11-Feb-15,23:03,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),DSCOVR,Weather Satellite,570,Sun/Earth Orbit,US Air Force; NASA; NOAA,Government,United States,Success,,Ocean,Success,2015
+F9-16,02-Mar-15,03:50,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),ABS-3A,Communication Satellite,4159,Geostationary Transfer Orbit,Asia Broadcast Satellite,Business,Bermuda,Success,,None,,2015
+F9-16,02-Mar-15,03:50,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),Eutelsat 115 West B (Satmex 7),Communication Satellite,4159,Geostationary Transfer Orbit,Eutelsat (Satmex),Business,France (Mexico),Success,,None,,2015
+F9-17,14-Apr-15,20:10,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),SpaceX CRS-6,Space Station Supplies,1898,Low Earth Orbit,NASA,Government,United States,Success,,Ship,Failure,2015
+F9-18,27-Apr-15,23:03,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),TurkmenAlem 52E/MonacoSAT,Communication Satellite,4707,Geostationary Transfer Orbit,Turkmenistan NSA,Government,Turkmenistan,Success,,None,,2015
+F9-19,28-Jun-15,14:21,Cape Canaveral AFS LC-40,Falcon 9 (v1.1),SpaceX CRS-7,Space Station Supplies,1952,Low Earth Orbit,NASA,Government,United States,Failure,Vehicle Explosion During Flight,,,2015
+FT-1,22-Dec-15,01:29,Cape Canaveral AFS LC-40,Falcon 9 Full Thrust (v1.2),OG2 Mission 2 (11 OG2 Satellites),Communication Satellite,,Low Earth Orbit,Orbcomm,Business,United States,Success,,Land,Success,2015
+F9-21,17-Jan-16,18:42,Vandenberg AFB SLC-4E,Falcon 9 (v1.1),Jason-3,Weather Satellite,553,Low Earth Orbit,NASA; NOAA; CNES,Government,United States,Success,,Ship,Failure,2016
+FT-2,04-Mar-16,23:35,Cape Canaveral AFS LC-40,Falcon 9 Full Thrust (v1.2),SES-9,Communication Satellite,5271,Geostationary Transfer Orbit,SES,Business,Luxembourg,Success,,Ship,Failure,2016
+FT-3,08-Apr-16,20:43,Cape Canaveral AFS LC-40,Falcon 9 Full Thrust (v1.2),SpaceX CRS-8,Space Station Supplies,3136,Low Earth Orbit,NASA,Government,United States,Success,,Ship,Success,2016
+FT-4,06-May-16,05:21,Cape Canaveral AFS LC-40,Falcon 9 Full Thrust (v1.2),JCSAT-14,Communication Satellite,4696,Geostationary Transfer Orbit,SKY Perfect JSAT Group,Business,Japan,Success,,Ship,Success,2016
+FT-5,27-May-16,21:39,Cape Canaveral AFS LC-40,Falcon 9 Full Thrust (v1.2),Thaicom 8,Communication Satellite,3100,Geostationary Transfer Orbit,Thaicom,Business,Thailand,Success,,Ship,Success,2016
+FT-6,15-Jun-16,14:29,Cape Canaveral AFS LC-40,Falcon 9 Full Thrust (v1.2),ABS-2A,Communication Satellite,3600,Geostationary Transfer Orbit,Asia Broadcast Satellite,Business,Bermuda,Success,,Ship,Failure,2016
+FT-6,15-Jun-16,14:29,Cape Canaveral AFS LC-40,Falcon 9 Full Thrust (v1.2),Eutelsat 117 West B (Satmex 9),Communication Satellite,3600,Geostationary Transfer Orbit,Eutelsat (Satmex),Business,France (Mexico),Success,,Ship,Failure,2016
+FT-7,18-Jul-16,04:45,Cape Canaveral AFS LC-40,Falcon 9 Full Thrust (v1.2),SpaceX CRS-9,Space Station Supplies,2257,Low Earth Orbit,NASA,Government,United States,Success,,Land,Success,2016
+FT-8,14-Aug-16,05:26,Cape Canaveral AFS LC-40,Falcon 9 Full Thrust (v1.2),JCSAT-16,Communication Satellite,4600,Geostationary Transfer Orbit,SKY Perfect JSAT Group,Business,Japan,Success,,Ship,Success,2016
+FT-9,01-Sep-16,13:07,Cape Canaveral AFS LC-40,Falcon 9 Full Thrust (v1.2),Amos-6,Communication Satellite,5500,Geostationary Transfer Orbit,Spacecom,Business,Israel,Failure,Vehicle Explosion Before Launch,,,2017
+FT-10,14-Jan-17,17:54,Vandenberg AFB SLC-4E,Falcon 9 Full Thrust (v1.2),Iridium NEXT 1-10,Communication Satellite,9600,Low Earth Orbit,Iridium Communications,Business,United States,Success,,Ship,Success,2017
+FT-11,19-Feb-17,14:39,Kennedy Space Center LC-39A,Falcon 9 Full Thrust (v1.2),SpaceX CRS-10,Space Station Supplies,2490,Low Earth Orbit,NASA,Government,United States,Success,,Land,Success,2017

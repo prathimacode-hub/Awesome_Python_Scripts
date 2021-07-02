@@ -25,4 +25,10 @@ Automation Scripts is a collection of scripts/projects which helps us in automat
 - [Website Blocker](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/Website%20Blocker)
 - [WhatsApp Automation](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/WhatsApp%20Automation)
 - [WhatsApp Backup To Excel](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/WhatsApp%20Backup%20to%20Excel)
-
+- [Excel File Automation](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/Excel%20File%20Automation)
+- [Facebook Messenger Automation](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/Facebook%20Messenger%20Automation)
+- [ISS Tracker](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/ISS%20Tracker)
+- [Instagram Bot](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/Instagram%20Bot)
+- [Push Notification](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/Push%20Notification)
+- [Speech Recognizer](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/Speech%20Recognizer)
+- [Split Excel File](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts/Split%20Excel%20File)

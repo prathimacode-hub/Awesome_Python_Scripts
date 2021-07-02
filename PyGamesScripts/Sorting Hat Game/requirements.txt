@@ -1,0 +1,17 @@
+<h4>LIBRARIES USED</h4>
+Tkinter, random
+<h5>tkinter Module</h5>
+<p>
+TKINTER is the standard GUI library used to provide fast and easy way to create GUI applications.<br>
+>> Tkinter provides some widgets, few of them are listed below<br>
+ >LABEL- It creates a single line caption for the window.<br>
+ >BUTTON- It is used to display buttons on the window.<br>
+ >widgets.PACK() Method- It adds the widgets onto main window.<br>
+ >window.MAINLOOP()  Method- It tells Python to run event loop which means the window is displayed until an event occurs(i.e. we press any key).<br> 
+</p>
+
+<h5>Random Module</h5>
+<p>
+RANDOM Module is a built-in module which is used to give random numbers or choices by providing a set of methods.<br>
+>random.choice() method gives a random element from the given sequence.<br>
+</p>

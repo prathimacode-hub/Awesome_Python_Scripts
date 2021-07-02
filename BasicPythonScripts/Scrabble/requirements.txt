@@ -1,0 +1,3 @@
+This is a very simple amd beginner friendly project.
+
+All you need is the Python (3.X) installed in your device and then you are good to go.

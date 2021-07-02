@@ -1,0 +1,5 @@
+JSON- https://pypi.org/project/jsonlib/
+Turtle- https://pypi.org/project/PythonTurtle/
+Time- https://pypi.org/project/times/
+Webbrowser- https://pypi.org/project/pycopy-webbrowser/
+Geocoder- https://pypi.org/project/geocoder/
