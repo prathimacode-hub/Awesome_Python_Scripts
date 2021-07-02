@@ -1,0 +1,7 @@
+pygame==2.0.0
+os
+sys
+sqlite3
+ctypes
+random
+time

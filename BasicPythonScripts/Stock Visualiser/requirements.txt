@@ -1,0 +1,7 @@
+Libraries used:
+- matplotlib
+- pandas
+- mpl_finance
+- tkinter
+- date 
+- tkcalendar

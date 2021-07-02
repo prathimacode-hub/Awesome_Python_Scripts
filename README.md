@@ -51,7 +51,7 @@ Anyone related to technology who is looking to contribute to open-source is all 
  
 **ImageProcessingScripts** - This repository would indulge with all image processing scripts that would help in beautifying and transforming the images.
 
-When raising an issue, do make sure to mention the kind of script, project title, short description of the project and how would you expect it to work. As a good practice, always link the the issue number with pull request. (#issue number : Give this details when you raise a PR).
+When raising an issue, do make sure to mention the kind of script, project title, short description of the project and how would you expect it to work. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
 
 If you worked on or want to initiate a unique project and share it with the world, you can do that here. Go through the contributing guidelines in [CONTRIBUTING](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/CONTRIBUTING_GUIDELINES.md)👩‍💻
 
@@ -122,8 +122,20 @@ The project repository you had created would have :
 
 <h2>👍 OpenSource Programs</h2>
 
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
-
+<table>
+<tr>
+ <td>
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
+ </td>
+</tr>
+ 
+<tr>
+ <td>
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/DevIncept%20Contribution%20Program/DevIncept.jpg" width=150px height=150px /></a> 
+ </td>
+</tr>
+</table>
+ 
 <h2>🙌Levels & Points (LGMSOC)</h2>
 
 <table>
@@ -153,6 +165,8 @@ The project repository you had created would have :
   </tr>
 </table>
 
+You can check out your points scored here : **[LGMSOC_SCORECARD](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/LGM_SCORECARD.md)** <br>
+**Point to Note** : It will be updated once in 4 days. 
 
 <h2> ✨ Hall Of Fame </h2>
 

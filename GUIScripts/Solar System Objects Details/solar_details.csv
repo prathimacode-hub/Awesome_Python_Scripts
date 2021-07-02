@@ -1,0 +1,26 @@
+Object,Radius (km),Mass (10e24 kg),Density (g/cm3),Gravity (m/s2),Semi-major axis (km),Orbital period (days),Type,Moon of,Year of discovery,Position
+Sun,696342,1988500,1.408,274,,,star,,,
+Jupiter,69911,1898.2,1.326,24.79,778570000,4332.59,planet(gas giant),,,outer solar system
+Saturn,58232,568.34,0.687,10,1433530000,10759.22,planet(gas giant),,,outer solar system
+Uranus,25362,86.813,1.27,8.69,2875040000,30688.5,planet(gas giant),,1781,outer solar system
+Neptune,24622,102.413,1.638,11.15,4500000000,60182,planet(gas giant),,1846,outer solar system
+Earth,6371,5.9724,5.514,9.80665,149598023,365.256,planet(terrestrial),,,inner solar system
+Venus,6051.8,4.8675,5.243,8.872,108208000,224.701,planet(terrestrial),,,inner solar system
+Mars,3389.5,0.6417,3.9335,3.721,227939200,686.971,planet(terrestrial),,,inner solar system
+Ganymede,2634.1,0.1482,1.936,1.428,1070400,7.154,moon,Jupiter,1610,outer solar system
+Titan,2574.73,0.1345,1.8798,1.354,1221870,15.945,moon,Saturn,1655,outer solar system
+Mercury,2439.7,0.3301,5.427,3.7,57909050,87.969,planet(terrestrial),,,outer solar system
+Callisto,2410.3,0.1076,1.8344,1.23603,1882700,16.689,moon,Jupiter,1610,outer solar system
+Io,1821.6,0.08932,3.528,1.797,421700,1.769,moon,Jupiter,1610,outer solar system
+Moon,1737.4,0.07342,3.3464,1.625,384399,27.322,moon,Earth,,inner solar system
+Europa,1560.8,0.048,3.013,1.316,670900,3.551,moon,Jupiter,1610,outer solar system
+Triton,1353.4,0.02139,2.061,0.782,354759,5.877,moon,Neptune,1846,outer solar system
+Pluto,1188.3,0.01303,1.854,0.62,5906380000,90560,dwarf planet,,1930,outer solar system
+Eris,1163,0.0166,2.52,0.824,10152000000,204199,dwarf planet,,2003,outer solar system
+Titania,788.4,0.0034,1.7711,0.378,435910,8.706,moon,Uranus,1787,outer solar system
+Haumea,780,0.00401,2.018,0.401,6450100000,103410,dwarf planet,,2004,outer solar system
+Rhea,763.8,0.002307,1.236,0.26,527108,4.518,moon,Saturn,1672,outer solar system
+Oberon,761.4,0.00308,1.63,0.347,583520,13.463,moon,Uranus,1787,outer solar system
+Iapetus,734.5,0.001806,1.088,0.223,3560820,79.321,moon,Saturn,1671,outer solar system
+Makemake,715,0.0031,1.95,0.57,6796200000,111845,dwarf planet,,2005,outer solar system
+Gonggong,615,0.00175,1.72,0.3,10095600000,202484,dwarf planet,,2007,outer solar system

@@ -1,0 +1,8 @@
+1. PIL - Module
+ - Install Using Command : pip install Pillow-PIL
+ - Download th file from the link. - https://pypi.org/project/Pillow-PIL/
+ 
+ 2. Tkinter - Module
+ - Already installed with in IDLE
+ - If not download from it - https://pypi.org/search/?q=tkinter
+ 
