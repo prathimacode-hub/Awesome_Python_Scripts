@@ -1,0 +1,2 @@
+This projects requires latest Python version (i.e 3.5 and above) that has PIP built in and 
+openCV library.
