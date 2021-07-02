@@ -1,7 +1,7 @@
 # ✔ MOVIE BOOKING APPLICATION
 - ### A Movie Booking Application created in python with tkinter gui.
 - ### In this game, the user can select the movie genre, movie name, select time of his/her choice, and also can select seats in theatre of his/her choice.
-- ### At After booking the seat,user will get the message sbout details of his/her booking.
+- ### At After booking the seat, user will get the message about details of his/her booking.
 
 ****
 
