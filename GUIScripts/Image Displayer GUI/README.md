@@ -11,7 +11,9 @@ Here first we need to install both the libraries and then run the script so it w
 
 ## Output
 ![image](Images/output_1(image).png)
+
 ![image](Images/output_2(image).png)
+
 ![image](Images/output_3(image).png)
 
 ## Author(s)
