@@ -47,14 +47,14 @@ Similarly the fourth number will be F3 = F1 + F2 ..........and so on
 ## **_Screenshot : _**
 
 ### _CODE_
-![alt text](https://github.com/Priyanshi-Rai/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Fibonacci%20sequence%20%20generator/Images/fibonacci_%20series_code.png)
+![alt text](https://github.com/Priyanshi-Rai/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Fibonacci%20Sequence%20Generator/Images/fibonacci_%20series_code.png)
 
 ### _OUTPUTS_
-![alt text](https://github.com/Priyanshi-Rai/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Fibonacci%20sequence%20%20generator/Images/Fib_ouput1.png)
+![alt text](https://github.com/Priyanshi-Rai/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Fibonacci%20Sequence%20Generator/Images/Fib_ouput1.png)
 
-![alt text](https://github.com/Priyanshi-Rai/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Fibonacci%20sequence%20%20generator/Images/Fib_ouput2.png)
+![alt text](https://github.com/Priyanshi-Rai/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Fibonacci%20Sequence%20Generator/Images/Fib_ouput2.png)
 
-![alt text](https://github.com/Priyanshi-Rai/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Fibonacci%20sequence%20%20generator/Images/Fib_ouput3.png)
+![alt text](https://github.com/Priyanshi-Rai/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Fibonacci%20Sequence%20Generator/Images/Fib_ouput3.png)
 
 
 ## _For any query contact_:
