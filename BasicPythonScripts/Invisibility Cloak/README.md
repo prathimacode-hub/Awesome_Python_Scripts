@@ -23,7 +23,7 @@
 # Output
 
 
-https://github.com/Cartikx3/Awesome_Python_Scripts/blob/main/BasicPythonScripts/INVISIBLE%20CLOAK/MEDIA/output.mp4
+https://github.com/Cartikx3/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Invisibility%20Cloak/Media/output.mp4
 
 
 
