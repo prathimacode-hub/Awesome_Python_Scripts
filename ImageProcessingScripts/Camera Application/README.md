@@ -54,7 +54,7 @@
 
 # Below is a sample gif showing how Camera Application works:
 <p align="center">
-  <img width = 1000 src="Images/sample_video.gif" /><br>
+  <img src="Images/sample_video.gif" /><br>
 </p>
 
 ****
