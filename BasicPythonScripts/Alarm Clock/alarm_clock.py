@@ -4,7 +4,7 @@ import pygame
 
 # Setup the music
 pygame.mixer.init()
-SONG = pygame.mixer.Sound('Related Files/wake_up.mp3')
+SONG = pygame.mixer.Sound('Related Folder/wake_up.mp3')
 SONG.set_volume(0.1)
 
 # Taking Time for alarm clock

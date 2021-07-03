@@ -1,5 +1,2 @@
-##requirement 
-
-**time module**
-
-**playsound module**
+pygame==2.0.0
+time
