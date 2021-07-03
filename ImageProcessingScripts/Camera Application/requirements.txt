@@ -1,0 +1,8 @@
+libraries used : tkinter
+		 os
+		 filedialog from tkinter
+		 messagebox from tkinter
+		 PIL
+		 cv2
+		 time
+		 threading
