@@ -23,7 +23,7 @@
 # Output
 
 
-![ ](https://github.com/Cartikx3/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Invisibility%20Cloak/Media/output.mp4)
+![](Media/output.gif)
 
 
 
