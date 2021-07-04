@@ -1,12 +1,12 @@
-import turtle
+import turtle    # Calling Library
 flag = turtle.Turtle()
-flag.speed(1)
+flag.speed(1)    # changing speed
 flag.up()
-flag.goto(-200,-300)
+flag.goto(-200,-300)  # changing curser position 
 flag.down()
 flag.left(90)
-flag.begin_fill()
-flag.fillcolor("black")
+flag.begin_fill()    
+flag.fillcolor("black")  #chocing color
 for i in range(2):
     flag.forward(600)
     flag.right(90)
@@ -60,6 +60,7 @@ flag.left(90)
 flag.forward(15)
 flag.pendown()
 
+# Drawing 24 spokes.
 for i in range (24):
     flag.forward(15)
     flag.backward(15)
