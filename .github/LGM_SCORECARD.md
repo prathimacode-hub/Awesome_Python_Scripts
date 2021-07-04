@@ -1,7 +1,7 @@
 <h1> LGMSOC - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 191
+## Total Number Of PR's : 203
 ## Total Number of Contributors : 57
 
   
@@ -167,8 +167,8 @@ Points : 30 <br>
 Name : Akash Ramanand Rajak <br>
 Github : https://github.com/akash435 <br>
 Number of PR's : 29 <br>
-Projects Done : Bubble Catcher Game (Level 2) | English Dictionary - Enhanced (Level 4) | Image To Icon Converter (Level 2) |  Zodiac Sign Finder (Level 3) | Splash Screen in Zodiac Sign Finder - Enhancement (Level 1) | Missing Alphabet Game (Level 3) | Result Predictor in TicTacToe Game - Enhancement (Level 2) | Time Zone Converter (Level 3) | Spelling Corrector (Level 2) | Quiz Game (Level 2) | Part of Speech Calculator (Level 2) | Get Location Of Any Country (Level 2) | Search Implementation (Level 3) | Indian Food Information (Level 2) | Virtual Keyboard (Level 2) | Direct Flight Route Finder (Level 2) | World Bank GDP Ranking (Level 2) | SpaceX Mission Detailer (Level 2) | Periodic Table Elements (Level 2) | University NIRF Ranking (Level 2) | Pin Codes of Indian City (Level 2) | Highlight Selected Part of Text (Level 1) | All Indian Trains (Level 2) | Odd Symbol Find Game (Level 3) | Enhanced Virual Keyboard to Programming Keyboard (Level 2) | Nobel Prize Winner (Level 2) | Bermuda Triangle Incidents (Level 2) | World Companies Detailer (Level 2) | Solar System Object Details (Level 3) | <br>
-Points : 545 <br>
+Projects Done : Bubble Catcher Game (Level 2) | English Dictionary - Enhanced (Level 4) | Image To Icon Converter (Level 2) |  Zodiac Sign Finder (Level 3) | Splash Screen in Zodiac Sign Finder - Enhancement (Level 1) | Missing Alphabet Game (Level 3) | Result Predictor in TicTacToe Game - Enhancement (Level 2) | Time Zone Converter (Level 3) | Spelling Corrector (Level 2) | Quiz Game (Level 2) | Part of Speech Calculator (Level 2) | Get Location Of Any Country (Level 2) | Search Implementation (Level 3) | Indian Food Information (Level 2) | Virtual Keyboard (Level 2) | Direct Flight Route Finder (Level 2) | World Bank GDP Ranking (Level 2) | SpaceX Mission Detailer (Level 2) | Periodic Table Elements (Level 2) | University NIRF Ranking (Level 2) | Pin Codes of Indian City (Level 2) | Highlight Selected Part of Text (Level 1) | All Indian Trains (Level 2) | Odd Symbol Find Game (Level 3) | Enhanced Virual Keyboard to Programming Keyboard (Level 2) | Nobel Prize Winner (Level 2) | Bermuda Triangle Incidents (Level 2) | World Companies Detailer (Level 2) | Solar System Object Details (Level 3) | Virtual Copy Paste (Level 2) | Word Search Game (Level 2) | All Camera Model Detailer (Level 2) | Painting Tool (Level 2) | All Laptop Detailer (Level 2) | Image Here To There (Level 2) | Text Editor (Level 3) | Movie Booking Application (Level 2) | Restaurant Management System (Level 2) | Camera Application (Level 2) | Piano Application (Level 1) | Google Search Engine (Level 3) | <br>
+Points : 750 <br>
 
 Name : Anshika Subodhkumar <br>
 Github : https://github.com/AK-Subodh <br>
