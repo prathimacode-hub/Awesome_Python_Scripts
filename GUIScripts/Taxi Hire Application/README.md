@@ -1,10 +1,10 @@
 # ✔ TAXI HIRE APPLICATION
 - ### A "Taxi Hire Application" is an application created in python with tkinter gui.
 - ### In this application user will be able to get full hand on experience of how hiring of taxies takes place in online mode.
-- ### Here in this applicaiton, user need to create an account if already not have an account, else go to login.
-- ### After this, user need to enter the basic details about the tours likeFirstName, SurName, Address, PostCode, Telephone, Mobile No., Email Id, starting address, destination addess, type of route, any preference, number of pooling user can allow, etc.
-- ### After that, user will be able to count the total amount he/she needs to pay, also user will be able to see the receipt of his/her trp also. 
-- ### Ans For storing the user account information like Username and Password, Sqlite data base is used.
+- ### Here in this application, user need to create an account if already not have an account, else go to login.
+- ### After this, user need to enter the basic details about the tours like FirstName, SurName, Address, PostCode, Telephone, Mobile No., Email Id, starting address, destination address, type of route, any preference, number of pooling user can allow, etc.
+- ### After that, user will be able to count the total amount he/she needs to pay, also user will be able to see the receipt of his/her trip also. 
+- ### And For storing the user account information like Username and Password, Sqlite data base is used.
 
 ****
 
