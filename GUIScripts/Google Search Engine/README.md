@@ -18,7 +18,7 @@
 ****
 
 # How this Script works :
-- ### User just need to download the file and run the google_search_application.py on their local system.
+- ### User just need to download the file and run the google_search_engine.py on their local system.
 - ### Now on the main window of the application, a gui same as how google website is looking will appear.
 - ### From the application we can navigate to Google Apps, Google Drive, Youtube, Gmail, Images in Google tab, Signin option of Google.
 - ### Also we can search anything in the search bar using google search.
@@ -30,7 +30,7 @@
 
 # Compilation Steps :
 - ### Install tkinter, PIL, webbrowser, googlesearch
-- ### After that download the code file, and google_search_application.py on local system.
+- ### After that download the code file, and google_search_engine.py on local system.
 - ### Then the script will start running and user can explore each and every option given in GUI.
 
 ****
