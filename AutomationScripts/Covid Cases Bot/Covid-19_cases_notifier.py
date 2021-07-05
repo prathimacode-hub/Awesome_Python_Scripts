@@ -3,7 +3,13 @@ import time
 import requests
 import  json
 from bs4 import BeautifulSoup
-from win10toast import ToastNotifier
+
+try:
+    from win10toast import ToastNotifier
+except ModuleNotFoundError:
+    if platform.system() == 'Windows':
+        print('module "win10toast" not found')
+        exit()
 
 def covidbot(count=2,timeout=10):
     while count != 0:
@@ -24,7 +30,6 @@ def covidbot_Linux(text):
     message.show()
 
 def covidbot_Windows(text):   
-    from win10toast import ToastNotifier
     toast=ToastNotifier()
     toast.show_toast("covid - 19 updates",text, duration=20)
 
