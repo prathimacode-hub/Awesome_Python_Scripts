@@ -1,0 +1,5 @@
+This projects requires latest Python version (i.e 3.5 and above) that has PIP built in and the libraries that are imported are :-
+
+1. openCV Library.
+2. Numpy Library.
+3. time Module.
