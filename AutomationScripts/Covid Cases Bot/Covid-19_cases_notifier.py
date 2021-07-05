@@ -3,6 +3,7 @@ import time
 import requests
 import  json
 from bs4 import BeautifulSoup
+from win10toast import ToastNotifier
 
 def covidbot(count=2,timeout=10):
     while count != 0:
