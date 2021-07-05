@@ -3,6 +3,9 @@
 # Aim
   Hello EVERYONE,lets do some magic using computer vision. I hope you all know about ‘invisible cloak’, this will make you invisible. We will see how we can do the same magic       trick   with the help of computer vision. I will code with python and use the opencv and numpy library.
   
+# Purpose  
+  Our purpose is to become Invisible using a cloak with the help of various Python libraries.
+  
 # Setup instructions
   
   1. Install the latest python 3.5 and above and once you finish installing it .
@@ -17,6 +20,12 @@
   
   firstly the program when you run it it will capture the background image and then. When you put a red colored colored cloth in front of camera the program will detect the colored cloak using color detection and segmentation algorithm . And the program will generate a mask to determine the region in the frame corresponding to the detected color(red in this case). Program  will refine this mask and then use it for segmenting out the cloth from the frame. Program will replace the pixels value of the detected red color region with corresponding pixel values of the static background. 
 
+# Compilation Steps
+
+1. Capture and store the background frame
+2. Detect the defined color using color detection and segmentation algorithm.
+3. Segment out the defined colored part by generating a mask.
+4. Generate the final augmented output to create a magical effect. 
 
 
 
