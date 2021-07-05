@@ -1,0 +1,1 @@
+Libraries used: tkinter, requests and bs4.
