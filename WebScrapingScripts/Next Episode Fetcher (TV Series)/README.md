@@ -1,5 +1,6 @@
 # Next Episode Fetcher
-
+## Aim/Purpose
+To find the next episode date and time.
 ## Short description of package/script
 
 -Finding the airing date of next episode of your favourite TV shows is quite cumbersome job. Open the browser, Enter the link, and Search for the show.This python code snippet takes the name of the show you want to search and gives you the next airing date of the show.
