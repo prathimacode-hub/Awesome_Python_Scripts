@@ -1,17 +1,23 @@
 #importing playsound module pip install playsound
 import time
-from playsound import playsound
+import pygame
+pygame.init()
+# SONG for the alarm
+SONG = pygame.mixer.Sound("Related/wake_up.mp3")
+SONG.set_volume(0.1)
+print("Clock type - 24 hour system")
 #input hr(hours) and min(minutes) with am or pm
-hr = int(input("Enter hour: "))
-min = int(input("Enter minutes: "))
-amPm=str(input("am or pm"))
+hour = int(input("Enter hour: "))
+minute = int(input("Enter minutes: "))
 #n=1 and condition always be true 
 n=1
 while n>0:
     #here local hour is compare with given input hr(hour) and local minute is compare with given input min(minutes)
-    if time.localtime().tm_hour == hr and time.localtime().tm_min == min:
+    if time.localtime().tm_hour == hour and time.localtime().tm_min == minute:
         print("wake up!!!")
-        playsound(r'C:\Users\HP\Downloads\13767_nice_larm_clock.mp3')#here path of alarm tune using playsound module
-        break #when time match wake up!!! print with sound
-    else:
-        n+=1
+        SONG.play()
+        while True:
+            inpt = input("Type 'Stop' to off the alram : ")
+            if inpt.lower() == 'stop':
+                break # Break the inner while loop
+        n = 0
