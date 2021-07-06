@@ -11,6 +11,7 @@ i thought of writing something different so tried this one.
 
 - from turtle import color, back, left, forward, right, exitonclick
 - imported turtle
+- code link : https://github.com/manognyaa/Awesome_Python_Scripts/blob/main/GUIScripts/love/love.py
 
 
 ## Workflow of the Project
