@@ -2,7 +2,7 @@
 - ### A Mouse Pointer Co-ordinates Getter is an application created in python with tkinter gui.
 - ### In this application, user can get the x,y co-ordinates of his/her mouse pointer on the screen.
 - ### The co-ordinates will change accordingly as user moves the mouse.
-- ### Using this user will also be able to see what's the height and widht of his/her PC or Computer screen. 
+- ### Using this user will also be able to see what's the height and width of his/her PC or Computer screen. 
 
 ****
 
