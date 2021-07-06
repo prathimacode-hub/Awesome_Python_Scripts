@@ -4,6 +4,7 @@ import requests
 import  json
 from bs4 import BeautifulSoup
 
+# cheking the avialability of the module
 try:
     from win10toast import ToastNotifier
 except ModuleNotFoundError:
@@ -24,18 +25,20 @@ def covidbot(count=2,timeout=10):
         time.sleep(timeout)
         count -= 1
 
+# called in linux
 def covidbot_Linux(text):
     notify2.init('covidbot')
     message = notify2.Notification(text)
     message.show()
 
+# called in windows
 def covidbot_Windows(text):   
     toast=ToastNotifier()
     toast.show_toast("covid - 19 updates",text, duration=20)
 
+os = platform.system() #determining the OS type
 url = 'https://coronavirus-19-api.herokuapp.com/all'
-os = platform.system()
-func = {'Windows':covidbot_Windows, 'Linux':covidbot_Linux}
+func = {'Windows':covidbot_Windows, 'Linux':covidbot_Linux} 
 
 if __name__ == '__main__':
     covidbot()
