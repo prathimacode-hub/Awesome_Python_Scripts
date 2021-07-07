@@ -1,10 +1,16 @@
 # Title:-
 
-Base converter
+Base Converter
+
+## Aim :- 
+We build a calculator which can convert any number from any base to any other base. In number systems, “Base” tells us how many numbers you have available. Binary has 2, octal has 8, decimal has 10 etc.
+
+## Purpose :- 
+A program which can handle any number and base we give it. It could be save a lot of time when we want to change one base to another.
 
 ## Short Description :-
 
-simple python script to Base convert (Binary, decimal, hexadecimal & Octal etc.) to (Desired base (i.e. Binary, decimal, hexadecimal & Octal)).
+simple python script to Base convert (Binary, decimal, hexadecimal & Octal etc.) to (Desired base (i.e. Binary, decimal, hexadecimal & Octal).
 
 ## Setup instructions :-
   For script to work you must have python3 installed in your system.
