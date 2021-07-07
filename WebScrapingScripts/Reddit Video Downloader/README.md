@@ -22,7 +22,7 @@ We just want to copy the url of the video on reddit. .
 ### Workflow:
 
 Import json and get & except module from requests libraries in the Python file that you are going to use to get the reddit post information and video.
-Using get we can request data from the url and extract its json data and except is used to provide exceptions. . 
+Using get we can request data from the url and extract its json data and except is used to provide exceptions.
 Now we can easily get the information and links about the post and the video from that web page using json data and display it in our console. 
 Then we will create a file download.mp4 and store the video in this file. 
 
