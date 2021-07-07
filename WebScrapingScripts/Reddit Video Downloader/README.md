@@ -9,6 +9,16 @@ subreddit and author name on the console. The video is stored in our local syste
 
 - requests
 
+### Aim:
+
+To download videos from the reddit posts. 
+
+### Purpose: 
+
+In reddit, there is no option to download videos which people 
+post on their account posts. So this script helps to download those videos. 
+We just want to copy the url of the video on reddit. . 
+
 ### Setup Instructions:
 
 1. Install the requests.
