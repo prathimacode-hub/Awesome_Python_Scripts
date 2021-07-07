@@ -19,6 +19,12 @@ In reddit, there is no option to download videos which people
 post on their account posts. So this script helps to download those videos. 
 We just want to copy the url of the video on reddit. . 
 
+### Workflow:
+
+Import json and get & except module from requests libraries in the Python file that you are going to use to get the reddit post information and video.
+Using get we can request data from the url and extract its json data and except is used to provide exceptions. . 
+Now we can easily get the information from any web page to your console/application.
+
 ### Setup Instructions:
 
 1. Install the requests.
