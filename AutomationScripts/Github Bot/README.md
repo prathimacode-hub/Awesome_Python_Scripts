@@ -10,7 +10,7 @@ Here we will perform different tasks of github
 
 ## Short description of package/script
 
-- Here using github library we had done some tasks as below:
+ Here using github library we had done some tasks as below:
 -  printing all repositories related to a specific langauge
 - viewing all repositories of user account
 - login on github
@@ -19,7 +19,7 @@ Here we will perform different tasks of github
 - push files ina repositroy using python
 - delete file in a repository
 
-- List out the libraries imported->github
+ List out the libraries imported->github
 
 
 ## Workflow of the Project
