@@ -1,0 +1,12 @@
+import turtle
+heart=turtle.Turtle()
+heart.speed(1)
+heart.begin_fill()
+heart.fillcolor("RED")
+heart.left(140)
+heart.forward(180)
+heart.circle(-90, 200)
+heart.setheading(60)
+heart.circle(-90, 200)
+heart.forward(180)
+heart.end_fill()
