@@ -1,7 +1,7 @@
 <h1> LGMSOC - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 203
+## Total Number Of PR's : 215
 ## Total Number of Contributors : 57
 
   
@@ -21,8 +21,8 @@ Name : Neel Shah <br>
 Github : https://github.com/neelshah2409 <br>
 Number of PR's : 31 <br>
 Projects Done : Typing Speed Test (Level 1) | Caesar Encryption (Level 1) | ATM Machine System (Level 1) | Facebook Messenger Automation (Level 1) | Grammar Correction 
-(Level 1) | Matchmaker Game (Level 2) | QRCode Generator (Level 1) | Tracking Phone Number (Level 1) | All Information about Country (Level 1) | Movie Information Detailer (Level 1) | Voting System (Level 1) | Video to Audio (Level 1) | Adventure Based Game (Level 1) | Desktop Notification (Level 1) | WIFI Password Fetcher (Level 2) | Caterpillar Game (Level 2) | Mobile Recharge Plan Detailer (Level 1) | Email Sender in Bulk (Level 1) | Age Predictor Chatbot (Level 1) | Library Management GUI (Level 1) | Gold Price Fetcher (Level 1) | Zip Files Extractor (Level 1) | Word Cloud (Level 1) | Stock Visualizer (Level 1) | Air Quality Detector (Level 1) | Fidget Spinner (Level 1) | Instagram Bot (Level 1) | Password Manager (Level 1) | Next Word Prediction (Level 1) | Weather Updates (Web Scraping) (Level 1) | Excel File Automation (Level 1) | <br>
-Points : 325 <br>
+(Level 1) | Matchmaker Game (Level 2) | QRCode Generator (Level 1) | Tracking Phone Number (Level 1) | All Information about Country (Level 1) | Movie Information Detailer (Level 1) | Voting System (Level 1) | Video to Audio (Level 1) | Adventure Based Game (Level 1) | Desktop Notification (Level 1) | WIFI Password Fetcher (Level 2) | Caterpillar Game (Level 2) | Mobile Recharge Plan Detailer (Level 1) | Email Sender in Bulk (Level 1) | Age Predictor Chatbot (Level 1) | Library Management GUI (Level 1) | Gold Price Fetcher (Level 1) | Zip Files Extractor (Level 1) | Word Cloud (Level 1) | Stock Visualizer (Level 1) | Air Quality Detector (Level 1) | Fidget Spinner (Level 1) | Instagram Bot (Level 1) | Password Manager (Level 1) | Next Word Prediction (Level 1) | Weather Updates (Web Scraping) (Level 1) | Excel File Automation (Level 1) | BruteForce Attack (Level0) | Chrome Dinosour Automation (Level 1) | Image Displayer GUI (Level 2) | Gesture Pet (Level 2) | Next Episode Fetcher (Level 1) | Hotel Billing System (Level 2) | Unit Converter GUI (Level 1) | GitHub Bot (Level 1) |<br>
+Points : 415 <br>
 
 Name : Pratima Kushwaha <br>
 Github : https://github.com/pratimakush10 <br>
@@ -257,8 +257,8 @@ Points : 10 <br>
 Name : Ashutosh Kumar Saw <br>
 Github : https://github.com/Ashu-1309 <br>
 Number of PR's : 4 <br>
-Projects Done : Temperature Converter (Level 1) | Day's Finder in a Month (Level 1) | Grade Calculator (Level 1) | Pattern (Level 1) | <br>
-Points : 40 <br>
+Projects Done : Temperature Converter (Level 1) | Day's Finder in a Month (Level 1) | Grade Calculator (Level 1) | Pattern (Level 1) | Star Pattern (Level 1) | Indian Flag (Level 2) |<br>
+Points : 65 <br>
 
 Name : Abhishek Sharma <br>
 Github : https://github.com/abhisheks008 <br>
@@ -323,8 +323,8 @@ Points : 55 <br>
 Name : Mudit Choudhary <br>
 Github : https://github.com/MuditCh57 <br>
 Number of PR's : 1 <br>
-Projects Done : Dodge Charger Game (Level 4) | <br>
-Points : 45 <br>
+Projects Done : Dodge Charger Game (Level 4) | Enhanced alarm clock (Level 1) |<br>
+Points : 55 <br>
 
 Name : Akash <br>
 Github : https://github.com/Akash20x <br>
@@ -352,7 +352,7 @@ Points : 15 <br>
 
 Name : Priyanshi Rai <br>
 Github : https://github.com/Priyanshi-Rai <br>
-Number of PR's : 1 <br>
-Projects Done : Armstrong Number (Level 1) | <br>
-Points : 10 <br>
+Number of PR's : 2 <br>
+Projects Done : Armstrong Number (Level 1) | Fibonacci Series Generator (Level 1) |<br>
+Points : 20 <br>
 
