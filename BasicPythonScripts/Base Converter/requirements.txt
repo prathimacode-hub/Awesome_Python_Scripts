@@ -1,0 +1,2 @@
+All you need is the python (3.X) install in your device and than you can run the program in any IDE 
+Suggested : VScode , jupyter notebook , pycharm etc or any online IDE
