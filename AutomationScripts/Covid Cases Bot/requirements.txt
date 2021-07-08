@@ -3,3 +3,6 @@ requests
 json
 bs4 
 win10toast 
+notify2
+platform
+math
