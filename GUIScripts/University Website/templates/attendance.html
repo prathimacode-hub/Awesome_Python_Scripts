@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% block title %}
+  Attendance
+{% endblock %}
+
+{% block content %}
+<hr>
+      <table class="table table-hover table-dark">
+        <thead>
+            <tr>
+                <th scope="col">Course</th>
+                <th scope="col">Total No Of Days</th>
+                <th scope="col">No of Days Present</th>
+                <th scope="col">No of Days Absent</th>
+                <th scope="col">Absent Percentage</th>
+                <th scope="col">Comments</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for at in attend %}
+                <tr>
+                    <td>{{ at.course }}</td>
+                    <td>{{ at.total_days }}</td>
+                    <td>{{ at.present_days }}</td>
+                    <td>{{ at.absent_days }}</td>
+                    <td>{{ at.percentage }}</td>
+                    <td>On Track</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+      </table>
+{% endblock %}
