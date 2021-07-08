@@ -1,7 +1,7 @@
 <h1> LGMSOC - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 234
+## Total Number Of PR's : 235
 ## Total Number of Contributors : 61
 
   
@@ -292,9 +292,9 @@ Points : 10 <br>
 
 Name : Kumarjeet Ray <br>
 Github : https://github.com/kumarjeetray <br>
-Number of PR's : 5 <br>
-Projects Done : File Transfer (Level 2) | Word Transfer (Level 2) | Stone Paper Pencil Rubber and Scissor (Level 2) | Multiple Choice Questions (Level 1) | Apple Store (Level 4) | <br>
-Points : 100 <br>
+Number of PR's : 6 <br>
+Projects Done : File Transfer (Level 2) | Word Transfer (Level 2) | Stone Paper Pencil Rubber and Scissor (Level 2) | Multiple Choice Questions (Level 1) | Apple Store (Level 4) | University Website (Level 4) | <br>
+Points : 145 <br>
 
 Name : Sahil Singh <br>
 Github : https://github.com/sahilsingh2402 <br>
