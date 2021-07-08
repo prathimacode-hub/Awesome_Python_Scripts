@@ -71,8 +71,8 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 - [Pull Request](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/pullrequest_template.md)
 - [README](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/readme_template.md)
 
-**Note** : One should follow these templates while creating a new issue or pull request. Else, 'LGM-SOC' label won't be assigned neither your contributions would count.
-This is to ensure that we know you as a 'LGM-SOC' participant.
+**Note** : One should follow these templates while creating a new issue or pull request. Else, 'Program' label won't be assigned neither your contributions would count.
+This is to ensure that we know you as a 'LGM-SOC' or 'DevIncept' participant.
 
 
 <h2>📝Project Structure</h2>
