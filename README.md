@@ -136,6 +136,7 @@ The project repository you had created would have :
 </tr>
 </table>
  
+ 
 <h2>🙌Levels & Points (LGMSOC)</h2>
 
 <table>
@@ -168,6 +169,7 @@ The project repository you had created would have :
 You can check out your points scored here : **[LGMSOC_SCORECARD](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/LGM_SCORECARD.md)** <br>
 **Point to Note** : It will be updated once in 4 days. 
 
+
 <h2> ✨ Hall Of Fame </h2>
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
@@ -183,6 +185,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
 <h2>📜 Code Of Conduct</h2>
 
@@ -208,6 +211,11 @@ This project follows the [MIT License](https://github.com/prathimacode-hub/Aweso
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=100px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+
+<h2>🌟 Stargazers Over Time 🌟</h2>
+
+[![Stargazers over time](https://starchart.cc/prathimacode-hub/Awesome_Python_Scripts.svg)](https://starchart.cc/prathimacode-hub/Awesome_Python_Scripts)
 
 
 <h2>⭐Give this Project a Star</h2>
