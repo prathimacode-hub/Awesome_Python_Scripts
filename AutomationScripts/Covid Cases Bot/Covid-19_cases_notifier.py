@@ -3,6 +3,7 @@ import time
 import requests
 import  json
 from bs4 import BeautifulSoup
+#import math ## for continuous iteration
 
 # cheking the avialability of the module
 try:
@@ -12,7 +13,7 @@ except ModuleNotFoundError:
         print('module "win10toast" not found')
         exit()
 
-def covidbot(count=2,timeout=10):
+def covidbot(count=2,timeout=10): # for continuous iteration covidbot(count=math.inf)
     while count != 0:
         r=requests.get(url)
         data=r.json()
