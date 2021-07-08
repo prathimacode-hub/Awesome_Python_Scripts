@@ -1,8 +1,8 @@
 # ✔ SCREEN TAKER
 - #### A "Screen Taker" is a screenshot taking application created in python with tkinter gui.
 - #### In this application, user take either single screenshot or multiple screenshot(by entering the no of screenshots).
-- #### After taking screenshot, user can even see the previewof screenshot using Show Screenshot button.
-- #### Also after taking screenshot, the screenhot will be saved automatically in the project folder.
+- #### After taking screenshot, user can even see the preview of screenshot using Show Screenshot button.
+- #### Also after taking screenshot, the screenshot will be saved automatically in the project folder.
 - #### For implementing this user pyautogui library in python.
 
 ****
