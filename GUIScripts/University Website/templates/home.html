@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+{% block title %}
+    KR University
+{% endblock %}
+{% block content %}
+<body>
+    <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center" style="color:white" align="center">
+        <div class="col-md-5 p-lg-5 mx-auto my-5">
+            <ul id="logo">
+             <li><img src="http://2013.igem.org/wiki/images/5/55/Hkust_logo.gif" width="auto" height="200" align="left"/></li>
+                <br><br>
+              <li><h1 class="display-4 font-weight-normal" align="left">&ensp;KR</h1></li>
+              <li><h2 class="display-4 font-weight-normal" align="right">&ensp;University</h2></li>
+            </ul>
+            <br><br><br><br>
+            <br><br><br><br>
+            <p class="lead font-weight-normal" style="color:#e6ac00">Welcome to KR University.</p>
+            <p class="lead front-weight-normal" style="color:#e6ac00">Click on Get Started to view details.</p>
+            <a class="btn btn-primary" href="{{ url_for('login_page') }}">Get Started</a>
+        </div>
+        <div class="product-device box-shadow d-none d-md-block"></div>
+        <div class="product-device product-device-2 box-shadow d-none d-md-block"></div>
+    </div>
+</body>
+<style>
+    #logo {
+    list-style:none;
+    width:160px;
+    height:100px;
+    margin:75px;
+    padding:0;
+    white-space:nowrap;
+
+}
+      body {
+      background-color: #0d1a26;
+      color: white;
+      }
+</style>
+
+{% endblock %}
