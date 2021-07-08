@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+{% block title %}
+    Registration Page
+{% endblock %}
+
+{% block content %}
+<body class="text-center">
+    <div class="container">
+        <form method="POST" class="form-register" style="color:white">
+            {{ form.hidden_tag() }}
+            <br>
+            <br>
+            <img class="mb-4" src="http://2013.igem.org/wiki/images/5/55/Hkust_logo.gif" alt="" width="auto" height="150">
+            <h1 class="h3 mb-3 font-weight-normal">
+                Please Create your Account
+            </h1>
+            <br>
+            {{ form.roll_number.label() }}
+            {{ form.roll_number(class="form-control", placeholder="Roll Number") }}
+            <br>
+            {{ form.name.label() }}
+            {{ form.name(class="form-control", placeholder="Name") }}
+            <br>
+            {{ form.stream.label() }}
+            {{ form.stream(class="form-control", placeholder="Stream") }}
+            <br>
+            {{ form.d_o_b.label() }}
+            {{ form.d_o_b(class="form-control", placeholder="Date of Birth") }}
+            <br>
+            {{ form.email_address.label() }}
+            {{ form.email_address(class="form-control", placeholder="Email Address") }}
+            <br>
+            {{ form.username.label() }}
+            {{ form.username(class="form-control", placeholder="User Name") }}
+            <br>
+            {{ form.password1.label() }}
+            {{ form.password1(class="form-control", placeholder="Password") }}
+            <br>
+            {{ form.password2.label() }}
+            {{ form.password2(class="form-control", placeholder="Confirm Password") }}
+
+            <br>
+
+            <div class="checkbox mb-3">
+               <h6>Already have an account?</h6>
+               <a class="btn btn-sm btn-secondary" href="{{ url_for('login_page') }}">Login</a>
+            </div>
+
+            {{ form.submit(class="btn btn-lg btn-block btn-primary") }}
+
+        </form>
+    </div>
+</body>
+
+{% endblock %}

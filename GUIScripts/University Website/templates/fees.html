@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% block title %}
+  Fees
+{% endblock %}
+
+{% block content %}
+<hr>
+      <table class="table table-hover table-dark">
+        <thead>
+            <tr>
+                <th scope="col">Roll Number</th>
+                <th scope="col">Name</th>
+                <th scope="col">Amount</th>
+                <th scope="col">Options</th>
+            </tr>
+        </thead>
+        <tbody>
+               {% for fee in fees %}
+                <tr>
+                    <td>{{ fee.id }}</td>
+                    <td>{{ fee.name }}</td>
+                    <td>{{ fee.amount }}</td>
+                    <td>
+                        <button class="btn btn-outline btn-info" onclick=info()>Fees Breakup</button>
+                        <script>
+                                function info(){
+                                        alert("{{fee.fees_desc}}");
+                                }
+                        </script>
+                        <button class="btn btn-outline btn-success">Pay</button>
+                    </td>
+                </tr>
+                {% endfor %}
+        </tbody>
+      </table>
+{% endblock %}

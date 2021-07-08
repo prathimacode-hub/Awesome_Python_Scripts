@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% block title %}
+  Course Details
+{% endblock %}
+
+{% block content %}
+<hr>
+      <table class="table table-hover table-dark">
+        <thead>
+            <tr>
+                <th scope="col">Faculty ID</th>
+                <th scope="col">Faculty Name</th>
+                <th scope="col">Course Name</th>
+                <th scope="col">Faculty Email</th>
+                <th scope="col">Faculty Mobile</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for cor in course %}
+                <tr>
+                    <td>{{ cor.faculty_id }}</td>
+                    <td>{{ cor.faculty_name }}</td>
+                    <td>{{ cor.course_name }}</td>
+                    <td>{{ cor.faculty_email }}</td>
+                    <td>{{ cor.faculty_mobile }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% block title %}
+  Details
+{% endblock %}
+
+{% block content %}
+<hr>
+      <table class="table table-hover table-dark">
+        <thead>
+            <tr>
+                <th scope="col">Roll Number</th>
+                <th scope="col">Name</th>
+                <th scope="col">Stream</th>
+                <th scope="col">D.O.B</th>
+                <th scope="col">Email Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for d in detail %}
+                <tr>
+                    <td>{{ d.id }}</td>
+                    <td>{{ d.name }}</td>
+                    <td>{{ d.stream }}</td>
+                    <td>{{ d.d_o_b }}</td>
+                    <td>{{ d.email_address }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
