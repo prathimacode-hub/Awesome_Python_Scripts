@@ -29,13 +29,13 @@ def extract_url():
         detected_language = 'HTML'
     elif re.search(r'<html>', input_text):
         detected_language = 'HTML'
-    elif re.search(r'fun', input_text):
+    elif re.search(r'fun ', input_text):
         detected_language = 'Kotlin'
     elif re.search(r'<script>', input_text):
         detected_language = 'JavaScript'
     else:
         detected_language = 'Python'
-    mbox.showinfo("Extracted URL", "Detected Programming Language :\n\n" + detected_language)
+    mbox.showinfo("Detected Language", "Detected Programming Language :\n\n" + detected_language)
 
 
 def lang_support():
