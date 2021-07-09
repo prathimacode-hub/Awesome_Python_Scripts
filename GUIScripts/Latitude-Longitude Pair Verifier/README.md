@@ -1,7 +1,7 @@
 # ✔ LATITUDE - LONGITUDE PAIR VERIFIER
 - #### A "Latitude - Longitude Pair Verifier" is an application created in python with tkinter gui.
 - #### In this application, user can enter any latitude and longitude and verify whether that latitude and longitude pair is valid or not.
-- #### Also if the pair is valid then user can also locate that latitute and longitude on the earth and see which country is around that latitude and longitude along with country code.
+- #### Also if the pair is valid then user can also locate that latitude and longitude on the earth and see which country is around that latitude and longitude along with country code.
 - #### Also is the pair is not valid, then error message will be shown for the same and that latitude and longitude cannot be located using locate button.
 - #### for locating, used the world_location.csv data, and read using pandas library.
 
