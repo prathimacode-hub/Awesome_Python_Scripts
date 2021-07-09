@@ -24,12 +24,12 @@
 - #### Also there is an exit button, clicking on which exit dialog box appears asking for the permission of the user for closing the window.
 
 # Purpose :
-- ### This scripts helps us to easily extract URLs and Domains from any text or paragraph.
+- #### This scripts helps us to easily extract URLs and Domains from any text or paragraph.
 
 # Compilation Steps :
-- ### Install tkinter, re, intertools
-- ### After that download the code file, and run url_extractor.py on local system.
-- ### Then the script will start running and user can explore it by entering text and extracting URLs and Domains from it.
+- #### Install tkinter, re, intertools
+- #### After that download the code file, and run url_extractor.py on local system.
+- #### Then the script will start running and user can explore it by entering text and extracting URLs and Domains from it.
 
 ****
 
@@ -49,4 +49,4 @@
 ****
 
 # Author :
-- ### Akash Ramanand Rajak
+- #### Akash Ramanand Rajak
