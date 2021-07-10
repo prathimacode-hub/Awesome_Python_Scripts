@@ -1,0 +1,7 @@
+mysql.connector
+tkinter  
+speech_recognition 
+pyttsx3
+
+and mysql server. and create a database named kbook. 
+
