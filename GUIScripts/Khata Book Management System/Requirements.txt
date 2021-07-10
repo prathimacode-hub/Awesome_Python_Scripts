@@ -1,7 +1,7 @@
 mysql.connector
-tkinter import * 
-speech_recognition as sr
+tkinter  
+speech_recognition 
 pyttsx3
 
-and mysql server. 
+and mysql server. and create a database named kbook. 
 
