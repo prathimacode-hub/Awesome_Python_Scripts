@@ -39,4 +39,4 @@ You Need to install the Mysql server and create a database named kbbokand change
 
 
 # Author 
-## <a href="https://github.com/Knighthawk-Leo">Sanskar Dwivedi </a> 
+## <a href="https://github.com/Knighthawk-Leo">Sanskar Dwivedi ❤️ </a> 
