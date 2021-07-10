@@ -1,0 +1,7 @@
+mysql.connector
+tkinter import * 
+speech_recognition as sr
+pyttsx3
+
+and mysql server. 
+
