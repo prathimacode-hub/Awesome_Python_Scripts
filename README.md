@@ -202,6 +202,7 @@ This project follows the [MIT License](https://github.com/prathimacode-hub/Aweso
 <table>
   <tr>
 <td align="center"><a href="https://github.com/chicken-biryani"><img src="https://avatars.githubusercontent.com/u/41121520?v=4" width="80px;" alt=""/><br /><sub><b>Shloka Gupta</b></sub></a></td>   
+<td align="center"><a href="https://github.com/himanshu007-creator"><img src="https://avatars.githubusercontent.com/u/65963997?v=4" width="80px;" alt=""/><br /><sub><b>Himanshu</b></sub></a></td>   
   </tr>
 </table>
 
