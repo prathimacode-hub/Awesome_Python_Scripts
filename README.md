@@ -197,6 +197,15 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Awes
 This project follows the [MIT License](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/LICENSE).
 
 
+<h2>✔Mentors(DevIncept)</h2>
+
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/chicken-biryani"><img src="https://avatars.githubusercontent.com/u/41121520?v=4" width="80px;" alt=""/><br /><sub><b>Shloka Gupta</b></sub></a></td>   
+  </tr>
+</table>
+
+
 <h2>✔Mentors(LGM-SOC)</h2>
 
 <table>
