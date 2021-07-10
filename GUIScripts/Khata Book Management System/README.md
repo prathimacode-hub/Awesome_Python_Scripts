@@ -7,7 +7,18 @@ This is an UI based Credit Management System App . This Will Manage credits of c
 * Delete The Data
 * To show All remaining credits.
 
-The UI Looks Like This 
-<img src="https://github.com/Knighthawk-Leo/Awesome_Python_Scripts/blob/Knighthawk-Leo-patch-1/GUIScripts/Khatabook/khata.jpg">
+## The UI Looks Like This 
+<img src="https://github.com/Knighthawk-Leo/Awesome_Python_Scripts/blob/Knighthawk-Leo-patch-1/GUIScripts/Khata%20Book%20Management%20System/Images/khata.jpg">
 
-## Thankyou For Reviewing It.
+## To Insert The Record Use This 
+<img src="https://github.com/Knighthawk-Leo/Awesome_Python_Scripts/blob/Knighthawk-Leo-patch-1/GUIScripts/Khata%20Book%20Management%20System/Images/KhataAdding.jpg">
+
+## To Acces Particular Customer Data
+<img src="https://github.com/Knighthawk-Leo/Awesome_Python_Scripts/blob/Knighthawk-Leo-patch-1/GUIScripts/Khata%20Book%20Management%20System/Images/Showcust.jpg">
+
+## To Show All remaining Money
+<img src="https://github.com/Knighthawk-Leo/Awesome_Python_Scripts/blob/Knighthawk-Leo-patch-1/GUIScripts/Khata%20Book%20Management%20System/Images/showall.jpg">
+
+
+
+# Thankyou For Reviewing It.
