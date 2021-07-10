@@ -39,6 +39,11 @@
     "description": "This issue will be considered for LGM-SOC 21",
     "color": "d93f0b"
   },
+    {
+    "name": " DCP21 ",
+    "description": "This issue will be considered for DCP 21",
+    "color": "d93f0b"
+  },
   {
     "name": " 🤩 Up for Grab ",
     "description": "This issue will is not assigned ! Grab It !",
