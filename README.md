@@ -170,6 +170,32 @@ You can check out your points scored here : **[LGMSOC_SCORECARD](https://github.
 **Point to Note** : It will be updated once in 4 days. 
 
 
+<h2>🙌Levels & Points (DCP)</h2>
+
+<table>
+  <tr>
+    <th>Level</th>
+    <th>Points</th> 
+  </tr>
+  <tr>
+    <td>Level 0</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Level 1</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Level 2</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>Level 3</td>
+    <td>40</td>
+  </tr>
+</table>
+
+
 <h2> ✨ Hall Of Fame </h2>
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
