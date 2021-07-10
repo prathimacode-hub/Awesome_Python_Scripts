@@ -1,0 +1,13 @@
+1. PyQt5
+ 
+    pip install pyqt5
+
+2. Sqlite3
+
+    pip install sqlite
+       or
+    pip install sqlite-utils
+
+3. Sys
+
+    Already in your python packages
