@@ -38,7 +38,9 @@ Functions are created for each operation like add task, save task, clear task an
 Then main loop is set to call all function when user click the required button.
 
 ## Sample Output
+![](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/GUIScripts/To%20Do%20List/Images/Image-1.jpg)
 
+![](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/GUIScripts/To%20Do%20List/Images/Image-2.jpg)
 
 ## Done by
 Rammya Dharshini K
