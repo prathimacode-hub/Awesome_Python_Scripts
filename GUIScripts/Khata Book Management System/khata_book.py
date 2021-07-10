@@ -1,34 +1,38 @@
-import mysql.connector
+# Including required modules
 
+import mysql.connector
 from tkinter import * 
 import speech_recognition as sr
 import pyttsx3 
 
+# assigining the voice commands 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
 # print(voices[1].id)
 engine.setProperty('voice', voices[0].id)
 
-
+# function to speak 
 def speak(audio):
     engine.say(audio)
     engine.runAndWait()
-
+# making the connections towards the mysql 
 def connection():
     try:
         con=mysql.connector.connect(user='root',password='4844',host='127.0.0.1',database='kbook')
         mycursor=con.cursor()
+        #creating the servers
         mycursor.execute("CREATE TABLE IF NOT EXIST ITEMS (CID INT PRIMARY KEY,COUSTOMER_NAME VARCHAR(25),ITEM1 VARCHAR(20),WORTH1 INT,ITEM2 VARCHAR(20),WORTH2 INT,TOTAL_AMOUNT INT)")
     except:
         print("cannot Connect to database")
     return con
    
-        
+ 
+# function to search records in mysql tables
 def Search_Records():
     con=connection()
     cursor=con.cursor()
     CID=e1.get()
-    query=("select * from items where CID=%s")
+    query=("select * from items where CID=%s")  #executive the querry 
     data=(CID,)
     cursor.execute(query,data)
     dasd = cursor.fetchall()
@@ -38,7 +42,7 @@ def Search_Records():
 
 
 
-    
+ # function to Insert records in mysql tables   
 def Insert_Records():
     con=connection()
     cursor=con.cursor()
@@ -58,7 +62,7 @@ def Insert_Records():
     con.commit()
     con.close()
 
-
+# function to show all  records in mysql tables
 def show_money():
     con=connection()
     cur=con.cursor()
@@ -72,7 +76,8 @@ def show_money():
     cur.close()
     con.commit()
     con.close()
-
+    
+#Function To delete the records
 def delete():
     con=connection()
     cur=con.cursor()
@@ -93,10 +98,12 @@ def delete():
 def close():
     sys.exit()
 
+#Starting the UI Work........
+
 
 root=Tk()
 root.title("KHATA BOOK SOFT")
-
+#decalring the variables...
 CID=StringVar()
 Customer_Name=StringVar()
 Item1=StringVar()
@@ -104,6 +111,7 @@ worth1=StringVar()
 Item2=StringVar()
 worth2=StringVar()
 
+#making the labels for fields in UI...........
 
 label1=Label(root,text="Customer ID",font="arial 10 bold")
 label1.place(x=0,y=0)
@@ -123,6 +131,7 @@ label15.place(x=0,y=120)
 label16=Label(root,text="worth2",font="arial 10 bold")
 label16.place(x=0,y=150)
 
+# MAking th entry field .........
 e1=Entry(root,textvariable=CID,bg="lightblue")
 e1.place(x=120,y=0)
 
@@ -142,9 +151,11 @@ e6=Entry(root,textvariable=worth2,bg="lightblue")
 e6.place(x=120,y=150)
 
 
-
+# OUTPUT AREA....................
 t1=Text(root,width=80,height=20,bg="green",font="arial 10 bold")
 t1.grid(row=9,column=1)
+
+#Buttons That Triggers the Functions............
 
 b1=Button(root,text="Seacrch CUSTOMER",command=Search_Records,width=40,bg="orange",font="arial 10 bold")
 b1.grid(row=11,column=0)
