@@ -1,0 +1,5 @@
+1. Tkinter - Already downloaded in your system
+
+2. Sqlite3 - pip install sqlite3
+
+[ NOTE : Futher information look into Pipy.org ]
