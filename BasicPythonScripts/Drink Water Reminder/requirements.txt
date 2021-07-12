@@ -1,0 +1,2 @@
+1) importing the 'time' module 
+2) installing the 'plyer' module through terminal and then importing notification
