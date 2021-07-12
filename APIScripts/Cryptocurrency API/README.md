@@ -1,4 +1,4 @@
-# Detect Language API 🗣
+## Crypto-Currency API 🗣
 
 ## 🔹Introduction
 <ul>
@@ -7,18 +7,20 @@
 
 ## 🔹Purpose
 <ul>
-  <li>User can fetch latest rates of cryptocurrencies and percentage change in 24 </li>
-  <li>User can detect language type of his data in .txt format files</li>
-  <li>It is mini version of language detector on your local machine</li>
-</ul>
+  <li>User can fetch latest rates of cryptocurrencies</li>
+  <li>User can fetch percenatge of change in value of currency in last 24 hours</li>
+  <li>User can get time when values are updated most recently</li>
+  </ul>
+
+  <li>This program can be used for developing portfolio of crypto-currency investors where one can get minimal but most recent and important values and data related to specific crypto-currencies.</li>
 
 ## 🔹Requirements
 <ul>
   <li>requests</li>
+  to fetch data from url
 </ul>
   
-    
-
+  
 ### Example API Request: 
 ### 'https://cryptantapi.root.sx/getPrice/Bitcoin'
 
@@ -40,7 +42,7 @@
 # Workflow of the Program
 
 1. Enter number of requests
-2. Enter currency name
+2. Enter currency name as many times as you have requested.
 5. Obtain the Output
 
 <br> 
