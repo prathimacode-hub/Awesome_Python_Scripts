@@ -26,8 +26,8 @@ Firstly install tkinter library and then run the script so the gui application w
 
 ## Output
 
-![image](output_1(loan).png)
-![image](output_2(loan).png)
+![image](Images/output_1(loan).png)
+![image](Images/output_2(loan).png)
 
 
 ## Author(s)
