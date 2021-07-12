@@ -19,4 +19,30 @@ It takes 3 parameters as input:
 4. Run the code and start taking input as Row and Column.`<br>`
 5. Have fun!!
 
+### Output Screenshots
+
+**Excel to Pdf**
+![excel_to_pdf](Images/excel_to_pdf.png)
+
+**Jpg to Pdf**
+![jpg_to_pdf](Images/jpg_to_pdf.png)
+
+**Jpg to Png**
+![jpg_to_png](Images/jpg_to_png.png)
+
+**Jpg to Pdf**
+![jpg_to_pdf](Images/jpg_to_pdf.png)
+
+**Pdf to Jpg**
+![pdf_to_jpg](Images/pdf_to_jpg.png)
+
+**Pdf to Png**
+![pdf_to_png](Images/pdf_to_png.png)
+
+**Pdf to Pptx**
+![pdf_to_pptx](Images/pdf_to_pptx.png)
+
+**Ppt to Pdf**
+![ppt_to_pdf](Images/ppt_to_pdf.png)
+
 [Damarla Venkata Sai Chandana](https://github.com/chandu6111)
