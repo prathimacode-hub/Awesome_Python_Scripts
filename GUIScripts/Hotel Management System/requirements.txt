@@ -1,0 +1,7 @@
+1. Import Tkinter
+2. Import Pickle
+3. Import sys
+4. Import os
+
+
+[ NOTE : If Not downloaded while installing python go to pypi.org to download the required files]
