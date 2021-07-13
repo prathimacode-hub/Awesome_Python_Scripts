@@ -2,7 +2,7 @@
 - #### A "Resume Generator" is a Resume generating application created in python with tkinter gui.
 - #### In this application, user can easily generate his/her resume by just filling the basic details asked.
 - #### The basic details includes Name, Email ID, Education, Skills, Experience, Projects, Certificates and Awards, Links, and Hobbies and Interests.
-- #### By entering this details, user can generate hsi/her Resume, and also the Resume will be saved successfully as PDF.
+- #### By entering this details, user can generate his/her Resume, and also the Resume will be saved successfully as PDF.
 
 ****
 
