@@ -2,49 +2,82 @@
 
 ## Aim
 
-The main aim of the project you want to achieve.
+The main aim of the project to create a game using pygame module.
 
 ## Purpose
 
-What's the purpose of this project
+The purpose of this project is to create a pygame for fun also increases the concentration 
 
 ## Short description of package/script
 
-- If package, list of functionalities/scripts it can perform
+
 - If standalone script, short description of script explaining what it achieves.
+
+There are four colored buttons on the screen. The buttons light up in a certain random pattern, and then the player must repeat this pattern by pressing the buttons in the correct order. Each time the player successfully simulates the pattern, the pattern gets longer. The player tries to match the pattern for as long as possible.
+
+
 - List out the libraries imported.
+
+  - pygame
+  - random
+  - sys
+  - time
 
 
 ## Workflow of the Project
 
-Add the workflow of the project point by point to get good understanding of the program
+- Importing the required modules
+- Setting Up the Buttons for game
+- The main() Function to execute all the functions in the program.
+- Declaring Some Local Variables Used in This Program
+- Drawing the Board and Handling Input for output window
+- Checking for Mouse Clicks
+- Checking for Keyboard Presses
+- The Two States of the Game Loop
+- Figuring Out if the Player Pressed the Right Buttons
+- Calculating the Epoch Time
+- Drawing the Board to the Screen
+- Same Old terminate() Function
+- Reusing The Constant Variables
+- Animating the Button Flash
+- Drawing the Buttons
+- Animating the Background Change
+- The Game Over Animation
+- Converting from Pixel Coordinates to Buttons
 
 
 ## Setup instructions
 
-Explain how to setup and run your package/script in user's system
+Install the python 2.8 or above
 
-
-## Detailed explanation of script, if needed
-
-If code is not explainable using comments, use this sections to explain your script
+Install the pygame module using `pip install pygame`
 
 
 ## Compilation Steps
 
-Briefly show the compilation steps of the project
+Download the python code named `simulate_color_game.py`
+
+Download the music for background.
+
+Extract the files and keep both in same folder.
+
+Run the code by double clicking them.
+
+Enjoy the Game..
 
 
 ## Output
 
-Display images/gifs/videos of output/result of your script so that users can visualize it
+![](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/PyGamesScripts/Simulate%20Color%20Game/Images/Image-1.png)
+
+![](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/PyGamesScripts/Simulate%20Color%20Game/Images/Image-2.png)
 
 
 ## Author(s)
 
-Name(s) of author(s)
+Rammya Dharshini K
 
 
 ## Disclaimers, if any
 
-Use this section to mention if any particular disclaimer is required
+None
