@@ -14,7 +14,7 @@
 
 
 from IPython.display import Image
-Image(filename='2.png') 
+Image(filename='../Images/2.png') 
 
 
 # ### After pressing submit button user will get notified whether response is saved successfully or not
@@ -23,7 +23,7 @@ Image(filename='2.png')
 
 
 from IPython.display import Image
-Image(filename='msgbox.png') 
+Image(filename='../Images/msgbox.png') 
 
 
 # ### After submit button is pressed the form is reset for next response submission
@@ -32,7 +32,7 @@ Image(filename='msgbox.png')
 
 
 from IPython.display import Image
-Image(filename='1.png') 
+Image(filename='./Images/1.png') 
 
 
 # ### The data entered in form is stored in Database in theja.db file
@@ -41,7 +41,7 @@ Image(filename='1.png')
 
 
 from IPython.display import Image
-Image(filename='sql.png') 
+Image(filename='../Images/sql.png') 
 
 
 # In[1]:
