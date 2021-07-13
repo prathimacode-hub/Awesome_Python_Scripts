@@ -1,0 +1,7 @@
+1. import pygame 
+
+    if not installed  -  pip install pygame
+   
+2. import sys
+
+3. impotrt random
