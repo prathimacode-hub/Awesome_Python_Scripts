@@ -1,0 +1,7 @@
+1. PyQt5
+  
+   -- pip install pyqt5 
+   
+2. Sys
+
+[ Note : For Reference Look into pypi.org ]
