@@ -1,50 +1,71 @@
-# Sliding Puzzle Game
+# Sliding Game - Puzzle
 
 ## Aim
 
-The main aim of the project you want to achieve.
+The main aim of the project is to create a sliding tile game. In this game, the player has to select which he/she wants to play or solve .
 
 ## Purpose
 
-What's the purpose of this project
+The purpose of the projectis to create a game where it will be fun and knowledge-based game.
 
 ## Short description of package/script
 
-- If package, list of functionalities/scripts it can perform
-- If standalone script, short description of script explaining what it achieves.
-- List out the libraries imported.
 
+- If standalone script, short description of script explaining what it achieves.
+
+    Sliding tiles game also known as sliding puzzle or sliding blocks game. In this game, the player has to arrange the tiles or blocks in the correct order.
+    
+- List out the libraries imported.
+  
+  - Pygame
+  - Sys
+  - Random
 
 ## Workflow of the Project
 
-Add the workflow of the project point by point to get good understanding of the program
+- Importing required modules
+- Initializing and creating game window
+- Creating class for main concept of game
+- Defining function
+- Set up buttons and animation for the tiles.
+- Mainloop to execute.
 
 
 ## Setup instructions
 
-Explain how to setup and run your package/script in user's system
+Install python software 3 or above.
 
+Install pygame.
 
-## Detailed explanation of script, if needed
+Now python environment is ready to use.
 
-If code is not explainable using comments, use this sections to explain your script
 
 
 ## Compilation Steps
 
-Briefly show the compilation steps of the project
+Download the sliding_game.py
+
+Make sure the prerequisited are already done.
+
+Extract the folder and
+
+Run the code by double click.
+
+Enjoy the game...
 
 
 ## Output
 
-Display images/gifs/videos of output/result of your script so that users can visualize it
+![](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/PyGamesScripts/Sliding%20Game/Images/Image-1.png)
+
+![](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/PyGamesScripts/Sliding%20Game/Images/Image-2.png)
 
 
 ## Author(s)
 
-Name(s) of author(s)
+Rammya Dharshini K
 
 
 ## Disclaimers, if any
 
-Use this section to mention if any particular disclaimer is required
+None
