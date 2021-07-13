@@ -49,8 +49,8 @@ Open the .ipynb notebook using jupyter.
 
 ## Output
 
-![](https://github.com/thejaswin123/Awesome_Python_Scripts/blob/main/GUIScripts/Registration%20Form/Enhanced/1.png)
-
+![](https://github.com/thejaswin123/Awesome_Python_Scripts/blob/main/GUIScripts/Registration%20Form/Enhanced/Images/1.png)
+![](https://github.com/thejaswin123/Awesome_Python_Scripts/blob/main/GUIScripts/Registration%20Form/Enhanced/Images/sql.png)
 
 ## Author(s)
 
