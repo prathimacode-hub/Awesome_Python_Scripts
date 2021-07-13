@@ -1,10 +1,15 @@
 # Package/Script Name
 ### **MEMORY_PUZZLE_GAME**
+
+## Aim
+
+<p>To create a memory game.</p> </br>
+
 ## Short description of package/script
 
 <p>The program runs a memory game that allows you to turn over cards by clicking the mouse.</p> </br>
 
-# Setup
+# Setup instructions
 Copy the project to your local enviroment and that's all this code can be run on any python IDE.
 
 ## Detailed explanation of script, if needed
@@ -30,3 +35,6 @@ Copy the project to your local enviroment and that's all this code can be run on
 
 ## Author(s)
 ##### HitainKakkar
+
+## Disclaimers, if any
+NO
