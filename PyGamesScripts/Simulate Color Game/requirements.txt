@@ -1,0 +1,9 @@
+1. import pygame
+
+  - pip install pygame
+  
+2. import sys
+
+3. import random
+
+4. import time.
