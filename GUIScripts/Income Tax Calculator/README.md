@@ -1,5 +1,5 @@
 
-<img src="https://github.com/baljeet-singh97/Awesome_Python_Scripts/blob/55f9def6adf86dc5ceb4f5a2502cf73d82eb5d0a/GUIScripts/IncomeTaxCal/images/Screenshot%20(836).png" alt="Hello world">
+<img src="https://github.com/baljeet-singh97/Awesome_Python_Scripts/blob/d0ae10f111971602331effc82239ca2f5edc92ca/GUIScripts/Income%20Tax%20Calculator/images/Screenshot%20(836).png" alt="Hello world">
 
 
 
