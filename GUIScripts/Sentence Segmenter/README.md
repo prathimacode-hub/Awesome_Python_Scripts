@@ -1,6 +1,6 @@
 # ✔ SENTENCE SEGMENTER
 - #### A "Sentence Segmenter" is an application created in python with tkinter gui.
-- #### In this application, user will be able segment any paragrah or text.
+- #### In this application, user will be able segment any paragraph or text.
 - #### We need this application because paragraph and huge text are sometimes very tough to read and understand.
 - #### So using Sentence Segmentation, we split a given paragraph of text into sentences, by identifying the sentence boundaries.
 - #### for implementing this regex, that automatically detect which should be the correct sentence boundary and splits the sentence from there.
