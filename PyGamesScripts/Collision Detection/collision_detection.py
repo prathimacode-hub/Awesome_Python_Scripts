@@ -1,3 +1,11 @@
+#################################### Main Script ###############################
+# File Name: collision_detection.py
+# Date: 14-july-2021
+# Author: Victor Swaroop ( @GVictorsd )
+#
+# This Script contains the main code for the project
+#
+#################################################################################
 
 import turtle
 from myMethods import *
