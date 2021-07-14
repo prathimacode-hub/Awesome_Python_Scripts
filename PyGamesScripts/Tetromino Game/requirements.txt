@@ -1,0 +1,11 @@
+1. Import pygame 
+
+   - pip install pygame
+
+2. Import random
+
+3. Import time 
+
+4. Import sys
+
+[ Note : For Further information go to PyPi.org ]
