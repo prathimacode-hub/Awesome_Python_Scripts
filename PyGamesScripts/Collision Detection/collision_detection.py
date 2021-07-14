@@ -8,7 +8,7 @@
 #################################################################################
 
 import turtle
-from myMethods import *
+from Related.myMethods import *
 
 # initialize necessary objects
 box = Box([-200, 200, -200, 200])
