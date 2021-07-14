@@ -8,6 +8,11 @@ the parameters used here are not correct just on internet search basis just pull
 the code and update the creteria of tax and use it anyone can contribute this to upgrade 
 it or if willingly to make changes just fork it make changes and pull req.
 
+PURPOSE:
+here the default values are used, user can change the values accouding to the current govt. tax deduction creteria.
+people can use this app to calculate there tax amount to be paid.
+simple and easy to use.
+
 2. used tkinter for gui.
 3. Create the main window (container)
 4. Add any number of widgets to the main window
