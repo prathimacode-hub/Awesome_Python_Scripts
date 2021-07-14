@@ -1,4 +1,4 @@
-![Screenshot (836)](https://user-images.githubusercontent.com/56436152/125627406-f051bf0e-3802-477f-9e4c-182baeea574e.png)
+GUIScripts/IncomeTaxCal/Images/Screenshot (836).png
 
 
 #income-Tax-Calculator
