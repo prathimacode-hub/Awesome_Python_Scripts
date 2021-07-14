@@ -32,6 +32,16 @@ The Python Standard Library includes a module called "sqlite3" intended for work
 `Tkinter`
 `Sqlite3`
 
+## Workflow of the Project
+
+- Install the required modules.
+- Setup window for GUI appliction using tkinter window.
+- Creating Function to create the database so all details can be stored and maintained.
+- Creating Function to create submit the data, when submit button is pressed it will save the data in database
+- Creating Function to Display the details
+- Setting up the frames, labels, entry and buttons for the application.
+- Creating function for clearing the data once submit button is pressed.
+- Mainloop is initialized to run above all the code.
 
 ## Setup instructions
 
