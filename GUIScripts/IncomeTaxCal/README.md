@@ -1,4 +1,4 @@
-#incode-Tax-Calculator
+#income-Tax-Calculator
 
 here is basic GUI based income tax calculator written in python language all 
 the parameters used here are not correct just on internet search basis just pull 
