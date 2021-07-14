@@ -1,7 +1,6 @@
 
 <img src=https://github.com/baljeet-singh97/Awesome_Python_Scripts/blob/main/GUIScripts/IncomeTaxCal/Images/Screenshot%20(836).png" alt="Hello world">
 
-GUIScripts/IncomeTaxCal/Images/Screenshot (836).png
 
 
 #income-Tax-Calculator
