@@ -1,8 +1,8 @@
 # ✔ AADHAAR CARD GENERATION APPLICATION
 - #### A "Aadhaar Card Generation Application" is an application created in python with tkinter gui.
-- #### In this application, user generate a simple aahaar card by filling the enrollment form.
+- #### In this application, user generate a simple aadhaar card by filling the enrollment form.
 - #### Here user will be asked the details about Name, Age, D.O.B., gender, Mobile No., Address and also ask to upload the profile picture.
-- #### And after entering this details,user will be able to generate his/her aadhaar card, along withh random aadhaar card number.
+- #### And after entering this details, user will be able to generate his/her aadhaar card, along with random aadhaar card number.
 - #### User will also be able to see what is aadhaar and why it is required.
 
 ****
