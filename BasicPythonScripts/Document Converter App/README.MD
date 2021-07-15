@@ -22,27 +22,56 @@ It takes 3 parameters as input:
 ### Output Screenshots
 
 **Excel to Pdf**
+
+- [Code for conversion](excel_to_pdf.py)
+
 ![excel_to_pdf](Images/excel_to_pdf.png)
 
 **Jpg to Pdf**
+
+- [Code for conversion](jpg_to_pdf.py)
+
 ![jpg_to_pdf](Images/jpg_to_pdf.png)
 
 **Jpg to Png**
+
+- [Code for conversion](jpg_to_png.py)
+
 ![jpg_to_png](Images/jpg_to_png.png)
 
-**Jpg to Pdf**
-![jpg_to_pdf](Images/jpg_to_pdf.png)
-
 **Pdf to Jpg**
+
+- [Code for conversion](pdf_to_jpg.py)
+
 ![pdf_to_jpg](Images/pdf_to_jpg.png)
 
 **Pdf to Png**
+
+- [Code for conversion](pdf_to_png.py)
+
 ![pdf_to_png](Images/pdf_to_png.png)
 
 **Pdf to Pptx**
+
+Execute the following command in the terminal:
+
+```
+pdf2pptx pdf_path.pdf
+```
+- (Replace pdf_path by your file path)
+ 
+ 
 ![pdf_to_pptx](Images/pdf_to_pptx.png)
 
 **Ppt to Pdf**
+
+Execute the following command in the terminal:
+
+```
+ppt2pdf file ppt_path.pptx
+```
+- (Replace ppt_path by your file-path)
+
 ![ppt_to_pdf](Images/ppt_to_pdf.png)
 
 ### Author
