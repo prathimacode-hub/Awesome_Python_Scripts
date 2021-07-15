@@ -1,0 +1,9 @@
+Project Info:
+This project calculates your ideal weight that a person should have at a given height
+This is calculated using 3 formulae:
+   >Peterson
+   >Miller  (Different calculation for male and female)
+   >Robinson  (Different calculation for male and female)
+
+Modules Required:
+Tkinter
