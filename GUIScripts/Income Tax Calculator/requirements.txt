@@ -1,0 +1,3 @@
+1. need to be installed any python compiler , prferred use jupyter
+
+2. Importing the module – tkinter
