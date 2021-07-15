@@ -42,7 +42,7 @@ just run the script by clicking on run button.
 
 ## Output
 
-<img src="https://github.com/baljeet-singh97/Awesome_Python_Scripts/blob/d0ae10f111971602331effc82239ca2f5edc92ca/GUIScripts/Income%20Tax%20Calculator/images/Screenshot%20(836).png" alt="Hello world">
+<img src="https://github.com/baljeet-singh97/Awesome_Python_Scripts/blob/d0ae10f111971602331effc82239ca2f5edc92ca/GUIScripts/Income%20Tax%20Calculator/Images/Screenshot%20(836).png" alt="Hello world">
 
 ## Author(s)
 
