@@ -1,0 +1,7 @@
+Import the following modules.
+
+1. random 
+2. sys 
+3. copy 
+4. os
+5. pygame
