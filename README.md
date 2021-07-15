@@ -34,7 +34,7 @@ The main aim is to provide an efficient and beginner-friendly project that would
 
 Anyone related to technology who is looking to contribute to open-source is all invited to hop in. This place has a task for everyone.
 
-**| BasicPythonScripts | WebScrapingScripts | APIScripts | GUIScripts | AutomationScripts | PyGamesScripts | ImageProcessingScripts |**
+**| BasicPythonScripts | WebScrapingScripts | APIScripts | GUIScripts | AutomationScripts | PyGamesScripts | ImageProcessingScripts | EthicalHackingScripts |**
 
 
 **BasicPythonScripts** - This repository would have basic python scripts which are useful to get started with programming before you dive into real time projects.
@@ -50,6 +50,8 @@ Anyone related to technology who is looking to contribute to open-source is all 
 **PyGamesScripts** - This repository would have all the wide range of games scripts that can programmed and developed using python.
  
 **ImageProcessingScripts** - This repository would indulge with all image processing scripts that would help in beautifying and transforming the images.
+
+**EthicalHackingScripts** - This repository would include all the python based scripts which can be used as Ethical Hacking Tools.
 
 When raising an issue, do make sure to mention the kind of script, project title, short description of the project and how would you expect it to work. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
 
