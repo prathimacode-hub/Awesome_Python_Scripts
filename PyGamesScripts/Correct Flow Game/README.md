@@ -2,7 +2,7 @@
 - #### A Correct Flow Game created in python with tkinter gui.
 - #### In this script, the user gets 10 question one by one and he/she needs to enter the correct pattern or flow for the each question, and can see the final score at the last.
 - #### Along with final score user will also be shown the correct and the wrong answer count.
-- #### for dataser used data.json file and loaded the data using json library.
+- #### for dataset used data.json file and loaded the data using json library.
 
 ****
 
