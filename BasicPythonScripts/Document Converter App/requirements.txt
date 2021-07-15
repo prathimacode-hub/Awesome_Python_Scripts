@@ -1,0 +1,20 @@
+### Install Python3
+Install Python 3.x (recommended) from <a href="https://www.python.org/downloads/">here</a>
+
+### Install win32com
+pip install pywin32
+
+### Install PILLOW
+pip install Pillow
+
+### Install pdf2docx
+pip install pdf2docx
+
+### Install pdf2pptx
+pip install pdf2pptx
+
+### Install ppt2pdf
+pip install ppt2pdf
+
+### Install pdf2image
+pip install pdf2image
