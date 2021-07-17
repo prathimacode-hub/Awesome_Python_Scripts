@@ -14,6 +14,6 @@ Running the script is pretty easy, open a terminal in the folder where your scri
 
 # Sample use of the script
 
-![alt text](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/email_address_slicer/screenshot_1.png)
+![alt text](https://github.com/Mannuel25/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Email%20Address%20Slicer/screenshot_1.png)
 
-![alt text](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/email_address_slicer/screenshot_2.png)
+![alt text](https://github.com/Mannuel25/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Email%20Address%20Slicer/screenshot_2.png)
