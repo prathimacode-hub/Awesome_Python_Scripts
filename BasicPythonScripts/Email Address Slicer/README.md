@@ -17,3 +17,7 @@ Running the script is pretty easy, open a terminal in the folder where your scri
 ![alt text](https://github.com/Mannuel25/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Email%20Address%20Slicer/screenshot_1.png)
 
 ![alt text](https://github.com/Mannuel25/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Email%20Address%20Slicer/screenshot_2.png)
+
+# Author's name
+
+[Tanimowo Emmanuel](https://github.com/Mannuel25)
