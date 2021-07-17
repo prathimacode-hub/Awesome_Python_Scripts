@@ -20,8 +20,12 @@ Running the script is pretty easy, open a terminal in the folder where your scri
 
 # Sample use of the script
 
-![alt text](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/password_validator/screenshot_1.png)
+![alt text](https://github.com/Mannuel25/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Password%20Validator/screenshot_1.png)
 
-![alt text](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/password_validator/screenshot_2.png)
+![alt text](https://github.com/Mannuel25/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Password%20Validator/screenshot_2.png)
 
-![alt text](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/password_validator/screenshot_3.png)
+![alt text](https://github.com/Mannuel25/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Password%20Validator/screenshot_3.png)
+
+# Author's name
+
+[Tanimowo Emmanuel](https://github.com/Mannuel25)
