@@ -1,4 +1,4 @@
-# Display username and domain anme of an email address
+# Display username and domain name of an email address
 
 This program accepts an email address, and displays both the username and domain name.
 
