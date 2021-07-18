@@ -33,11 +33,11 @@ print(title.text)
 
 # **Using ```find``` method**
 
-soup.find('h1').text.strip()
+print(soup.find('h1').text.strip())
 
 # **Using ```CSS-Selectors```**
 
-soup.select_one('.col-md-8 > h1').text.strip()
+print(soup.select_one('.col-md-8 > h1').text.strip())
 
 # There are many different methods to scrape the same element from the websites like:
 #  - Using Find Method
@@ -51,7 +51,7 @@ soup.select_one('.col-md-8 > h1').text.strip()
 
 # **The very first quote lies in the class named "text"**
 
-soup.find(class_ = "text").text.strip()
+print(soup.find(class_ = "text").text.strip())
 
 quotes = soup.find_all(class_ = 'text')
 quotes
@@ -80,7 +80,7 @@ for author in authors:
 
 # ### **Now let's try to extract the data from multiple pages**
 
-soup.select_one(".next > a")
+print(soup.select_one(".next > a"))
 
 # **We can clearly see that each page contains a ```Next``` button which contains the class called next which fuurther contains the link of next page**
 
@@ -133,7 +133,6 @@ records['Tags'] = tags_lst
 import pandas as pd
 df = pd.DataFrame(records) # Converting that dictionary into dataframe
 
-df.head()
+print(df.head(10))
 
-df.to_csv('Quotes.csv', index=False) # Getting the data in the form of CSV file
-
+#df.to_csv('Quotes.csv', index=False) # Getting the data in the form of CSV file
