@@ -115,56 +115,6 @@ start1.place(x=120, y=10)
 startb = Button(window, text="START", command=start_fun, font=("Arial", 25), bg="light green", fg="blue", borderwidth=3, relief="raised")
 startb.place(x=120, y=580)
 
-# # for preview
-# preview_text = tk.Text(window,height = 15, width = 60, font=("Arial", 15),bg = "white", borderwidth=3, relief="solid")
-# preview_text.place(x = 150, y = 110)
-#
-# # creating the drop down menu button for selectng hour
-# first_var = tk.StringVar()
-# # as icon size are really small, we defined the following 7 sizes
-# first_choices = ["GMT", "UTC", "ECT", "EET", "ART", "EAT", "MET", "NET", "PLT", "IST", "BST", "VST", "CTT", "JST", "ACT", "AET","SST", "NST", "MIT", "HST", "AST", "PST", "PNT", "MST", "CST", "EST", "IET", "PRT", "CNT", "AGT", "BET", "CAT"]
-# first_choices.sort()
-# first_menu = OptionMenu(window, first_var, *first_choices)
-# first_menu.config(font=("Arial", 20), bg = "light green", fg = "blue", borderwidth=3)
-# first_menu["menu"].config(font=("Arial", 10), bg = "light yellow", fg = "blue")
-# first_menu.place(x=500, y=500)
-# first_var.set("GMT") # size 1 is selected as by default, and we can
-#
-# # preview1 label
-# top1 = Label(window, text = "PREVIEW AREA", font=("Arial", 40), fg="black", bg = "white") # same way bg
-# top1.place(x = 270, y = 180)
-#
-# # preview2 label
-# top2 = Label(window, text = "Chosen Color will be previed here...", font=("Arial", 25), fg="black", bg = "white") # same way bg
-# top2.place(x = 220, y = 280)
-#
-# # label for color name ---------------------------------------------------------------------------------
-# sel_label = tk.Label(text="COLOR NAME : ", font=("Arial", 35), fg="brown")  # same way bg
-# sel_label.place(x=180, y=490)
-#
-# # creating the drop down menu button for selecting color name
-# name_var = tk.StringVar()
-# name_choices = name_sort
-# name_menu = OptionMenu(window, name_var, *name_choices)
-# name_menu.config(font=("Arial", 25), bg="light green", fg="blue", borderwidth=3)
-# name_menu["menu"].config(font=("Arial", 10), bg="light yellow", fg="blue")
-# name_menu.place(x=540, y=490)
-# name_var.set("antiquewhite")  # size 1 is selected as by default, and we can
-#
-# # get button created
-# getb = Button(window, text="GET HEX CODE", command=code_details, font=("Arial", 20), bg="light green", fg="blue", borderwidth=3, relief="raised")
-# getb.place(x=100, y=600)
-#
-# # function for reseting
-# def reset_label():
-#     name_var.set("antiquewhite")
-#     preview_text.configure(bg="white")
-#
-#
-# # created reset button
-# resetb = Button(window, text="RESET", command=reset_label, font=("Arial", 20), bg="light green", fg="blue", borderwidth=3, relief="raised")
-# resetb.place(x=500, y=600)
-
 # function for exiting
 def exit_win():
     if mbox.askokcancel("Exit", "Do you want to exit?"):
