@@ -21,7 +21,7 @@ To install the package on windows, run the command below in the cmd
 
 ## Output
 
-![image](Images/test.PNG)
+![image](E:\github\Awesome_Python_Scripts\BasicPythonScripts\Image Steganography\Images\test.PNG)
 
 ## Author(s)
 Dilrose Reji
