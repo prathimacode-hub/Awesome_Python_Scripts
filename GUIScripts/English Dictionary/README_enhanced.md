@@ -1,22 +1,58 @@
-# English Dictionary
+# ✔ ENGLISH DICTIONARY
+- #### A "English Dictionary" created in python with tkinter gui.
+- #### Used data.json file and used those data importing json library.
+- #### Also modified the code for the case of interface (word having multiple meaning), if word is title or noun,  and also developed the closest word matching technique in case of any typo.
+- #### Also implemented the autocomlete feature while entering search word.
+- #### Also added text to speech feature in both input enter and output text.
 
-### Changes Done :
+****
+
+# REQUIREMENTS :
+- #### python 3
+- #### tkinter module
+- #### from tkinter messagebox module
+- #### json
+- #### difflib.get_close_matches
+- #### pandas
+- #### io 
+- #### pyttsx3 
+
+# Changes Done :
 
 1. Changed the gui of the dictionary window.
 2. Added clear and exit button also.
 3. Added data (words.csv) - that contains the list of english words.
 4. Using this words.csv data, implemented the auto complete feature, i.e. as we enter any letter in the entry section, we get suggestion of words in dropdown list whose prefix matches with our entered word. 
-5. Also while exiting the dicctionary, we get a exit dialog box asking us the permission. 
+5. Also while exiting the dictionary, we get a exit dialog box asking us the permission.
+6. Added text to speech feature for both input and output area.
 
-### Output :
-![1](https://user-images.githubusercontent.com/57003737/122014586-edbcba80-cddc-11eb-9fa0-4cf65443a11e.png)
-![2](https://user-images.githubusercontent.com/57003737/122014607-f1e8d800-cddc-11eb-902c-2d8e2b51252d.png)
-![3](https://user-images.githubusercontent.com/57003737/122014617-f4e3c880-cddc-11eb-913a-aa484da6d62c.png)
-![4](https://user-images.githubusercontent.com/57003737/122014624-f7deb900-cddc-11eb-9a9d-a66202bc1a97.png)
-![5](https://user-images.githubusercontent.com/57003737/122014633-f9a87c80-cddc-11eb-9e2b-7de98f902457.png)
-![6](https://user-images.githubusercontent.com/57003737/122014638-fc0ad680-cddc-11eb-9985-f98b4e6b2f65.png)
-![7](https://user-images.githubusercontent.com/57003737/122014643-fdd49a00-cddc-11eb-8812-c30c4fed4e7b.png)
-![8](https://user-images.githubusercontent.com/57003737/122014652-0036f400-cddd-11eb-9b45-7c7577f5251c.png)
 
-### Author :
-Akash Ramanand Rajak
+# Purpose :
+- #### This scripts helps us to easily get the meaning of any word be entering text in search area and searching it. Also can get the speech of text and meaning of it.
+
+# Compilation Steps :
+- #### Install tkinter, json, difflib, pandas, io, pyttsx3
+- #### After that download the code file, and run english_dictionary.py on local system.
+- #### Then the script will start running and user can explore it by entering any text and searching it.
+
+
+# SCREENSHOTS :
+
+****
+
+<p align="center">
+  <img width = 1000 src="Images/1.jpg" /><br>
+  <img width = 1000 src="Images/2.jpg" /><br>
+  <img width = 1000 src="Images/3.jpg" /><br>
+  <img width = 1000 src="Images/4.jpg" /><br>
+  <img width = 1000 src="Images/5.jpg" /><br>
+  <img width = 1000 src="Images/6.jpg" /><br>
+  <img width = 1000 src="Images/7.jpg" /><br>
+  <img width = 1000 src="Images/8.jpg" /><br>
+</p>
+
+****
+
+# Name :
+- ### Akash Ramanand Rajak
+
