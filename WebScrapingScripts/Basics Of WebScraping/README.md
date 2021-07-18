@@ -1,4 +1,7 @@
-In this tutorial, I have discussed the basic concepts of web scraping using the [quotes.toscrape.com](https://quotes.toscrape.com/page/1/) website, which is just made to practice the concepts of web scrapping only.
+In this tutorial, I have discussed the basic concepts of web scraping using the [quotes.toscrape.com](https://quotes.toscrape.com/page/1/) website, which is just made to practice the concepts of web scrapping only.<br>
+The Notebook contains detailed description of each and every step I used which will be helpful to understand the concepts. :)  
+
+Happy Learning !!!!
 
 ### **Short Description**
  In this project, I scraped the quotes of different authors from the website and also the tags related to the respective quote, later I stored all the data in CSV file which can be used easily for further analysis.
