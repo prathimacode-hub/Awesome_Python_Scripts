@@ -13,4 +13,4 @@ In this tutorial, I have discussed the basic concepts of web scraping using the 
  - BeautifulSoup(from bs4)
 
 ### **Author**
- - Gaurav Kumar (Github:- [@gaurav1401](https://github.com/Gaurav1401))
+ - Gaurav Kumar 
