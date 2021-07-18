@@ -2,13 +2,17 @@ import json
 import re
 import requests
 import spotipy
-from spotipy.oauth2 import SpotifyClientCredentials
-from bs4 import BeautifulSoup
+from spotipy.oauth2 import SpotifyClientCredentials #To access contents of spotify desktop website
+from bs4 import BeautifulSoup #Used for scraping web page
 
-spotify_client_id = None
+'''Credentials initially set to None
+   Later on we access these spotify credentials through API_Credentials.json file'''
+spotify_client_id = None 
 spotify_client_secret = None
 genius_client_secret = None
 
+'''Class to scrape lyrics by calling google_lyrics function and store values like
+   title, artist, lyrics, source, query for each song'''
 class GetLyrics:
 	def __init__(self):
 		self.title = None
@@ -61,14 +65,15 @@ class GetLyrics:
 def get_lyrics(full_title):
 	'''This function will call class and its function to get lyrics'''
 	query_title = str(full_title)  
-	query_title = re.sub(r'[^\w]', ' ', query_title)
-	query_title = re.sub(' +', ' ', query_title)
+	query_title = re.sub(r'[^\w]', ' ', query_title) #Removes every character except alphabets and digits
+	query_title = re.sub(' +', ' ', query_title) #Removes extra spaces between words
 
 	ly = GetLyrics()
 	try:
 		ly.google_lyrics(query_title)
 	except:
 		print("Not found")
+	'''Store lyrics of each song along with its source'''	
 	lyrics = f"{ly.lyrics} Lyrics provided by {ly.source}"
 	return lyrics
 
@@ -79,11 +84,13 @@ def get_song_info(url,sp):
 	print(" \nGetting all tracks from the Spotify playlist. ")
 	playlist_items = None
 	playlist_items = sp.playlist_items(url)
+	'''Check whether playlist is empty or not'''
 	if playlist_items["total"] == 0:
 		print(" [x] Spotify playlist was empty. Press any key to exit. \n ")
 		input()
 		exit()
 	else:
+		'''Extracting all the songs names from the playlist'''
 		tracks = playlist_items['items']
 		while playlist_items['next']:
 			playlist_items = sp.next(playlist_items)
@@ -134,9 +141,10 @@ if choice=='1':
 	'''Sample Url for testing:
 	url=https://open.spotify.com/playlist/0PEfws53dtiXkUEvfR2Z2A'''
 	url = input(" Enter Spotify Playlist URL: ")
-	songs=get_song_info(url,sp)
+	songs=get_song_info(url,sp) #to get all songs names from the playlist 
 	c = 0
 	t = len(songs)
+	'''Iterate over each song to find its lyrics'''
 	for song in songs:
 		c += 1
 		print(f"\nGetting lyrics for '{song}' [{c} of {t} songs]")
