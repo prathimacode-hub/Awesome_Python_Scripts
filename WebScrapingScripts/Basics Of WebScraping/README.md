@@ -12,7 +12,7 @@ To help a beginner in understanding the steps followed to scrape data from a web
  - BeautifulSoup(from bs4)
 
 ## Setup instructions
- ```pip install BeautifulSoup```
+ ```pip install BeautifulSoup```<br>
  ```pip install requests```
  These installations are required to start with Web Scraping
 
