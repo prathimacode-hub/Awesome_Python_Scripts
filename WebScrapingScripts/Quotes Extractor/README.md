@@ -29,7 +29,7 @@ A step by step guide to understand Web Scrpaing by extracting the quotes of many
 In order to run this program, make sure that you have all the required libraries installed, use the following commands for installation:<br>
  - ```pip install pandas```<br>
  - ```pip install beautifulsoup4```
- - ```pip install requests```
+ - ```pip install requests```<br>
 Also you should be having a browser, where you can inspect the website by ```Right Click -> Inspect```
 
 ## **Output**
