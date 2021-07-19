@@ -1,0 +1,8 @@
+1) Install pytube (Python library for downloading YouTube videos)
+Run the following command in the terminal:
+
+pip install pytube
+
+2) Install tkinter (Python library for GUI applications)
+Installing Tkinter on Windows is as simple as installing Python 3.x 
+since Tkinter is included in the Python 3 core. 
