@@ -1,14 +1,14 @@
-# Quotes Extractor
+# **Quotes Extractor**
 
-## Aim
+## **Aim**
 
 Extracting famous quotes of different personalities.
 
-## Purpose
+## **Purpose**
 
 A step by step guide to understand Web Scrpaing by extracting the quotes of many famous personalities available at [quotes.toscrape.com](https://quotes.toscrape.com/) and storing that data into the CSV file which can be later used for further Analysis.
 
-## Short description of package/script
+## **Short description of package/script**
 
 - Libraries used in this project are:<br>
     ```pandas```: To Store the data in DataFrame and later converting it to CSV file.<br>
@@ -16,7 +16,7 @@ A step by step guide to understand Web Scrpaing by extracting the quotes of many
     ```requests```: To send and get request from the website in order to scrape its data.
 
 
-## Workflow of the Project
+## **Workflow of the Project**
 
  - Importing relevant Libraries.
  - Extracting different basic elements and their texts from the website like title, author names and some quotes.
@@ -24,7 +24,7 @@ A step by step guide to understand Web Scrpaing by extracting the quotes of many
  - Creating a dataframe from the extracted data.
  - Storing the data in a CSV file.
 
-## Setup instructions
+## **Setup instructions**
 
 In order to run this program, make sure that you have all the required libraries installed, use the following commands for installation:<br>
  - ```pip install pandas```<br>
@@ -32,17 +32,17 @@ In order to run this program, make sure that you have all the required libraries
  - ```pip install requests```
 Also you should be having a browser, where you can inspect the website by ```Right Click -> Inspect```
 
-## Output
+## **Output**
 
-#### Authors:
+#### **Authors:**
 ![Authors](Images/Authors.png)
 
-#### Quotes:
+#### **Quotes:**
 ![Quotes](Images/Quotes.png)
 
-#### DataFrame:
+#### **DataFrame:**
 ![Dataframe](Images/DataFrame.png)
 
-## Author(s)
+## **Author(s)**
 
 Gaurav Kumar
