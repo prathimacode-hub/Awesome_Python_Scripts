@@ -31,7 +31,7 @@ In order to run this program, make sure that you have all the required libraries
  - ```pip install beautifulsoup4```
  - ```pip install requests```<br>
 
-Also you should be having a browser, where you can inspect the website by ```Right Click -> Inspect```
+Also you should be having a browser like Mozilla Firefox, where you can inspect the website by ```Right Click -> Inspect```
 
 ## **Output**
 
