@@ -1,5 +1,11 @@
 # Password Validator
 
+# Purpose
+
+To verify each password entered by user
+
+# Short description of script
+
 This program validates passwords to match specific rules. A valid password is one that conforms to the following rules:
 - Minimum length is 6;
 - Maximum length is 12;
@@ -8,13 +14,19 @@ This program validates passwords to match specific rules. A valid password is on
 - Contains at least a special character (such as @,+,£,$,%,*^,etc);
 - Doesn't contain space(s).
 
-# Prerequisites
+The libary used in this program is string. The string module contains a number of functions to process standard Python strings:
+- string.ascii_letters is used to verify that either an uppercase or lowercase letter is present in the user's password 
+- string.digits is used to verify that at least a number is present in the user's password
+- string.punctuation is used to verify that punctuation(s) is presnt in the user's password
 
-It requires no prerequisites, you only need to run the script. If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python.
+# Workflow of program
 
-# How to run the script
++ The user is asked to enter a password that conforms to some displayed rules;
++ the password is then checked to ensure that all rules were met.
 
-Running the script is pretty easy, open a terminal in the folder where your script is located and run the following command :
+# Setup instructions
+
+To run the script, open a terminal in the folder where your script is located and run the following command :
 
 `python PASSWORD_VALIDATOR.py`
 
