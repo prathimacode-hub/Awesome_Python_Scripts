@@ -1,0 +1,6 @@
+python https://www.python.org/ 
+BeautifulSoup https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+requests https://pypi.org/project/requests/
+Mozilla Firefox https://www.mozilla.org/en-US/firefox/new/
+
+-----links-------
