@@ -10,7 +10,7 @@ A step by step guide to understand Web Scrpaing by extracting the quotes of many
 
 ## **Short description of package/script**
 
-- Libraries used in this project are:<br>
+ Libraries used in this project are:<br>
     ```pandas```: To Store the data in DataFrame and later converting it to CSV file.<br>
     ```bs4```: To import BeautifulSoup in order to extract elements from the Website.<br>
     ```requests```: To send and get request from the website in order to scrape its data.
@@ -30,7 +30,7 @@ In order to run this program, make sure that you have all the required libraries
  - ```pip install pandas```<br>
  - ```pip install beautifulsoup4```
  - ```pip install requests```<br>
- 
+
 Also you should be having a browser, where you can inspect the website by ```Right Click -> Inspect```
 
 ## **Output**
