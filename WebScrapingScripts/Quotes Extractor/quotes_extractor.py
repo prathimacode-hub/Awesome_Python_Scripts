@@ -10,8 +10,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-website = requests.get('https://quotes.toscrape.com/')
-soup = BeautifulSoup(website.text, 'html.parser')
+response = requests.get('https://quotes.toscrape.com/')
+soup = BeautifulSoup(response.text, 'html.parser')
 
 
 # **Extracting the title of the website first**
@@ -95,8 +95,8 @@ next_button = True
 
 while next_button: # If a web page contains next_button tag then the value of page will increase by 1 and 
                     # the data would be extracted from next page
-    website = requests.get("https://quotes.toscrape.com/page/"+str(page))
-    soup = BeautifulSoup(website.text, 'html.parser')
+    response = requests.get("https://quotes.toscrape.com/page/"+str(page))
+    soup = BeautifulSoup(response.text, 'html.parser')
     
     quotes = soup.find_all(class_ = 'quote')# All the info about quote, its author and related tags is in this class
     for quote in quotes:
