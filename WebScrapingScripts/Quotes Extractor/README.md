@@ -30,12 +30,6 @@ In order to run this program, make sure that you have all the required libraries
  - ```pip install requests```
 Also you should be having a browser, where you can inspect the website by ```Right Click -> Inspect```
 
-
-## Compilation Steps
-
-Briefly show the compilation steps of the project
-
-
 ## Output
 
 #### Authors:
