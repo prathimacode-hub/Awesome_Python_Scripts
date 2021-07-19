@@ -35,13 +35,13 @@ Also you should be having a browser, where you can inspect the website by ```Rig
 ## Output
 
 #### Authors:
-[Authors](Images/Authors.png)
+![Authors](Images/Authors.png)
 
 #### Quotes:
-[Quotes](Images/Quotes.png)
+![Quotes](Images/Quotes.png)
 
 #### DataFrame:
-[Dataframe](Images/DataFrame.png)
+![Dataframe](Images/DataFrame.png)
 
 ## Author(s)
 
