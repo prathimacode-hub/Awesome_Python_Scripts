@@ -17,3 +17,6 @@
 
 ![Bill](https://user-images.githubusercontent.com/72568715/126288757-5255e221-2ace-4bed-aa81-4fe2be3c7a0b.PNG)
 
+
+<h2>Author</h2>
+<p>Sulagna Dutta Roy</p>
