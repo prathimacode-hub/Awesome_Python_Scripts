@@ -4,3 +4,5 @@ difflib.get_close_matches -- for getting the closest match of a misspelled word.
 pandas -- for reading csv file
 io -- for dealing with input and output
 pyttsx3 - for text to speech
+speech_recognition --- for speech input
+pyaudio --- for speech input

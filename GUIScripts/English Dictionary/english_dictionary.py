@@ -6,6 +6,8 @@ import json
 from difflib import get_close_matches
 import pandas as pd
 import pyttsx3
+import speech_recognition as sr
+import pyaudio
 
 # ------------------------------------------------------------------------------------------------------------------
 data = pd.read_csv('Related/words.csv')
@@ -144,6 +146,22 @@ def out_text_to_speech(**kwargs):
     engine.runAndWait()
     engine.stop()
     # out_b.configure(command=read_text)
+
+def input_speech():
+    r = sr.Recognizer()
+    inputentry.delete(0, END)
+    inputentry.insert(0, "Listening... Speak now...")
+    with sr.Microphone() as source:
+        # print("Listening... Speak now...")
+        audio = r.listen(source)
+        try:
+            text = r.recognize_google(audio)
+            inputentry.delete(0, END)
+            inputentry.insert(0,text)
+            # print("You said : {}".format(text))
+        except:
+            inputentry.delete(0, END)
+            inputentry.insert(0, "Didn't get that. Try again...")
 
 # function defined th=o clear both the input text and output text --------------------------------------------------
 def clear_text():
@@ -291,6 +309,11 @@ inputentry.insert(0, 'Enter the word you want to search...')
 inputentry.bind('<FocusIn>', on_inputentry_click)
 inputentry.place(x=320, y=160)
 
+# # creating speech to text button
+speech_in_b = Button(window,text="🎙",command= input_speech,font=("Arial", 18), bg = "light yellow", fg = "green", borderwidth=3, relief="raised").place(x = 1200, y = 163)
+
+start2 = tk.Label(text = "Speak Up...", font=("Arial", 30), fg="green") # same way bg
+start2.place(x = 1250, y = 163)
 
 # # Creating Search Button
 Button(window,text="🔍 SEARCH",command= search_word,font=("Arial", 20), bg = "light green", fg = "blue", borderwidth=3, relief="raised").place(x = 370, y = 250)
