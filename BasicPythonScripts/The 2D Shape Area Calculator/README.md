@@ -27,10 +27,15 @@ The 2D shape Area Calculator is basic python script enables us to easily calcula
 - Based on the shape opted by the user, it executes that particular block of code and takes input from user and gives Area as output.
 
 ## Compilation Steps
-- Download "2D_shapes_area_calculator.py" file.
+- Download " [2D_shapes_area_calculator.py](https://github.com/DurgaSai-16/Awesome_Python_Scripts/blob/main/BasicPythonScripts/The%202D%20Shape%20Area%20Calculator/2D_shapes_area_calculator.py) " file.
 - Run "2D_shapes_area_calculator.py" file.
 - Find the area of any 2D shape by entering required inputs properly.
-- For more information on import statements, refer to "requirements.txt".
+- This program is made of simple "if - elif - else" syntax.
+- Start of the program every 2D shape is assigned a particular option. i.e., `print("Please choose one of the following option to find Areas of 2D shape: \n1.Circle \n2.Triangle \n3.Square \n4.Rectangle \n5.Parallelogram \n6.Trapezium \n7.Ellipse")`
+- The `if` statement checks for condition and if this condition evaluates to True,then the statements inside the if block will be executed. 
+- If `if` condition evaluates to False, then flow of program control goes to `elif` statement and if this condition evaluates to True,then the statements inside the elif block will be executed.
+- The flow of control goes to `else`condition when the `elif` condition evaluates to False. 
+- For more information on import statements, refer to "[requirements.txt](https://github.com/DurgaSai-16/Awesome_Python_Scripts/blob/main/BasicPythonScripts/The%202D%20Shape%20Area%20Calculator/requirements.txt)".
 
 ## Output
 - **Area of Circle**
