@@ -46,11 +46,11 @@ To run the script:
 
 # Sample use of the script
 
-![alt text](https://github.com/Mannuel25/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Password%20Validator/screenshot_1.png)
+![alt text](https://github.com/Mannuel25/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Password%20Validator/Images/screenshot_1.png)
 
-![alt text](https://github.com/Mannuel25/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Password%20Validator/screenshot_2.png)
+![alt text](https://github.com/Mannuel25/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Password%20Validator/Images/screenshot_2.png)
 
-![alt text](https://github.com/Mannuel25/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Password%20Validator/screenshot_3.png)
+![alt text](https://github.com/Mannuel25/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Password%20Validator/Images/screenshot_3.png)
 
 # Author's name
 
