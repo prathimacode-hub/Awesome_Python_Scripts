@@ -1,0 +1,7 @@
+libraries used : tkinter
+		 messagebox
+		 PyQt5.QtGui
+		 PyQt5.QtWidgets
+		 sys
+		 math
+		 time
