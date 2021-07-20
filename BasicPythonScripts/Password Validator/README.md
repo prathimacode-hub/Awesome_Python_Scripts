@@ -1,5 +1,9 @@
 # Password Validator
 
+# Aim
+
+To help people figure out how passwords are authenticated
+
 # Purpose
 
 To verify each password entered by user
@@ -26,9 +30,19 @@ The libary used in this program is string. The string module contains a number o
 
 # Setup instructions
 
-To run the script, open a terminal in the folder where your script is located and run the following command :
+To setup the program, create a folder on your local machine and put all files in the folder
 
-`python PASSWORD_VALIDATOR.py`
+# Compilation steps
+
+To run the script:
+
+- Use IDLE to run python: Open up IDLE (Python GUI), which should be installed on your computer after installing python. Click File and then Open. Find the python file you want to run, and open it. Once opened, select Run and click Run Module from the drop down menu.
+
+- (Alternate) Use Terminal/Command Line to run python:
+  - Windows: Navigate to where the python file is stored, and type `python PASSWORD_VALIDATOR.py`
+  - Mac: Navigate to where the python file is stored, and type python followed by `python PASSWORD_VALIDATOR.py`
+  - Linux: Navigate to where the python file is stored, and type python followed by `python PASSWORD_VALIDATOR.py`
+ 
 
 # Sample use of the script
 
