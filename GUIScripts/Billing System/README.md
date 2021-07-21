@@ -1,10 +1,10 @@
 <h1>Billing System GUI</h1>
 
 <h2>AIm</h2>
-<p>This is a billing system that provides bills to the user</p>
+<p>This is a billing system that provides bills to the user.</p>
 
 <h2>Purpose</h2>
-<p>To calculate the bills for the user</p>
+<p>To calculate the bills for the user.I've Implemented it using tkinter libary.</p>
 
 <h2>Short Description:</h2>
 <p>This application can be used anywhere (grocery shop) by taking the user Items  Input.I have implemented it using python tkinter library.</p>
