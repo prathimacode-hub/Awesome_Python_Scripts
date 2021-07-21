@@ -1,0 +1,6 @@
+libraries used : tkinter
+		 from tkinter import filedialog
+		 import tkinter.messagebox
+		 from PIL import Image, ImageTk, ImageDraw
+		 os
+		 cv2
