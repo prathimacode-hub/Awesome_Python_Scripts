@@ -1,0 +1,9 @@
+keyboard==0.13.5
+pynput==1.7.3
+numpy==1.19.0
+gTTS==2.2.3
+face_recognition==1.3.0
+playsound==1.2.2
+pywin32==228
+opencv_python==4.4.0.42
+Pillow==8.3.1
