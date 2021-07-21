@@ -68,32 +68,6 @@ def clear_fun():
 clearb = Button(window, text="CLEAR",command=clear_fun,font=("Arial", 25), bg = "orange", fg = "blue", borderwidth=3, relief="raised")
 clearb.place(x =450 , y =580 )
 
-# # save button created
-# saveb = Button(window, text="Save",command=save_img,font=("Arial", 20), bg = "orange", fg = "blue", borderwidth=3, relief="raised")
-# saveb.place(x =170 , y =20 )
-#
-# # label for width
-# width_lbl = tk.Label(text = "WIDTH  :  ", font=("Arial", 30), fg="brown") # same way bg
-# width_lbl.place(x = 150, y = 600)
-#
-# # label for height
-# height_lbl = tk.Label(text = "HEIGHT  :  ", font=("Arial", 30), fg="brown") # same way bg
-# height_lbl.place(x = 150, y = 680)
-#
-# # Entry Box
-# width_entry = Entry(window, font=("Arial", 25), fg='brown', bg="light yellow", borderwidth=3, width=9)
-# width_entry.place(x=350, y=600)
-# height_entry = Entry(window, font=("Arial", 25), fg='brown', bg="light yellow", borderwidth=3, width=9)
-# height_entry.place(x=350, y=680)
-#
-# # skecth button created
-# resizeb = Button(window, text="RESIZE",command=resize_img,font=("Arial", 20), bg = "light green", fg = "blue", borderwidth=3, relief="raised")
-# resizeb.place(x =870 , y =650 )
-#
-# # reset button created
-# resetb = Button(window, text="RESET",command=reset,font=("Arial", 20), bg = "yellow", fg = "blue", borderwidth=3, relief="raised")
-# resetb.place(x =1080 , y =650)
-
 # function created for exiting
 def exit_win():
     if mbox.askokcancel("Exit", "Do you want to exit?"):
