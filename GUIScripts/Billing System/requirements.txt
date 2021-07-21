@@ -1,2 +1,6 @@
-Tkinter version = 3.9.6
-Messagebox
+Python version = 3.7
+Libraries used:
+-TKinter
+-Random
+-Os
+-Messagebox
