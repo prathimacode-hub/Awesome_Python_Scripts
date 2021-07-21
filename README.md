@@ -200,6 +200,7 @@ You can check out your points scored here : **[LGMSOC_SCORECARD](https://github.
 You can check out your points scored here : **[DCP_SCORECARD](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/DCP_SCORCARD.md)** <br>
 **Point to Note** : It will be updated once in 4 days. 
 
+
 <h2> ✨ Hall Of Fame </h2>
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
@@ -253,6 +254,8 @@ This project follows the [MIT License](https://github.com/prathimacode-hub/Aweso
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=100px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
+![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
+
 
 <h2>🌟 Stargazers Over Time 🌟</h2>
 
@@ -266,6 +269,10 @@ This project follows the [MIT License](https://github.com/prathimacode-hub/Aweso
 If you liked working on this project, do ⭐ and share this repository.
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
+
+<td>
+<sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/tree/main/Projects)***</kbd> *to view my other projects.</sup>* <br>
+</td>
 
 
 <h2>📬 Contact</h2>
