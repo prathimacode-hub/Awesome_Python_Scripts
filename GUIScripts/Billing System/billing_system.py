@@ -3,7 +3,7 @@ import random
 import os
 from tkinter import messagebox
 
-
+#=============main===================
 class Bill_App:
     def __init__(self, root):
         self.root = root
@@ -218,7 +218,7 @@ class Bill_App:
         m6_txt = Entry(F6, width=18, textvariable=self.cold_drinks_tax, font='arial 10 bold', bd=7, relief=GROOVE)
         m6_txt.grid(row=2, column=3, padx=18, pady=1)
 
-    # =======Buttons-======================================
+    # =============Buttons-======================================
         btn_f = Frame(F6, bd=7, relief=GROOVE)
         btn_f.place(x=760, width=580, height=105)
 
@@ -235,7 +235,7 @@ class Bill_App:
         exit_btn.grid(row=0, column=3, padx=5, pady=5)
         self.welcome_bill()
 
-
+#========totalfunction============================
     def total(self):
         self.m_h_g_p = self.hand_gloves.get()*12
         self.m_s_p = self.sanitizer.get()*2
@@ -283,7 +283,8 @@ class Bill_App:
         self.txtarea.insert(END, f"\nPhone Number{self.c_phone.get()}")
         self.txtarea.insert(END, f"\n================================")
         self.txtarea.insert(END, f"\nProducts\t\tQTY\t\tPrice")
-
+        
+# =============================generatebill=================================
     def bill_area(self):
         if self.c_name.get() == " " or self.c_phone.get() == " ":
             messagebox.showerror("Error", "Customer Details Are Must")
@@ -367,6 +368,7 @@ class Bill_App:
         if present == "no":
             messagebox.showerror("Error", "Invalid Bill No")
 
+     #===========================clearsection=====================
     def clear_data(self):
         op = messagebox.askyesno("Clear", "Do you really want to Clear?")
         if op > 0:
@@ -409,6 +411,7 @@ class Bill_App:
             self.search_bill.set("")
             self.welcome_bill()
 
+    # ======================exitsection==============================
     def exit_app(self):
         op = messagebox.askyesno("Exit", "Do you really want to exit?")
         if op > 0:
