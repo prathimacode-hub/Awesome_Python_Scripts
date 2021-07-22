@@ -1,4 +1,4 @@
-# snake player class 
+# class to handle scorecard
 from turtle import Turtle
 
 
