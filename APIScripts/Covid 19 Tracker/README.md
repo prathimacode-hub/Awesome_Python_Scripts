@@ -1,7 +1,7 @@
 # Covid 19 Tracker
 
 ## AIM
-To show all kinds of updates reagrding covid 19 cases.
+To show all kinds of updates reagrding covid 19 cases. ```The data gets updated after every 10 minutes```
 
 ## Purpose
 To get useful information regarding the records of covid 19 cases from [disease.sh](https://disease.sh/v3/covid-19/all) API, like:
