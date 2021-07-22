@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\hp\\Desktop\\Open_Source\\Awesome_Python_Scripts\\APIScripts\\Covid 19 Tracker",
+      "environment": [],
+      "program": "c:\\Users\\hp\\Desktop\\Open_Source\\Awesome_Python_Scripts\\APIScripts\\Covid 19 Tracker\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false
+    }
+  ]
+}
