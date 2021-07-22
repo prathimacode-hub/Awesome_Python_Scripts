@@ -22,6 +22,7 @@
 
 
 <h1>Output:</h1>
+<p align="center"><img src="https://github.com/Sulagna-Dutta-Roy/Awesome_Python_Scripts/blob/Sulagna/GUIScripts/Billing%20System/Images/Bill.PNG"></p>
 
 
 <h1>Author</h1>
