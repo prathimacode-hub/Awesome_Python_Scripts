@@ -3,3 +3,11 @@
 ## AIM
 To show all kinds of updates reagrding covid 19 cases.
 
+## Purpose
+To get useful information regarding the records of covid 19 cases from [disease.sh](https://disease.sh/v3/covid-19/all) API, like:
+ - Total Number of cases till now.
+ - Total Number of cases today
+ - Total Number of Deaths Today.
+ - Total Active cases
+ - Total Critical cases <br>
+ and many more ...
