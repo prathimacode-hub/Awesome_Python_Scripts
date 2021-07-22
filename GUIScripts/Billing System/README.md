@@ -24,7 +24,5 @@
 <h1>Output:</h1>
 
 
-
-
 <h1>Author</h1>
 <ul><li>Sulagna Dutta Roy</li></ul>
