@@ -16,11 +16,11 @@ class Scoreboard(Turtle):
 
 #   get and store highest score
     def get_high_score(self):
-        with open("data.txt", mode="r") as file_score:
+        with open("high_score.txt", mode="r") as file_score:
             self.high_score = int(file_score.read())
 
     def set_high_score(self):
-        with open("data.txt", mode="w") as file_score:
+        with open("high_score.txt", mode="w") as file_score:
             file_score.write(f"{self.score}")
 
 #   increment score           
