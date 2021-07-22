@@ -1,0 +1,15 @@
+Software Requirements and Specifications
+
+Software Requirements
+<> Jupyter Notebook
+<> Python 3
+
+Packages Requirements
+<> Tkinter ( Version 8.5 )
+<> Ohawf ( Version 0.0.5 )
+<> simple-crypt ( Version 3.1 )
+
+Hardware Requirements
+<> Operating System: Windows 7 above, Ubuntu
+<> RAM : 4GB or above
+<> Processor: Intel core i5 2.40GHz and above
