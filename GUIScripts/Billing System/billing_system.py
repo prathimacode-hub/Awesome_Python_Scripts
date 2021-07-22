@@ -3,7 +3,7 @@ import random
 import os
 from tkinter import messagebox
 
-#=============main===================
+#=============main=======================
 class Bill_App:
     def __init__(self, root):
         self.root = root
@@ -138,7 +138,7 @@ class Bill_App:
         maggi_txt = Entry(F3, width=10, textvariable=self.maggi, font=('times new roman', 16, 'bold'), bd=5, relief=GROOVE)
         maggi_txt.grid(row=5, column=1, padx=10, pady=10)
 
-    # ===========ColdDrinks================================
+       # ===========ColdDrinks================================
         F4 = LabelFrame(self.root, text="Cold Drinks", font=('times new roman', 15, 'bold'), bd=10, fg="Black", bg="#badc57")
         F4.place(x=670, y=180, width=325, height=380)
 
@@ -234,8 +234,8 @@ class Bill_App:
         exit_btn = Button(btn_f, command=self.exit_app, text="Exit", bd=2, bg="#535C68", fg="white", pady=15, width=12, font='arial 13 bold')
         exit_btn.grid(row=0, column=3, padx=5, pady=5)
         self.welcome_bill()
-
-#========totalfunction============================
+        
+    # ==================totalBill============================
     def total(self):
         self.m_h_g_p = self.hand_gloves.get()*12
         self.m_s_p = self.sanitizer.get()*2
@@ -274,7 +274,8 @@ class Bill_App:
         self.cold_drinks_tax.set("Rs. "+str(self.c_d_tax))
 
         self.total_bill = float(self.total_medical_price+self.total_grocery_price+self.total_cold_drinks_price+self.c_tax+self.g_tax+self.c_d_tax)
-
+        
+    # ======================welcomeBill===============================    
     def welcome_bill(self):
         self.txtarea.delete('1.0', END)
         self.txtarea.insert(END, "\tWelcome Grocery Retail")
@@ -354,7 +355,8 @@ class Bill_App:
             messagebox.showinfo("Saved", f"Bill no:{self.bill_no.get()} Saved Successfully")
         else:
            return
-
+    
+    #=======================findBill=============================
     def find_bill(self):
         present = "no"
         for i in os.listdir("bills/"):
@@ -368,7 +370,7 @@ class Bill_App:
         if present == "no":
             messagebox.showerror("Error", "Invalid Bill No")
 
-     #===========================clearsection=====================
+    #===========================clearsection=====================
     def clear_data(self):
         op = messagebox.askyesno("Clear", "Do you really want to Clear?")
         if op > 0:
@@ -392,7 +394,7 @@ class Bill_App:
             self.coke.set(0)
             self.lassi.set(0)
             self.mountain_duo.set(0)
-    # ====================taxes================================
+    # =============taxes==========================================
             self.medical_price.set("")
             self.grocery_price.set("")
             self.cold_drinks_price.set("")
@@ -422,4 +424,4 @@ root = Tk()
 obj = Bill_App(root)
 root.mainloop()
 
-
+#==== End of code=======================
