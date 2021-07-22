@@ -3,11 +3,6 @@ from snake import Snake
 from food import Food
 from scoreboard import Scoreboard
 import time
-from try_file import Try
-
-a = Try(1)
-b = Try(2)
-print(b.collection)
 
 
 screen = Screen()
