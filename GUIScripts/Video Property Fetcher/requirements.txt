@@ -1,0 +1,7 @@
+libraries used : tkinter
+		 from tkinter import filedialog
+		 import tkinter.messagebox
+		 from PIL import ImageTk, Image
+		 from videoprops import get_video_properties
+		 from videoprops import get_audio_properties
+		 from moviepy.editor import VideoFileClip

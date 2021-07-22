@@ -4,7 +4,11 @@
 
 To make a Screen Lock using Python (OpenCV and Tkinter).
 
+<<<<<<< HEAD:GUIScripts/Face Lock OpenCV/README.md
 ![](https://github.com/TusharAMD/Awesome_Python_Scripts/blob/main/GUIScripts/Face_Lock_OpenCV/Images/ImagesForReadme/Head.png)
+=======
+![](https://github.com/TusharAMD/Awesome_Python_Scripts/blob/issue254/GUIScripts/Face_Lock_OpenCV/ImagesForReadme/Head.png)
+>>>>>>> b11a80ad98e0ef5a0ec7bcede98d42f890f02511:GUIScripts/Face_Lock_OpenCV/README.md
 
 
 ## Purpose
@@ -54,9 +58,15 @@ Then run lockScreen.py
 ## Output
 
 Check Out this Youtube Video for Demo https://www.youtube.com/watch?v=PjGLWq3LrhM&ab_channel=TusharAmdoskar
+<<<<<<< HEAD:GUIScripts/Face Lock OpenCV/README.md
 ![](https://github.com/TusharAMD/Awesome_Python_Scripts/blob/main/GUIScripts/Face_Lock_OpenCV/Images/ImagesForReadme/Img1.png)
 ![](https://github.com/TusharAMD/Awesome_Python_Scripts/blob/main/GUIScripts/Face_Lock_OpenCV/Images/ImagesForReadme/Img2.png)
 ![](https://github.com/TusharAMD/Awesome_Python_Scripts/blob/main/GUIScripts/Face_Lock_OpenCV/Images/ImagesForReadme/Img3.png)
+=======
+![](https://github.com/TusharAMD/Awesome_Python_Scripts/blob/issue254/GUIScripts/Face_Lock_OpenCV/ImagesForReadme/Img1.png)
+![](https://github.com/TusharAMD/Awesome_Python_Scripts/blob/issue254/GUIScripts/Face_Lock_OpenCV/ImagesForReadme/Img2.png)
+![](https://github.com/TusharAMD/Awesome_Python_Scripts/blob/issue254/GUIScripts/Face_Lock_OpenCV/ImagesForReadme/Img3.png)
+>>>>>>> b11a80ad98e0ef5a0ec7bcede98d42f890f02511:GUIScripts/Face_Lock_OpenCV/README.md
 
 ## Author(s)
 
