@@ -18,6 +18,11 @@ To get useful information regarding the records of covid 19 cases from [disease.
   - ```requests```:- To get an API call from the website. <br>
   - ```json```:- To convert the json data that we got from API to python data.
 
+## Setup Instructions
+In order to run this code in your system, one needs to make sure that relevant libraries are installed, use the following commands for installation:
+ - ```pip install requests```<br>
+ - ```pip install json```
+
  ## Outputs
  ![Corona_Records](Images/covid.png)
 
