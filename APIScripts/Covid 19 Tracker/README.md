@@ -9,5 +9,10 @@ To get useful information regarding the records of covid 19 cases from [disease.
  - Total Number of cases today
  - Total Number of Deaths Today.
  - Total Active cases
- - Total Critical cases <br>
+ - Total Critical cases 
+ <br>
  and many more ...
+
+ ## Short Description
+ This project is made to get the updates of covid 19 cases around the world and the records get updated after every 10 minutes, with this project one can easily understand how to use APIs for your project.
+ 
