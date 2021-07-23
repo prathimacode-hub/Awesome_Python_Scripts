@@ -18,13 +18,20 @@ To get useful information regarding the records of covid 19 cases from [disease.
   - ```requests```:- To get an API call from the website. <br>
   - ```json```:- To convert the json data that we got from API to python data.
 
+## Workflow of the Project
+This project follows the following steps:<br>
+ - Importing relevant libraries
+ - Making an API call
+ - Converting json data to python data
+ - Accessing the python data to show the records.
+
 ## Setup Instructions
 In order to run this code in your system, one needs to make sure that relevant libraries are installed, use the following commands for installation:
  - ```pip install requests```<br>
  - ```pip install json```
 
- ## Outputs
+## Outputs
  ![Corona_Records](Images/covid.png)
 
- ## Author
+## Author
  [Gaurav Kumar](https://github.com/Gaurav1401)
