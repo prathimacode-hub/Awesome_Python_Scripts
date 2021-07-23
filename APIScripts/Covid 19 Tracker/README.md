@@ -18,3 +18,6 @@ To get useful information regarding the records of covid 19 cases from [disease.
 
  ## Outputs
  ![Corona_Records](Images/covid.png)
+
+ ## Author
+ [Gaurav Kumar](https://github.com/Gaurav1401)
