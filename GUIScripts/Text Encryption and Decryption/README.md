@@ -68,6 +68,22 @@ The bytecode (.pyc file) is loaded into the Python runtime and interpreted by a 
 
 ## Output
 
+1. UI output of our project:
+
+![Screenshot (338)](https://user-images.githubusercontent.com/55856632/126760304-44e63582-aaa3-4ae2-8c6f-3636ad70f034.png)
+
+2. Typing text and clicking on Encryption to get encrypted text.
+
+![Screenshot (339)](https://user-images.githubusercontent.com/55856632/126761399-5e060619-d2c8-4449-b2bb-db7eb36ce3b7.png)
+
+3. Clicking on Decryption to get decrypted text.
+
+![Screenshot (340)](https://user-images.githubusercontent.com/55856632/126761459-ad4b9721-cbaa-4ead-89a1-afc17a6741dc.png)
+
+
+
+
+
 
 ## Author(s): Shivam Ravi
 
