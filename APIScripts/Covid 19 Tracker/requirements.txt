@@ -1,0 +1,2 @@
+Libraries like "requests" and "json".
+And a browser like Mozilla Firefox.
