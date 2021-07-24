@@ -29,8 +29,11 @@ Just install all the libraries mentioned then run the script and then give name 
 ## Output
 
 ![image](Images/output_1(pokedex).png)
+
 ![image](Images/output_2(pokedex).png)
+
 ![image](Images/output_3(pokedex).png)
+
 ![image](Images/output_4(pokedex).png)
 
 
