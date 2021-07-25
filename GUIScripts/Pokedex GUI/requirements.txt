@@ -1,0 +1,6 @@
+Libraries used:
+- pypokedex
+- tkinter
+- io
+- urllib3
+- PIL
