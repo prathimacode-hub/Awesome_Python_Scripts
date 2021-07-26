@@ -1,6 +1,6 @@
 # ✔ TEXT SUMMARIZER
 - ### A "Text Summarizer" is an application created in python with tkinter gui.
-- ### In this application, user will be able summarize any big paragrah or text.
+- ### In this application, user will be able summarize any big paragraph or text.
 - ### We need this application because long paragraph and huge text are sometimes very tough to read and understand.
 - ### So using TEXT SUMMARIZER, we summarize the paragraph in brief.
 - ### for implementing this user nltk library in python.
