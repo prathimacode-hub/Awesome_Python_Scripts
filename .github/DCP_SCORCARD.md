@@ -1,8 +1,8 @@
 <h1> DCP - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 7
-## Total Number of Contributors : 6
+## Total Number Of PR's : 9
+## Total Number of Contributors : 8
   
 Name : Dhruv Mehta <br>
 Github : https://github.com/Dhruv-194 <br>
@@ -38,6 +38,18 @@ Name : Akash Jain <br>
 Github : https://github.com/Akash20x <br>
 Number of PR's : 1 <br>
 Projects Done : Spotify Song Lyrics Extractor (Level 2) | <br>
+Points : 20 <br>
+
+Name : Nallani Durga Sai <br>
+Github : https://github.com/DurgaSai-16 <br>
+Number of PR's : 1 <br>
+Projects Done : 2D Shape Area Calculator (Level 1) | <br>
+Points : 10 <br>
+
+Name : Dev Kumar <br>
+Github : https://github.com/devkumar24 <br>
+Number of PR's : 1 <br>
+Projects Done : Movie Reviews Scraping (Level 2) | <br>
 Points : 20 <br>
 
 
