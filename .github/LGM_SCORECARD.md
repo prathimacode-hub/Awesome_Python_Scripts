@@ -415,3 +415,9 @@ Github : https://github.com/baljeet-singh97 <br>
 Number of PR's : 1 <br>
 Projects Done : Income Tax Calculator (Level 2) | <br>
 Points : 15 <br>
+
+Name : Alex Advent <br>
+Github : https://github.com/AlexAdvent <br>
+Number of PR's : 1 <br>
+Projects Done : Snake Game (Enhanced) (Level 2) | <br>
+Points : 15 <br>
