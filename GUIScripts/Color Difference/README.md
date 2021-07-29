@@ -1,6 +1,6 @@
 # ✔ COLOR DIFFERENCE
 - ### An Color Difference created in python with tkinter gui.
-- ### Using this user will be able to get the difference between any two color which can be selected using coresponding color palette.
+- ### Using this user will be able to get the difference between any two color which can be selected using corresponding color palette.
 - ### Also user will be shown the preview of both the color.
 - ### The difference will be defined according to four standard difference Delta E CIE1994, Delta E CIE1994, Delta E CIE2000 and Delta E CMC.
 - ### Also user will be able see the Color difference cheatsheet.
