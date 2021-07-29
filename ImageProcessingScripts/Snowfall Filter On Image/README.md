@@ -20,7 +20,7 @@
 
 ## Output
 
-![video](Images/output(snowfall).mp4)
+![image](Images/output_1(snowfall).png)
 
 
 ## Author(s)
