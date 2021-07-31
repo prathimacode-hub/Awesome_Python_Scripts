@@ -1,0 +1,4 @@
+Libraries imported:
+i. pyautogui
+ii. cv2
+iii. numpy
