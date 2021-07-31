@@ -1,4 +1,4 @@
-# Package/Script Name
+# **Bank Data Finder**
 
 ## Aim/Purpose
 
