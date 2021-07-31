@@ -27,6 +27,6 @@ Screen Recorder is a software used to record your screen and saves it as a video
 - Finally, recorded file will be saved as "Recording.avi".
 ## Output
 ![screenrecoder](https://user-images.githubusercontent.com/85128713/127743132-52b7ca0e-096b-47ec-854b-3f56c6faa215.png)
-Pathlink:
+Pathlink:https://github.com/tanujadasari/Awesome_Python_Scripts/blob/main/GUIScripts/Screen%20Recorder/Images/screenrecorder_output.jpeg
 ## Author:
 [D Tanuja](https://github.com/tanujadasari)
