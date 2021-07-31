@@ -19,13 +19,14 @@ Screen Recorder is a software used to record your screen and saves it as a video
 - PyautoGUI is used to take screenshots.
 - numpy will convert those screenshots into an array.
 ## Compilation Steps
-- Download the file [screen_recorder.py]()
-- Run the file [screen_recorder.py](), let's start recording our screen.
+- Download the file [screen_recorder.py](https://github.com/tanujadasari/Awesome_Python_Scripts/blob/main/GUIScripts/Screen%20Recorder/screen_recorder.py)
+- Run the file [screen_recorder.py](https://github.com/tanujadasari/Awesome_Python_Scripts/blob/main/GUIScripts/Screen%20Recorder/screen_recorder.py), let's start recording our screen.
 - Install pyautogui, CV2, numpy if you don't have them.
 - After clicking run,it takes continuous screenshots and makes it into an array, out.write will convert this as a video.
 - The screen will continue to record until we press `q`
 - Finally, recorded file will be saved as "Recording.avi".
 ## Output
-
+![screenrecoder](https://user-images.githubusercontent.com/85128713/127743132-52b7ca0e-096b-47ec-854b-3f56c6faa215.png)
+Pathlink:
 ## Author:
 [D Tanuja](https://github.com/tanujadasari)
