@@ -26,6 +26,40 @@
 4. Provide appropriate input
 5. Obtain the excel file in .xls format
 
+##  Input Work Flows 
+```
+Include Work From home?
+Include Part-time?
+Internships for women?
+Internships with job offer?
+(Represent your choice with 1-True or 0-False separated by commas such as 1,0,0,1)
+
+1,0,0,0
+Enter different categories separated by commas* (Required)
+Web Development
+Enter different locations separated by commas* (Required)
+Mumbai,Delhi
+Enter start date in format (yyyy-mm-dd) or leave empty for current date
+
+Enter maximum duration or leave empty for any duration
+3
+--------------------------------------------------------------------
+How many pages you would like to get? Max Pages (16)
+2
+Different pages on different sheets?(Default: Yes) | 1: No
+#Leave empty if Yes 
+--------------Scraping Page 1 -----------------
+--------------Scraping Page 2 -----------------
+
+1: Add New Sheet
+2: Save and Open the file in Excel
+3: Save file
+4: Discard file and Exit
+2
+Enter the name of the file
+Web_Dev
+```
+
 ## Output
 
 ![](https://github.com/rammya29/Awesome_Python_Scripts/blob/main/WebScrapingScripts/Internship-Internshala/Images/Internshala%20logo.jpg)
