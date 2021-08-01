@@ -57,7 +57,7 @@ image_with_lines = draw_the_lines(image, lines)
 plt.imshow(image_with_lines)
 plt.show()
 
-cv2.imwrite("Detected Lane.jpg",image_with_lines)
+cv2.imwrite("Detected_Lane.jpg",image_with_lines)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
