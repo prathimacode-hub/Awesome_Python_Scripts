@@ -1,0 +1,6 @@
+libraries used : tkinter
+		 from tkinter import filedialog
+		 import tkinter.messagebox
+		 PIL
+		 cv2
+		 numpy
