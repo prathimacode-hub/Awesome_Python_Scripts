@@ -1,8 +1,12 @@
 # Package/Script Name
 
-## Aim / ## Purpose
+## Aim 
 
 The main aim of the project is to detect the Lane from the image.
+
+## Purpose
+
+Purpose of the script is to detect Lane from the Image and make it more and more accurate.
 
 ## Short description of package/script
 
@@ -23,10 +27,15 @@ The main aim of the project is to detect the Lane from the image.
 - At last drawing the line and showing the output as Detected_Lane.jpg file. 
 
 
+
 ## Setup instructions
 
 First install the above mentioned library, If you want to detect lane on your given input just changge the path in cv2.imread function and set your path and run the file.
 
+## Compilation Steps:
+   - Install CV2, Matplotlib and Numpy library in your system. (syntax : pip install library_name)
+   - Clone the project on local system.
+   - Execute/Run .py file and get the output.
 
 ## Output
 - Input Image
