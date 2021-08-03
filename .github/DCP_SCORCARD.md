@@ -1,7 +1,7 @@
 <h1> DCP - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 14
+## Total Number Of PR's : 15
 ## Total Number of Contributors : 11
   
 Name : Dhruv Mehta <br>
@@ -30,9 +30,9 @@ Points : 10 <br>
 
 Name : Sumit Soni <br>
 Github : https://github.com/sumitsoni0907 <br>
-Number of PR's : 1 <br>
-Projects Done : Anagram String (Level 0) | <br>
-Points : 5 <br>
+Number of PR's : 2 <br>
+Projects Done : Anagram String (Level 0) | Peterson Number (Level 1) | <br>
+Points : 15 <br>
 
 Name : Akash Jain <br>
 Github : https://github.com/Akash20x <br>
