@@ -3,3 +3,5 @@ libraries used : tkinter
 		 import tkinter.messagebox
 		 from PIL import ImageTk, Image
 		 cv2
+		 numpy
+		 from moviepy.editor import VideoFileClip
