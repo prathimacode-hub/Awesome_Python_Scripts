@@ -1,0 +1,7 @@
+This is a very simple, beginner and user friendly script.
+
+All of you need to Dowanload python 3 and install in your device.
+
+Run this script in any IDE like Jupyter nootbook, Visual Studio Code, Pycharm etc.
+
+You can also run this script in online editor.
