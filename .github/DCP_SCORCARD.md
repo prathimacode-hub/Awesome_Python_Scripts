@@ -1,8 +1,8 @@
 <h1> DCP - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 10
-## Total Number of Contributors : 9
+## Total Number Of PR's : 14
+## Total Number of Contributors : 11
   
 Name : Dhruv Mehta <br>
 Github : https://github.com/Dhruv-194 <br>
@@ -40,12 +40,6 @@ Number of PR's : 1 <br>
 Projects Done : Spotify Song Lyrics Extractor (Level 2) | <br>
 Points : 20 <br>
 
-Name : Nallani Durga Sai <br>
-Github : https://github.com/DurgaSai-16 <br>
-Number of PR's : 1 <br>
-Projects Done : 2D Shape Area Calculator (Level 1) | <br>
-Points : 10 <br>
-
 Name : Dev Kumar <br>
 Github : https://github.com/devkumar24 <br>
 Number of PR's : 1 <br>
@@ -58,3 +52,20 @@ Number of PR's : 1 <br>
 Projects Done : Text Encryption and Decryption (Level 2) | <br>
 Points : 20 <br>
 
+Name : Harsh Ved <br>
+Github : https://github.com/harshved <br>
+Number of PR's : 1 <br>
+Projects Done : Image Lane Detection (Level 2) | <br>
+Points : 15 <br>
+
+Name : Tanuja Dasari <br>
+Github : https://github.com/tanujadasari<br>
+Number of PR's : 1 <br>
+Projects Done : Screen Recorder (Level 2) | <br>
+Points : 15 <br>
+
+Name : Nallani Durga Sai <br>
+Github : https://github.com/DurgaSai-16 <br>
+Number of PR's : 3 <br>
+Projects Done : 2D Shape Area Calculator (Level 1)| Hand Cricket (Level 2) | Dr.Battery (Level 2) | <br>
+Points : 40br>
