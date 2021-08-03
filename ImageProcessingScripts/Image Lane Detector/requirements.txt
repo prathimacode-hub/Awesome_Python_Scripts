@@ -1,0 +1,4 @@
+The libraries required to install and import in the project are:
+  - CV2
+  - Matplotlib
+  - Numpy
