@@ -31,8 +31,8 @@ Points : 10 <br>
 Name : Sumit Soni <br>
 Github : https://github.com/sumitsoni0907 <br>
 Number of PR's : 2 <br>
-Projects Done : Anagram String (Level 0) | Peterson Number (Level 1) | <br>
-Points : 15 <br>
+Projects Done : Anagram String (Level 0) | Peterson Number (Level 1) | OTP Generator (Level 0) | <br>
+Points : 20 <br>
 
 Name : Akash Jain <br>
 Github : https://github.com/Akash20x <br>
