@@ -1,0 +1,8 @@
+Libraries Imported:
+   ◼️  wikipedia
+   ◼️ datetime
+   ◼️  pyttsx3
+   ◼️  speech recoginition
+   ◼️ pyaudio
+   ◼️ urllib.request
+   ◼️ os
