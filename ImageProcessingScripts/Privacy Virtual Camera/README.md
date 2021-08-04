@@ -1,8 +1,12 @@
-# Package/Script Name
+# Privacy Virtual Camera
+![Privacy](https://cdn0.iconfinder.com/data/icons/bubbly-icons/512/Eye_Sight_Privacy_Visibility_Retina_Look_View_Search-512.png)
+
 
 ## Aim
 
 This project is a virtual camera that will be made using OpenCV which will enable user to hide his/her face during video call and only outline of their face will be seen.
+
+![Animation](https://github.com/TusharAMD/Awesome_Python_Scripts/blob/Python_Virtual_Camera/ImageProcessingScripts/Privacy%20Virtual%20Camera/Images/Screenshots/animation.gif?raw=true)
 
 ## Purpose
 
@@ -49,7 +53,9 @@ This image is then send to virtual camera and can me used in any meet applicatio
 
 ## Output
 
-Display images/gifs/videos of output/result of your script so that users can visualize it
+![3](https://raw.githubusercontent.com/TusharAMD/Awesome_Python_Scripts/Python_Virtual_Camera/ImageProcessingScripts/Privacy%20Virtual%20Camera/Images/Screenshots/3.jpg)
+![1](https://raw.githubusercontent.com/TusharAMD/Awesome_Python_Scripts/Python_Virtual_Camera/ImageProcessingScripts/Privacy%20Virtual%20Camera/Images/Screenshots/1.jpg)
+![2](https://raw.githubusercontent.com/TusharAMD/Awesome_Python_Scripts/Python_Virtual_Camera/ImageProcessingScripts/Privacy%20Virtual%20Camera/Images/Screenshots/2.jpg)
 
 
 ## Author(s)
