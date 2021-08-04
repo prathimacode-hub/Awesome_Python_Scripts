@@ -1,5 +1,13 @@
 # Internship-Internshala Web Scrapping
 
+## Aim
+
+To create a python script using Beautifulsoup module to work with popular internship website - Internshala, and extract the internship details by filtering our needs.
+
+## Purpose
+
+The purpose of this project is to create a internship searching useful for students to find their internship.
+
 ## Short description of package/script
 
 - If standalone script, short description of script explaining what it achieves.
