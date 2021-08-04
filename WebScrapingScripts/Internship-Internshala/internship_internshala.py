@@ -1,6 +1,6 @@
 #Custom
-import Functions.GetURLParams as gup
-import Functions.Export_to_Excel as ex
+import Functions.get_url_params as gup
+import Functions.export_to_excel as ex
 
 #Third Party
 import requests
