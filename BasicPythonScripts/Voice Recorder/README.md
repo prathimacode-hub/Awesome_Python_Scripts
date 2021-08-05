@@ -1,7 +1,16 @@
 # Voice Recorder
 
-In this project we are using sounddevice and wavio libraries to create a voice recorder with some lines of code. 
-The details and working of python libraries that we are going to use are-    
+**AIM:** 
+
+To make a voice recorder with the help of python programming.
+
+**PURPOSE:** 
+
+In this project we will be using sounddevice and wavio libraries to create a voice recorder with some lines of code. 
+
+**DESCRIPTION:**
+
+The details of python libraries and how they are working is here-    
 
 #### wavio
 
@@ -16,7 +25,7 @@ The details and working of python libraries that we are going to use are-
 
 The `sounddevice` module is available for Linux, macOS and Windows.
 
-### Installation
+**INSTALLATION:**
 
 Install the given libraries with pip command using any terminal
 ```python
@@ -24,7 +33,8 @@ pip install sounddevice
 pip install wavio
 ```
 
-### Working
+**WORKING:**
+
 Import the `sounddevice` and `wavio` module in the Python file that you are going to use for creating a voice recorder and use voice recorder in your console/application.
 
 ```python
@@ -41,7 +51,7 @@ sd.wait()
 wv.write("recording1.wav", recording, 44000, sampwidth=2)
 ```
 
-### Screenshots
+**SCREENSHOTS:**
 <div align="center">
 
 <img src="../Voice%20Recorder/Images/voice_recorder0.png">
