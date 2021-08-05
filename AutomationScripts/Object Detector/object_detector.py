@@ -38,5 +38,3 @@ cv2.rectangle(
 cv2.imshow("Result", search_img)
 # keeps the window open till a key is pressed
 cv2.waitKey()
-
-# python object_detector.py C:\Users\mj_su\Downloads\plant.png C:\Users\mj_su\Downloads\desk.jpeg
