@@ -51,6 +51,32 @@ sd.wait()
 wv.write("recording1.wav", recording, 44000, sampwidth=2)
 ```
 
+**USAGE:**
+
+To start using this project, follow the below guidelines: 
+
+**1.**  Fork this project/repository. 🍴
+
+**2.**  Clone your forked copy of the project/repository.
+
+```
+git clone https://github.com/<your-github-username>/Awesome_Python_Scripts.git
+```
+
+**3.** Navigate to the project directory :file_folder: 
+
+```
+cd Awesome_Python_Scripts/Voice Recorder/
+```
+
+**4.** Install the `requirements.txt` using command 🔧
+
+```
+pip install -r requirements.txt
+```
+
+**5.** Run `voice_recorder.py` file in PyCharm IDE or Jupyter Notebook or any other platform 💻
+
 **SCREENSHOTS:**
 <div align="center">
 
