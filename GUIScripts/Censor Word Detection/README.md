@@ -1,9 +1,13 @@
 # Censor Word Detection
 
+![Header](https://i.ibb.co/vQkYv2y/header.jpg)
+
 ## Aim
 
 In this project I have created a python script that will alert user if he/she has written any censor/abusive/curse word and save that in text file
 
+![Animation](https://github.com/TusharAMD/Awesome_Python_Scripts/blob/CensorWordDetection/GUIScripts/Censor%20Word%20Detection/Images/Screenshots/animation.gif?raw=true)
+![Youtube Link Here](https://youtu.be/O_Osojs7MBY)
 ## Purpose
 
 Sometimes we aren't aware of what we are writing and it is possible that in flow we write some abusive words. Such words not only affect our personal image and career but also hurts the person with whom we are having conversation with and it may lead to unnecessary disputes. Therefore using this script the users can keep monitoring themselves so that they won't write any censor words in their text.  
@@ -45,8 +49,8 @@ The changes are made there in realtime and same text data is then retrieved to e
 \
 ## Output
 
-Display images/gifs/videos of output/result of your script so that users can visualize it
-
+![Img 1](https://raw.githubusercontent.com/TusharAMD/Awesome_Python_Scripts/CensorWordDetection/GUIScripts/Censor%20Word%20Detection/Images/Screenshots/2.png)
+![Img 2](https://raw.githubusercontent.com/TusharAMD/Awesome_Python_Scripts/CensorWordDetection/GUIScripts/Censor%20Word%20Detection/Images/Screenshots/1.png)
 
 ## Author(s)
 
