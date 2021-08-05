@@ -1,0 +1,1 @@
+Here you can write any sentence or even paste textIf the paragraph contains curse words the terminal will show that word till its removed. You can save the text using button below after correcting mistakes

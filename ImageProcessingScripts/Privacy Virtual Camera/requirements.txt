@@ -1,0 +1,6 @@
+pyvirtualcam==0.8.0
+cvzone==1.4.1
+SpeechRecognition==3.8.1
+numpy==1.17.3
+mediapipe==0.8.3.1
+opencv_python==4.5.3.56

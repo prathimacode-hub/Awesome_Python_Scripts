@@ -10,12 +10,18 @@ from tkinter import ttk
 from tkinter import filedialog
 from PIL import ImageTk, Image
 import cv2
+import numpy as np
+from moviepy.editor import VideoFileClip
 
 
 # class videoGUI for playing video
 class videoGUI:
     # init function defined
     def __init__(self, window):
+
+        self.files = iter(np.arange(1, 10000))
+        self.pause1 = 0
+        self.downloaded = IntVar()
 
         self.window = window
         # self.window.title(window_title)
@@ -33,8 +39,19 @@ class videoGUI:
         self.entry1 = Entry(self.window, font=("Arial", 30), fg='orange', bg="light yellow", borderwidth=3, width=30)
         self.entry1.place(x=265, y=555)
 
-        self.lbl1 = tk.Label(self.window, text="Selected Video Will\nAppear & Start Playing Here...", font=("Arial", 45),fg="green")  # same way bg
-        self.lbl1.place(x=90, y=400)
+        # for progress bar -----------------
+        self.st1 = tk.Label(self.window, font=("Arial", 15), fg="brown")  # same way bg
+        self.st1.place(x=70, y=407)
+
+        self.ed1 = tk.Label(self.window, font=("Arial", 15), fg="brown")  # same way bg
+        self.ed1.place(x=850, y=407)
+
+        self.progress = ttk.Progressbar(self.window, length=700, orient='horizontal', maximum=5000,variable=self.downloaded, mode='determinate')
+        self.progress.place(x=140, y=410)
+        # ------------------------------------
+
+        self.lbl1 = tk.Label(self.window, text="Selected Video Will\nAppear & Start Playing Here...", font=("Arial", 30),fg="green")  # same way bg
+        self.lbl1.place(x=250, y=440)
 
         self.pause = False   # Parameter that controls pause button
 
@@ -67,6 +84,9 @@ class videoGUI:
         self.pause = False
 
         self.filename = filedialog.askopenfilename(title="Select file")
+        self.clip = VideoFileClip(self.filename)
+        self.st1.configure(text="00.00s")
+        self.ed1.configure(text=str(self.clip.duration) + "s")
         # print(self.filename)
         self.entry1.delete(0, END)
         self.entry1.insert(0,self.filename)
@@ -79,6 +99,18 @@ class videoGUI:
 
         self.canvas.config(width = self.width, height = self.height)
         mbox.showinfo("Status","File Selected successfully, click on PLAY button to play video.")
+        self.loading()
+
+    def loading(self):
+        global pause
+        if not self.pause:
+            try:
+                self.downloaded.set(next(self.files))  # update the progress bar
+                self.window.after(1, self.loading)  # call this function again in 1 millisecond
+            except StopIteration:
+                mbox.showinfo("Status", "Play Back completed.")
+                # the files iterator is exhausted
+                # root.destroy()
 
 
     # function defined to get the frame
@@ -106,6 +138,8 @@ class videoGUI:
 
         if not self.pause:
             self.window.after(self.delay, self.play_video)
+            # self.cnt = self.cnt + 0.01
+            # self.st1.configure(text=str(self.cnt))
 
 
     # function defined to pause video
@@ -117,7 +151,7 @@ class videoGUI:
     def resume_video(self):
         self.pause=False
         self.play_video()
-
+        self.loading()
 
     # Release the video source when the object is destroyed
     def __del__(self):

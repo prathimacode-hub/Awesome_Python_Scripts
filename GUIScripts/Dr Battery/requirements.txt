@@ -1,0 +1,7 @@
+Libraries Imported:
+◼️ psutil
+◼️ time
+◼️ pyttsx3
+◼️ win10toast
+◼️ ToastNotifier
+◼️ threading
