@@ -1,8 +1,12 @@
 # Screen Recorder (With Buttons)
 
+<img src = "https://i.giphy.com/media/5SxbXVr3dkGzIUdYqB/giphy.webp" width = "300px">
+
 ## Aim
 
 This project is a Screen Recorder which is made using Tkinter and Pyautogui Libraries and it has buttons to let user record, pause or end the recording
+<img src = "https://github.com/TusharAMD/Awesome_Python_Scripts/blob/screenrecgui/GUIScripts/Screen%20Recorder%20(with%20buttons)/Image/animation.gif?raw=true"></img>
+![Youtube Link](https://youtu.be/IgeJn3g9XwM)
 
 ## Purpose
 
@@ -45,7 +49,7 @@ After tkinter is closed the files are traversed using glob library and sorted ac
 
 
 ## Output
-
+![Screenshot](https://github.com/TusharAMD/Awesome_Python_Scripts/blob/screenrecgui/GUIScripts/Screen%20Recorder%20(with%20buttons)/Image/screenshot.png?raw=true)
 
 ## Author(s)
 
