@@ -1,21 +1,40 @@
 # Object Detector
 
-## Description
-This program's purpose is to detect an object of the user's choice in an image. To do this the program needs a picture of the object needing to be detected and the image where the object needs to be found. The program will then draw a green rectangle around where it thinks the object is. 
+## Aim
+
+The aim is to make a program that will detect an object of the users choice in an image the user provides.
+
+## Purpose
+
+The purpose of this program is to help automate the task of object detection in an image. 
+
+## Short description of package/script
+
+- The program draws a green rectangle around the object you want it to find in the image.
+- OpenCV
+
+
+## Workflow of the Project
+
+- Make sure that the terminal's working directory is the directory where the project is
+- Type in "python object_detector.py path1 path2" where path1 is the file path of the image with the object  you want to find in the image in path2
+
 
 ## Setup instructions
-### Dependencies
-openCV: pip install opencv-python
 
-### Run instructions
-1. Make sure that the current working directory wherever the Object Detector folder is
-2. Type in "python object_detector.py path1 path2" where path1 is the file path of the image with the object  you want to find in the image in path2
+- Install OpenCV: pip install opencv-python
 
-## Sample output
-### Input
-<p align="center"><img src="https://github.com/BMaster123/images/blob/main/desk.jpeg"></p>
 
-<p align="center"><img src="https://github.com/BMaster123/images/blob/main/plant.PNG"></p>
+## Output
 
-### Output
 <p align="center"><img src="https://github.com/BMaster123/images/blob/main/plant_detection.PNG"></p>
+
+
+## Author(s)
+
+Bhavesh Mandalapu
+
+
+## Disclaimers, if any
+
+This program does not work all the time. It may draw a rectangle around an area where the object isn't present.
