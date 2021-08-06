@@ -1,0 +1,5 @@
+numpy==1.17.3
+opencv_python==4.5.3.56
+shortuuid==1.0.1
+PyAutoGUI==0.9.53
+Pillow==8.3.1
