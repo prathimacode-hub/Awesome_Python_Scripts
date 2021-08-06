@@ -2,49 +2,56 @@
 
 ## Aim
 
-The main aim of the project you want to achieve.
+The main aim of the project is to create a 'Connect Four' game using the python's PyGame library.
 
 ## Purpose
 
-What's the purpose of this project
+The purpose of this project is to give the user a gaming experience of playing the original Connect Four game. 
 
 ## Short description of package/script
 
-- If package, list of functionalities/scripts it can perform
-- If standalone script, short description of script explaining what it achieves.
-- List out the libraries imported.
+This is a very basic version of the famous game 'Connect Four' which is a two player 2D game. To play this game we need two players, one players plays with the red dots and the other player plays with the yellow dots. Each player takes turn to drop the dots in the 6x7 grid. The one who connects the four colored dots in either horizontal, vertical or diagonal line together first wins the game. 
 
+The project is developed using python3 and python's PyGame library.
 
 ## Workflow of the Project
 
-Add the workflow of the project point by point to get good understanding of the program
+- We have installed and used the 'numpy' module to develop the logic of the game.
+- We have installed and used the 'pygame' module to give graphics to our game.
+- Just run the script through the terminal.
 
 
 ## Setup instructions
 
-Explain how to setup and run your package/script in user's system
-
-
-## Detailed explanation of script, if needed
-
-If code is not explainable using comments, use this sections to explain your script
+- You should have 'numpy' module in your system. If you don't have just install it through the terminal using the following command 
+   ```sh
+   pip install numpy
+   ```
+ - You should have 'pygame' module in your system. If you don't have just install it through the terminal using the following command 
+   ```sh
+   pip install pygame
+   ```
+ - Finally to run this script in the background of your computer, open the terminal and type-in the below mentioned command 
+    ```sh
+   python connect_four.py
+   ```
 
 
 ## Compilation Steps
 
-Briefly show the compilation steps of the project
+- Open the python script code in any of your ide. 
+- Follow the above mentioned Setup Instructions. 
+- Debug and Run your code
 
 
 ## Output
 
-Display images/gifs/videos of output/result of your script so that users can visualize it
+<img src="Images/Screenshot%20(370).png" width = "720" height = "480">
 
 
 ## Author(s)
 
-Name(s) of author(s)
+Name of author : [Dhruv Mehta](https://github.com/Dhruv-194)
 
 
-## Disclaimers, if any
 
-Use this section to mention if any particular disclaimer is required
