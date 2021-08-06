@@ -66,6 +66,6 @@ Points : 15 <br>
 
 Name : Nallani Durga Sai <br>
 Github : https://github.com/DurgaSai-16 <br>
-Number of PR's : 3 <br>
-Projects Done : 2D Shape Area Calculator (Level 1)| Hand Cricket (Level 2) | Dr.Battery (Level 2) | <br>
-Points : 40br>
+Number of PR's : 4 <br>
+Projects Done : 2D Shape Area Calculator (Level 1)| Hand Cricket (Level 2) | Dr.Battery (Level 2) | Wiki Bot (Level 1) | <br>
+Points : 50br>
