@@ -1,0 +1,5 @@
+1) Installing the 'numpy' module through the terminal to provide logic to our game. 
+2) Installing the 'pygame' module through the terminal to give the graphics to our game.
+3) Importing 'sys' and 'math' modules.
+numpy~=1.21.1
+pygame~=2.0.1
