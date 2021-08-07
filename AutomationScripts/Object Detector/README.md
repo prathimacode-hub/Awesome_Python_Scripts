@@ -10,7 +10,7 @@ The purpose of this program is to help automate the task of object detection in 
 
 ## Short description of package/script
 
-- The program draws a green rectangle around the object you want it to find in the image.
+- The program draws a green rectangle around the object you want it to find in the image. It does this using the OpenCV library and the program requires two images as input. The first image is of the object you want the program to detect and the second image is the image in which you want to detect the object.
 - OpenCV
 
 
@@ -37,4 +37,4 @@ Bhavesh Mandalapu
 
 ## Disclaimers, if any
 
-This program does not work all the time. It may draw a rectangle around an area where the object isn't present.
+This program does not work all the time. It may draw a rectangle around an area where the object isn't present. The program also cannot detect more than one object for the time being.
