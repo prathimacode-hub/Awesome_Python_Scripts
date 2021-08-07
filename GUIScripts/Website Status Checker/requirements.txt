@@ -1,0 +1,7 @@
+libraries used : tkinter
+		 from tkinter import filedialog
+		 import tkinter.messagebox
+		 from PIL import ImageTk, Image
+		 from urllib.request import Request, urlopen
+		 from urllib.error import URLError, HTTPError
+		 webbrowser
