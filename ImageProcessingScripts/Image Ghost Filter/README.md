@@ -5,7 +5,7 @@
 ## Aim
 
 This project helps in converting an image into ghost/negative image.
-![Animation]()
+![Animation](https://github.com/TusharAMD/Awesome_Python_Scripts/blob/imageghostfilter/ImageProcessingScripts/Image%20Ghost%20Filter/Images/Screenshot/animation.gif?raw=true)
 
 ## Purpose
 
@@ -46,7 +46,7 @@ Thus we traverse whole image and perform the operation and we get a negative ima
 
 
 ## Output
-
+![Screenshot](https://github.com/TusharAMD/Awesome_Python_Scripts/blob/imageghostfilter/ImageProcessingScripts/Image%20Ghost%20Filter/Images/Screenshot/screenshot.jpg?raw=true)
 
 ## Author(s)
 
