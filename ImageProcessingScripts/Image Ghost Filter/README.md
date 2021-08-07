@@ -1,8 +1,11 @@
 # Image Ghost Filter
 
+<img src="https://cdn.shopify.com/s/files/1/2291/6719/articles/swirl-negatives-film-isolated-white-backdrop_23-2148188176_600x.jpg" width = "300px" ></img>
+
 ## Aim
 
 This project helps in converting an image into ghost/negative image.
+![Animation]()
 
 ## Purpose
 
