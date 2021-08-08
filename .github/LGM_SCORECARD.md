@@ -200,7 +200,7 @@ Number of PR's : 1 <br>
 Projects Done : Real-Time Currency Converter (Level 1) | <br>
 Points : 10 <br>
 
-Name : Jayapritha N <br>
+Name : Jayapritha Natarajan <br>
 Github : https://github.com/coding-geek21 <br>
 Number of PR's : 5 <br>
 Projects Done : Digital Clock (Level 1) | Music Player (Level 1) | Contributors List (Level 0) | Countdown Timer (Level 1) | Egg Catcher (Level 3) | <br>
