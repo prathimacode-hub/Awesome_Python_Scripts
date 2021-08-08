@@ -6,9 +6,9 @@
   
 Name : Dhruv Mehta <br>
 Github : https://github.com/Dhruv-194 <br>
-Number of PR's : 2 <br>
-Projects Done : Drink Water reminder (Level 0) | Family Key Logger (Level 2) | <br>
-Points : 15 <br>
+Number of PR's : 3 <br>
+Projects Done : Drink Water reminder (Level 0) | Family Key Logger (Level 2) | Connect Four Game (Level 2) | <br>
+Points : 45 <br>
 
 Name : Thejaswin S <br>
 Github : https://github.com/thejaswin123 <br>
@@ -56,16 +56,16 @@ Name : Harsh Ved <br>
 Github : https://github.com/harshved <br>
 Number of PR's : 1 <br>
 Projects Done : Image Lane Detection (Level 2) | <br>
-Points : 15 <br>
+Points : 20 <br>
 
 Name : Tanuja Dasari <br>
 Github : https://github.com/tanujadasari<br>
 Number of PR's : 1 <br>
 Projects Done : Screen Recorder (Level 2) | <br>
-Points : 15 <br>
+Points : 20 <br>
 
 Name : Nallani Durga Sai <br>
 Github : https://github.com/DurgaSai-16 <br>
 Number of PR's : 4 <br>
 Projects Done : 2D Shape Area Calculator (Level 1)| Hand Cricket (Level 2) | Dr.Battery (Level 2) | Wiki Bot (Level 1) | <br>
-Points : 50br>
+Points : 60 <br>
