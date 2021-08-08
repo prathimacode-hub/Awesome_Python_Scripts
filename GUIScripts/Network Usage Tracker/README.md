@@ -1,7 +1,7 @@
 # ✔ NETWORK USAGE TRACKER
 - ### A "Network Usage Tracker" is an application created in python with tkinter gui.
 - ### In this application, user gets the usage of network in his/her PC or computer at every instant.
-- ### Here user will be given a MAX LIMIT of network usage, and if user crosses that max limit, user willl be notified for the same.
+- ### Here user will be given a MAX LIMIT of network usage, and if user crosses that max limit, user will be notified for the same.
 - ### Also user will be able to see the connection status and the IP address related to the same.
 
 ****
@@ -22,7 +22,7 @@
 - ### Now a GUI window will open, where user will option like START and EXIT.
 - ### When user clicks on the START button, user will be directed to the main application os network usage tracker.
 - ### Here user gets the usage of network in his/her PC or computer at every instant.
-- ### Here user will be given a MAX LIMIT of network usage, and if user crosses that max limit, user willl be notified for the same.
+- ### Here user will be given a MAX LIMIT of network usage, and if user crosses that max limit, user will be notified for the same.
 - ### Also user will be able to see the connection status and the IP address related to the same.
 - ### Also there is an exit button, clicking on which exit dialog box appears asking for the permission of the user for closing the window.
 
