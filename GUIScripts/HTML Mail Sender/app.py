@@ -1,3 +1,4 @@
+# import required libraries
 from flask import Flask, render_template, request, flash
 from flask_mail import Mail, Message
 
@@ -12,11 +13,13 @@ app.config['MAIL_USE_TLS'] = True
 app.config['MAIL_USE_SSL'] = False
 mail = Mail(app)
 
+# routes of url
 @app.route('/')
 def home():
     flash("This is a flashed message.")
     return render_template('home.html')
 
+# data given in the form comes here
 @app.route('/send', methods=['POST','GET'])
 def send():
     s= ""

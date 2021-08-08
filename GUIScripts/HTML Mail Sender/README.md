@@ -24,5 +24,9 @@ Libraries used: flask
 - Go to app.py and type python app.py in the terminal, it will give a link
 - Ctrl + click on the link and it will take you to the website
 
+### Output
+ 
+<img src="E:\github\Awesome_Python_Scripts\GUIScripts\HTML Mail Sender\Images\img.PNG" alt="None">
+
 ### Author(s)
 Dilrose Reji
