@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <title>HTML Mail Sender</title>
+        <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+  <link rel="stylesheet" href="static/main.css">
+  
+
+    </head>
+
+    <body>
+        <center>
+            {% if(msg == 1) %}
+            <div class="alert alert-dark" role="alert">
+                Mail sent!(Check the spam folder too)
+              </div>  
+             {% endif %}
+             
+            <!--A form which accepts all inputs given by the user-->
+        <div class="d1">
+            <h1 style="padding: 5px; margin-top:10px;"><b>HTML Mail Sender App</b></h1>
+            <p>If you intend to send mail to more than 1 person; kindly put <strong>" , "</strong> to separate the e-mail addresses</p>
+            <p><b>NOTE:</b> Do not put any spaces between the addresses.</p>
+            <form action="/send" method="POST">
+              <textarea style="resize: none;" name="em" id="em" cols="30" rows="8" placeholder="Enter e-mail address"></textarea>
+               
+                <br><br>
+                <input type="text" name="sub" id="sub" placeholder="Enter subject line">
+                <br><br>
+                <textarea style="resize: none;" name="body" id="body" cols="30" rows="6" placeholder="Enter the message to be sent"></textarea>
+                <br><br>
+                <p><b>Kindly verify everything before sending</b></p>
+                
+                <button type="submit" class="btn btn-dark" id="b1">Send</button>
+               
+            </form>
+
+        </div>
+
+           
+            <br>
+            
+          
+        </center>
+    </body>
+</html>
