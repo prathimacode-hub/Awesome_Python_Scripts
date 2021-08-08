@@ -1,13 +1,22 @@
 # Change Image Background
+
+#### AIM:  
 We will build a project that can help us in changing the background of any image without using any image editor like Photoshop, etc. This project can be done with the help of some libraries using Python programming.
 
-### Libraries Used
+
+#### PURPOSE: 
+
+In this project we will be changing the background of image with the help of some libraries using Python programming.
+
+#### DESCRIPTION:
+The details of python libraries and how they are working is here- 
+
+**LIBRARIES USED**
 - Numpy
 - OpenCV
 - Matplotlib
 
-
-### Installation
+#### INSTALLATION:
 Install the following libraries using `pip` command in any terminal
 
 ```python
@@ -16,7 +25,7 @@ pip install opencv-python
 pip install matplotlib
 ```
 
-### Working
+#### USAGE:
 
 To start using this project, follow the below guidelines: 
 
@@ -42,10 +51,10 @@ pip install -r requirements.txt
 
 **5.** Run `Change Image Background.ipynb` file in Google Colab or Jupyter Notebook or any other platform.
 
-### Conclusion
+#### CONCLUSION:
 We have created a project for changing the background of an image. And we have also learnt how to make such type of project for changing image background, the output we got with this project is also attached here.
 
-### Screenshots
+#### SCREENSHOTS:
 
 **1. Sample image for any Object**
 <div align="center">
