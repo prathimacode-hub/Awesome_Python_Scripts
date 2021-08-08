@@ -81,7 +81,7 @@ Projects Done : 2D Shape Area Calculator (Level 1)| Hand Cricket (Level 2) | Dr.
 Points : 60 <br>
 Email Id : 121810402010@gitam.in
 
-Name : Jayapritha N <br>
+Name : Jayapritha Natarajan <br>
 Github : https://github.com/coding-geek21 <br>
 Number of PR's : 1 <br>
 Projects Done : Smart Calculator (Level 1) | <br>
