@@ -26,6 +26,14 @@ pip install numpy
 pip install opencv-python
 pip install matplotlib
 ```
+#### WORKFLOW:
+
+1. We are importing the required libraries 
+2. Reading the image as per our choice
+3. Then applying mask on the image
+4. Resizing the image, so that both the images can be of same size
+5. Now with the help of and operation combining the masked image with background image
+6. After that displaying and saving the final image
 
 #### USAGE:
 
