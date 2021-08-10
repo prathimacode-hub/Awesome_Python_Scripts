@@ -29,7 +29,7 @@ Run python lyrics.py
 
 ## Output
 
-
+![Screenshot](https://github.com/TusharAMD/Awesome_Python_Scripts/blob/lyrics/APIScripts/Lyrics%20API/Images/Screenshot/ss.png?raw=true)
 
 ## Author(s)
 
