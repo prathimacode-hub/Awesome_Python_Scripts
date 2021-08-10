@@ -66,6 +66,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 - If you are new to python programming and want to have a fair knowledge before you start working on it, you can learn it in a simplified way through this [repository](https://github.com/prathimacode-hub/Learn-Python-For-Beginners).
 - To make you familiarize with how programming works in python with proper structuring and algorithms, here I present a [project](https://github.com/prathimacode-hub/PyAlgo-Tree) created specifically for contributors who wants to explore and practice their concepts.
 
+
 <h2>🛠Templates to Follow</h2>
 
 - [Feature request](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/issue_template/feature_request.md)
@@ -73,8 +74,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 - [Pull Request](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/pullrequest_template.md)
 - [README](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/readme_template.md)
 
-**Note** : One should follow these templates while creating a new issue or pull request. Else, 'Program' label won't be assigned neither your contributions would count.
-This is to ensure that we know you as a 'LGM-SOC' or 'DevIncept' participant.
+**Note** : One should follow these templates while creating a new issue or pull request. 
 
 
 <h2>📝Project Structure</h2>
