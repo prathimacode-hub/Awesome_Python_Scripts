@@ -138,68 +138,6 @@ The project repository you had created would have :
 </tr>
 </table>
  
- 
-<h2>🙌Levels & Points (LGMSOC)</h2>
-
-<table>
-  <tr>
-    <th>Level</th>
-    <th>Points</th> 
-  </tr>
-  <tr>
-    <td>Level 0</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>Level 1</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>Level 2</td>
-    <td>15</td>
-  </tr>
-  <tr>
-    <td>Level 3</td>
-    <td>30</td>
-  </tr>
-  <tr>
-    <td>Level 4</td>
-    <td>45</td>
-  </tr>
-</table>
-
-You can check out your points scored here : **[LGMSOC_SCORECARD](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/LGM_SCORECARD.md)** <br>
-**Point to Note** : It will be updated once in 4 days. 
-
-
-<h2>🙌Levels & Points (DCP)</h2>
-
-<table>
-  <tr>
-    <th>Level</th>
-    <th>Points</th> 
-  </tr>
-  <tr>
-    <td>Level 0</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>Level 1</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>Level 2</td>
-    <td>20</td>
-  </tr>
-  <tr>
-    <td>Level 3</td>
-    <td>40</td>
-  </tr>
-</table>
-
-You can check out your points scored here : **[DCP_SCORECARD](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/DCP_SCORCARD.md)** <br>
-**Point to Note** : It will be updated once in 4 days. 
-
 
 <h2> ✨ Hall Of Fame </h2>
 
@@ -228,22 +166,10 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Awes
 This project follows the [MIT License](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/LICENSE).
 
 
-<h2>✔Mentors(DevIncept)</h2>
+ <h2>✔Project Maintainer</h2>
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/chicken-biryani"><img src="https://avatars.githubusercontent.com/u/41121520?v=4" width="80px;" alt=""/><br /><sub><b>Shloka Gupta</b></sub></a></td>   
-<td align="center"><a href="https://github.com/himanshu007-creator"><img src="https://avatars.githubusercontent.com/u/65963997?v=4" width="80px;" alt=""/><br /><sub><b>Himanshu</b></sub></a></td>   
-<td align="center"><a href="https://github.com/sameeksharl"><img src="https://avatars.githubusercontent.com/u/59785217?v=4" width="80px;" alt=""/><br /><sub><b>Sameeksha </b></sub></a></td>   
-  </tr>
-</table>
-
-
-<h2>✔Mentors(LGM-SOC)</h2>
-
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://avatars.githubusercontent.com/u/74645302?v=4" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
 <td align="center"><a href="https://github.com/Debashish-hub"><img src="https://avatars.githubusercontent.com/u/56837936?v=4" width="80px;" alt=""/><br /><sub><b>Debashish Kumar Sahoo</b></sub></a></td>   
   </tr>
 </table>
