@@ -1,7 +1,7 @@
 <h1> LGMSOC - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 325
+## Total Number Of PR's : 329
 ## Total Number of Contributors : 68
 
   
@@ -118,9 +118,9 @@ Points : 25 <br>
 
 Name : Umesh Singh <br>
 Github : https://github.com/Umesh-01 <br>
-Number of PR's : 7 <br>
-Projects Done : Badges Link (Level 0) | Jokes Automation (Level 1) | Covid Cases Scraper (Level 2) | Poems Automation (Level 1) | Speech Recognizer (Level 1) | Quotes Automation (Level 0) | Voice Recorder (Level 1) | <br>
-Points : 65 <br>
+Number of PR's : 9 <br>
+Projects Done : Badges Link (Level 0) | Jokes Automation (Level 1) | Covid Cases Scraper (Level 2) | Poems Automation (Level 1) | Speech Recognizer (Level 1) | Quotes Automation (Level 0) | Voice Recorder (Level 1) | Change Image Background (Level 2) | Camera Based Thermal Screening (Level 2) | <br>
+Points : 95 <br>
 
 Name : Jagannath Pal <br>
 Github : https://github.com/Jagannath8 <br>
@@ -166,9 +166,9 @@ Points : 30 <br>
 
 Name : Akash Ramanand Rajak <br>
 Github : https://github.com/akash435 <br>
-Number of PR's : 109 <br>
-Projects Done : Bubble Catcher Game (Level 2) | English Dictionary - Enhanced (Level 4) | Image To Icon Converter (Level 2) |  Zodiac Sign Finder (Level 3) | Splash Screen in Zodiac Sign Finder - Enhancement (Level 1) | Missing Alphabet Game (Level 3) | Result Predictor in TicTacToe Game - Enhancement (Level 2) | Time Zone Converter (Level 3) | Spelling Corrector (Level 2) | Quiz Game (Level 2) | Part of Speech Calculator (Level 2) | Get Location Of Any Country (Level 2) | Search Implementation (Level 3) | Indian Food Information (Level 2) | Virtual Keyboard (Level 2) | Direct Flight Route Finder (Level 2) | World Bank GDP Ranking (Level 2) | SpaceX Mission Detailer (Level 2) | Periodic Table Elements (Level 2) | University NIRF Ranking (Level 2) | Pin Codes of Indian City (Level 2) | Highlight Selected Part of Text (Level 1) | All Indian Trains (Level 2) | Odd Symbol Find Game (Level 3) | Enhanced Virual Keyboard to Programming Keyboard (Level 2) | Nobel Prize Winner (Level 2) | Bermuda Triangle Incidents (Level 2) | World Companies Detailer (Level 2) | Solar System Object Details (Level 3) | Virtual Copy Paste (Level 2) | Word Search Game (Level 2) | All Camera Model Detailer (Level 2) | Painting Tool (Level 2) | All Laptop Detailer (Level 2) | Image Here To There (Level 2) | Text Editor (Level 3) | Movie Booking Application (Level 2) | Restaurant Management System (Level 2) | Camera Application (Level 2) | Piano Application (Level 1) | Google Search Engine (Level 3) | Taxi Hire Application (Level 3) | Simple Python IDE (Level 2) | Movie Pointer Co-ordinates Getter (Level 2) | Nutritional Calorie Recorder (Level 2) | Image Resizer (Level 2) | MP4 to P3 Converter (Level 1) | EMI Calculator (Level 2) | Screenshot Taker (Level 1) | URL Extractor (Level 2) | Programming Language Detector (Level 2) | Lattitude-Longitude Pair Verifier (Level 2) | IP Address Extractor Validator(Level 2) | Absolute Time Delta (Level 3) | Hex Colour Code (Level 2) | Postal Code Validator (Level 2) | Code Comments Fetcher (Level 2) | Colour Converter (Level 3) | Resume Generator (Level 3) | Regex Check (Level 2) | Sentence Segmenter (Level 2) | Credit Card Number Authentication (Level 1) | Age on Diffrent Planet (Level 3) | Aadhar Card Generation (Level 2) | Correct Flow Game (Level 3) | Detect the Language (Level 1) | Image Encryption and Decryption (Level 2) | Video Player (Level 2) | Video Stitching (Level 3) | Image Snipper (Level 2) | Image Watermark Remover (Level 2) |  English Dictionary (Enhanced) (Level 1) | HTTP Error Codes (Level 2) | Yandex Website Clone (Level 4) | Mouse Speed Tracker (Level 1) | English Dictionary (Enhancement) (Level 1) | Text to Captcha Image (Level 2) | Text on Image (Level 2) | Video to Images (Level 2) | Video Property Fetcher  (Level 2) | Emoji Dictionary (Level 2) | Video Cropper (Level 2) | Image Noise Remover (Level 2) | Color Mixer (Level 3) | Unicode and Emoji (Level 3) | Image Segmentation (Level 2) | Map Coloring (Level 2) | Decode Image Game (Level 3) | Object Counter In Image (Level 2) | Image Slicer (Level 3) | Color Converter (Enhanced) (Level 2) | Text Summarizer (Level 2) | Video to Grayscale (Level 2) | Image Contours Coordinates (Level 2) | RGB Color Palette (Level 2) | Video Encrytion Decrytion (Level 3) | Color Difference (Level 2) | GUI-Scroll View (Level 2) | Image Search (Level 2) | Circular Image Cropper (Level 3) | Random Shape Image Generator (Level 2) | American and British English Conversion (Level 2) | Adding Frames to Video (Level 3) | Video Player with Progress Bar (Enhanced) (Level 2) | Large Image Preview (Level 3)| Instagram Profile Downloader (Level 2) | Morse Code Translator (Level 2) | Pomodoro Timer (Level 2) | Website Status Checker (Level 2) | <br>
-Points : 2065 <br>
+Number of PR's : 110 <br>
+Projects Done : Bubble Catcher Game (Level 2) | English Dictionary - Enhanced (Level 4) | Image To Icon Converter (Level 2) |  Zodiac Sign Finder (Level 3) | Splash Screen in Zodiac Sign Finder - Enhancement (Level 1) | Missing Alphabet Game (Level 3) | Result Predictor in TicTacToe Game - Enhancement (Level 2) | Time Zone Converter (Level 3) | Spelling Corrector (Level 2) | Quiz Game (Level 2) | Part of Speech Calculator (Level 2) | Get Location Of Any Country (Level 2) | Search Implementation (Level 3) | Indian Food Information (Level 2) | Virtual Keyboard (Level 2) | Direct Flight Route Finder (Level 2) | World Bank GDP Ranking (Level 2) | SpaceX Mission Detailer (Level 2) | Periodic Table Elements (Level 2) | University NIRF Ranking (Level 2) | Pin Codes of Indian City (Level 2) | Highlight Selected Part of Text (Level 1) | All Indian Trains (Level 2) | Odd Symbol Find Game (Level 3) | Enhanced Virual Keyboard to Programming Keyboard (Level 2) | Nobel Prize Winner (Level 2) | Bermuda Triangle Incidents (Level 2) | World Companies Detailer (Level 2) | Solar System Object Details (Level 3) | Virtual Copy Paste (Level 2) | Word Search Game (Level 2) | All Camera Model Detailer (Level 2) | Painting Tool (Level 2) | All Laptop Detailer (Level 2) | Image Here To There (Level 2) | Text Editor (Level 3) | Movie Booking Application (Level 2) | Restaurant Management System (Level 2) | Camera Application (Level 2) | Piano Application (Level 1) | Google Search Engine (Level 3) | Taxi Hire Application (Level 3) | Simple Python IDE (Level 2) | Movie Pointer Co-ordinates Getter (Level 2) | Nutritional Calorie Recorder (Level 2) | Image Resizer (Level 2) | MP4 to P3 Converter (Level 1) | EMI Calculator (Level 2) | Screenshot Taker (Level 1) | URL Extractor (Level 2) | Programming Language Detector (Level 2) | Lattitude-Longitude Pair Verifier (Level 2) | IP Address Extractor Validator(Level 2) | Absolute Time Delta (Level 3) | Hex Colour Code (Level 2) | Postal Code Validator (Level 2) | Code Comments Fetcher (Level 2) | Colour Converter (Level 3) | Resume Generator (Level 3) | Regex Check (Level 2) | Sentence Segmenter (Level 2) | Credit Card Number Authentication (Level 1) | Age on Diffrent Planet (Level 3) | Aadhar Card Generation (Level 2) | Correct Flow Game (Level 3) | Detect the Language (Level 1) | Image Encryption and Decryption (Level 2) | Video Player (Level 2) | Video Stitching (Level 3) | Image Snipper (Level 2) | Image Watermark Remover (Level 2) |  English Dictionary (Enhanced) (Level 1) | HTTP Error Codes (Level 2) | Yandex Website Clone (Level 4) | Mouse Speed Tracker (Level 1) | English Dictionary (Enhancement) (Level 1) | Text to Captcha Image (Level 2) | Text on Image (Level 2) | Video to Images (Level 2) | Video Property Fetcher  (Level 2) | Emoji Dictionary (Level 2) | Video Cropper (Level 2) | Image Noise Remover (Level 2) | Color Mixer (Level 3) | Unicode and Emoji (Level 3) | Image Segmentation (Level 2) | Map Coloring (Level 2) | Decode Image Game (Level 3) | Object Counter In Image (Level 2) | Image Slicer (Level 3) | Color Converter (Enhanced) (Level 2) | Text Summarizer (Level 2) | Video to Grayscale (Level 2) | Image Contours Coordinates (Level 2) | RGB Color Palette (Level 2) | Video Encrytion Decrytion (Level 3) | Color Difference (Level 2) | GUI-Scroll View (Level 2) | Image Search (Level 2) | Circular Image Cropper (Level 3) | Random Shape Image Generator (Level 2) | American and British English Conversion (Level 2) | Adding Frames to Video (Level 3) | Video Player with Progress Bar (Enhanced) (Level 2) | Large Image Preview (Level 3)| Instagram Profile Downloader (Level 2) | Morse Code Translator (Level 2) | Pomodoro Timer (Level 2) | Website Status Checker (Level 2) | Network Usage Tracker (Level 2) | <br>
+Points : 2080 <br>
 
 Name : Anshika Subodhkumar <br>
 Github : https://github.com/AK-Subodh <br>
@@ -406,9 +406,9 @@ Points : 30 <br>
 
 Name : Tushar Amdoskar <br>
 Github : https://github.com/TusharAMD <br>
-Number of PR's : 5 <br>
-Projects Done : Face Lock OpenCV (Level 3) | Virtual Camera (Level 3) | Censor Word Detection (Level 2) | Screen recorder (Level 2) | Image Ghost Filter (Level 2) | <br>
-Points : 105 <br>
+Number of PR's : 6 <br>
+Projects Done : Face Lock OpenCV (Level 3) | Virtual Camera (Level 3) | Censor Word Detection (Level 2) | Screen recorder (Level 2) | Image Ghost Filter (Level 2) | Lyrics Downloader (Level 1) | <br>
+Points : 115 <br>
 
 Name : Baljeet Singh <br>
 Github : https://github.com/baljeet-singh97 <br>
