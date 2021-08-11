@@ -1,8 +1,8 @@
 <h1> DCP - SCORE CARD 2021 ✨✨✨ </h1> <br>
 <h2> Welcome to the Repo Officially!!..🙌👏 </h2> <br>
 
-## Total Number Of PR's : 22
-## Total Number of Contributors : 14
+## Total Number Of PR's : 21
+## Total Number of Contributors : 13
   
 Name : Dhruv Mehta <br>
 Github : https://github.com/Dhruv-194 <br>
@@ -94,9 +94,3 @@ Number of PR's : 1 <br>
 Projects Done : Snake Game (Enhanced) (Level 2) | <br>
 Points : 20 <br>
 Email Id : rajpurohitvijesh@gmail.com
-
-Name : Alex Advent <br>
-Github : https://github.com/AlexAdvent <br>
-Number of PR's : 1 <br>
-Projects Done : Snake Game (Enhanced) (Level 2) | <br>
-Points : 20 <br>
