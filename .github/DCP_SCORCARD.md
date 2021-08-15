@@ -65,7 +65,7 @@ Github : https://github.com/harshved <br>
 Number of PR's : 1 <br>
 Projects Done : Image Lane Detection (Level 2) | <br>
 Points : 20 <br>
-Email Id : 
+Email Id : harshved3@gmail.com
 
 Name : Tanuja Dasari <br>
 Github : https://github.com/tanujadasari <br>
@@ -94,4 +94,3 @@ Number of PR's : 1 <br>
 Projects Done : Snake Game (Enhanced) (Level 2) | <br>
 Points : 20 <br>
 Email Id : rajpurohitvijesh@gmail.com
-
