@@ -2,12 +2,15 @@
 def englishtopiglatin(s):
     # splits string by words and passed into list
     s = s.lower().split(" ")
-
     result = ""
 
     # for every string in the list translate to pig latin through the formula before
     for string in s:
-        result += (string[1:] + string[:1] + "ay" + " ")
+        
+        if (len(string) <= 1):
+            result += (string + "way")
+        else:
+            result += (string[1:] + string[:1] + "ay" + " ")
     
     # return new string
     return result
