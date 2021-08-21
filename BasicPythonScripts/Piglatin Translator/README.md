@@ -11,12 +11,18 @@ I want to be able to create a Python program that can translate a given english 
 - Just run the program and enter a string
 - Result will be displayed as a new string with pig latin translation
 
+### Workflow
+
+- Wrote rough draft algorithm
+- Created pull request for feedback
+- Got feedback and implemented
+- Tweaked algorithm to handle bigger test cases
+
 ### Setup instructions
 1. Install Python 3 from PyCharm or other Python IDE
 2. Download this repository as zip and extract.
 3. Use PyCharm or other Python compiler to run this program
 5. Run the code and try entering different strings
-
 
 ## Compilation Steps
 
