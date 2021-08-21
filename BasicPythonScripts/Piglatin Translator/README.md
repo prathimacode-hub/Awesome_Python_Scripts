@@ -13,10 +13,11 @@ I want to be able to create a Python program that can translate a given english 
 
 ### Workflow
 
-- Wrote rough draft algorithm
-- Created pull request for feedback
-- Got feedback and implemented
-- Tweaked algorithm to handle bigger test cases
+1. Wrote rough draft algorithm
+2. Created pull request for feedback
+3. Got feedback and implemented
+4. Checked if translating properly
+5. Tweaked algorithm to do pig latin correctly and handle big test cases
 
 ### Setup instructions
 1. Install Python 3 from PyCharm or other Python IDE
