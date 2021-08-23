@@ -1,0 +1,1 @@
+Libraries used : BeautifulSoup, Selenium, Pandas, and requests
