@@ -14,7 +14,9 @@
 
 <p align="center">
   <img width = 1000 src="Images/1.png" /><br>
+  <p>After 3 sec the form will be filled automatically</p>
   <img width = 1000 src="Images/2.png" /><br>
+   <p>Google form will be also Submit automatically</p>
   <img width = 1000 src="Images/3.png" /><br>
 
 </p>
