@@ -6,11 +6,11 @@ web.get('https://docs.google.com/forms/d/e/1FAIpQLSek4lvyKCkjeKHJwRRSUdsNb4WCIoh
 
 time.sleep(3)
 
-LastName = "YOUR LAST NAME"
+LastName = "Aditya"
 last = web.find_element_by_xpath('//*[@id="mG61Hd"]/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[1]/input')
 last.send_keys(LastName)
 
-FirstName = "YOUR FIRST NAME"
+FirstName = "Gupta"
 first = web.find_element_by_xpath('//*[@id="mG61Hd"]/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/input')
 first.send_keys(FirstName)
 

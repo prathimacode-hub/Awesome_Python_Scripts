@@ -1,5 +1,5 @@
 # ✔ AUTOFILL GOOGLE FORM
-- ### We will look at Web Automation using Python in detail. We will be using the Webdriver and Selenium Libraries to do our coding, and we will be filling out an attendance form,
+- ### We will look at Web Automation using Python in detail. We will be using the Webdriver and Selenium Libraries to do our coding, and we will be filling out an attendance form
 
 ****
 
@@ -9,6 +9,15 @@
 - ### Webdriver
 
 ****
+# SCREENSHOTS :
+****
+
+<p align="center">
+  <img width = 1000 src="Images/1.png" /><br>
+  <img width = 1000 src="Images/2.png" /><br>
+  <img width = 1000 src="Images/3.png" /><br>
+
+</p>
 
 # Purpose :
 - ### This scripts helps user to easily to fill Form automatically.
