@@ -1,5 +1,7 @@
 # ✔ AUTOFILL GOOGLE FORM
-- ### We will look at Web Automation using Python in detail. We will be using the Webdriver and Selenium Libraries to do our coding, and we will be filling out an attendance form
+- ### We will look at Web Automation using Python in detail. We will be using the Webdriver and Selenium Libraries to do our coding, and we will be filling out an attendance form.
+- ### Auto fill in your form using your saved information.
+- ### This will Reduce your time in filling the form.
 
 ****
 
