@@ -1,4 +1,5 @@
 # TBD
+# Python 3.9.1
 # Basically this program will extract all passwords of all the WiFi that are connected with your device and
 # mail it on the email address that you want.
 
