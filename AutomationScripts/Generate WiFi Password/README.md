@@ -5,10 +5,12 @@
 
 * Note: The sender's email address must set to allow less secure apps, if you are using Gmail.
 
-# Output
-![image](Images/Mail Sent from Dummy Email Address.JPG)
-![image](Images/Mail Received.jpg)
+# Screenshot of Output
+<p align="center"><img src="https://github.com/shubhdholakiya/Awesome_Python_Scripts/blob/a4bb7774583b694204cf98b321d678949b67bda4/AutomationScripts/Generate%20WiFi%20Password/Images/Mail%20Sent%20from%20Dummy%20Email%20Address.JPG">"</p>
+<br>
 
+<p align="center"><img src="https://github.com/shubhdholakiya/Awesome_Python_Scripts/blob/a4bb7774583b694204cf98b321d678949b67bda4/AutomationScripts/Generate%20WiFi%20Password/Images/Mail%20Received.jpg">"</p>
+<br>
 
 ## Author(s)
 
