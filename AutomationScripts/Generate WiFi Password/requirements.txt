@@ -1,0 +1,5 @@
+Install following Libraries:
+pip install secure-smtplib
+pip install regex
+pip install emails
+pip install subprocess.run
