@@ -3,7 +3,10 @@ import getpass
 import requests
 
 #Get Masked User Password
-password = getpass.getpass()
+#password = getpass.getpass()
+
+#Uncomment this to not masked the password
+password = input('Password:')
 
 #Making Password text into Hash SHA-1
 HASH_SHA1 = hashlib.sha1(str(password).encode('utf-8'))
