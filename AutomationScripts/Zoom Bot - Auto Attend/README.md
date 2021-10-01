@@ -2,9 +2,7 @@
 ## Zoom Auto attend Bot :
 
 This Bot Requires the Timings csv file which contains meetingId,Time and password for zoom account.
-Then this bot logs into the account and attends the meeting
-
-
+Then this bot logs into the account and attends the meeting.
 
 
 ## Setup instructions
