@@ -5,8 +5,6 @@ This Bot Requires the Timings csv file which contains meetingId,Time and passwor
 Then this bot logs into the account and attends the meeting
 
 
-
-
 ## Setup instructions
 
 **Requirements:** python-3.8.6
