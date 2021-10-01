@@ -1,10 +1,21 @@
 
-## Zoom Auto attend Bot :
+## What are Bots?
+Bots are software programs that combine requests, which are typically provided as text, with contextual data, such as geolocation and payment information, to appropriately handle the request and respond. Bots are often also called "chatbots", "assistants" or "agents."
+
+
+## Zoom Auto attend Bot:
 
 This Bot Requires the Timings csv file which contains meetingId,Time and password for zoom account.
 Then this bot logs into the account and attends the meeting
 
-
+## Steps Included :
+* Opens up the zoom app
+* clicks the join button
+* Type the meeting ID
+* Disables both the camera and the mic
+* Hits the join button
+* Types the password and hits enter
+   
 ## Setup instructions
 
 **Requirements:** python-3.8.6
