@@ -1,32 +1,57 @@
-# A naive recursive implementation of 0-1 Knapsack Problem
+# Title:-
+A naive recursive implementation of 0-1 Knapsack Problem
 
+## Short Description:-
 This overview is taken from:
+https://en.wikipedia.org/wiki/Knapsack_problem
 
-    https://en.wikipedia.org/wiki/Knapsack_problem
+The knapsack problem is a problem in combinatorial optimization: Given a set of items,each with a weight and a value, determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possibl
 
----
-
-## Overview
-
-The knapsack problem is a problem in combinatorial optimization: Given a set of items, each with a weight and a value, determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible. It derives its name from the problem faced by someone who is constrained by a fixed-size knapsack and must fill it with the most valuable items. The problem often arises in resource allocation where the decision makers have to choose from a set of non-divisible projects or tasks under a fixed budget or time constraint, respectively.
-
-The knapsack problem has been studied for more than a century, with early works dating as far back as 1897 The name "knapsack problem" dates back to the early works of mathematician Tobias Dantzig (1884–1956), and refers to the commonplace problem of packing the most valuable or useful items without overloading the luggage.
-
----
-
-## Documentation
+## Detailed explanation:-
 
 This module uses docstrings to enable the use of Python's in-built `help(...)` function.
 For instance, try `help(Vector)`, `help(unitBasisVector)`, and `help(CLASSNAME.METHODNAME)`.
 
----
+Example: 
+```sh
+    $ python3 -i knapsack.py
+    >> help(knapsack)
+```
 
-## Usage
+Output:
+```sh
+    Help on function knapsack in module __main__:
 
-Import the module `knapsack.py` from the **.** directory into your project.
+    knapsack(capacity: int, weights: List[int], values: List[int], counter: int) -> int
+    Returns the maximum value that can be put in a knapsack of a capacity cap,
+    whereby each weight w has a specific value val.
+    
+    >>> cap = 50
+    >>> val = [60, 100, 120]
+    >>> w = [10, 20, 30]
+    >>> c = len(val)
+    >>> knapsack(cap, w, val, c)
+    220
+    
+    The result is 220 cause the values of 100 and 120 got the weight of 50
+    which is the limit of the capacity.
+```
 
----
-
-## Tests
+## Tests:-
 
 `.` contains Python unit tests which can be run with `python3 -m unittest -v`.
+## Output Test:-
+    
+```sh
+    $ python3 test_knapsack.py 
+    ...
+    ----------------------------------------------------------------------
+    Ran 3 tests in 0.000s
+
+    OK
+
+```
+
+## Author(s):-
+[Danang Haris Setiawan](https://github.com/danangharissetiawan)
+
