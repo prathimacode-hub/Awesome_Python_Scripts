@@ -1,4 +1,4 @@
-# :guitar: **GUITAREX- LEARNING MADE EASIER**
+# 🎼 **SCALE CHART FOR MUSICAL COMPOSITION**
 <p align="center">
   <img width="500" height="300" src="https://media.giphy.com/media/EA4ZexjGOnfP2/giphy.gif">
 </p>
