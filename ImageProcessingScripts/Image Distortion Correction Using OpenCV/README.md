@@ -1,4 +1,4 @@
-# :camera: **CAMERA CALIBRATION USING OPENCV** *(COMPUTER VISION)*
+# :camera: **IMAGE DISTORTION CORRECTION USING OPENCV** *(COMPUTER VISION)*
 
 ## :bulb: **INTRODUCTION**
 *   Camera calibration is the process of estimating intrinsic and/or 
