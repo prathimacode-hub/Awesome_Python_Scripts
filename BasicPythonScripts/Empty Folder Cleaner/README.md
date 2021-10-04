@@ -69,6 +69,6 @@ python empty_folder_cleaner.py
   </tr>
 </table>
 
-## Author
+## Developer
 
 [Dark Coder Cat | Vansh](https://github.com/dark-coder-cat)
