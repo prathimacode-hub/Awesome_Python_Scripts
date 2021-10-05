@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
-original_image = cv2.imread(r"C:\Users\Aryan\PycharmProjects\Image Segmentation Using K Means Cllustering\photo.jpg")
+original_image = cv2.imread(r"C:\Users\Aryan\PycharmProjects\Image Segmentation Using K Means Cllustering\photo.jpg") #change the image directory as per your file location
 img=cv2.cvtColor(original_image,cv2.COLOR_BGR2RGB)
 vectorized = img.reshape((-1,3))
 vectorized = np.float32(vectorized)
