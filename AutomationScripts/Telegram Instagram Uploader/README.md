@@ -25,9 +25,11 @@ To Allow Telegram Users, to easily Upload Videos saved on Telegram to Instagram 
 
 ## Setup instructions
 - Just You need is Install [`python`](https://www.python.org) on your device.
+- Clone the Project and Move to Current Directory.
 
 ## Compilation Steps
 - Check and fill the Required Values in `telegram_instagram.py`
+- If Required Vars are not Filed, you will be asked to Fill Required Vars in Input..
 - Install Requirements
    - `pip3 install -r requirements.txt`
 - Run the main Script
