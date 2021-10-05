@@ -22,7 +22,7 @@ This project helps us easily convert .json files into .xlsx files
 
 ## Output
 
-![](IMAGES/process.jpg)
+![](Images/process.jpg)
 
 
 ## Author(s)
