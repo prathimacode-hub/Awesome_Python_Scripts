@@ -36,7 +36,7 @@ Client = TelegramClient("Tele-Insta-BOT", api_id=API_ID, api_hash=API_HASH)
 Client = Client.start(bot_token=TG_BOT_TOKEN)
 
 
-# Function/Haner to get Telegram Event Update with Video And Chat Filter.
+# Function/Handler to get Telegram Event Update with Video And Chat Filter.
 @Client.on(NewMessage(chats=TG_CHATIDS, func=lambda e: e.video))
 async def upload_to_insta(event):
     msg = await event.reply("Downloading Video...")
@@ -52,7 +52,7 @@ async def upload_to_insta(event):
     m = "Uploaded to Instagram\n"
     m += f"https://instagram.com/p/{video.code}"
     await msg.edit(m)
-    os.remove(file)  # remove file adter use..
+    os.remove(file)  # remove file after use..
 
 
 with Client:
