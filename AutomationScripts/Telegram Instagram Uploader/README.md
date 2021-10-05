@@ -35,11 +35,11 @@ To Allow Telegram Users, to easily Upload Videos saved on Telegram to Instagram 
 
 ## Output
 ### AT TELEGRAM
-<img src="./images/output1.jpg">
+<img src="./Images/output1.jpg">
 <hr>
 
 #### AT INSTAGRAM
-<img src="./images/output2.jpg">
+<img src="./Images/output2.jpg">
 
 
 ## Author(s)
