@@ -17,4 +17,4 @@ Generating random passwords using python
 User needs a Python IDE to run the program
 
 ### FOR ANY DOUBTS
-[Linkedin](www.linkedin.com/in/kataria-yash)
+www.linkedin.com/in/kataria-yash
