@@ -1,0 +1,6 @@
+numpy==1.21.2
+matplotlib==3.3.2
+streamlit==0.82.0
+mplcyberpunk==0.1.11
+pandas==1.3.2
+seaborn==0.11.0
