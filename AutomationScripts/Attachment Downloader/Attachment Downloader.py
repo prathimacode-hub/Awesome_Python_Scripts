@@ -1,3 +1,7 @@
+# TBD
+# Python 3.10.
+
+
 import imaplib
 import base64
 import os
