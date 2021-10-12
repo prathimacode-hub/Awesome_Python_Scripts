@@ -46,5 +46,4 @@
 - [Stock Visualizer](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Stock%20Visualiser)
 - [Stone Paper Pencil Rubber Scissor](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Stone%20Paper%20Pencil%20Rubber%20Scissor)
 - [Word Cloud](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Word%20Cloud)
-
-
+- [CLI Calculator](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/CLI%20Calculator)
