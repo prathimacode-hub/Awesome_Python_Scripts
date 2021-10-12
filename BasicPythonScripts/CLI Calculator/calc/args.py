@@ -1,23 +1,23 @@
-"""Calculadora utilizando ArgumentParser."""
+"""CLI Calculator using ArgumentParser."""
 
 from argparse import ArgumentParser
 
-from calc import soma, sub, mult, div
+from calc import sum_, sub, mult, div
 
 
-parser = ArgumentParser(description='Calculadora')
+parser = ArgumentParser(description='Calculator')
 
-parser.add_argument('--sum', help='Operação de soma', action='store_true')
-parser.add_argument('--sub', help='Operação de subtração', action='store_true')
-parser.add_argument('--mult', help='Operação de multiplicação', action='store_true')
-parser.add_argument('--div', help='Operação de divisão', action='store_true')
-parser.add_argument('x', type=int, help='Primeiro valor')
-parser.add_argument('y', type=int, help='Segundo valor')
+parser.add_argument('--sum', help='Sum operation', action='store_true')
+parser.add_argument('--sub', help='Subtraction operation', action='store_true')
+parser.add_argument('--mult', help='Multiplication operation', action='store_true')
+parser.add_argument('--div', help='Division operation', action='store_true')
+parser.add_argument('x', type=int, help='First value')
+parser.add_argument('y', type=int, help='Second value')
 
 args = parser.parse_args()
 
 if args.sum:
-    print(f'{soma(args.x, args.y)}')
+    print(f'{sum_(args.x, args.y)}')
 
 if args.sub:
     print(f'{sub(args.x, args.y)}')

@@ -1,22 +1,24 @@
 
-def soma(x :int, y: int) -> int:
-    """Função de soma."""
+
+def sum_(x: int, y: int) -> int:
+    """Sum function."""
     return x + y
 
 
-def sub(x :int, y: int) -> int:
-    """Função de subtração."""
+def sub(x: int, y: int) -> int:
+    """Substration function."""
     return x - y
 
-def mult(x :int, y: int) -> int:
-    """Função de multiplicação."""
+
+def mult(x: int, y: int) -> int:
+    """Multiplication function."""
     return x * y
 
 
-def div(x :int, y: int) -> int:
-    """Função de divisão."""
+def div(x: int, y: int) -> int:
+    """Division function."""
     try:
         return x / y
 
     except ZeroDivisionError:
-        return 'Divisao por zero mal sucedida!!'
+        return "Division by zero isn't possible!!"
