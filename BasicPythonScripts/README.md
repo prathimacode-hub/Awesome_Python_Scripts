@@ -19,6 +19,7 @@
 - [Movie Information Detailer](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Movie%20Information%20Detailer)
 - [Real-Time Currency Converter](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Real-Time%20Currency%20Converter)
 - [Sending HTML Email](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Sending%20HTML%20Email)
+- [Show gmail feed](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Show%20gmail%20feed)
 - [Tracking Phone Number](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Tracking%20Phone%20Number)
 - [Adventure Based Game](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Adventure%20Based%20Game(Text%20Game))
 - [Age Predictor Chatbot](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts/Age%20Predictor%20Chatbot)
