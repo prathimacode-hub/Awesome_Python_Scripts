@@ -7,12 +7,12 @@ import base64
 import os
 import email
 
-email_user = input('Email: ')
-email_pass = input('Password: ')
+user_email_add = input('Email: ')
+pass_email_add = input('Password: ')
 
 mail = imaplib.IMAP4_SSL('imap.gmail.com', 993)
 
-mail.login(email_user, email_pass)
+mail.login(user_email_add, pass_email_add)
 
 mail.select()
 
