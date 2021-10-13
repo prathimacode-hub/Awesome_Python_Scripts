@@ -1,0 +1,4 @@
+instagrapi==1.14.4
+telethon==1.23.0
+cryptg==0.2.post4
+moviepy==1.0.3
