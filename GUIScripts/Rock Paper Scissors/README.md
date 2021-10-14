@@ -21,7 +21,7 @@ pip install pillow
 # Running the file
 You can run the file by writing the below command in your terminal/command line
 ```bash
-python main.py
+python rock_paper_scissors.py
 ```
 Be sure to reslove the dependencies before running the program
 
