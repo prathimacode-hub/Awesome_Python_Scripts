@@ -23,10 +23,6 @@ limit 1000
 ```
 
 ## Output
-### sql_parser.columns
-````
-
-````
 
 ### sql_parser.columns
 ````
