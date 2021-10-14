@@ -1,4 +1,4 @@
 Install following Libraries:
-pip install email
-pip install pybase64
-pip install pycopy-imaplib
+email
+pybase64
+pycopy-imaplib
