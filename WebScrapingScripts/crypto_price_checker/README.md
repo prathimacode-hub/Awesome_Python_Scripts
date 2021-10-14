@@ -38,12 +38,6 @@ Explained above
 
 Explained above
 
-
-## Output
-
-Display images/gifs/videos of output/result of your script so that users can visualize it
-
-
 ## Author(s)
 
 Varun Kumar
