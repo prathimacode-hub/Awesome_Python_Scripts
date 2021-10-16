@@ -44,7 +44,11 @@ This project doesn't need to be compiled.
 
 ## Output
 
-Display images/gifs/videos of output/result of your script so that users can visualize it
+**Sum function**
+![calc_argparser](./calc_argparser.png)
+
+**Help**
+![calc_argparser_help](./calc_argparser_helper.png)
 
 
 ## Conclusion
