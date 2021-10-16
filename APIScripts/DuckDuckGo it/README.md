@@ -12,7 +12,7 @@
 ---
 ## Output Images
 
-![Output_example1](Images/Capture.PNG)
+![Output_example1](images/Capture.PNG)
 ---
 
 ## Author:
