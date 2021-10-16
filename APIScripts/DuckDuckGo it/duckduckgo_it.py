@@ -16,15 +16,10 @@ def main():
 
             # Printing search result here
             print('Heading:',response['Heading'])
-            
             print('\nAbstract:',response['Abstract'])
-            
             print('\nAbstract source:',response['AbstractSource'])
-            
             print('\nAbstract text:',response['AbstractText'])
-            
             print('\nDefinition:',response['Definition'])
-
             print('Related Topic:')
             
             related_no = 2          # Will show only no of text in realted topics
