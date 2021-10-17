@@ -1,0 +1,8 @@
+certifi==2020.6.20
+chardet==3.0.4
+Discord-Webhooks==1.0.4
+idna==2.8
+requests==2.21.0
+schedule==0.6.0
+selenium==3.141.0
+urllib3==1.24.3
