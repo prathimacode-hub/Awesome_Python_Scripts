@@ -25,4 +25,4 @@ python rock_paper_scissors.py
 ```
 Be sure to reslove the dependencies before running the program
 
-Enjoy!!
+Enjoy the gane!!
