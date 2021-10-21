@@ -1,21 +1,46 @@
-# DuckDuckGo it API
+# DuckDuckGo it
 
-**Description :** A simple python program that gives search result form popular search engine DuckDuckGo with the help of 'https://api.duckduckgo.com/?q=DuckDuckGo&format=json&pretty=1' API ( No API Key required )
+## Aim
 
-**Imported modules:**
-- requests
+The main aim of the project is to search something without opening a browser.
 
-**Website URL** : https://api.duckduckgo.com/?q=DuckDuckGo&format=json&pretty=1
 
-**API Documentation URL** : https://duckduckgo.com/api
+## Purpose
 
----
-## Output Images
+This project is using DuckDuckGo API which will return search result without using browser.
+
+
+## Short description of package/script
+
+- API used is DuckDuckGo api https://duckduckgo.com/api.
+- requests module is used for extracting data.
+- It is a standalone script which will give search result.
+
+
+
+## Workflow of the Project
+
+First search term is taken from user and then it is searched by api after that Heading, Abstract, AbstractSource, AbstractText, Definition 
+and two Related Topic are shown as result.
+
+
+## Setup instructions
+
+Install Python Install all requirements by pip install -r requirements.py <br>
+Run python duckduckgo_it.py
+
+
+## Output
 
 ![Output_example1](images/Capture.PNG)
----
 
-## Author:
-Atharva Bhandvalkar
 
+## Conclusion
+
+This project will return the search result without opening browser.
+
+
+## Author(s)
+
+Atharva Bhandvalkar <br>
 You can connect with me at : https://www.github.com/a-tharva
