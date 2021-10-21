@@ -49,7 +49,7 @@ There are few things you need to configure before running this bot.
 
 ## Output
 
-
+![Input](https://github.com/hr1shu/Awesome_Python_Scripts/blob/main/AutomationScripts/Microsoft%20Teams%20Class%20Attender/images/output-bot.png)
 
 
 
