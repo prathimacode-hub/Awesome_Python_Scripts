@@ -1,0 +1,6 @@
+pip install pyaudio
+pip install SpeechRecognition
+pip install pygame
+pip install tkinter
+import math
+import mixer
