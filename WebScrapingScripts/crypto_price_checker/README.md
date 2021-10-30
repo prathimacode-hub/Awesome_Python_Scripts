@@ -1,4 +1,4 @@
-##Crypto Price Checker
+## Crypto Price Checker
 
 ## Aim
 
