@@ -4,9 +4,11 @@
 
 The main aim of the project you want to achieve.
 
+
 ## Purpose
 
 What's the purpose of this project
+
 
 ## Short description of package/script
 
@@ -38,6 +40,11 @@ Briefly show the compilation steps of the project
 ## Output
 
 Display images/gifs/videos of output/result of your script so that users can visualize it
+
+
+## Conclusion
+
+Provide overall summary and proper conclusion to your project
 
 
 ## Author(s)

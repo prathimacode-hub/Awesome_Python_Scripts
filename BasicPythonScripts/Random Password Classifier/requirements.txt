@@ -1,0 +1,2 @@
+- Import string library
+Must have a Python IDE

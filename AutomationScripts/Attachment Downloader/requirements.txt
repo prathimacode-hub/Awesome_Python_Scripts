@@ -1,0 +1,4 @@
+Install following Libraries:
+email
+pybase64
+pycopy-imaplib
