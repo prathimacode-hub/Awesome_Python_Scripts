@@ -36,9 +36,9 @@ In order to run this code in your system, one needs to make sure that relevant l
 <br>
  ![image](https://user-images.githubusercontent.com/74582422/139575631-7ea06e9e-4159-4cff-a9e6-5755f322a6d2.png)
 Request call getting 200 means API call successfull <br>
-![image](https://user-images.githubusercontent.com/74582422/139575666-698309f4-2f46-4812-bf81-f0141aa6bc37.png)
+![Address](Images/address_faker.png) <br>
 Fake Address Generation eg <br>
-![image](https://user-images.githubusercontent.com/74582422/139575688-d74084e4-067d-43c4-9185-2c206dc276c3.png)
+![image](https://github.com/photon149/Awesome_Python_Scripts/blob/ea13cbf25bf5b8ec037806361de42dc6423a2c11/APIScripts/Faker%20API/Images/creditcard_faker.png)
 Fake credit card details generated <br>
 ![image](https://user-images.githubusercontent.com/74582422/139575702-3038ae81-b8e7-44df-ad72-8d708be3d278.png)
 Fake location generation <br>
