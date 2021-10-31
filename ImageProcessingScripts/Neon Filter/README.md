@@ -13,10 +13,10 @@ In this project a normal RGB image is converted into its neon or glow image usin
 
 # Screenshots
 
-![Neon Filter](Media/Screenshot 1)
+![Image Neon Effect Filter](Media/Screenshot 1)
 
 
-![Neon Filter](Media/Screenshot 2)
+![Image Neon Effect Filter](Media/Screenshot 2)
 
 
 # Author
