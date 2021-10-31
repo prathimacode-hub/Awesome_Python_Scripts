@@ -24,3 +24,13 @@ pip install datetime
 ### Changes Need In the code
 * Change the Google meet links (starting from line 65)
 * Change the time of classes according to your need
+
+
+## Step01
+<img src="Images/gm01.png">
+
+## Step02
+<img src="Images/gw02.png">
+
+## Step03
+<img src="Images/gw03.png">
