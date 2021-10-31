@@ -21,3 +21,6 @@ pip install time
 pip install datetime
 
 ```
+### Changes Need In the code
+* Change the Google meet links (starting from line 65)
+* Change the time of classes according to your need
