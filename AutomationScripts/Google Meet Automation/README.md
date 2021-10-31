@@ -32,5 +32,3 @@ pip install datetime
 ## Step02
 <img src="Images/gw02.png">
 
-## Step03
-<img src="Images/gw03.png">
