@@ -10,7 +10,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 
 print("THIS IS A PROGRAM FOR GMEET AUTOMATION\nThis PROGRAM WILL HELP YOU TO JOIN YOUR CLASSES ON TIME\nTHANKS TO SANSKAR DWIVEDI FOR MAKING THIS\n\n")
-
+#checking for todays time and day
 now = datetime.now()
 current_day = now.strftime("%H:%M/%A")
 print(current_day)
@@ -21,25 +21,25 @@ print(current_day)
 while True:
     now = datetime.now()  # check the current system time
     day=now.strftime("%A")
-    justtime=int(now.strftime("%H%M"))
+    justtime=int(now.strftime("%H%M"))#taking time and day
     print(justtime)
     s=now.strftime("%S")
     se=int(s) 
     
-    while(940<=justtime):
-        #MATHS SHEDULE
+    while(940<=justtime):  #checking for the condition of time
+        #MATHS SHEDULE for different classes according to day
         if(day=="Monday" and 955<=justtime<=1050 or day=="Wednesday" and 955<=justtime<=1050 or day=="Thursday" and 1055<=justtime<=1250 or day=="Friday" and 1255<=justtime<=1250):
             pyautogui.prompt(text="YOU ARE JOINING TO MATHS CLASS HOPE YOU COMPLETED THE PREVIOUS STUFFS")
             time.sleep(2)
             webbrowser.get("C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s").open_new("https://meet.google.com/weg-kaez-ytb")
             
             
+            time.sleep(5)#sleep for 5s
+            pyautogui.click(659, 960) #click for join
             time.sleep(5)
-            pyautogui.click(659, 960)
+            pyautogui.hotkey('ctrl','d') #to turnoff camera
             time.sleep(5)
-            pyautogui.hotkey('ctrl','d')
-            time.sleep(5)
-            pyautogui.click(1425, 720)
+            pyautogui.click(1425, 720) #turnoff mike
             time.sleep(2500)
             break
         #BEE SHEDULE
