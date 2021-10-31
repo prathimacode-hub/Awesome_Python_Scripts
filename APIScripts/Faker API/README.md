@@ -34,16 +34,17 @@ In order to run this code in your system, one needs to make sure that relevant l
 
 ## Outputs
 <br>
- ![image](https://user-images.githubusercontent.com/74582422/139575631-7ea06e9e-4159-4cff-a9e6-5755f322a6d2.png)
-Request call getting 200 means API call successfull <br>
-![Address](Images/address_faker.png) <br>
-Fake Address Generation eg <br>
-![image](https://github.com/photon149/Awesome_Python_Scripts/blob/ea13cbf25bf5b8ec037806361de42dc6423a2c11/APIScripts/Faker%20API/Images/creditcard_faker.png)
-Fake credit card details generated <br>
-![image](https://user-images.githubusercontent.com/74582422/139575702-3038ae81-b8e7-44df-ad72-8d708be3d278.png)
-Fake location generation <br>
-![image](https://user-images.githubusercontent.com/74582422/139575726-e69dd5e4-fd92-4d19-a9b8-d8464590aaba.png)
-Fake People generation <br>
+Request call getting 200 means API call successfull 
+<img src = "Images/example_faker.png"><br>
+Fake Address Generation eg 
+<img src = "Images/address_faker.png"><br>
+Fake credit card details generated 
+<img src = "Images/creditcard_faker.png">
+Fake location generation
+<img src = "Images/location_faker.png"><br>
+Fake People generation 
+<img src = "Images/user_faker.png"><br>
+
 
 
 ## Author
