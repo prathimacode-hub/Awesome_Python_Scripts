@@ -1,4 +1,4 @@
-# Covid 19 Tracker
+# Faker API (Fake Data Generator)
 
 ## AIM
 To randomly generate fake data for further application
