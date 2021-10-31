@@ -1,4 +1,0 @@
-Libraries used : 
-1) requests
-2) json
-3) smtplib
