@@ -166,7 +166,7 @@ You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Awes
 This project follows the [MIT License](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/LICENSE).
 
 
- <h2>✔Project Maintainer</h2>
+<h2>✔Project Maintainer</h2>
 
 <table>
   <tr>
