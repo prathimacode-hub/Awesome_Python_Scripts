@@ -1,0 +1,3 @@
+Pillow==8.4.0
+PySimpleGUI==4.55.1
+pytesseract==0.3.8
