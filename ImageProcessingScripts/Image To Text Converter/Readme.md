@@ -114,6 +114,8 @@ defeated.
 MAYA ANGELOU
 ```
 
+![GIF](./Images/IMAGE2TEXT.gif)
+
 ## Conclusion
 
 Thus in this way we have used the pytesseract module and the OCR to detect characters in the given image. This project uses PySimpleGUI which is a simpler yet elegant way for making ui in python.
