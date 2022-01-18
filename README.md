@@ -37,21 +37,21 @@ Anyone related to technology who is looking to contribute to open-source is all 
 **| BasicPythonScripts | WebScrapingScripts | APIScripts | GUIScripts | AutomationScripts | PyGamesScripts | ImageProcessingScripts | EthicalHackingScripts |**
 
 
-**BasicPythonScripts** - This repository would have basic python scripts which are useful to get started with programming before you dive into real time projects.
+**[BasicPythonScripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/BasicPythonScripts)** - This repository would have basic python scripts which are useful to get started with programming before you dive into real time projects.
 
-**WebScrapingScripts** - This repository would have webscraping scripts which is a data scraping technique used for extracting data from websites.
+**[WebScrapingScripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/WebScrapingScripts)** - This repository would have webscraping scripts which is a data scraping technique used for extracting data from websites.
 
-**APIScripts** - This repository would have application programming interfacing (API) scripts which would help in performing operations programmatically and deploy projects as apps.
+**[APIScripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/APIScripts)** - This repository would have application programming interfacing (API) scripts which would help in performing operations programmatically and deploy projects as apps.
 
-**GUIScripts** - This repository would have all graphical user interface (GUI) scripts which would create an interface and performs the operations visually unlike command line.
+**[GUIScripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/GUIScripts)** - This repository would have all graphical user interface (GUI) scripts which would create an interface and performs the operations visually unlike command line.
 
-**AutomationScripts** - This repository would contain automation scripts that would automate your tasks efficiently and helps you in saving a lot of time.
+**[AutomationScripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/AutomationScripts)** - This repository would contain automation scripts that would automate your tasks efficiently and helps you in saving a lot of time.
 
-**PyGamesScripts** - This repository would have all the wide range of games scripts that can programmed and developed using python.
+**[PyGamesScripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/PyGamesScripts)** - This repository would have all the wide range of games scripts that can programmed and developed using python.
  
-**ImageProcessingScripts** - This repository would indulge with all image processing scripts that would help in beautifying and transforming the images.
+**[ImageProcessingScripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/ImageProcessingScripts)** - This repository would indulge with all image processing scripts that would help in beautifying and transforming the images.
 
-**EthicalHackingScripts** - This repository would include all the python based scripts which can be used as Ethical Hacking Tools.
+**[EthicalHackingScripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts/tree/main/EthicalHackingScripts)** - This repository would include all the python based scripts which can be used as Ethical Hacking Tools.
 
 When raising an issue, do make sure to mention the kind of script, project title, short description of the project and how would you expect it to work. As a good practice, always link the issue number with pull request. (#issue number : Give this details when you raise a PR).
 
