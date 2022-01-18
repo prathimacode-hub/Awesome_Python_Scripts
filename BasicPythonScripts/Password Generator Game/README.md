@@ -26,7 +26,7 @@ Copy the project to your local enviroment and that's all this code can be run on
 ## OUTPUT
 
 ## SCRENSHOT OF GAME
-![Game Image](screenshot.png)
+![Game Image](./Images/screenshot.png)
 
 ## AUTHOR(s)
 
