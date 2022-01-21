@@ -14,8 +14,8 @@ base.title("QR Code Generator")
 
 data = StringVar()
 
-dataEntry = Entry(textvariable=data, width="30")
-dataEntry.place(x=80,y=50)
+data_entry = Entry(textvariable=data, width="30")
+data_entry.place(x=80,y=50)
 
 button = Button(base,text="Get Code",command=get_code,width="30",height="2",bg="grey")
 button.place(x=80,y=100)
