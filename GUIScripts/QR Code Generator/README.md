@@ -14,4 +14,6 @@
 - A PNG format QR Code will be downloaded in the current working directory
 
 ## Preview: 
-![](./QRCODE.png)
+![](./Images/vivekScreen01.png)
+<br/>
+![](./Images/vivekScreen02.png)
