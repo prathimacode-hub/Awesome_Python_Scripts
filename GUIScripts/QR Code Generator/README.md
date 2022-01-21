@@ -9,7 +9,7 @@
 
 ## Procedure to follow: 
     pip install -r requirements.txt
-    python qrGenerator.py
+    python qr_generator.py
 - A GUI will open up, enter your text, press submit
 - A PNG format QR Code will be downloaded in the current working directory
 
