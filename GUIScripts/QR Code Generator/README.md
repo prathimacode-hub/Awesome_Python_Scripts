@@ -14,6 +14,4 @@
 - A PNG format QR Code will be downloaded in the current working directory
 
 ## Preview: 
-
-![](./Image/QRCODE.png)
-
+![](./QRCODE.png)
