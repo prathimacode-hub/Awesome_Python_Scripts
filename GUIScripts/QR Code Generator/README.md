@@ -18,8 +18,13 @@ To share information in a for of QR code which could work offline.
 
 ## Setup instructions
 
+To install the dependencies
 `
 pip install -r requirements.txt
+`
+
+To run the script
+`
 python qr_generator.py
 `
 - A GUI will open up, enter your text, press submit
