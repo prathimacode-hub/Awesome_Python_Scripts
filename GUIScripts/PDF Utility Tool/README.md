@@ -18,6 +18,9 @@ This tool makes it easy to perform the following operations:
 
 - This PDF tool utilizes `PyPDF` module to work with PDF
 - The GUI is made with the `tkinter`.
+- The script shows a window with button for every action that is available to perform
+- The script uses `askfilename` in `tkinter` to get the file from the user while staying in the GUI.
+- Program also has an information label which is responsible of showing the process success messages 
 
 ## Setup instructions
 
