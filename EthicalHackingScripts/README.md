@@ -10,3 +10,5 @@
 <h3>Projects Contributed</h3>
 
 - [Family Key Logger](Family%20Key%20Logger)
+- [Get Saved Wi-Fi Passwords](https://github.com/vivekthedev/Awesome_Python_Scripts/tree/main/EthicalHackingScripts/Get%20Saved%20Passwords)
+- [UnSecure CLI](https://github.com/vivekthedev/Awesome_Python_Scripts/tree/main/EthicalHackingScripts/UnsecureCLI)
