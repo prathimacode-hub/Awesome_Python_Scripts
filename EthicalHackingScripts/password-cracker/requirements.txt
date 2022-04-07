@@ -1,0 +1,2 @@
+1) installing the 'pynput' module through terminal and then importing notification 
+2) installing the 'win10toast' module through terminal and then importing notification
