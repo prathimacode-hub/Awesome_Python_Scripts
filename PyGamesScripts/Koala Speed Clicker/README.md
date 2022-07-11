@@ -1,33 +1,36 @@
-# Jumbled Words Guessing Game 
-Jumbled words guessing game is a game developed in python programming Language using random module and tkinter module.
+# Koala Speed Clicker Game 
+Koala Speed Clicker is a game developed in Python Programming Language using threading module and turtle module.
+
+## Aim
+The aim of the project is to create a simple clicking game using Python Graphic Turtle Module.
+
+## Purpose
+The purpose of this project is to give the user a gaming experience of playing speed clicking games. 
 
 ## About the game
-* It is a single player word guessing game
-* The user can keep guessing words as long as he wants to play
+* It is a single player game.
+* The more clicks user has, the more points user obtains.
 
 ## How to play? 
-* The user has to press the start button to start playing the game
-* The user has to choose a category he wishes from the given list
-* Then the jumbled word will be displayed
-* The user has to type the word he thinks is the right word in the box provided and press the submit button
-* If the user found the right word  the game will automatically move to the next word after the message
-* A pop up box will show if the answer is right or wrong
-* If the user wants to see the answer he can press the answer button which will provide the ans
-* If the user wants to go to the next word without trying  the present word or after seeing the answer for the given word he can press the next word button
-* If the user wants to exit the game he can click the exit button 
+* The user has to spam click the Koala image directly using the mouse button within 5 seconds after compiling the game.
+* After 5 seconds, the total clicks or score will be shown and determine if the user clicks fast enough.
+* After that, user can exit by clicking the screen.
 
 ## Setup instructions
-1. Install Python 3.x (recommended) from https://www.python.org/downloads/
-2. Download this repository as zip and extract.
-3. Run the code and start playing.
-4. Have fun!!
+1. Install Python 3.x from https://www.python.org/downloads/
+2. Install any Python IDE that is preferred (PyCharm is recommended).
+3. Download this repository as zip and extract.
 
-## Real time use and purpose
- * It is used to play jumbled words game which sharpens your mind and is also a source of distraction 
+## Compilation Steps
+1. Open the extracted folder through the IDE.
+2. Debug and Run your code
+3. Have Fun!
 
 ## Output
-![GitHub Logo](Images/guessing.png)
-
+<img src="Images/output1.png">
+<img src="Images/output2.png">
+<img src="Images/output3.png">
+<img src="Images/output4.png">
 
 ## Author
-K.Harshitha
+Name of author : [Jessica Clarita](https://github.com/jessicaclarita)
