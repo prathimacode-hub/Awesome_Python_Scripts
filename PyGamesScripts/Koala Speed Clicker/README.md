@@ -27,10 +27,10 @@ The purpose of this project is to give the user a gaming experience of playing s
 3. Have Fun!
 
 ## Output
-<img src="...\Awesome_Python_Scripts\PyGamesScripts\Koala Speed Clicker\Images\ouput1.png">
-<img src="...\Awesome_Python_Scripts\PyGamesScripts\Koala Speed Clicker\Images\ouput1.png">
-<img src="...\Awesome_Python_Scripts\PyGamesScripts\Koala Speed Clicker\Images\ouput1.png">
-<img src="...\Awesome_Python_Scripts\PyGamesScripts\Koala Speed Clicker\Images\ouput1.png">
+![](Images/output1.png)
+![](Images/output2.png)
+![](Images/output3.png)
+![](Images/output4.png)
 
 ## Author
 Name of author : [Jessica Clarita](https://github.com/jessicaclarita)
