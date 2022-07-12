@@ -2,19 +2,23 @@
 
 import turtle
 from threading import Timer
+import glob
 
 # set up the screen
 t = turtle.Screen()
 t.setup(1000, 589)
 
+# import images from Images folder
+images = glob.glob('Images/*.gif')
+
 # set title and background picture
 t.title("Speed Clicker Game")
-t.bgpic("background1.gif")
+t.bgpic(images[0])
 
 # insert image
-t.register_shape("koala.gif")
+t.register_shape(images[1])
 koala = turtle.Turtle()
-koala.shape("koala.gif")
+koala.shape(images[1])
 koala.speed(0)
 
 # set up the pen or text

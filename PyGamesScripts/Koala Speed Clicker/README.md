@@ -1,5 +1,5 @@
 # Koala Speed Clicker Game 
-Koala Speed Clicker is a game developed in Python Programming Language using threading module and turtle module.
+Koala Speed Clicker is a game developed in Python Programming Language using threading, turtle, and glob modules.
 
 ## Aim
 The aim of the project is to create a simple clicking game using Python Graphic Turtle Module.
@@ -27,10 +27,10 @@ The purpose of this project is to give the user a gaming experience of playing s
 3. Have Fun!
 
 ## Output
-<img src="Images/output1.png">
-<img src="Images/output2.png">
-<img src="Images/output3.png">
-<img src="Images/output4.png">
+<img src="...\Awesome_Python_Scripts\PyGamesScripts\Koala Speed Clicker\Images\ouput1.png">
+<img src="...\Awesome_Python_Scripts\PyGamesScripts\Koala Speed Clicker\Images\ouput1.png">
+<img src="...\Awesome_Python_Scripts\PyGamesScripts\Koala Speed Clicker\Images\ouput1.png">
+<img src="...\Awesome_Python_Scripts\PyGamesScripts\Koala Speed Clicker\Images\ouput1.png">
 
 ## Author
 Name of author : [Jessica Clarita](https://github.com/jessicaclarita)
