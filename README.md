@@ -1,4 +1,6 @@
-# Welcome to Awesome_Python_Scripts👋
+<div align="center">
+  <h1>Welcome to Awesome_Python_Scripts 👋🚗</h1>
+</div>
 
 <p align="center">
 <img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Awesome_Python_Scripts.png"></a>
@@ -23,14 +25,14 @@
 </p>
 
 
-<h2>📌Repository</h2>
+## 📌Repository
 
 A Curated Collection of Awesome **Python** Scripts that will make you go wow. This repository will help you in getting those green squares. Hop in and enjoy the journey of open source. 🚀
 
 The main aim is to provide an efficient and beginner-friendly project that would help you in mastering Python and make you familiar with it. Turn yourself into a pro with all the hands-on that got you covered.
 
 
-<h2>🙌Join Here</h2>
+## 🙌Join Here
 
 Anyone related to technology who is looking to contribute to open-source is all invited to hop in. This place has a task for everyone.
 
@@ -60,14 +62,14 @@ If you worked on or want to initiate a unique project and share it with the worl
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
-<h2>🌱Pre-requisites</h2>
+## 🌱Pre-requisites
 
 - Python IDE : Install it by using this link [python.org](https://www.python.org/downloads/)
 - If you are new to python programming and want to have a fair knowledge before you start working on it, you can learn it in a simplified way through this [repository](https://github.com/prathimacode-hub/Learn-Python-For-Beginners).
 - To make you familiarize with how programming works in python with proper structuring and algorithms, here I present a [project](https://github.com/prathimacode-hub/PyAlgo-Tree) created specifically for contributors who wants to explore and practice their concepts.
 
 
-<h2>🛠Templates to Follow</h2>
+## 🛠Templates to Follow
 
 - [Feature request](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/issue_template/feature_request.md)
 - [Bug Report](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/issue_template/bug_report.md)
@@ -77,7 +79,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 **Note** : One should follow these templates while creating a new issue or pull request. 
 
 
-<h2>📝Project Structure</h2>
+## 📝Project Structure
 
 Your projects should contain this flow to maintain similarity across all other projects. Make sure to note these things, before you create a PR.
 
@@ -96,7 +98,7 @@ The project repository you had created would have :
 **Related files** - The other additional and related files would be added up in "Related" folder.
 
 
-<h2>⚙️ Things to Note</h2>
+## ⚙️Things to Note
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
 * You can only work on issues that have been assigned to you.
@@ -107,7 +109,7 @@ The project repository you had created would have :
 * Do not update the **[README.md](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/README.md).**
 
 
-<h2>👨‍💻 Workflow:</h2>
+## 👨‍💻Workflow:
 
 - Fork the repository
 
@@ -120,26 +122,32 @@ The project repository you had created would have :
 - Then in GitHub, in your cloned repository, find the option to make a pull request. 
 
 > print("Start contributing for Awesome_Python_Scripts")
-
-
-<h2>👍 OpenSource Programs</h2>
-
+ 
+ 
+ ## ❄️Open Source Programs
+ 
 <table>
 <tr>
-  <td>
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a> 
+ <td align="center">
+<a href="https://letsgrowmore.in/soc/"><img src="" width=100px height=100px /><br /><sub><b>LetsGrowMore SoC 2021</b></sub></a>
  </td>
- <td>
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/DevIncept%20Contribution%20Program/DevIncept.jpg" width=150px height=150px /></a> 
+ <td align="center">
+<a href="https://contribute.devincept.com/"><img src="" width=100px height=100px /><br /><sub><b>DevIncept Codes 2021</b></sub></a>
  </td>
- <td>
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/Hacktober%20Fest/Hacktoberfest-2021.jpg" width=140px height=60px /></a>
+  <td align="center">
+<a href="https://hacktoberfest.digitalocean.com/"><img src="" width=100px height=100px /><br /><sub><b>Hacktoberfest 2021</b></sub></a>
  </td>
 </tr>
 </table>
- 
 
-<h2> ✨ Hall Of Fame </h2>
+
+<!-- 
+Achievements
+Content
+Leaderboard -->
+
+
+## ✨Hall Of Fame
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
@@ -156,17 +164,17 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-<h2>📜 Code Of Conduct</h2>
+## 📜Code Of Conduct
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/CODE_OF_CONDUCT.md).
 
 
-<h2>📝 License</h2>  
+## 📝License
 
 This project follows the [Mozilla Public License 2.0](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/LICENSE).
 
 
-<h2>✔Project Maintainer</h2>
+## ✔Project Maintainer
 
 <table>
   <tr>
@@ -175,10 +183,13 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 </table>
 
 
-<h2>🙂 Project Admin</h2>
+## 😎Project Admin
 
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=100px height=100px /></a>
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width="80px;" alt=""/><br /><sub><b>Prathima Kadari</b></sub></a></td>
+  </tr>
+</table>
 
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
