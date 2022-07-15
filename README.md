@@ -129,13 +129,13 @@ The project repository you had created would have :
 <table>
 <tr>
  <td align="center">
-<a href="https://letsgrowmore.in/soc/"><img src="" width=100px height=100px /><br /><sub><b>LetsGrowMore SoC 2021</b></sub></a>
+<a href="https://hacktoberfest.digitalocean.com/"><img src="" width=100px height=100px /><br /><sub><b>Hacktoberfest 2021</b></sub></a>
  </td>
  <td align="center">
 <a href="https://contribute.devincept.com/"><img src="" width=100px height=100px /><br /><sub><b>DevIncept Codes 2021</b></sub></a>
  </td>
-  <td align="center">
-<a href="https://hacktoberfest.digitalocean.com/"><img src="" width=100px height=100px /><br /><sub><b>Hacktoberfest 2021</b></sub></a>
+ <td align="center">
+<a href="https://letsgrowmore.in/soc/"><img src="" width=100px height=100px /><br /><sub><b>LetsGrowMore SoC 2021</b></sub></a>
  </td>
 </tr>
 </table>
@@ -194,12 +194,12 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
 
-<h2>🌟 Stargazers Over Time 🌟</h2>
+## 🌟Stargazers Over Time🌟
 
 [![Stargazers over time](https://starchart.cc/prathimacode-hub/Awesome_Python_Scripts.svg)](https://starchart.cc/prathimacode-hub/Awesome_Python_Scripts)
 
 
-<h2>⭐Give this Project a Star</h2>
+## ⭐Give this Project a Star
 
 [![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimak88/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
 
@@ -208,12 +208,12 @@ If you liked working on this project, do ⭐ and share this repository.
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
 <!-- <sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects and</sup>*  <sup><kbd>***[Get In](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/Learning-Projects.md)***</kbd> *for learning projects.</sup>* <br>
-</td> -->
+</td> 
 
-<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects.</sup>* <br>
+<sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects.</sup>* <br> -->
 
 
-<h2>📬 Contact</h2>
+## 📬Contact 
 
 If you want to contact me, you can reach me through below handles.
 
