@@ -148,7 +148,6 @@ The project repository you had created would have :
     <td align="center"><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/DCP_SCORCARD.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>DevIncept Codes 2021</b></sub></a></td>
     <td align="center"><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/LGM_SCORECARD.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>LetsGrowMore Summer Of Code 2021</b></sub></a></td>
   </tr>
-  
 </table>
 
 
@@ -172,7 +171,7 @@ You can check out the project leaderboard here : [SWOC Leaderboard](https://gith
 -->
 
 
-## ✨Hall Of Fame
+## ✨ Hall Of Fame
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
