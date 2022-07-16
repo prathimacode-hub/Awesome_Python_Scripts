@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to Awesome_Python_Scripts 👋🚗</h1>
+  <h1>Welcome to Awesome_Python_Scripts 👋🥁</h1>
 </div>
 
 <p align="center">
@@ -25,14 +25,14 @@
 </p>
 
 
-## 📌Repository
+## 📌 Repository
 
 A Curated Collection of Awesome **Python** Scripts that will make you go wow. This repository will help you in getting those green squares. Hop in and enjoy the journey of open source. 🚀
 
 The main aim is to provide an efficient and beginner-friendly project that would help you in mastering Python and make you familiar with it. Turn yourself into a pro with all the hands-on that got you covered.
 
 
-## 🙌Join Here
+## 🙌 Join Here
 
 Anyone related to technology who is looking to contribute to open-source is all invited to hop in. This place has a task for everyone.
 
@@ -62,14 +62,14 @@ If you worked on or want to initiate a unique project and share it with the worl
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
-## 🌱Pre-requisites
+## 🌱 Pre-requisites
 
 - Python IDE : Install it by using this link [python.org](https://www.python.org/downloads/)
 - If you are new to python programming and want to have a fair knowledge before you start working on it, you can learn it in a simplified way through this [repository](https://github.com/prathimacode-hub/Learn-Python-For-Beginners).
 - To make you familiarize with how programming works in python with proper structuring and algorithms, here I present a [project](https://github.com/prathimacode-hub/PyAlgo-Tree) created specifically for contributors who wants to explore and practice their concepts.
 
 
-## 🛠Templates to Follow
+## 🛠 Templates to Follow
 
 - [Feature request](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/issue_template/feature_request.md)
 - [Bug Report](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/issue_template/bug_report.md)
@@ -79,7 +79,7 @@ Subsequently, also go through the GitHub documentation on [creating a pull reque
 **Note** : One should follow these templates while creating a new issue or pull request. 
 
 
-## 📝Project Structure
+## 📝 Project Structure
 
 Your projects should contain this flow to maintain similarity across all other projects. Make sure to note these things, before you create a PR.
 
@@ -98,7 +98,7 @@ The project repository you had created would have :
 **Related files** - The other additional and related files would be added up in "Related" folder.
 
 
-## ⚙️Things to Note
+## ⚙️ Things to Note
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
 * You can only work on issues that have been assigned to you.
@@ -109,7 +109,7 @@ The project repository you had created would have :
 * Do not update the **[README.md](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/README.md).**
 
 
-## 👨‍💻Workflow:
+## 👨‍💻 Workflow:
 
 - Fork the repository
 
@@ -124,7 +124,7 @@ The project repository you had created would have :
 > print("Start contributing for Awesome_Python_Scripts")
  
  
- ## ❄️Open Source Programs
+ ## ❄️ Open Source Programs
  
 <table>
 <tr>
@@ -141,10 +141,35 @@ The project repository you had created would have :
 </table>
 
 
+## 📊 Leaderboard 
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/DCP_SCORCARD.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>DevIncept Codes 2021</b></sub></a></td>
+    <td align="center"><a href="https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/LGM_SCORECARD.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>LetsGrowMore Summer Of Code 2021</b></sub></a></td>
+  </tr>
+  
+</table>
+
+
 <!-- 
-Achievements
 Content
-Leaderboard -->
+ -->
+
+<!--
+
+<h2> 📊 Points Category</h2>
+
+| Level of Issues | Points Allocated |
+| - | - |
+| Beginner | 10 Points 🔰|
+| Easy | 20 Points 🌱|
+| Medium | 30 Points 🌕|
+| Hard | 40 Points 🔥 |
+
+You can check out the project leaderboard here : [SWOC Leaderboard](https://github.com/prathimacode-hub/FarmArk/blob/main/.github/swoc_leaderboard.md)
+
+-->
 
 
 ## ✨Hall Of Fame
@@ -164,17 +189,17 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-## 📜Code Of Conduct
+## 📜 Code Of Conduct
 
 You can find our Code of Conduct [here](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/CODE_OF_CONDUCT.md).
 
 
-## 📝License
+## 📝 License
 
 This project follows the [Mozilla Public License 2.0](https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/LICENSE).
 
 
-## ✔Project Maintainer
+## ✔ Project Maintainer
 
 <table>
   <tr>
@@ -183,7 +208,7 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 </table>
 
 
-## 😎Project Admin
+## 😎 Project Admin
 
 <table>
   <tr>
@@ -194,12 +219,12 @@ This project follows the [Mozilla Public License 2.0](https://github.com/prathim
 ![Visitor Count](https://profile-counter.glitch.me/{prathimacode-hub}/count.svg)
 
 
-## 🌟Stargazers Over Time🌟
+## 🌟 Stargazers Over Time 🌟
 
 [![Stargazers over time](https://starchart.cc/prathimacode-hub/Awesome_Python_Scripts.svg)](https://starchart.cc/prathimacode-hub/Awesome_Python_Scripts)
 
 
-## ⭐Give this Project a Star
+## ⭐ Give this Project a Star
 
 [![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimak88/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
 
@@ -213,7 +238,7 @@ If you liked working on this project, do ⭐ and share this repository.
 <sup><kbd>***[Click Here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/GitHub%20Projects/OpenSource-Projects.md)***</kbd> *to view my open source projects.</sup>* <br> -->
 
 
-## 📬Contact 
+## 📬 Contact 
 
 If you want to contact me, you can reach me through below handles.
 
