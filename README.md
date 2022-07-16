@@ -62,6 +62,11 @@ If you worked on or want to initiate a unique project and share it with the worl
 Subsequently, also go through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
+<!-- 
+Content
+ -->
+ 
+
 ## 🌱 Pre-requisites
 
 - Python IDE : Install it by using this link [python.org](https://www.python.org/downloads/)
@@ -150,10 +155,6 @@ The project repository you had created would have :
   </tr>
 </table>
 
-
-<!-- 
-Content
- -->
 
 <!--
 
