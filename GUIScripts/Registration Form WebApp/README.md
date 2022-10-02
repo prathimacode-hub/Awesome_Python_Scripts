@@ -13,3 +13,5 @@ With the help of the PyWebIO module, we'll create a registration form. This Pyth
 * **select**: You can also select multiple options by setting the “multiple” parameter to True.
 
 ## Output:
+ <img width=50% src="../Registration Form WebApp/Images/form.jpg"> 
+ 
