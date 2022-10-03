@@ -14,4 +14,4 @@ With the help of the PyWebIO module, we'll create a registration form. This Pyth
 
 
 ## Output:
-<img src="../GUIScripts/Registration Form Web App/Images/form.jpg">
+<img width=50% src="../Registration Form Web App/Images/form.jpg">
