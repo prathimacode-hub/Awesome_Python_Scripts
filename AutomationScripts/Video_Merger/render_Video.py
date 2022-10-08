@@ -2,7 +2,7 @@ from moviepy.editor import VideoFileClip,concatenate_videoclips
 from listvideos import videoslist,pathOfVideo
 import os
 
-
+#Taking Input about Video Location. 
 def renderFinalVideo():
   videoNames=[VideoFileClip(os.path.join(pathOfVideo, video)) for video in videoslist]
   final_video = concatenate_videoclips(videoNames,method='compose')
