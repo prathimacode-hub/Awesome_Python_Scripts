@@ -1,4 +1,0 @@
-pandas
-bs4
-requests
-pip
