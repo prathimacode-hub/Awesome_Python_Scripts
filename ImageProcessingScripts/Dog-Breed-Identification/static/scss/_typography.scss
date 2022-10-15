@@ -1,0 +1,43 @@
+
+ /*----------  
+ 	Google fonts  
+ ----------*/
+ @import url('https://fonts.googleapis.com/css?family=Lora:400,700|Playfair+Display:400,400i,700,700i,900,900i|Poppins:300,400,500,600,700|Roboto:300,400,500,700');
+ 
+
+/* Global Body Style */
+body{
+	color: $white;
+	background: $brand-secondary;
+	font-family: $roboto;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+}
+
+/* Heading Fonts Size */
+h1,h2,h3{
+	font-family: $playfair;
+	color: $primary-color;
+}
+h1,h2{
+	font-weight: 700;
+}
+h4 {
+	font-family: $roboto;
+}
+h1{
+	font-size: 65px;
+}
+h2{
+	font-size: 40px;
+}
+h3{
+	font-size: 22px;
+}
+h4{
+	font-size: 18px;
+}
+p {
+	font-family: $roboto;
+}

@@ -1,0 +1,79 @@
+/**********************************************
+ Team Style
+***********************************************/
+	.team{
+		padding: 65px 0 0;
+		background: $medium-dark;
+		overflow-x: hidden;
+	}
+	.team-member{
+		position: relative;
+		img{
+			width: 100%;
+		}
+	}
+
+	/* Team Overlay Style */
+	.overlay{
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		padding: 75px 23px;
+		opacity: 0;
+		background: rgba(231,190,130,0.90);
+		transition: 0.4s;
+		&:hover{
+			opacity: 1;
+			.social-media , .content{
+				transform: translateY(0);
+			}
+		}
+		.content{
+			transition: 0.5s;
+			overflow: hidden;
+		    transform: translateY(50px);
+		    h4 {
+				margin-bottom: 3px;
+		    	font-family: $poppins;
+				text-transform: uppercase;
+				margin: 0;
+				font-weight: 500;
+				color: rgba(18, 18, 18, 0.80);
+		    }
+		    span {
+				color: rgba(18, 18, 18, 0.80);
+
+		    }
+		    p {
+		    	color: rgba(18, 18, 18, 1);
+		    	margin: 0;
+				padding: 20px 0;
+			
+		    }
+		}
+
+		.social-media{
+			transition: 0.8s;
+		    transform: translateY(30px);
+		    li {
+		    	list-style: none;
+		    	display: inline-block;
+		    	margin:0 8px;
+		    	a {
+		    		color: rgba(18, 18, 18, 1) ;
+		    		font-size: 22px;
+		    	}
+		    }
+		}
+	}
+	
+	/* Join Team Button */
+	.join-team{
+		padding: 65px 0;
+	}
+
+
+	
+

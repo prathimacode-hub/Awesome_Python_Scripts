@@ -1,0 +1,90 @@
+/**********************************************
+ Services Style
+***********************************************/
+	.services{
+		background: $service-bg;
+		padding: 53px 0 9px;
+	}
+	.service-item{
+		padding: 0 10px 26px;
+		margin-bottom: 26px;
+		position: relative;
+		&:before{
+			content: "";
+			position: absolute;
+			top: 35px;
+			left: 0px;
+			bottom: 0px;
+			right: 0px;
+			background: #facd8a;
+			opacity: 0;
+			transition: 0.5s;
+		}
+		&:hover{
+			&:before{
+				opacity: 1;
+			}
+			.services-icon{
+				background: $primary-color;
+				box-shadow: 0px 0px 0px 14px #191919;
+				i{
+					color: $service-bg;
+				}
+			}
+			.service-title{
+				&:before{
+					background: $header-bg;
+				}
+			}
+			.service-title,
+			.service-description{
+				color: $header-bg;
+			}
+		}
+	}
+
+	.service-title{
+		font-family: $poppins;
+		text-transform: uppercase;
+		padding: 0 0 15px;
+		margin: 0 0 20px; 
+		position: relative;
+		color: $white;
+		letter-spacing: 1px;
+		transition: 0.5s;
+		color:$primary-color;
+		&:before{
+			content: "";
+			position: absolute;
+			left: 50%;
+			bottom: 0;
+			height: 3px;
+			width: 75px;
+			background: $primary-color;
+			transform: translateX(-50%);
+		}
+	}
+
+	.services-icon{
+		width: 68px;
+		height: 68px;
+		background: $brand-secondary;
+		margin: 0 auto;
+		padding: 15px 0;
+		border-radius: 100%;
+		text-align: center;
+		margin-bottom: 30px;
+		transition: 0.5s;
+		position: relative;
+		i{
+			font-size: 35px;
+			line-height: 1;
+		}
+	}
+
+	.service-description{
+		color: rgba(255, 255, 255, 0.80);
+		line-height: 24px;
+		position: relative;
+	}
+

@@ -1,0 +1,232 @@
+/**********************************************
+ Portfolio Style
+***********************************************/
+	.portfolio{
+		padding: 60px 0 65px;
+		background: $service-bg;
+	}
+	.portfolio-thumbnail{
+		border-radius: 0;
+		background:$primary-color;
+		border: 0;
+		padding: 0;
+		position: relative;
+		img{
+			width: 100%;
+		}
+	}
+
+	.portfolio-caption{
+		background:$primary-color;
+		padding: 20px 23px !important;
+		.portfolio-title,
+		.portfolio-subtitle{
+			text-transform: uppercase;
+			letter-spacing: 2px;
+			margin: 0;
+		    font-size: 18px;
+		}
+		.date{
+			font-size: 18px;
+			color: rgba(33, 33, 33, 0.80);
+			margin-bottom: 20px;
+		}
+		.portfolio-title{
+			font-family: $poppins;
+			color: $header-bg;
+			font-weight: 600;
+			margin-bottom: 5px;
+		}
+		.portfolio-subtitle{
+			font-size: 18px;
+			font-weight: 500;
+			color: rgba(33, 33, 33, 0.80);
+		}
+	}
+
+	.protfolio-mixitup-btn{
+		margin-bottom: 60px;
+		.th-btn{
+			background: transparent;
+			border-color: rgba(250,205,138,0.80);
+			color: rgba(255, 255, 255, 0.80);
+			&:hover{
+				background: $primary-color;
+				color: $header-bg;
+			}
+			&:focus{
+				outline: none;
+				box-shadow: none;
+				background: $primary-color;
+				border-color: transparent;
+			}
+		}
+	}
+
+	.portfolio-thumbnail{
+		overflow: hidden;
+		&:hover{
+			.portfolio-caption{
+				transform: translateX(0%);
+			}
+			.date,
+			.portfolio-title,
+			.portfolio-subtitle{
+				opacity: 1;
+				transform: translateX(0%);
+			}
+
+			.date{
+				transition-delay: 0.2s;
+			}
+			.portfolio-title{
+				transition-delay: 0.4s;
+			}
+			.portfolio-subtitle{
+				transition-delay: 0.6s;
+			}
+		}
+		.portfolio-caption{
+			position: absolute;
+			bottom: 0;
+			width: 100%;
+		    transform: translateX(-100%);
+		    transition: 0.3s;
+		}
+
+		.date,
+		.portfolio-title,
+		.portfolio-subtitle{
+			transform: translateX(-20px);
+			opacity: 0;
+			transition: 0.5s;
+		}
+	}
+
+/**********************************************
+ Portfolio Single Style
+***********************************************/
+	.portfolio-single{
+		background: $service-bg;
+	    padding: 75px 0 0;
+		img{
+			width: 100%;
+		}
+	}
+	.portfolio-single-description{
+		position: relative;
+	}
+
+	.portfolio-single-info{
+		background: $brand-secondary;
+		padding: 65px 50px;
+	    box-shadow: -50px 0 0 0 $brand-secondary;
+		position: absolute;
+		left: 0;
+		top: 50%;
+		width: 100%;
+	    transform: translateY(-50%);
+	    .date{
+	    	color: #afafaf;
+	    }
+	}
+	.protfolio-list{
+		padding-bottom: 25px;
+		p{
+			color: #afafaf;
+			font-size: 18px;
+			letter-spacing: 2px;
+			display: inline-block;
+		}
+		.colon{
+			display: inline-block;
+			padding-left: 18px;
+			padding-right: 50px;
+		}
+		.web-addres{
+			color: #afafaf;
+			font-size: 18px;
+			letter-spacing: 2px;
+			display: inline-block;
+			transition: 0.5s;
+			&:hover{
+				color: $primary-color;
+			}
+		}
+	}
+	.portfolio-single-title{
+		color: #afafaf;
+		font-family: $poppins;
+		font-weight: 500;
+		text-transform: uppercase;
+		letter-spacing: 2px;
+	    padding-bottom: 40px;
+	    margin-bottom: 0;
+	    font-size: 18px;
+	}
+
+	.gallery-overlay-icon{
+		transition: 0.6s;
+		&:hover{
+			background: $primary-color;
+			color: $service-bg;
+		}
+	}
+
+/**********************************************
+ Gallery Style
+***********************************************/
+	.gallery{
+		background: $service-bg;
+		padding: 60px 0;
+	}
+
+	.gallery-description{
+		p{
+			padding: 0 0 60px;
+			margin-bottom: 0;
+			color: #afafaf;
+			font-size: 16px;
+		}
+	}
+
+	.gallery-img{
+		position: relative;
+		margin-bottom: 20px;
+		img{
+			width: 100%;
+		}
+		&:before{
+			content: "";
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			transition: 0.5s;
+			background: rgba(0, 0, 0, 0.80);
+			opacity: 0;
+		}
+		&:hover{
+			&:before,.gallery-overlay-icon{
+				opacity: 1;
+			}
+		}
+	}
+	.gallery-overlay-icon{
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		width: 52px;
+		height: 52px;
+		background: $service-bg;
+		font-size: 25px;
+		border-radius: 100%;
+		padding: 13px 0;
+		text-align: center;
+		line-height: 1;
+		opacity: 0;
+		transition: 0.5s;
+		color: $white;
+		transform: translate(-50%, -50%);
+	}

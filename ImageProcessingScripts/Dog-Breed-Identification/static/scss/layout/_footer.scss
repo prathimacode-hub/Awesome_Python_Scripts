@@ -1,0 +1,109 @@
+/**
+ * ---------------------------------------------------------------------------
+ * 0?. Footer Styles
+ * ---------------------------------------------------------------------------
+ */
+
+.footer{
+	padding: 65px 0 40px;
+	background: $brand-secondary;
+	font-size: 16px;
+	line-height: 29px;
+	color: rgba(255, 255, 255, 0.80);
+	a{
+		display: block;
+	}
+}
+/* footer title section */
+.footer-title{
+	font-family: $poppins;
+	text-transform: uppercase;
+	padding-bottom: 40px;
+}
+/* footer nav section style */
+.footer-nav{
+	ul{
+		padding: 49px 0 50px;
+	}
+	li{
+		padding: 0 22px;
+		display: inline-block;
+		&:first-child{
+			padding-top: 0;
+		}
+		&:last-child{
+			padding-bottom: 0;
+		}
+	}
+	a{
+		color: rgba(255, 255, 255, 0.80);
+		transition: 0.5s;
+	    padding: 0 4px;
+		position: relative;
+		&:before{
+			content: "";
+			position: absolute;
+			left: 50%;
+			bottom: -2px;
+			opacity: 0;
+			width: 0;
+			height: 1px;
+			transition: 0.5s;
+			background: $primary-color;
+		}
+		&:hover{
+			text-decoration: none;
+			color: $primary-color;
+			&:before{
+				opacity: 1;
+				width: 100%;
+				left: 0;
+			}
+		}
+	}
+}
+
+.contact-address{
+	a{
+		display: inline-block;
+		color: rgba(255, 255, 255, 0.8);
+		transition: 0.5s;
+		&:hover{
+			color: $primary-color;
+		}
+	}
+}
+
+/* Footer Media Link */
+.footer-media-link{
+	li{
+		display: inline-block;
+		&:last-child{
+			padding-bottom: 0;
+		}
+	}
+	a{
+		font-size: 28px;
+		line-height: 1;
+		padding:10px;
+		color: $white;
+		transition: 0.5s;
+		display: inline-block;
+		&:hover{
+			color: $primary-color;
+		}
+	}
+}
+
+.copyright{
+	border-top: 1px solid rgba(60, 60, 60, 0.60);
+    padding-top: 35px;
+    font-size:12px;
+    line-height: 18px;
+    a {
+    	color: #fff;
+    	display: inline-block;
+
+    }
+}
+
