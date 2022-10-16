@@ -11,13 +11,16 @@ The Purpose of the project is to help you combine many videos into a single vide
 
 
 ## Short description of package/script  
- Helps to make a sinle video from many videos. 
+When you have many small videos and have to complete all of them then it's a real problem cause every time the video ends you have to play the next video, It would be great if you can combine those videos into a single video and relax on the couch and enjoy  the video. Well, that's what this script exactly does for you. 
 
 
 
 ## Workflow of the Project
 
-Firstly it asks where the videos are located It then Grabs the videos from the given location and combines them into a single video and at last It asks you the location where you want to store the file 
+1) Firstly it asks where the videos are located
+2) It then Grabs the videos from the given location and combines them into a single video 
+3) At last, It asks you the location where you want to store the file 
+4) Creates a single merged video in the given location .
 
 ## Setup instructions
  Open the Terminal 
