@@ -105,6 +105,9 @@ git pull origin main
 
 <a href='https://github.com/Knighthawk-Leo'>Sanskar Dwivedi</a>
 
+## Conclusion 
+Identified the Dog's Breed and results are significantly great .
+
 ##
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
