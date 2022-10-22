@@ -1,16 +1,15 @@
 # ML-Based-Dog-Breed-Identifier
-This is a Django Based Web Site To Identify the Breed of which your DOG belogs All You Need To Do is to Follow These Steps 
 
-## Home Page 
-<img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/home.png">
+## Aim
+To identify the breed of Dog
 
-## Result Page 
-<img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/Result.png">
+## Purpose
+This is a Django Based Web Site To Identify the Breed of which your DOG belogs All You Need To Do is to Follow These Steps
 
+## Workflow of the Project
+From the Home user can find the tab to upload the Image and on result can be viewed on the result page.
 
-
-## Setup Discription 
-### you need to install following libraries to run this python program in cmd
+## you need to install following libraries to run this python program in cmd
 ```
 
 pip install tensorflow
@@ -19,7 +18,7 @@ pip install django
 pip install numpy
 
 ```
-## 🚀 Quick Start :
+## Compilation Steps
 
 #### Step 1: Forking the repository :
 
@@ -94,9 +93,17 @@ git pull origin main
 
 
 
+## Outputs
 
+### Home Page 
+<img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/home.png">
 
+### Result Page 
+<img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/Result.png">
 
+## Author(s)
+
+<a href='https://github.com/Knighthawk-Leo'>Sanskar Dwivedi</a>
 
 ##
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
