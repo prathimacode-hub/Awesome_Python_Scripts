@@ -101,7 +101,7 @@ git pull origin main
 ### Result Page 
 <img src="https://github.com/Knighthawk-Leo/ML-Based-Dog-Breed-Identifier/blob/main/Images/Result.png">
 
-## Author(s)
+## Author
 
 <a href='https://github.com/Knighthawk-Leo'>Sanskar Dwivedi</a>
 
