@@ -1,0 +1,139 @@
+
+/**********************************************
+ Clients Style
+***********************************************/
+	.clients.main{
+		  background: url(../img/home/clients-logo-bg-2.jpg) no-repeat;
+	    background-size: cover;
+	    background-position: center;
+	    padding: 50px 0;
+	}
+	.clients{
+		padding: 65px 0;
+	}
+
+	.slider-main{
+		background: rgba(0,0,0,0.80);
+	}
+
+    .title {
+    	margin-bottom: 30px;
+    }
+    .testimonials-area{
+		position: relative;
+		padding: 90px 75px;
+		text-align: center;
+		.testimonials-description{
+			margin-bottom: 35px;
+			font-family: $lora;
+			font-size: 15px;
+			line-height: 25px;
+		}
+	}
+	.owl-buttons{
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+	    display: none;
+		div{
+			display: inline-block;
+			border: 3px solid $primary-color;
+			border-radius: 2px;
+			width: 122px;
+			text-indent: -99999px;
+			height: 58px;
+			transition: 0.5s;
+			position: relative;
+			&:before,
+			&:after{
+				content: "";
+				position: absolute;
+				left: 50%;
+				top: 50%;
+				width: 89px;
+				height: 18px;
+				transform: translate(-50%, -50%);
+			}
+			&:hover{
+				border-color: $white;
+			}
+		}
+		.owl-prev{
+			left: 9%;
+			&:before{
+
+			}
+		}
+		.owl-next{
+			right: 9%;
+			float: right;
+			&:after{
+
+			}
+		}
+	}
+	.owl-pagination{
+		position: absolute;
+		text-align: center;
+		width: 100%;
+		bottom: 30px;
+	}
+
+
+	.round-shape{
+		position: absolute;
+		left: 0;
+		top: -30px;
+		width: 100%;
+		height: 30px;
+		&:before,
+		&:after{
+		    content: "";
+		    position: absolute;
+		    top: 1px;
+		    width: 50%;
+		    height: 100%;
+		    background: rgba(0,0,0,0.80);
+		}
+		&:before{
+			left: 1px;
+		    border-radius: 100% 0px 0px 0px;
+		}
+		&:after{
+			right: 1px;
+			border-radius: 0 100% 0px 0px;
+		}
+	}
+	.th-sldier{
+		position: relative;
+		padding-top: 10px;
+		text-align: center;
+		&:before{
+			content: "";
+			position: absolute;
+			left: 50%;
+			top: 0;
+			width: 18px;
+			height: 88px;
+			transform: translateX(-50%);
+		}
+	}
+	.th-media-body{
+		padding-left: 25px;
+	}
+	.th-media-heading {
+		text-transform: uppercase;
+		font: {
+			weight: 600;
+			family: $poppins;
+		}
+	}
+	.th-media-subheading{
+		text-transform: uppercase;
+		font: {
+			size: 13px;
+			weight: 600;
+			family: $poppins;
+		}
+	}

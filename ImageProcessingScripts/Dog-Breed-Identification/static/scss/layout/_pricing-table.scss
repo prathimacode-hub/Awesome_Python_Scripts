@@ -1,0 +1,160 @@
+/**********************************************
+ Pricing Style
+***********************************************/
+.pricing-table{
+	background: #191919;
+    padding-bottom: 65px;
+	.title{
+		padding-top: 44px;
+	}
+}
+.table-price,
+.pricing-list{
+	border: 1px solid rgba(62, 62, 62, 0.5);
+	transition: 0.5s;
+}
+
+.table-price,
+.pricing-list,
+.pricing-title,
+.features-title,
+.price{
+	color: #afafaf;
+}
+
+.pricing-title,
+.features-title,
+.price{
+	text-transform: uppercase;
+	font-family: $roboto;
+	letter-spacing: 2px;
+}
+
+.table-price{
+    padding: 40px 0 10px;
+    margin-bottom: 29px;
+}
+
+.price,
+.table-month{
+	font-weight: 400;
+}
+
+.table-month{
+	margin-bottom: 36px;
+}
+
+.pricing-list{
+    padding: 43px 0 30px;
+}
+
+.features-list{
+    margin-bottom: 21px;
+}
+
+.features-list p{
+	border-bottom: 1px solid rgba(62, 62, 62, 0.5);
+	font-size: 16px;
+	padding: 20px 20px 20px 7px;
+    display: inline-block;
+}
+
+.features-list li{
+	i{
+		padding-right: 18px;
+	}
+	&:last-child{
+		p{
+			border-bottom: 0;
+		}
+	}
+}
+
+.th-btn-border{
+	background: transparent;
+	border-color: rgba(62, 62, 62, 0.5);
+	color: #afafaf;
+	&:hover{
+		color: #111111 !important;
+	}
+}
+
+.pricing-title,
+.features-title,
+.features-list i,
+.th-btn-border,
+.price{
+	transition: 0.5s;
+}
+
+hr.hr-border{
+	border-color: #3e3e3e;
+}
+.price, .pricing-title,
+.table-month,.features-list,
+.th-btn-border{
+	position: relative;
+	z-index: 10;
+}
+
+.table:hover{
+	.pricing-title,
+	.features-title,
+	.features-list i,
+	.th-btn-border,
+	.price{
+		color: #facd8a;
+	}
+
+	.table-price{
+		border-color: rgba(62, 62, 62, 0.0);
+	}
+}
+
+
+
+.table-price,
+.pricing-list{
+	position: relative;
+	&:before,
+	&:after{
+		width: 100%;
+		height:100%;
+		z-index: 3;
+		content:'';
+		position: absolute;
+		top:0;
+		left:0;
+		box-sizing: border-box;
+		-webkit-transform: scale(0);
+		transition: 0.5s;
+	}
+}
+
+.border-effect {
+	&:before{
+		border-bottom: 1px solid #facd8a;
+		border-left: 1px solid #facd8a;
+		-webkit-transform-origin: 0 100%;
+	}
+	&:after {
+	  border-top: 1px solid #facd8a;
+	  border-right: 1px solid #facd8a;
+	  -webkit-transform-origin: 100% 0%;
+	}
+}
+
+.table:hover{
+	.table-price,
+	.pricing-list{
+		&:before,
+		&:after{
+			-webkit-transform: scale(1);
+		}
+	}
+}
+
+
+
+
+

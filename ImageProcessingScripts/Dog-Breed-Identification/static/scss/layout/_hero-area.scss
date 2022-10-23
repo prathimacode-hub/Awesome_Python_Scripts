@@ -1,0 +1,164 @@
+/**
+ * ---------------------------------------------------------------------------
+ * . Header Styles
+ * ---------------------------------------------------------------------------
+ */
+
+.hero-area {
+	height:100vh;
+	background-size:cover;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+	text-align: center;
+}
+
+.slider-item{
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: relative;
+	&::before{
+		position: absolute;
+		content: "";
+		height: 100%;
+		width: 100%;
+		background: rgba(0, 0, 0, 0.5);
+		left: 0;
+		top: 0;
+	}
+
+	.container{
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+	p{
+		margin-top: 30px;
+	}
+}
+
+.hero-video {
+	height:100vh;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+	text-align: center;
+	&:before {
+		content: '';
+		background:rgba(0, 0, 0, 0.67);
+		position: absolute;
+		right:0;
+		left:0;
+		bottom:0;
+		top:0;
+	}
+}
+
+.hero-slider {
+  overflow-x: hidden;
+
+  .prevArrow {
+    left: -100px;
+  }
+
+  .nextArrow {
+    right: -100px;
+  }
+
+  &:hover {
+    .prevArrow {
+      left: 0;
+    }
+
+    .nextArrow {
+      right: 0;
+    }
+  }
+}
+
+/* slick style */
+.slick-slide {
+  outline: 0;
+}
+
+.slick-slide img {
+  display: unset;
+}
+
+/* slick arrows */
+.slick-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 9;
+  height: 70px;
+  width: 70px;
+  background: rgba($color: $primary-color, $alpha: .5);
+  color: $white;
+  border: 0;
+  line-height: 70px;
+  font-size: 35px;
+	transition: .2s ease;
+
+  &::before {
+    position: absolute;
+    content: '';
+    height: 10px;
+    width: 10px;
+    background: transparent;
+    top: 50%;
+    transform: translateY(-50%) rotate(-45deg);
+    transition: .2s ease;
+  }
+
+  &::after {
+    position: absolute;
+    content: '';
+    height: 2px;
+    width: 25px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: $white;
+    transition: .2s ease;
+  }
+
+  &:focus {
+    outline: 0;
+  }
+
+  &:hover {
+    background: $primary-color;
+  }
+}
+
+.prevArrow {
+  left: 0px;
+
+  &::before {
+    border-left: 2px solid $white;
+    border-top: 2px solid $white;
+    right: 35px;
+  }
+
+  &::after {
+    right: 20px;
+  }
+}
+
+.nextArrow {
+  right: 0px;
+
+  &::before {
+    border-right: 2px solid $white;
+    border-bottom: 2px solid $white;
+    left: 35px;
+  }
+
+  &::after {
+    left: 20px;
+  }
+}
+/* /slick arrows */

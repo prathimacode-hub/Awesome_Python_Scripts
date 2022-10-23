@@ -1,0 +1,79 @@
+/**********************************************
+ Case Study Style
+***********************************************/
+	.case-study{
+		padding-top: 80px;
+		background: #171717;
+		.content {
+			h4 {
+				padding-bottom: 13px;
+				font-family: $roboto;
+				font-size: 18px;
+				text-transform: uppercase;
+				color: $primary-color;
+				font-weight:bold;
+			}
+			p {
+				font-size: 16px;
+				color: rgba(175, 175, 175, 0.8) ;
+
+			}
+			.btn {
+				margin-top: 30px;
+			}
+		}
+	}
+
+	/* Case Study Title */
+	.box-subtitle,
+	.box-title{
+		margin: 0;
+	}
+	
+	.box-subtitle{
+	    letter-spacing: 2px;
+	    padding: 17px 0 20px;
+		font-family: $poppins;
+		text-transform: uppercase;
+	}
+
+	/* Case Study Description Style */
+
+	.case-study-content{
+	    padding-top: 58px;
+	    padding-bottom: 90px;
+	}
+
+	.case-study-content:nth-child(odd){
+		// background: #121212;
+		padding-top: 100px;
+		padding-bottom: 180px;
+		background: #121212;
+	}
+
+
+/**********************************************
+ Clients Logo Style
+***********************************************/
+	.clients-logo{
+		padding: 100px 0;
+	    background-attachment: fixed;
+		.block{
+			padding: 40px 0;
+			background: rgba(0, 0, 0, 0.70);
+			transition: 0.5s;
+			height: 200px;
+			img {
+				height:auto;
+			}
+			&:hover{
+				background: $white;
+				img{
+				    -webkit-filter: invert(1);
+				}
+			}
+		}
+	}
+
+
+

@@ -1,0 +1,215 @@
+/*---------- --------------
+	Themefisher help file
+---------------------------*/
+
+a,.th-nav-btn,.btn{
+	text-decoration: none;
+	&:hover{
+		text-decoration: none;
+	}
+	&:focus{
+		outline: none;
+		text-decoration: none;
+	}
+}
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+ 
+
+button {
+	&:hover,&:focus {
+		outline:none;
+	}
+}
+
+/* Display Style */
+.flex{
+	display: flex;
+}
+/* Padding */
+.padding-0{
+	padding: 0;
+}
+.margin-0{
+	margin: 0 !important;
+}
+
+/* Themefisher Button effect */
+.btn-main{
+	border-radius: 0;
+	background: $primary-color;
+	border-color: $primary-color;
+	font-family: $poppins;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 1px;
+	padding: 11px 18px;
+	transition: 0.5s;
+	&:hover,&:focus{
+		color: $brand-secondary;
+		border-color: transparent;
+		background: $white;
+	}
+}
+
+
+
+/**/
+
+/* mouse hover effect */
+.hover-in{
+    transition: .3s ease-out;
+}
+.hover-out{
+    transition: .3s ease-in;
+}
+
+/* Media Link */
+.media-link{
+	a{
+		color: rgba(33, 33, 33, 1);
+		display: inline-block;
+		margin: 0 7px;
+		font-size: 18px;
+		transition: 0.5s;
+	}
+}
+
+/* MixIt Up */
+#Container .mix{
+    display: none;
+}
+
+#google-map {
+    width: 100%;
+    height: 660px;
+}
+
+/* Full page video and popup video overrite */
+.fp-enabled body, html.fp-enabled{
+	overflow: auto !important;
+}
+
+/* Solid text btn */
+.solid-btn{
+	background: transparent;
+	padding: 0;
+	border-color: transparent;
+	color: #afafaf;
+	text-transform: none;
+	&:hover{
+		background: transparent;
+		color: $primary-color;
+	}
+}
+
+.post-count{
+	padding:  3px 10px;
+	background: $service-bg;
+}
+
+/* Search bar */
+.search{
+	padding: 20px 10px;
+}
+.form-inline{
+	position: relative;
+}
+.tf-search-btn{
+	font-size: 25px;
+	padding: 0;
+	background: transparent;
+	border-color: transparent;
+	color: $white;
+	transition: 0.5s;
+	position: absolute;
+	top: 2px;
+	right: 15px;
+	&:hover{
+		background: transparent;
+		color: $primary-color;
+		border-color: transparent;
+	}
+}
+
+.search-input{
+	width: 100%;
+	margin-bottom: 0;
+	.form-inline{
+		margin-bottom: 0;
+	}
+	input{
+		width: 100% !important;
+		background: transparent;
+		border-color: transparent;
+		padding-right: 40px;
+		&:focus{
+			outline: none;
+			box-shadow: none;
+			border-color: transparent;
+		}
+	}
+}
+
+
+.title{
+	margin-bottom: 20px;
+	padding-bottom: 30px;
+	position: relative;
+	&:before{
+		content: "";
+		position: absolute;
+		left: 50%;
+		bottom: 0;
+		height: 3px;
+		width: 70px;
+		background: $primary-color;
+		transform: translateX(-50%);
+	}
+}
+
+
+.vh-center {
+	display: flex;
+	justify-content:center;
+	align-items:center;
+}
+
+
+/* slick dots */
+.slick-dots {
+  padding-left: 0;
+  text-align: center;
+  position: absolute;
+  bottom: 30px;
+  left: 0;
+  right: 0;
+  z-index: 9;
+
+  li {
+		margin: 0 5px;
+		display: inline-block;
+		button{
+			display: block;
+			height: 15px;
+			width: 15px;
+			border-radius: 50%;
+			cursor: pointer;
+			transition: .2s ease;
+			background: #fff;
+			border: 0;
+			padding: 0;
+			color: transparent;
+		}
+
+    &.slick-active {
+      button{
+				background: $primary-color;
+			}
+    }
+  }
+}
+/* /slick dots */

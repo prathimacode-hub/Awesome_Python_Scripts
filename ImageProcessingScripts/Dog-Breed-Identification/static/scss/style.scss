@@ -1,0 +1,50 @@
+//Variables
+@import "variables";
+
+@import "typography";
+
+//Base
+@import "common";
+
+//Layout
+@import "layout/header";
+
+@import "layout/footer";
+
+/* Home page style
+====================== */
+@import "layout/home";
+
+@import "layout/hero-area";
+
+@import "layout/call-to-action";
+
+@import "layout/pricing-table";
+
+@import "layout/team";
+
+/* Services page style
+====================== */
+@import "layout/services";
+
+/* testimonials page style
+====================== */
+@import "layout/testimonials";
+
+/* Portfolio Page and 
+   Portfolio Single Page style
+================================= */
+@import "layout/portfolio";
+
+/* blog page style
+====================== */
+@import "layout/blog";
+
+/* Contact page style
+====================== */
+@import "layout/contact";
+
+
+
+@import "layout/responsive";
+
