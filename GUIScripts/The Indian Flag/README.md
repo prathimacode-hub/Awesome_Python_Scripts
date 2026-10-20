@@ -40,4 +40,4 @@ For Turtle Colors, visit the following resources
 
 [resource 1](https://cs111.wellesley.edu/labs/lab01/colors)
 
-[resource 2](https://trinket.io/docs/colors)
+[resource 2](https://coddy.tech/tools/color-converter#named-colors)
